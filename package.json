@@ -1,0 +1,18 @@
+{
+  "name": "media-grant-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A daily-updated, searchable index of open funding calls for independent journalism.",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "update:all": "node scripts/update.mjs --all",
+    "dry-run": "node scripts/update.mjs --dry-run",
+    "validate": "node scripts/validate.mjs",
+    "serve": "npx --yes serve ."
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
+    "zod": "^3.23.8"
+  }
+}

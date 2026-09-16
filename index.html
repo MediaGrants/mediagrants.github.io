@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Media Grant Radar</title>
+<meta name="description" content="Open calls for journalism grants worldwide — searchable by country, by who can apply, and by the kind of support on offer. Updated daily.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<a class="skip-link" href="#results">Skip to results</a>
+
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">📡</span>
+      <div>
+        <h1>Media Grant Radar</h1>
+        <p class="tagline">Open funding calls for independent journalism — who can apply, from where, and by when.</p>
+      </div>
+    </div>
+    <div class="freshness">
+      <span class="dot" aria-hidden="true"></span>
+      <span id="freshness-text">Loading…</span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap layout">
+
+  <aside class="filters" aria-label="Filters">
+    <form id="filter-form" autocomplete="off">
+
+      <div class="field">
+        <label for="q">Search</label>
+        <input type="search" id="q" name="q" placeholder="Funder, topic, keyword…">
+      </div>
+
+      <div class="field">
+        <label for="country">I am applying from</label>
+        <select id="country" name="country">
+          <option value="">Anywhere in the world</option>
+        </select>
+        <p class="hint">Shows calls open to this country, plus worldwide calls.</p>
+      </div>
+
+      <fieldset class="field">
+        <legend>Who is applying</legend>
+        <div class="segmented" role="radiogroup" aria-label="Who is applying">
+          <label><input type="radio" name="applicant" value="" checked><span>Anyone</span></label>
+          <label><input type="radio" name="applicant" value="freelancer"><span>Freelancer</span></label>
+          <label><input type="radio" name="applicant" value="organisation"><span>Media outlet</span></label>
+        </div>
+      </fieldset>
+
+      <fieldset class="field">
+        <legend>Kind of support</legend>
+        <div id="support-types" class="checks"></div>
+      </fieldset>
+
+      <fieldset class="field">
+        <legend>Status</legend>
+        <div class="checks">
+          <label><input type="checkbox" name="status" value="open" checked><span>Open now</span></label>
+          <label><input type="checkbox" name="status" value="upcoming" checked><span>Opening / next round</span></label>
+          <label><input type="checkbox" name="status" value="closed"><span>Recently closed</span></label>
+        </div>
+      </fieldset>
+
+      <div class="field">
+        <label for="sort">Sort by</label>
+        <select id="sort" name="sort">
+          <option value="deadline">Deadline — soonest first</option>
+          <option value="verified">Most recently verified</option>
+          <option value="funder">Funder A–Z</option>
+        </select>
+      </div>
+
+      <div class="actions">
+        <button type="button" id="reset" class="btn-ghost">Reset filters</button>
+        <button type="button" id="share" class="btn-ghost">Copy link to this view</button>
+        <button type="button" id="export" class="btn-ghost">Download CSV</button>
+      </div>
+    </form>
+  </aside>
+
+  <section id="results" aria-live="polite">
+    <div class="results-head">
+      <h2 id="result-count">Loading calls…</h2>
+      <p id="result-context" class="result-context"></p>
+    </div>
+    <div id="cards" class="cards"></div>
+    <p id="empty" class="empty" hidden>No calls match these filters. Try widening the country or clearing the "kind of support" boxes.</p>
+  </section>
+
+</main>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <p><strong>How this works.</strong> An automated sweep re-reads the websites of the funders and aggregators listed in <code>data/sources.json</code> and rewrites <code>data/grants.json</code>. Everything on this page comes from that file.</p>
+    <p><strong>Always check the funder's own page before you apply.</strong> Deadlines move, calls are withdrawn, and eligibility rules change between rounds. Entries carry the date they were last verified; treat anything older than two weeks as a lead, not a fact.</p>
+    <p class="foot-meta">Built for newsroom project managers and freelance journalists. <span id="foot-generated"></span></p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

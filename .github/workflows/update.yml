@@ -1,0 +1,75 @@
+name: Daily grant sweep
+
+on:
+  schedule:
+    # 04:10 UTC — the data is refreshed and published before the working day
+    # starts in Europe. GitHub's scheduler can lag by a few minutes; that is fine.
+    - cron: "10 4 * * *"
+  workflow_dispatch:
+    inputs:
+      all:
+        description: "Sweep every source, ignoring the tier schedule"
+        type: boolean
+        default: false
+      only:
+        description: "Sweep a single source id (e.g. ij4eu), for debugging"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Sweep funders
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # All four are repository variables, so the running cost can be tuned
+          # from the GitHub settings UI without editing any code.
+          # Settings → Secrets and variables → Actions → Variables.
+          RESEARCH_MODEL: ${{ vars.RESEARCH_MODEL || 'claude-opus-5' }}
+          RESEARCH_EFFORT: ${{ vars.RESEARCH_EFFORT || 'high' }}
+          MAX_SEARCHES: ${{ vars.MAX_SEARCHES || '8' }}
+          CONCURRENCY: ${{ vars.CONCURRENCY || '3' }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.all }}" = "true" ]; then ARGS="$ARGS --all"; fi
+          if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only=${{ inputs.only }}"; fi
+          node scripts/update.mjs $ARGS
+
+      # A malformed sweep must not be committed, let alone published.
+      - name: Validate result
+        run: node scripts/validate.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "grant-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/grants.json data/state.json
+          if git diff --staged --quiet; then
+            echo "No changes in this sweep."
+          else
+            git commit -m "Daily sweep: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+  publish:
+    needs: sweep
+    uses: ./.github/workflows/deploy.yml

@@ -1,0 +1,49 @@
+name: Deploy to GitHub Pages
+
+# Runs on every push to main, after the daily sweep, and on demand.
+on:
+  push:
+    branches: [main]
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two deploys race; the newest content wins.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # Explicitly the branch tip, not the triggering SHA: when the daily sweep
+      # calls this workflow it has just pushed a commit, and the default
+      # checkout would publish the data from before that commit.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # A broken data file fails the build instead of reaching readers.
+      - name: Validate grant data
+        run: node scripts/validate.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
