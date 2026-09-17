@@ -1,6 +1,6 @@
 SOURCE: Czech MFA — Transition Promotion Programme
 URL: https://mzv.gov.cz/jnp/en/foreign_relations/human_rights/transition_promotion_program/index.html
-FETCHED: 2026-09-17T16:22:21.066Z
+FETCHED: 2026-09-17T16:26:10.096Z
 TITLE: Transition Promotion Programme | Ministry of Foreign Affairs of the Czech Republic
 
 === MAIN PAGE ===
