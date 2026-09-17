@@ -116,11 +116,11 @@ function titleOf(html) {
 }
 
 /** Same-host links that look like they lead to a call. */
-function subLinks(html, base) {
+function subLinks(html, base, limit) {
   const out = new Map();
   const re = /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
   let m;
-  while ((m = re.exec(html)) && out.size < MAX_FOLLOW * 4) {
+  while ((m = re.exec(html)) && out.size < limit * 4) {
     const label = toText(m[2]);
     let url;
     try { url = new URL(m[1], base); } catch { continue; }
@@ -131,7 +131,7 @@ function subLinks(html, base) {
     if (!RELEVANT.test(url.pathname) && !RELEVANT.test(label)) continue;
     if (!out.has(url.href)) out.set(url.href, label);
   }
-  return [...out.keys()].slice(0, MAX_FOLLOW);
+  return [...out.keys()].slice(0, limit);
 }
 
 /* ----------------------------------------------------------------- fetching */
@@ -180,8 +180,11 @@ async function snapshot(source) {
   ];
 
   // A listing page usually names the programmes but keeps the dates one click
-  // away, so the linked pages matter more than the listing itself.
-  for (const link of subLinks(main.html, main.finalUrl || source.url)) {
+  // away, so the linked pages matter more than the listing itself. A global
+  // programme index — Canada's CFLI covers 120 countries on one page — needs a
+  // much higher limit than an ordinary funder, hence the per-source override.
+  const follow = source.follow ?? MAX_FOLLOW;
+  for (const link of subLinks(main.html, main.finalUrl || source.url, follow)) {
     const sub = await get(link);
     if (sub.error) continue;
     const text = toText(sub.html);
