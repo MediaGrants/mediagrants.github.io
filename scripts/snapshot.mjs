@@ -184,12 +184,17 @@ async function snapshot(source) {
   // programme index — Canada's CFLI covers 120 countries on one page — needs a
   // much higher limit than an ordinary funder, hence the per-source override.
   const follow = source.follow ?? MAX_FOLLOW;
+  // On a country index, each sub-page carries one call: a country, a deadline,
+  // an amount. Keeping 3.5KB of each would make a 120-country index enormous
+  // for no gain, and capping the count instead would mean the same twenty
+  // countries every run while the other hundred are never seen.
+  const budget = follow > 10 ? 1200 : SUB_CHARS;
   for (const link of subLinks(main.html, main.finalUrl || source.url, follow)) {
     const sub = await get(link);
     if (sub.error) continue;
     const text = toText(sub.html);
     if (text.length < 200) continue;
-    parts.push("", `=== ${link} ===`, condense(text, SUB_CHARS));
+    parts.push("", `=== ${link} ===`, condense(text, budget));
   }
 
   const body = parts.join("\n");
