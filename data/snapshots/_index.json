@@ -1,96 +1,112 @@
 {
-  "generatedAt": "2026-09-17T16:26:14.852Z",
+  "generatedAt": "2026-09-17T16:28:28.476Z",
   "captured": {
     "au-embassy-belgrade": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
+      "fetchedAt": "2026-09-17T16:28:28.476Z",
       "words": 649,
       "pages": 1
     },
     "birn": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
+      "fetchedAt": "2026-09-17T16:28:28.476Z",
       "words": 837,
       "pages": 1
     },
+    "eidhr-ncidi": {
+      "fetchedAt": "2026-09-17T16:28:28.476Z",
+      "words": 1290,
+      "pages": 5
+    },
     "eu-funding-portal": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 192,
       "pages": 2
     },
     "uk-embassy-belgrade": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 695,
       "pages": 2
     },
     "access-now": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
-      "words": 1669,
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
+      "words": 1668,
       "pages": 4
     },
     "adessium": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 198,
       "pages": 1
     },
     "arij": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 2317,
       "pages": 5
     },
+    "astraea": {
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
+      "words": 145,
+      "pages": 1
+    },
+    "balkan-trust": {
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
+      "words": 1472,
+      "pages": 5
+    },
     "bertha": {
-      "fetchedAt": "2026-09-17T16:26:14.852Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 284,
       "pages": 1
     },
-    "ch-embassy-serbia": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
-      "words": 437,
+    "canada-fund-cfli": {
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
+      "words": 48,
       "pages": 1
     },
     "climate-justice-resilience": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 1449,
       "pages": 4
     },
     "code-for-africa": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 19,
       "pages": 1
     },
+    "cpj": {
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
+      "words": 1367,
+      "pages": 4
+    },
     "craig-newmark": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 574,
       "pages": 2
     },
     "creative-europe": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 1209,
       "pages": 4
     },
     "czech-transition": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 279,
       "pages": 1
     },
     "de-embassy-belgrade": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 211,
       "pages": 1
     },
     "digital-defenders": {
-      "fetchedAt": "2026-09-17T16:26:14.853Z",
+      "fetchedAt": "2026-09-17T16:28:28.477Z",
       "words": 2029,
       "pages": 5
     }
   },
   "failed": {
-    "eidhr-ncidi": "HTTP 404",
     "eu-delegation-serbia": "HTTP 403",
-    "us-embassy-belgrade": "HTTP 404",
-    "astraea": "HTTP 404",
-    "balkan-trust": "HTTP 404",
-    "canada-fund-cfli": "HTTP 404",
+    "us-embassy-belgrade": "fetch failed",
+    "ch-embassy-serbia": "HTTP 403",
     "coe-youth-foundation": "HTTP 403",
-    "council-of-europe": "HTTP 403",
-    "cpj": "HTTP 404"
+    "council-of-europe": "HTTP 403"
   }
 }

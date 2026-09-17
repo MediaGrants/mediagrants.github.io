@@ -1,6 +1,6 @@
 SOURCE: Creative Europe — CROSS / MEDIA calls
 URL: https://culture.ec.europa.eu/creative-europe
-FETCHED: 2026-09-17T16:26:10.039Z
+FETCHED: 2026-09-17T16:28:23.031Z
 TITLE: Creative Europe - Culture and Creativity
 
 === MAIN PAGE ===
