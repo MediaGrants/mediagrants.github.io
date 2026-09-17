@@ -31,11 +31,15 @@ const MAX_FOLLOW = 4;           // sub-pages followed per source
 const CONCURRENCY = 6;
 const TIMEOUT_MS = 25000;
 
-// An honest bot string gets 403'd by several funder sites (europa.rs among
-// them) while the same request with a browser string is served. We are reading
-// public pages a journalist could open by hand, at 25 requests a day.
-const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-  "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
+// Funder sites disagree about which client they trust: some 403 an honest bot
+// string, others 403 a browser one. Neither is reliably better, so a refusal is
+// retried with the other. We are reading public pages a journalist could open
+// by hand, 25 of them a day.
+const AGENTS = [
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+    "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (compatible; MediaGrantRadar/1.0; +https://mediagrants.github.io)"
+];
 
 /** Sub-pages worth following from a listing page. */
 const RELEVANT = /grant|fund|call|apply|opportunit|fellowship|support|scheme|proposal/i;
@@ -133,13 +137,22 @@ function subLinks(html, base) {
 /* ----------------------------------------------------------------- fetching */
 
 async function get(url) {
+  let last = { error: "no attempt" };
+  for (const agent of AGENTS) {
+    last = await attempt(url, agent);
+    if (!last.error || !/HTTP 40[313]/.test(last.error)) return last;
+  }
+  return last;
+}
+
+async function attempt(url, agent) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
   try {
     const res = await fetch(url, {
       redirect: "follow",
       signal: controller.signal,
-      headers: { "user-agent": UA, accept: "text/html,application/xhtml+xml" }
+      headers: { "user-agent": agent, accept: "text/html,application/xhtml+xml" }
     });
     if (!res.ok) return { error: `HTTP ${res.status}` };
     const type = res.headers.get("content-type") || "";
