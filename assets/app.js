@@ -213,6 +213,18 @@
     return make("span", "badge " + cls, text);
   }
 
+  /* Where a card's facts came from, in the reader's own terms. A deadline read
+     off the funder's page and a deadline quoted in somebody's search result are
+     not the same claim, and the second is often last year's round. Saying only
+     "last verified" would hide that difference behind a date. */
+  function provenanceLine(g) {
+    if (!g.lastVerified) return "Not yet checked automatically";
+    var when = formatDate(g.lastVerified);
+    if (g.confidence === "high") return "Read on the funder's own page, " + when;
+    if (g.confidence === "medium") return "From search results, " + when + " — not confirmed on the funder's page";
+    return "Unverified — written by hand, never checked against the funder";
+  }
+
   function renderCard(g) {
     var status = effectiveStatus(g);
     var left = daysLeft(g);
@@ -290,8 +302,7 @@
     if (g.notes) card.appendChild(make("p", "card-note", g.notes));
 
     var foot = make("div", "card-foot");
-    foot.appendChild(make("span", null,
-      g.lastVerified ? "Last verified " + formatDate(g.lastVerified) : "Not yet verified automatically"));
+    foot.appendChild(make("span", null, provenanceLine(g)));
 
     if (g.applyUrl) {
       var apply = make("a", "apply", "Open application page");

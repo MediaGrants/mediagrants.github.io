@@ -45,42 +45,6 @@
       "notes": "Applications are concept notes, open 8 September – 4 October 2026. Funded projects must run between 1 December 2026 and 31 December 2027. Open to registered non-profits, CSOs and NGOs in Serbia, North Macedonia and Montenegro — not to individual freelancers."
     },
     {
-      "id": "alicia-patterson-fellowship",
-      "funder": "Alicia Patterson Foundation",
-      "programme": "Alicia Patterson Fellowships",
-      "summary": "Year-long or half-year fellowships allowing journalists to pursue independent reporting projects.",
-      "url": "https://aliciapatterson.org/",
-      "applyUrl": "https://aliciapatterson.org/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "fellowship"
-      ],
-      "topics": [
-        "investigative"
-      ],
-      "amount": {
-        "min": 20000,
-        "max": 40000,
-        "currency": "USD",
-        "note": "$40,000 for 12 months or $20,000 for six months"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "americas-north"
-      ],
-      "sourceId": "alicia-patterson",
-      "lastVerified": "2026-09-16",
-      "confidence": "medium",
-      "provenance": "seed",
-      "notes": "Awarded annually. Historically restricted to U.S.-based print journalists — confirm eligibility before applying."
-    },
-    {
       "id": "birn-fellowship",
       "funder": "Balkan Investigative Reporting Network",
       "programme": "Fellowships and reporting grants",

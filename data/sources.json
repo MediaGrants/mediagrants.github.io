@@ -68,7 +68,7 @@
     { "id": "jsk-stanford", "name": "JSK Journalism Fellowships, Stanford", "kind": "funder", "tier": 3, "url": "https://jsk.stanford.edu/", "scope": ["global"] },
     { "id": "knight-wallace", "name": "Knight-Wallace Fellowships, Michigan", "kind": "funder", "tier": 3, "url": "https://wallacehouse.umich.edu/knight-wallace/", "scope": ["global"] },
     { "id": "iwm-milena-jesenska", "name": "IWM Vienna — Milena Jesenská Fellowships", "kind": "funder", "tier": 3, "url": "https://www.iwm.at/fellowships", "scope": ["europe"] },
-    { "id": "alicia-patterson", "name": "Alicia Patterson Foundation", "kind": "funder", "tier": 3, "url": "https://aliciapatterson.org/", "scope": ["americas-north"] },
+    { "id": "alicia-patterson", "name": "Alicia Patterson Foundation", "kind": "funder", "tier": 3, "enabled": false, "url": "https://aliciapatterson.org/", "scope": ["americas-north"], "_note": "Merged into the Fund for Investigative Journalism on 4 December 2025 and closed; the fellowships are now an FIJ programme and are covered by the fij source." },
     { "id": "national-geographic", "name": "National Geographic Society — grants", "kind": "funder", "tier": 3, "url": "https://www.nationalgeographic.org/society/grants-and-investments/", "scope": ["global"] },
 
     { "id": "robert-bosch", "name": "Robert Bosch Stiftung", "kind": "funder", "tier": 3, "url": "https://www.bosch-stiftung.de/en/funding", "scope": ["global"] },

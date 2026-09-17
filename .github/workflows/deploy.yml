@@ -4,6 +4,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # Fetched funder pages are input for the sweep, not content for the site.
+    # Republishing on every fetch would redeploy an unchanged page daily.
+    paths-ignore:
+      - "data/snapshots/**"
   workflow_call:
   workflow_dispatch:
 
