@@ -1,6 +1,6 @@
 SOURCE: Canada Fund for Local Initiatives
 URL: https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/index.aspx?lang=eng
-FETCHED: 2026-09-17T16:47:19.391Z
+FETCHED: 2026-09-17T16:49:58.388Z
 TITLE: The Canada Fund for Local Initiatives
 
 === MAIN PAGE ===
@@ -221,99 +221,6 @@ Le Fonds canadien d'initiatives locales
 Le Fonds canadien d'initiatives locales
 Le Fonds canadien d'initiatives locales (FCIL) finance des projets de petite chelle grand impact dans plus de 120 pays ligibles l'aide publique au d veloppement (APD). Le FCIL dispose d'un budget annuel de 26,8 $ millions de dollars, avec des projets d'une valeur moyenne de 31 000 $ dollars chacun. Les organisations locales planifient et r alisent les projets, tandis que l'ambassade ou 
 
---- relevant lines ---
-2026-07-03 23:59 (GMT+2)
-2026-06-26 23:59 (GMT+8)
-2026-07-03 23:59 (GMT+2)
-2026-07-03 23:59 (GMT+3)
-2026-07-03 23:59 (GMT+4)
-2026-07-03 23:59 (GMT+2)
-2026-06-10 23:59 (GMT+3)
-2026-05-21 23:59 (GMT+2)
-2026-04-17 23:59 (heure de Chisinau, GMT+3)
-2026-04-12 23:59 (UTC+1)
-2026-04-12 23:59 (UTC+1)
-2026-04-30 23:59 (GMT-4)
-2026-04-30 23:59 (GMT-4)
-2026-04-21 23:59 (GMT+7)
-2026-04-30 23:59 (GMT+7)
-2026-03-31 23:59 (GMT+2)
-2026-04-13 23:59 (GMT+8)
-2026-03-27 15:00 (GMT-6)
-2026-03-27 15:00 (GMT-6)
-2026-03-27 15:00 (GMT-6)
-2026-03-25 23:59 (GMT+8)
-2026-03-25 23:59 (GMT+8)
-2026-03-25 23:59 (GMT+8)
-2026-03-25 23:59 (GMT+8)
-2026-04-12 23:59 (GMT-5)
-2026-03-09 23:59 (GMT+5:30)
-2026-03-09 23:59 (GMT+5:30)
-2026-03-20 23:59 (GMT+10)
-2026-03-20 23:59 (GMT+10)
-2026-03-20 23:59 (GMT+10)
-2026-03-20 23:59 (GMT+10)
-2026-03-04 13:00 (GMT-3)
-2026-03-04 13:00 (GMT-3)
-2026-02-28 23:59 (GMT-5)
-2025-07-14 23:59 (GMT+2)
-2026-06-22 23:59 (GMT-4)
-2026-05-14 23:59 (GMT+2)
-2026-05-14 23:59 (GMT+2)
-2026-05-14 23:59 (GMT+2)
-2026-05-10 23:59 (GMT)
-2026-05-10 23:59 (GMT)
-2026-05-01 23:59 (GMT+1)
-2026-05-01 23:59 (GMT+1)
-2026-05-10 23:59 (GMT)
-2026-05-22 23:59 (GMT+2)
-2025-05-26 23:59 (GMT+3)
-2025-05-26 23:59 (GMT+3)
-2025-05-26 23:59 (GMT+3)
-2025-05-23 23:59 (GMT+6)
-2026-05-22 23:59 (GMT)
-2026-05-22 23:59 (GMT+1)
-2026-03-27 23:59 (GMT)
-2026-03-27 23:59 (GMT)
-2025-05-25 23:59 (GMT)
-2025-05-25 23:59 (GMT)
-2026-04-30 23:59 (GMT-4)
-2026-04-30 23:59 (GMT-4)
-2026-04-30 23:59 (GMT-4)
-2026-04-30 23:59 (GMT-4)
-2026-05-06 23:59 (GMT+2)
-2025-06-09 23:59 (GMT+5)
-2025-05-29 23:59 (GMT+3)
-2025-05-29 23:59 (GMT+3)
-2025-05-29 23:59 (GMT+3)
-2026-04-30 23:59 (GMT+6)
-2026-04-30 23:59 (GMT+6)
-2026-04-30 23:59 (GMT+6)
-2026-04-27 23:59 (GMT+7)
-2026-04-27 23:59 (GMT+7)
-2026-05-08 23:59 (GMT-4)
-2026-05-8 23:59 (GMT+2)
-2026-05-8 23:59 (GMT+2)
-2026-05-8 23:59 (GMT+2)
-2025-05-19 23:59 (GMT+5)
-2026-04-07 23:59 (GMT+7)
-2025-05-16 23:59 (GMT+7)
-2026-04-08 23:59 (GMT+7)
-2026-06-12 23:59 (GMT+5)
-2026-05-15 23:59 (GMT+4)
-2026-04-17 23:59(GMT+8)
-2025-05-16 23:59 (GMT+2)
-2025-05-16 23:59 (GMT+2)
-2025-05-16 23:59 (GMT+2)
-2026-05-10 23:59 (GMT+2)
-2026-04-13 23:59 (GMT+4)
-2025-03-31 23:59 (GMT+3)
-2025-03-31 23:59 (GMT+3)
-2026-04-19 23:59 (GMT+6:30)
-2026-04-17 23:59 (GMT+3)
-2026-04-20 23:59 (GMT+3)
-2025-03-24 23:59 (GMT-4)
-
 === https://www.international.gc.ca/world-monde/funding-financement/index.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -375,18 +282,6 @@ Use this portal to submit applications for funding from select Global Affairs Ca
 Canadian funding for international development projects
 Discover Government of Canada funding opportunities for C
 
---- relevant lines ---
-Funding and support programs for doing international business
-Discover funding opportunities for trade-related activities in Canada and abroad.
-Funding for projects and initiatives to address global issues
-Discover funding opportunities for projects and programs that focus on global issues such as security, religious freedom and women's rights.
-Humanitarian funding application guidelines for partners
-Guidelines to apply for international humanitarian assistance projects.
-Grants and Contributions Transformation Initiative
-Learn about Canada's plan to modernize the grants and contributions system for international assistance.
-Date modified: 2025-02-03
-Mobile applications
-
 === https://www.international.gc.ca/world-monde/funding-financement/funding_development_projects-financement_projets_developpement.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -445,15 +340,6 @@ Services and information
 Funding opportunities for international assistance
 Find Canada's current and upcoming internation
 
---- relevant lines ---
-al development funding opportunities.
-Funding processes for international assistance
-Funding guidance
-Guidance on eligibility of COVID-19 potential costs
-Temporary eligible expenses and flexible measures to ease the delivery of Development assistance projects we fund.
-Date modified: 2026-01-12
-Mobile applications
-
 === https://www.international.gc.ca/world-monde/funding-financement/open_calls-appels_ouverts.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -500,63 +386,6 @@ Note:
 The current and upcoming funding opportunities are based on the information available on the date of publication. They are subject to change.
 We will update t
 
---- relevant lines ---
-his page regularly. Sign up to receive an email when new funding opportunities for international development appear on this page.
-Funding opportunity Status Application closing date Geographic focus Organization eligibility
-Apply for funding through an unsolicited proposal
-Applications accepted on an ongoing basis
-*Process updated in February 2023
-All ODA-eligible countries
-Applications accepted on an ongoing basis for certain Programs
-All ODA-eligible countries
-Canada Fund for Local Initiatives
-Requests for Proposals – Contract opportunities
-Closed funding opportunities
-Funding Opportunity Application closing date Status / Results
-Canadian Global Impact Investment Fund
-2026-08-11
-Call for concept notes – Health, education and women's and girls' rights and empowerment in Afghanistan
-2025-04-16
-Skills development and Technical and vocational education and training (TVET) fund
-2025-03-06
-2025-03-05
-2024-08-29
-2024-09-12
-2024-08-08
-2024-08-01
-2024-04-24
-2023-11-28
-2023-08-30
-2023-06-29
-2023-03-01
-2023-02-08
-2023-01-26
-2022-09-12
-2022-03-22
-2022-04-12
-2022-05-04
-2022-05-31
-2021-11-18
-2021-09-22
-Call for Concept Notes - Education for Refugee and Displaced Children and Youth in Sub-Saharan Africa
-2021-04-14
-Call for Concept Notes – Canadian International Development Scholarships Program 2021-2029
-2020-11-19
-Call for proposals – Health and Rights for Women, Adolescent girls and Children
-2019-10-10
-2019 Call for Concept Notes - Development Impact Window - Canadian Small and Medium Organizations for Impact and Innovation
-2019-07-10
-2019-01-31
-Call for proposals – Volunteer Cooperation Program
-2019-02-20
-Call for proposals – Dismantling Barriers and Improving the Quality of Education for Women and Girls in Fragile, Conflict and Crisis Situations
-2019-02-13
-Funding guidance
-Canadian funding for international initiatives
-Apply to other sources of funding
-Date modified: 2026-08-17
-Mobile applications
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/china-chine.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -597,29 +426,6 @@ The Canada Fund for Local Initiatives – China
 The Canada Fund for Local Initiatives – China (2026)
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predominantly by local partners. Projects are selected and approved by the Embassy of Canada. The CFLI also serves to support positive bilateral rela
-
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $30,000 to $60,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in English, French, or Chinese.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027.
-To obtain an application form, please contact bejing.canadafund@international.gc.ca
-Completed applications must be submitted via email to: bejing.canadafund@international.gc.ca
-The deadline for submission is June 26, 2026 at 23:59 (GMT+8). Applications submitted after this deadline will not be considered.
-For questions about the application process, please contact bejing.canadafund@international.gc.ca
-The following project costs are eligible for CFLI funding:
-The following project costs are not eligible for CFLI funding:
-core funding or recurrent costs of an organization
-revolving funds, (that is, funds used to advance loans to individuals, such as microfinance)
-Date modified: 2026-05-26
-Mobile applications
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/lesotho.aspx?lang=eng ===
 Skip to main content
@@ -663,21 +469,6 @@ The High Commission of Canada in South Africa is pleased to launch its annual ca
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Glo
 
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional and national government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution in Lesotho is $20,000 to $50,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-How to apply
-STAGE 1: Expressions of Interest will be accepted and shortlisted on a rolling basis until July 3, 2026, at 23:59 (GMT+2) . Interested organizations are encouraged to apply early.
-STAGE 2: Shortlisted applicants will be notified by email during the month of July 2026 and will be invited to submit a more detailed Project Proposal and Budget.
-Only those proposals using the designated application forms and including the required budget document will be considered.
-Proposals must be completed in English or French.
-Projects spanning 2 fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 28, 2027, for single-year project or February 29, 2028, for two-years project.
-Applications will be assessed for approval on their merits by a selection committee.
-Due to the high volume of applications, only successful applicants will be contacted.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI approved activities and costs.
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/madagascar.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -719,21 +510,6 @@ The Canada Fund for Local Initiatives – Madagascar (2026)
 The High Commission of Canada in South Africa is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI). The purpose of this process is to select around 4 projects to be implemented in Madagascar starting by Fall 2026.
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align
-
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional and national government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution in Madagascar is $20,000 to $50,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-How to apply
-STAGE 1: Expressions of Interest will be accepted and shortlisted on a rolling basis until July 3, 2026, at 23:59 (GMT+2) . Interested organizations are encouraged to apply early.
-STAGE 2: Shortlisted applicants will be notified by email during the month of July 2026 and will be invited to submit a more detailed Project Proposal and Budget.
-Only those proposals using the designated application forms and including the required budget document will be considered.
-Proposals must be completed in English or French.
-Projects spanning 2 fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 28, 2027, for single-year project or February 29, 2028, for two-years project.
-Applications will be assessed for approval on their merits by a selection committee.
-Due to the high volume of applications, only successful applicants will be contacted.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI approved activities and costs.
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/mauritius-maurice.aspx?lang=eng ===
 Skip to main content
@@ -777,21 +553,6 @@ The High Commission of Canada in South Africa is pleased to launch its annual ca
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align wi
 
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional and national government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution in Mauritius is $20,000 to $50,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-How to apply
-STAGE 1: Expressions of Interest will be accepted and shortlisted on a rolling basis until July 3, 2026, at 23:59 (GMT+2) . Interested organizations are encouraged to apply early.
-STAGE 2: Shortlisted applicants will be notified by email during the month of July 2026 and will be invited to submit a more detailed Project Proposal and Budget.
-Only those proposals using the designated application forms and including the required budget document will be considered.
-Proposals must be completed in English or French.
-Projects spanning 2 fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 28, 2027, for single-year project or February 29, 2028, for two-years project.
-Applications will be assessed for approval on their merits by a selection committee.
-Due to the high volume of applications, only successful applicants will be contacted.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI approved activities and costs.
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/namibia-namibie.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -833,21 +594,6 @@ The Canada Fund for Local Initiatives – Namibia (2026)
 The High Commission of Canada in South Africa is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI). The purpose of this process is to select around 3 projects to be implemented in Namibia starting by Fall 2026.
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Glo
-
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional and national government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution in Namibia is $20,000 to $50,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-How to apply
-STAGE 1: Expressions of Interest will be accepted and shortlisted on a rolling basis until July 3, 2026, at 23:59 (GMT+2) . Interested organizations are encouraged to apply early.
-STAGE 2: Shortlisted applicants will be notified by email during the month of July 2026 and will be invited to submit a more detailed Project Proposal and Budget.
-Only those proposals using the designated application forms and including the required budget document will be considered.
-Proposals must be completed in English or French.
-Projects spanning 2 fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 28, 2027, for single-year project or February 29, 2028, for two-years project.
-Applications will be assessed for approval on their merits by a selection committee.
-Due to the high volume of applications, only successful applicants will be contacted.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI approved activities and costs.
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/south-africa-afrique-du-sud.aspx?lang=eng ===
 Skip to main content
@@ -891,21 +637,6 @@ The High Commission of Canada in South Africa is pleased to launch its annual ca
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which
 
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional amd national government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution in South Africa is $30,000 to $60,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-How to apply
-STAGE 1: Expressions of Interest will be accepted and shortlisted on a rolling basis until July 3, 2026, at 23:59 (GMT+2) . Interested organizations are encouraged to apply early.
-STAGE 2: Shortlisted applicants will be notified by email during the month of July 2026 and will be invited to submit a more detailed Project Proposal and Budget.
-Only those proposals using the designated application forms and including the required budget document will be considered.
-Proposals must be completed in English or French.
-Projects spanning 2 fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 28, 2027, for single-year project or February 29, 2028, for two-years project.
-Applications will be assessed for approval on their merits by a selection committee.
-Due to the high volume of applications, only successful applicants will be contacted.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI approved activities and costs.
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/ukraine.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -948,23 +679,6 @@ The Canada Fund for Local Initiatives – Ukraine (2026)
 The Embassy of Canada to Ukraine is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
 Program description
 The CFLI is a program designed to support small-scale, high-impact projects which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predominantly by local actors. Pro
-
---- relevant lines ---
-jects will be selected and approved by the Embassy of Canada to Ukraine. The CFLI also serves to support positive bilateral relations between Canada and recipient countries, their civil societies, and supporting local endeavours. In Ukraine, we are seeking applications that align with our thematic priorities (see Annex below).
-The average CFLI contribution is $30,000 to $50,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Please note that all contributions are made in Canadian dollars and then converted to the local currency (in Ukraine, UAH). Consult the currency converter for local currency equivalents.
-How to Apply
-All projects must be completed between the date of signature of the Contribution Agreement (around Aug/Sept 2026) and March 15, 2027.
-The deadline for submission is June 10, 2026 23:59 (GMT+3) . Applications submitted after this deadline will NOT be considered. Preliminary proposals should be submitted electronically to KYIVGR@international.gc.ca .
-Only those proposals using the designated application form and including the required budget document will be considered.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI eligible activities and costs in the Annex below.
-Preliminary proposals must be completed in either in English or French.
-Project proposals must explicitly answer ALL questions in the CFLI project preliminary application form. The proposed project budget should summarize the proposed activities and associated costs.
-Applications will be assessed for approval on their merits by a selection committee at the Embassy of Canada to Ukraine.
-To obtain an application form, please download the CFLI Preliminary Application for Funding Form (PDF 249.15 KB)
-Project applications are kept on file at missions in accordance with Global Affairs Canada's information management policies.
-Thank you for your application. We will contact all applicants using your submitted e-mail address by June 29 at the latest with information on the status of your application. If selected, we will invite you to complete a full proposal.
-Organizations eligible to apply for CFLI funding
-Eligible recipients include:
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/albania-albanie.aspx?lang=eng ===
 Skip to main content
@@ -1010,25 +724,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed p
 
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $30,000 to $60,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in English.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027.
-To obtain an application form, please contact the email address romegr@international.gc.ca or download the CFLI Project Application for Funding Form (PDF 249 KB) To download and open a PDF form, you need to have Adobe Reader 10 or higher installed .
-Completed applications must be submitted via email at romegr@international.gc.ca .
-The deadline for submission is May 21, 2026 at 23:59 (GMT+2). Applications submitted after this deadline will not be considered.
-For questions about the application process, please contact romegr@international.gc.ca .
-The following project costs are eligible for CFLI funding:
-The following project costs are not eligible for CFLI funding:
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/moldova.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -1072,23 +767,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects 
-
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $30,000 to $60,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in English or French.
-We welcome project proposals which operate in different regions of the country, especially outside of Chisinau and/or on both sides of the Nistru river.
-Projects spanning 2 fiscal years (April 2026 to February 2028) may be permitted on an exceptional basis only depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027, for single-year projects or February 25, 2028, for two-year projects.
-To obtain an application form, please contact cflimoldova@gmail.com
-Completed applications must be submitted via email at cflimoldova@gmail.com
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/sao-tome-et-principe.aspx?lang=eng ===
 Skip to main content
@@ -1134,23 +812,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conce
 
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $20,000 to $49,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in Portuguese, English or French.
-Projects spanning two (2) fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027, for single-year project or February 25, 2028, for two-years project.
-To obtain the new application form, please contact ABUJAGR@international.gc.ca or download the CFLI Project Application for Funding Form (PDF 249.15 KB)
-Completed applications must be submitted via email at ABUJAGR@international.gc.ca .
-The deadline for submission is April 12th, 2026, at 23:59 (UTC+1) . Applications submitted after this deadline will not be considered.
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/equatorial-guinea-guinee_equatoriale.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -1194,22 +855,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived a
-
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $20,000 to $49,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in Spanish, English or French.
-Projects spanning two (2) fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027, for single-year project or February 25, 2028, for two-years project.
-To obtain the new application form, please contact ABUJAGR@international.gc.ca or download the CFLI Project Application for Funding Form (PDF 249 KB). To download and open a PDF form, you need to have Adobe Reader 10 or higher installed .
-Completed applications must be submitted via email at ABUJAGR@international.gc.ca .
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/guyana-suriname.aspx?lang=eng ===
 Skip to main content
@@ -1255,23 +900,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceiv
 
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $30,000 to $60,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in English or French.
-Projects spanning 2 fiscal years (April 2026 to February 2028) may be permitted depending on the project objectives and the complexity of activities.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027, for single-year project or February 25, 2028, for two-years project.
-To obtain an application form, please download the CFLI Project Application for Funding Form (PDF 249.15 KB) To download and open a PDF form, you need to have Adobe Reader 10 or higher installed .
-Completed applications must be submitted via email at GRGTNG@international.gc.ca .
-The deadline for submission is April15, 2026, at 23:59 (GMT-4). Applications submitted after this deadline will not be considered.
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/cambodia-cambodge.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -1315,26 +943,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 
 Program/Opportunity overview
 The Canada Fund for Local Initiatives (CFLI) is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at pr
-
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $15,00 to $30,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in English or French.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027.
-To obtain an application form, please contact PNPEN.CFLI-FCIL@international.gc.ca .
-Completed applications must be submitted via email at PNPEN.CFLI-FCIL@international.gc.ca.
-The deadline for submission is April 21, 2026 at 23:59 (GMT+7). Applications submitted after this deadline will not be considered.
-For questions about the application process, please contact PNPEN.CFLI-FCIL@international.gc.ca.
-The following project costs are eligible for CFLI funding:
-The following project costs are not eligible for CFLI funding:
-core funding or recurrent costs of an organization
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/asean-anase.aspx?lang=eng ===
 Skip to main content
@@ -1380,23 +988,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predominantl
 
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution is $20,000 to $40,000 Canadian Dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-Applications will be assessed on their merits by a selection committee.
-Only those proposals using the designated application form and including the required budget document will be considered.
-Due to the high volume of applications, only successful applicants will be contacted.
-Project applications are kept on file at the embassy in accordance with Global Affairs Canada's information management policies.
-Application guidelines
-Proposals must be completed in English or French.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027, for single-year project.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027, for single-year project.
-To obtain an application form, please contact aseancanadacfli@gmail.com or download the CFLI Project Application for Funding Form (PDF 249.15 KB). To download and open a PDF form, you need to have Adobe Reader 10 or higher installed .
-Completed applications must be submitted via email at aseancanadacfli@gmail.com.
-The deadline for submission is April 30, 2026, at 23:59 (GMT+7). Applications submitted after this deadline will not be considered.
-
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/south-sudan-soudan-du-sud.aspx?lang=eng ===
 Skip to main content
 Skip to "About government"
@@ -1440,24 +1031,6 @@ We thank you for your interest. The deadline for submitting a proposal has now p
 
 Program/Opportunity overview
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and de
-
---- relevant lines ---
-The majority of CFLI funding is to be directed toward local civil society organizations (including non-governmental organizations) and other institutions working at the local level. Other entities, such as international, intergovernmental, multilateral and regional organizations may be eligible for funding, provided they are working with local partners and on local projects that are consistent with the objectives of the CFLI. Similarly, municipal, regional government institutions may receive funding, provided that their projects are essentially local in nature. The CFLI is always looking to fund innovative projects that deliver measurable results.
-Eligible recipients include:
-The average CFLI contribution in South Sudan is approximately Can$20,000. Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-Application process
-The Embassy of Canada in South Sudan has a two-step process for selecting CFLI funding recipients:
-Step 1: A preliminary application must first be submitted by all interested organizations.
-To obtain an application form, please contact cfli.juba@international.gc.ca . Only those proposals using the designated application form will be considered.
-The submission deadline is March 31, 2026, at 23:59 (GMT +2:00). Applications submitted after this deadline will not be considered.
-Completed applications must be submitted via email at: cfli.juba@international.gc.ca
-Step 2: Organizations whose preliminary applications are found to be successful (based on an assessment of eligibility and merit criteria) will be invited to submit a full proposal and required budget document.
-Due to the high volume of applications, only successful applicants will be contacted.
-Application guidelines
-Proposals must be completed in English.
-All projects will be required to be completed between the date of signature of the Contribution Agreement and February 26, 2027.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI approved activities and costs.
-For questions about the application process, please contact: cfli.juba@international.gc.ca .
 
 === https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/malaisia-malaisie.aspx?lang=eng ===
 Skip to main content
@@ -1504,22 +1077,1770 @@ The High Commission of Canada in Malaysia is pleased to launch its annual call f
 Program description
 The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which
 
---- relevant lines ---
-The average CFLI contribution is $10,000 to $30,000 Canadian dollars (CAD$100,000 is the maximum allocation amount for a project eligible under CFLI). Consult the currency converter for local currency equivalents. Please note that all contributions are made in Canadian dollars and then converted to the local currency.
-How to apply
-Step 1: Short application form
-The short application form is available in Microsoft Word format upon request. Please contact KLMPRG@international.gc.ca to request the application form.
-The deadline for submission is March 26, 2025, at 23:59 (GMT+8) . Applications submitted after this deadline will not be considered. Proposals should be submitted electronically to: KLMPRG@international.gc.ca .
-Due to the large number of applicants, only shortlisted candidates will be contacted and invited to submit the full application form.
-Step 2: Full application form
-Shortlisted applicants will be contacted in April 2025 to complete a full application form with a detailed budget within a two-week deadline.
-Project proposals must explicitly answer all questions in the CFLI project application form, including the required gender-based analysis. The proposed project budget should summarize the proposed activities and associated costs.
-Applications will be assessed on their merits by a selection committee.
-Proposals must be completed in English or French.
-Only those proposals using the designated application form and including the required budget information will be considered.
-For more information on the types of activities and costs that are eligible for CFLI funding, please refer to the list of CFLI approved activities and costs.
-All projects must be completed between the date of signature of the Contribution Agreement and February 28, 2026.
-Projects spanning two fiscal years (April 2025 to March 2027) may be permitted depending on the project objectives and the complexity of activities.
-Project applications are kept on file at missions in accordance with Global Affairs Canada's information management policies.
-Organizations eligible to apply for CFLI funding
-Eligible recipients include:
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/costa-rica-nicaragua-honduras.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Español
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Costa Rica, Nicaragua and Honduras (2026)
+
+The Canada Fund for Local Initiatives – Costa Rica, Nicaragua and Honduras (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The Canada Fund for Local Initiatives (CFLI) is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's th
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/philippines_micronesia_marshall_Islands_palau-philippines_micronesie_iles_marshall_palau.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives – Philippines, The Federal States of Micronesia, Marshall Islands and Palau (2026)
+
+The Canada Fund for Local Initiatives – Philippines, The Federal States of Micronesia, Marshall Islands and Palau (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's themat
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/panama.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Español
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Panama (2026)
+
+The Canada Fund for Local Initiatives – Panama (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and desi
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/maldives-sri-lanka.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Maldives and Sri Lanka (2026)
+
+The Canada Fund for Local Initiatives – Maldives and Sri Lanka (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at pro
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/nauru-papua-ng-solomon-vanuatu.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Nauru, Papua New Guinea, Solomon Islands, Vanuatu (2026)
+
+The Canada Fund for Local Initiatives – Nauru, Papua New Guinea, Solomon Islands, Vanuatu (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priorit
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/argentina-argentine.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Español
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Argentina (2026)
+
+The Canada Fund for Local Initiatives – Argentina (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada in Argentina is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, wh
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/paraguay.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Español
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Paraguay (2026)
+
+The Canada Fund for Local Initiatives – Paraguay (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada in Paraguay is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI)
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which 
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/colombia-colombie.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives (CFLI) - Colombia
+
+The Canada Fund for Local Initiatives (CFLI)- Colombia (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada in Colombia is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which a
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/sudan-soudan.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Sudan (2025)
+
+The Canada Fund for Local Initiatives – Sudan (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada to Ethiopia in Addis Ababa, which has responsibility for overseeing Sudan, is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI) for Sudan.
+Program description
+The CFLI is a program designed to support small
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/haiti.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Haiti
+
+The Canada Fund for Local Initiatives – Haiti (2026)
+The Embassy of Canada in Haiti is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predominantly by local par
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/angola.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives (CFLI) – Angola (2026)
+
+The Canada Fund for Local Initiatives (CFLI) – Angola (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived an
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/eswatini.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives (CFLI) – Eswatini (2026)
+
+The Canada Fund for Local Initiatives (CFLI) – Eswatini (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceive
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/mozambique.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives (CFLI) – Mozambique (2026)
+
+The Canada Fund for Local Initiatives (CFLI) – Mozambique (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conc
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/togo.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Togo
+
+The Canada Fund for Local Initiatives – Togo (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program and opportunity overview
+The Canada Fund for Local Initiatives (CFLI) is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projec
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/sierra-leone.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Sierra Leone (2026)
+
+The Canada Fund for Local Initiatives – Sierra Leone (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program and opportunity overview
+The Canada Fund for Local Initiatives (CFLI) is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The progra
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/morocco-maroc.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Morocco and Mauritania (2026)
+
+The Canada Fund for Local Initiatives – Morocco and Mauritania (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at pro
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/ghana.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Ghana (2026)
+
+The Canada Fund for Local Initiatives – Ghana (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program and opportunity overview
+The Canada Fund for Local Initiatives (CFLI) is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed 
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/bosnia-bosnie.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Bosnia and Herzegovina (2026)
+
+The Canada Fund for Local Initiatives – Bosnia and Herzegovina (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at pro
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/turkiye-azerbaijian-georgia.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – T rkiye, Azerbaijan, and Georgia (2025)
+
+The Canada Fund for Local Initiatives – T rkiye, Azerbaijan, and Georgia (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada in T rkiye is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI) for projects in T rkiye, Azerbaijan, and Georgia.
+Program description
+The CFLI is a prog
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/mexico-mexique.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Español
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Mexico (2025)
+
+The Canada Fund for Local Initiatives – Mexico (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada in Mexico is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/burkina-faso.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Burkina Faso (2026)
+
+The Canada Fund for Local Initiatives – Burkina Faso (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and 
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/benin.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Benin (2026)
+
+The Canada Fund for Local Initiatives – Benin (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predo
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/liberia.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Liberia (2026)
+
+The Canada Fund for Local Initiatives – Liberia (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and implemente
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/cote-ivoire.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – C te d'Ivoire (2026)
+
+The Canada Fund for Local Initiatives – C te d'Ivoire (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived an
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/democratic-democratique-congo.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Democratic Republic of Congo (2025)
+
+The Canada Fund for Local Initiatives – Democratic Republic of Congo (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada to the Democratic Republic of Congo is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-sc
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/republic-republique-congo.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Republic of Congo (2025)
+
+The Canada Fund for Local Initiatives – Republic of Congo (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Embassy of Canada to the Republic of Congo is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects which a
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/dominica-grenada-saint-lucia-st-vincent-grenadines.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Dominica, Grenada, Saint Lucia, St. Vincent and the Grenadines (2025)
+
+The Canada Fund for Local Initiatives – Dominica, Grenada, Saint Lucia, St. Vincent and the Grenadines (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The High Commission of Canada in Barbados and the Eastern Caribbean is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives 
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/kosovo.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Kosovo
+
+The Canada Fund for Local Initiatives – Kosovo (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predominan
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/pakistan.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Pakistan (2025)
+
+The Canada Fund for Local Initiatives – Pakistan (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The High Commission of Canada in Pakistan is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/westbank-gaza-east-jerusalem-cisjordanie.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+عربي
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – West Bank, Gaza, and East Jerusalem (2025)
+
+The Canada Fund for Local Initiatives – West Bank, Gaza, and East Jerusalem (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Representative Office of Canada in Ramallah is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/india-nepal-bhoutan.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – India, Nepal and Bhutan
+
+The Canada Fund for Local Initiatives – India, Nepal and Bhutan (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/indonisia-timor-leste-indonisie.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Indonesia and Timor-Leste
+
+The Canada Fund for Local Initiatives – Indonesia and Timor-Leste (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at proj
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/venezuela.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Español
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Venezuela
+
+The Canada Fund for Local Initiatives – Venezuela (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and desig
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/serbia-serbie.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives - Serbia, Montenegro and North Macedonia (2026)
+
+The Canada Fund for Local Initiatives - Serbia, Montenegro and North Macedonia (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/canada-un-new-york_canada-nu-new-york.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – United Nations in New York (2025)
+
+The Canada Fund for Local Initiatives – United Nations in New York (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+The Permanent Mission of Canada to the United Nations is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, hig
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/vietnam.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Tiếng Việt
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+
+The Canada Fund for Local Initiatives – Vietnam (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predominantly by local partners. Projects are selected and approved by the relevant Canadian embassy or high commission. The CFLI also serves to support positive bilateral relations between Canada and recipient countries and their civil societies, by deepeni
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/lao-laos.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Laos (2025)
+
+The Canada Fund for Local Initiatives – Laos (2025)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Office of the Embassy of Canada to Laos, in Vientiane is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program description
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, w
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/thailand-thailande.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Thailand (2026)
+
+The Canada Fund for Local Initiatives – Thailand (2026)
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/jamaica-jamaique.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Jamaica (2026)
+
+The Canada Fund for Local Initiatives – Jamaica (2026)
+The High Commission of Canada in Jamaica is pleased to launch its annual call for proposals for the Canada Fund for Local Initiatives (CFLI).
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and desig
+
+=== https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/armenia-armenie.aspx?lang=eng ===
+Skip to main content
+Skip to "About government"
+Language selection
+Français
+
+Government of Canada
+Search
+Search website
+Search
+
+Menu
+Main Menu Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finances
+Science and innovation
+
+You are here:
+Canada.ca
+Canada and the world
+Canadian funding for international initiatives
+Canadian funding for international development projects
+Funding opportunities for international assistance
+The Canada Fund for Local Initiatives
+The Canada Fund for Local Initiatives – Armenia
+
+CFLI-RDW Publication Template
+Current status of the call for proposals: Closed
+We thank you for your interest. The deadline for submitting a proposal has now passed.
+
+Program/Opportunity overview
+The CFLI is a program designed to support small-scale, high-impact projects in developing countries, which align with Global Affairs Canada's thematic priority areas for engagement. The program is directed at projects conceived and designed predominantly by local partners. 
