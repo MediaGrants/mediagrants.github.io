@@ -85,6 +85,41 @@
     { "id": "access-now", "name": "Access Now — Digital Security Helpline / grants", "kind": "funder", "tier": 3, "url": "https://www.accessnow.org/", "scope": ["global"] },
     { "id": "reporters-shield", "name": "Reporters Shield", "kind": "funder", "tier": 3, "url": "https://reportersshield.org/", "scope": ["global"] },
     { "id": "google-news-initiative", "name": "Google News Initiative", "kind": "funder", "tier": 3, "url": "https://newsinitiative.withgoogle.com/", "scope": ["global"] },
-    { "id": "gnf", "name": "Global Network Initiative / tech-for-media funds", "kind": "funder", "tier": 3, "url": "https://globalnetworkinitiative.org/", "scope": ["global"] }
+    { "id": "gnf", "name": "Global Network Initiative / tech-for-media funds", "kind": "funder", "tier": 3, "url": "https://globalnetworkinitiative.org/", "scope": ["global"] },
+
+    { "_comment": "Below: the 'adjacent' track. These fund a cause, not journalism — but reporting, public information and community education are routinely eligible activities. None of them appear on journalism grant lists, which is the point." },
+
+    { "id": "au-embassy-belgrade", "name": "Australian Embassy Belgrade — Direct Aid Program", "kind": "funder", "track": "adjacent", "tier": 2, "url": "https://serbia.embassy.gov.au/", "scope": ["RS", "MK", "ME"] },
+    { "id": "us-embassy-belgrade", "name": "U.S. Embassy Belgrade — small grants", "kind": "funder", "track": "adjacent", "tier": 2, "url": "https://rs.usembassy.gov/education-culture/", "scope": ["RS"] },
+    { "id": "uk-embassy-belgrade", "name": "British Embassy Belgrade — programme funds", "kind": "funder", "track": "adjacent", "tier": 2, "url": "https://www.gov.uk/world/organisations/british-embassy-belgrade", "scope": ["RS"] },
+    { "id": "eu-delegation-serbia", "name": "EU Delegation to Serbia — calls for proposals", "kind": "funder", "track": "adjacent", "tier": 2, "url": "https://europa.rs/", "scope": ["RS"] },
+    { "id": "canada-fund-cfli", "name": "Canada Fund for Local Initiatives", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil.aspx", "scope": ["global"] },
+    { "id": "nl-matra", "name": "Netherlands — MATRA programme", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.government.nl/topics/grant-programmes", "scope": ["europe-western-balkans", "europe-eastern-partnership"] },
+    { "id": "ch-embassy-serbia", "name": "Swiss Embassy Serbia — cooperation programme", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.eda.admin.ch/belgrade", "scope": ["RS"] },
+    { "id": "de-embassy-belgrade", "name": "German Embassy Belgrade — micro-projects", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://belgrad.diplo.de/", "scope": ["RS"] },
+    { "id": "no-embassy-belgrade", "name": "Norwegian Embassy Belgrade — grants", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.norway.no/en/serbia/", "scope": ["RS"] },
+
+    { "id": "eidhr-ncidi", "name": "EU — EIDHR / NDICI human rights & civil society calls", "kind": "funder", "track": "adjacent", "tier": 2, "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance/funding-opportunities_en", "scope": ["global"] },
+    { "id": "eu-civil-society-facility", "name": "EU Civil Society Facility — Western Balkans", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://neighbourhood-enlargement.ec.europa.eu/", "scope": ["europe-western-balkans"] },
+    { "id": "erasmus-plus", "name": "Erasmus+ — civic education & youth participation", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://erasmus-plus.ec.europa.eu/opportunities", "scope": ["europe-eu", "europe-eu-candidate"] },
+    { "id": "coe-youth-foundation", "name": "Council of Europe — European Youth Foundation", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.coe.int/en/web/european-youth-foundation", "scope": ["europe"] },
+
+    { "id": "european-climate-foundation", "name": "European Climate Foundation", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://europeanclimate.org/", "scope": ["europe"] },
+    { "id": "climate-justice-resilience", "name": "Climate & environmental justice funds", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.climateworks.org/", "scope": ["global"] },
+
+    { "id": "global-fund-for-women", "name": "Global Fund for Women", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.globalfundforwomen.org/apply-for-a-grant/", "scope": ["global"] },
+    { "id": "urgent-action-fund", "name": "Urgent Action Fund for Feminist Activism", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://urgentactionfund.org/apply-for-a-grant/", "scope": ["global"] },
+    { "id": "un-women", "name": "UN Women — calls for proposals", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.unwomen.org/en/about-us/procurement", "scope": ["global"] },
+    { "id": "mama-cash", "name": "Mama Cash", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.mamacash.org/en/apply-for-a-grant", "scope": ["global"] },
+
+    { "id": "ilga-europe", "name": "ILGA-Europe — documentation & advocacy grants", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.ilga-europe.org/funding/", "scope": ["europe"] },
+    { "id": "astraea", "name": "Astraea Lesbian Foundation for Justice", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://astraeafoundation.org/what-we-do/grantmaking/", "scope": ["global"] },
+
+    { "id": "unhcr-iom-migration", "name": "UNHCR / IOM — migration and displacement funds", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.unhcr.org/partners", "scope": ["global"] },
+    { "id": "mott-foundation", "name": "Charles Stewart Mott Foundation — civil society", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.mott.org/how-to-apply/", "scope": ["europe-central-eastern", "global"] },
+    { "id": "rockefeller-brothers", "name": "Rockefeller Brothers Fund — Western Balkans", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.rbf.org/programs/western-balkans", "scope": ["europe-western-balkans"] },
+    { "id": "king-baudouin", "name": "King Baudouin Foundation", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://kbs-frb.be/en", "scope": ["europe"] },
+    { "id": "european-cultural-foundation", "name": "European Cultural Foundation", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://culturalfoundation.eu/open-calls/", "scope": ["europe"] },
+    { "id": "trag-foundation", "name": "Trag Foundation (Serbia)", "kind": "funder", "track": "adjacent", "tier": 3, "url": "https://www.tragfondacija.org/en", "scope": ["RS", "europe-western-balkans"] }
   ]
 }

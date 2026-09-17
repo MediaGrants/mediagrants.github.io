@@ -24,6 +24,16 @@
     organisation: "Media outlets"
   };
 
+  /* Two tracks. "media" is a fund whose purpose is journalism. "adjacent" is a
+     fund for some other cause — a green transition, gender equality, rule of
+     law — that accepts reporting or public-information work as an eligible
+     activity. The second kind is invisible on every journalism grant list,
+     which is exactly why it is worth surfacing. */
+  var TRACK_LABELS = {
+    media: "Media fund",
+    adjacent: "Journalism eligible"
+  };
+
   var state = { geo: null, grants: [], generatedAt: null, filtered: [] };
 
   var el = {
@@ -137,6 +147,7 @@
       q: (data.get("q") || "").toString().trim().toLowerCase(),
       country: (data.get("country") || "").toString(),
       applicant: (data.get("applicant") || "").toString(),
+      track: (data.get("track") || "").toString(),
       support: data.getAll("support").map(String),
       status: data.getAll("status").map(String),
       sort: (data.get("sort") || "deadline").toString()
@@ -147,6 +158,8 @@
     var list = state.grants.filter(function (g) {
       if (f.status.indexOf(effectiveStatus(g)) === -1) return false;
       if (!matchesCountry(g, f.country)) return false;
+      // Entries written before the two tracks existed are media funds.
+      if (f.track && (g.track || "media") !== f.track) return false;
 
       if (f.applicant) {
         var who = g.applicantTypes || [];
@@ -239,6 +252,12 @@
       badges.appendChild(badge("badge-deadline", "Next round — date not announced"));
     }
 
+    // Only the adjacent track is badged: a media fund is the unremarkable case,
+    // but "this is not a journalism grant" is something the reader must see.
+    if ((g.track || "media") === "adjacent") {
+      badges.appendChild(badge("badge-adjacent", TRACK_LABELS.adjacent));
+    }
+
     var money = amountLabel(g.amount);
     if (money) badges.appendChild(badge("badge-money", money));
 
@@ -258,6 +277,15 @@
     }
 
     card.appendChild(badges);
+
+    // For an adjacent call this is the whole point of the card: the reader needs
+    // to see the route from a cause-based grant to journalistic work.
+    if (g.eligibleActivity) {
+      var angle = make("p", "card-angle");
+      angle.appendChild(make("strong", null, "Journalism angle. "));
+      angle.appendChild(document.createTextNode(g.eligibleActivity));
+      card.appendChild(angle);
+    }
 
     if (g.notes) card.appendChild(make("p", "card-note", g.notes));
 
@@ -305,6 +333,7 @@
     if (f.q) p.set("q", f.q);
     if (f.country) p.set("country", f.country);
     if (f.applicant) p.set("applicant", f.applicant);
+    if (f.track) p.set("track", f.track);
     if (f.support.length) p.set("support", f.support.join(","));
     if (f.status.join(",") !== "open,upcoming") p.set("status", f.status.join(","));
     if (f.sort !== "deadline") p.set("sort", f.sort);
@@ -318,11 +347,13 @@
     if (p.get("country")) el.country.value = p.get("country");
     if (p.get("sort")) el.sort.value = p.get("sort");
 
-    var applicant = p.get("applicant");
-    if (applicant) {
-      var radio = el.form.querySelector('input[name="applicant"][value="' + CSS.escape(applicant) + '"]');
+    ["applicant", "track"].forEach(function (name) {
+      var value = p.get(name);
+      if (!value) return;
+      var radio = el.form.querySelector(
+        'input[name="' + name + '"][value="' + CSS.escape(value) + '"]');
       if (radio) radio.checked = true;
-    }
+    });
 
     var support = (p.get("support") || "").split(",").filter(Boolean);
     if (support.length) {

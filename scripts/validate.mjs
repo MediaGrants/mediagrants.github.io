@@ -13,6 +13,7 @@ const read = async (f) => JSON.parse(await fs.readFile(path.join(ROOT, "data", f
 const APPLICANTS = new Set(["freelancer", "organisation"]);
 const STATUSES = new Set(["open", "upcoming", "closed"]);
 const DEADLINE_TYPES = new Set(["fixed", "rolling", "recurring", "unknown"]);
+const TRACKS = new Set(["media", "adjacent"]);
 
 const [{ grants }, geo] = await Promise.all([read("grants.json"), read("geo.json")]);
 
@@ -38,6 +39,14 @@ for (const g of grants) {
 
   if (g.url && !/^https?:\/\//.test(g.url)) errors.push(`${where}: url is not absolute`);
   if (g.applyUrl && !/^https?:\/\//.test(g.applyUrl)) errors.push(`${where}: applyUrl is not absolute`);
+
+  // track is optional; entries written before the two tracks existed are media.
+  if (g.track !== undefined && !TRACKS.has(g.track)) {
+    errors.push(`${where}: bad track "${g.track}"`);
+  }
+  if (g.track === "adjacent" && !g.eligibleActivity) {
+    errors.push(`${where}: an adjacent call must say in eligibleActivity how journalism fits`);
+  }
 
   if (!STATUSES.has(g.status)) errors.push(`${where}: bad status "${g.status}"`);
   if (!DEADLINE_TYPES.has(g.deadlineType)) errors.push(`${where}: bad deadlineType "${g.deadlineType}"`);

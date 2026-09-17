@@ -11,6 +11,16 @@ Every call is filterable by:
 
 Filtered views are shareable: the filters live in the URL, so `?country=RS&applicant=freelancer` is a link you can send to a colleague.
 
+## Two tracks
+
+Calls are split by what the funder is actually trying to buy.
+
+**Media funds** (`"track": "media"`) exist to fund journalism. These are what every other grant list already covers.
+
+**Broader calls** (`"track": "adjacent"`) fund something else — an inclusive green transition, women's participation in the economy, rule of law, migration, LGBT rights — and accept reporting, public information or community education as an eligible activity. A newsroom can win these, and almost nobody looks for them, because they never appear on a journalism grant list. An embassy's small-grants scheme is the typical case.
+
+Every adjacent entry must carry an `eligibleActivity` field spelling out the route from the funder's aim to journalistic work; the validator rejects one that doesn't. That field is the entire value of the category — without it the card is just a grant a newsroom cannot obviously use.
+
 ## How it stays current
 
 ```

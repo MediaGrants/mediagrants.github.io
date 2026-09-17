@@ -342,6 +342,17 @@ a:focus-visible {
   max-width: 76ch;
 }
 
+.card-angle {
+  margin: 10px 0 0;
+  font-size: 14px;
+  color: var(--ink-soft);
+  background: var(--cold-soft);
+  border-radius: 7px;
+  padding: 9px 12px;
+  max-width: 76ch;
+}
+.card-angle strong { color: var(--cold); }
+
 .card-note {
   margin: 8px 0 0;
   font-size: 13.5px;
@@ -369,6 +380,7 @@ a:focus-visible {
 .badge-where    { background: var(--surface-2); color: var(--ink-soft); }
 .badge-kind     { background: var(--surface-2); color: var(--ink-soft); }
 .badge-check    { background: var(--warn-soft); color: var(--warn); }
+.badge-adjacent { background: var(--cold-soft); color: var(--cold); border-color: currentColor; }
 
 .card-foot {
   display: flex;
