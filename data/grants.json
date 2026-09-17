@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-16T00:00:00Z",
+  "generatedAt": "2026-09-17T15:47:53Z",
   "grants": [
     {
       "id": "au-embassy-belgrade-direct-aid-program",
@@ -9,17 +9,35 @@
       "summary": "Small grants for local civil society, awarded on concept notes. The two priorities for this round are an inclusive green transition, and strengthening women's and girls' participation in the green economy through skills, leadership and entrepreneurship.",
       "url": "https://serbia.embassy.gov.au/",
       "applyUrl": "https://serbia.embassy.gov.au/",
-      "applicantTypes": ["organisation"],
-      "supportTypes": ["project"],
-      "topics": ["green-transition", "gender", "civil-society", "education"],
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "green-transition",
+        "gender",
+        "civil-society",
+        "education"
+      ],
       "track": "adjacent",
       "eligibleActivity": "The call funds a cause, not journalism — but community and citizen education is an accepted activity, and reporting is a legitimate way to deliver it. A women-led investigative series on the green economy, framed as public education plus input into local policy, fits both stated priorities. The embassy says it favours proposals with a clear theory of change and potential to influence policy, so the application has to argue the impact of the reporting, not just its publication.",
-      "amount": { "min": null, "max": 10000, "currency": "EUR", "note": "Up to €10,000 per project" },
+      "amount": {
+        "min": null,
+        "max": 10000,
+        "currency": "EUR",
+        "note": "Up to €10,000 per project"
+      },
       "deadline": "2026-10-04",
       "deadlineType": "fixed",
       "opensAt": "2026-09-08",
       "status": "open",
-      "geoScope": ["RS", "MK", "ME"],
+      "geoScope": [
+        "RS",
+        "MK",
+        "ME"
+      ],
       "sourceId": "au-embassy-belgrade",
       "lastVerified": "2026-09-17",
       "confidence": "high",
@@ -101,239 +119,6 @@
       "notes": "Not yet verified against BIRN's site."
     },
     {
-      "id": "civitates-core-support-media",
-      "funder": "Civitates",
-      "programme": "Core support for independent public-interest journalism",
-      "summary": "Multi-year core funding — not project funding — for non-profit independent media, to strengthen organisational sustainability, test business models and deepen audience engagement.",
-      "url": "https://civitates-eu.org/funding-opportunity/call-for-proposals-strengthening-independent-public-interest-journalism-in-europe/",
-      "applyUrl": "https://civitates-eu.org/",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "core"
-      ],
-      "topics": [
-        "sustainability",
-        "public-interest"
-      ],
-      "amount": {
-        "min": null,
-        "max": 160000,
-        "currency": "EUR",
-        "note": "Up to €160,000 in core funding over two years"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "HU",
-        "PL",
-        "IT",
-        "ES",
-        "BG",
-        "SK",
-        "HR"
-      ],
-      "sourceId": "civitates",
-      "lastVerified": "2026-09-16",
-      "confidence": "medium",
-      "provenance": "seed",
-      "notes": "The most recent call was restricted to outlets registered in Hungary, Poland, Italy, Spain, Bulgaria, Slovakia and Croatia. Eligible countries change between calls — always check the current guidelines."
-    },
-    {
-      "id": "iwmf-cpj-us-rapid-response",
-      "funder": "CPJ & IWMF",
-      "programme": "U.S. Journalist Rapid Response Fund",
-      "summary": "Emergency fund launched in 2026 in response to escalating threats to journalists' safety in the United States. Applications reviewed on a rolling basis.",
-      "url": "https://www.iwmf.org/2026/02/new-emergency-fund-supports-u-s-journalists-at-risk/",
-      "applyUrl": "https://www.iwmf.org/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "emergency"
-      ],
-      "topics": [
-        "safety"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "note": null
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "US"
-      ],
-      "sourceId": "iwmf",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "United States only."
-    },
-    {
-      "id": "ec-journalism-partnerships-collaborations",
-      "funder": "European Commission (Creative Europe CROSS)",
-      "programme": "Journalism Partnerships — Collaborations",
-      "summary": "Transnational consortia of media organisations working together on media transformation, trustworthy reporting and professional skills.",
-      "url": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-journalism-partnerships-collaborations-2026",
-      "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "innovation",
-        "capacity-building"
-      ],
-      "amount": {
-        "min": null,
-        "max": 2000000,
-        "currency": "EUR",
-        "note": "€6.9 million available; maximum €2 million per project"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "europe-eu",
-        "europe-eu-candidate"
-      ],
-      "sourceId": "ec-journalism-partnerships",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The 2026 call closed 4 February 2026. Requires a transnational consortium."
-    },
-    {
-      "id": "ec-journalism-partnerships-pluralism",
-      "funder": "European Commission (Creative Europe CROSS)",
-      "programme": "Journalism Partnerships — Pluralism",
-      "summary": "Funds intermediary organisations to set up and redistribute funds to news media in sectors of particular relevance for democracy: local and regional media, community media, investigative journalism and public-interest news.",
-      "url": "https://digital-strategy.ec.europa.eu/en/funding/call-proposals-journalism-partnerships-pluralism-2026",
-      "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "project",
-        "regranting"
-      ],
-      "topics": [
-        "pluralism",
-        "local-media",
-        "public-interest"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": "€6.9 million available in the 2026 call"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "europe-eu",
-        "europe-eu-candidate"
-      ],
-      "sourceId": "ec-journalism-partnerships",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The 2026 call closed 4 February 2026. Annual. Worth watching as a route to sub-grants even if you do not apply directly."
-    },
-    {
-      "id": "eed-support",
-      "funder": "European Endowment for Democracy",
-      "programme": "Flexible support for democracy actors",
-      "summary": "Flexible, fast support for independent media, journalists and civil-society actors in the EU neighbourhood and beyond. No fixed deadlines — applications are assessed as they arrive, including for organisations without formal registration.",
-      "url": "https://www.democracyendowment.eu/en/support.html",
-      "applyUrl": "https://www.democracyendowment.eu/en/support.html",
-      "applicantTypes": [
-        "organisation",
-        "freelancer"
-      ],
-      "supportTypes": [
-        "core",
-        "project"
-      ],
-      "topics": [
-        "democracy",
-        "public-interest"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": "Typically small to mid-sized, flexible grants"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "europe-western-balkans",
-        "europe-eastern-partnership",
-        "mena",
-        "TR"
-      ],
-      "sourceId": "eed",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified against the funder's site — the first automated sweep will confirm scope, eligibility and whether applications are currently being accepted."
-    },
-    {
-      "id": "ejc-journalism-science-alliance",
-      "funder": "European Journalism Centre",
-      "programme": "Journalism Science Alliance",
-      "summary": "Grants forging alliances between media and academic or research institutions to deliver in-depth reporting of public interest — climate, healthcare, emerging technologies, local governance.",
-      "url": "https://ejc.net/funding/journalism-science-alliance-2026-call",
-      "applyUrl": "https://ejc.net/funding",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "science",
-        "climate",
-        "health",
-        "investigative"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": "€2 million total over a 24-month programme"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "europe"
-      ],
-      "sourceId": "ejc-funding",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The 2026 call ran 19 January – 23 March 2026."
-    },
-    {
       "id": "fpu-reporters-respond",
       "funder": "Free Press Unlimited",
       "programme": "Reporters Respond",
@@ -369,190 +154,6 @@
       "confidence": "high",
       "provenance": "seed",
       "notes": "Applications accepted on a rolling basis."
-    },
-    {
-      "id": "fritt-ord-project-support",
-      "funder": "Fritt Ord Foundation",
-      "programme": "Project support for journalism",
-      "summary": "Norwegian foundation supporting freedom of expression, including journalism projects, books and documentary work. Some schemes are open to applicants outside Norway.",
-      "url": "https://frittord.no/en/support",
-      "applyUrl": "https://frittord.no/en/support",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "free-expression",
-        "investigative"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "NOK",
-        "note": null
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "europe"
-      ],
-      "sourceId": "fritt-ord",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified. Eligibility outside Norway varies by scheme."
-    },
-    {
-      "id": "fij-regular-grants",
-      "funder": "Fund for Investigative Journalism",
-      "programme": "Regular grants",
-      "summary": "Grants for investigative reporting projects, reviewed three or four times a year. Open to freelancers and small outlets.",
-      "url": "https://fij.org/apply-for-a-grant/",
-      "applyUrl": "https://fij.org/apply-for-a-grant/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "investigative"
-      ],
-      "amount": {
-        "min": null,
-        "max": 10000,
-        "currency": "USD",
-        "note": "Up to $10,000"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "fij",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The most recent deadline was 14 September 2026. Three to four rounds per year — check the site for the next one."
-    },
-    {
-      "id": "fij-small-grants",
-      "funder": "Fund for Investigative Journalism",
-      "programme": "Small grants",
-      "summary": "Small grants for preliminary reporting that can lead to a full investigation — useful for testing whether a story stands up before committing to it.",
-      "url": "https://fij.org/apply-for-a-grant/",
-      "applyUrl": "https://fij.org/apply-for-a-grant/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "investigative"
-      ],
-      "amount": {
-        "min": null,
-        "max": 2500,
-        "currency": "USD",
-        "note": "Up to $2,500"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "fij",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Shares deadlines with the regular grants; last round closed 14 September 2026."
-    },
-    {
-      "id": "ij4eu-freelancer-support-scheme",
-      "funder": "IJ4EU / European Journalism Centre",
-      "programme": "Freelancer Support Scheme",
-      "summary": "Grants for cross-border investigative teams made up predominantly of freelance journalists. Designed specifically so freelancers do not need a media house to apply.",
-      "url": "https://investigativejournalismforeu.net/grants/freelancer-support-scheme/",
-      "applyUrl": "https://investigativejournalismforeu.net/grants/freelancer-support-scheme/",
-      "applicantTypes": [
-        "freelancer"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "investigative",
-        "cross-border"
-      ],
-      "amount": {
-        "min": null,
-        "max": 20000,
-        "currency": "EUR",
-        "note": "Up to €20,000 per team"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": "2026-12-01",
-      "status": "upcoming",
-      "geoScope": [
-        "europe-eu",
-        "europe-eu-candidate"
-      ],
-      "sourceId": "ij4eu",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The first 2026 call ran 12 February – 13 April 2026. The second call of the cycle opens 1 December 2026."
-    },
-    {
-      "id": "ij4eu-investigation-support-scheme",
-      "funder": "IJ4EU / European Journalism Centre",
-      "programme": "Investigation Support Scheme",
-      "summary": "Grants for cross-border investigative projects in Europe, run under the Investigative Journalism for Europe fund. Teams must involve journalists or outlets from at least two countries. Grantees also get mentoring and networking through the EJC.",
-      "url": "https://investigativejournalismforeu.net/grants/investigation-support-scheme/",
-      "applyUrl": "https://investigativejournalismforeu.net/grants/investigation-support-scheme/",
-      "applicantTypes": [
-        "organisation",
-        "freelancer"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "investigative",
-        "cross-border"
-      ],
-      "amount": {
-        "min": 5000,
-        "max": 50000,
-        "currency": "EUR",
-        "note": "€1.2 million across the 2026–27 funding cycle"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": "2026-12-01",
-      "status": "upcoming",
-      "geoScope": [
-        "europe-eu",
-        "europe-eu-candidate"
-      ],
-      "sourceId": "ij4eu",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Two calls in the 2026–27 round: the first opened 12 February 2026, the second opens 1 December 2026."
     },
     {
       "id": "visegrad-fund-grants",
@@ -592,233 +193,6 @@
       "confidence": "low",
       "provenance": "seed",
       "notes": "Not yet verified. The fund historically ran fixed deadlines several times a year — confirm the current calendar."
-    },
-    {
-      "id": "iwmf-fund-for-women-journalists",
-      "funder": "International Women's Media Foundation",
-      "programme": "Howard G. Buffett Fund for Women Journalists",
-      "summary": "Supports ambitious projects and under-reported, globally important stories by women and nonbinary journalists. Applications are reviewed on a rolling basis, with decisions roughly 4–6 weeks after submission.",
-      "url": "https://www.iwmf.org/our-programs/grant-application-guide/",
-      "applyUrl": "https://www.iwmf.org/our-programs/grant-application-guide/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "gender",
-        "investigative",
-        "global"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "note": "Approx. $230,000 awarded annually across grantees"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "iwmf",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Open to women and nonbinary journalists worldwide."
-    },
-    {
-      "id": "iwmf-kari-howard-narrative",
-      "funder": "International Women's Media Foundation",
-      "programme": "Kari Howard Fund for Narrative Journalism",
-      "summary": "Funding to develop a piece of long-form narrative journalism. Open to women and nonbinary journalists with at least three years' professional experience; freelance and staff, individually or as a multi-format team.",
-      "url": "https://www.iwmf.org/our-programs/grant-application-guide/",
-      "applyUrl": "https://www.iwmf.org/our-programs/grant-application-guide/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "narrative",
-        "gender"
-      ],
-      "amount": {
-        "min": null,
-        "max": 5000,
-        "currency": "USD",
-        "note": "Grants average around $5,000"
-      },
-      "deadline": "2026-07-12",
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "closed",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "iwmf",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The 2026 round closed 12 July 2026; the fund runs annually."
-    },
-    {
-      "id": "earth-journalism-network-grants",
-      "funder": "Internews — Earth Journalism Network",
-      "programme": "Story grants and fellowships",
-      "summary": "A steady stream of regional and thematic story grants on environment, climate and biodiversity, usually open to individual journalists including freelancers.",
-      "url": "https://earthjournalism.net/opportunities",
-      "applyUrl": "https://earthjournalism.net/opportunities",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project",
-        "fellowship"
-      ],
-      "topics": [
-        "environment",
-        "climate",
-        "biodiversity"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "note": "Usually small story grants"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "earth-journalism",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified. EJN runs many parallel calls — the automated sweep should split these into individual entries."
-    },
-    {
-      "id": "journalismfund-environmental",
-      "funder": "Journalismfund Europe",
-      "programme": "Environmental Investigative Journalism",
-      "summary": "Grants for investigative reporting on environmental issues, open to journalists and outlets working in or on Europe. Runs in fixed rounds through the year.",
-      "url": "https://www.journalismfund.eu/environmental-investigative-journalism",
-      "applyUrl": "https://grants.journalismfund.eu/en/environmental-investigative-journalism",
-      "applicantTypes": [
-        "organisation",
-        "freelancer"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "environment",
-        "climate",
-        "investigative"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": "€400,000 per call; €1,200,000 total in 2026"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "europe"
-      ],
-      "sourceId": "journalismfund",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "2026 deadlines were 22 January, 23 April and 6 August. The 2027 round dates should be confirmed on the application platform."
-    },
-    {
-      "id": "journalismfund-european-crossborder",
-      "funder": "Journalismfund Europe",
-      "programme": "European Cross-border Grants",
-      "summary": "Working grants for cross-border teams of at least two professional journalists and/or outlets legally residing in at least two different countries. At least 80% of the requested budget must go to journalists or media from EU countries.",
-      "url": "https://www.journalismfund.eu/european-cross-border-grants",
-      "applyUrl": "https://grants.journalismfund.eu/en/european-cross-border-grants",
-      "applicantTypes": [
-        "organisation",
-        "freelancer"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "investigative",
-        "cross-border"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": "€280,000 per call; €1,680,000 across six rounds (four in 2026, two in 2027)"
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "europe"
-      ],
-      "sourceId": "journalismfund",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Funded 2026–27 by the European Union and Stichting Veronica. Check the application platform for the next round's exact deadline."
-    },
-    {
-      "id": "jx-fund-exile",
-      "funder": "JX Fund",
-      "programme": "European Fund for Journalism in Exile",
-      "summary": "Rapid support for newsrooms and journalists forced into exile, helping them rebuild editorial operations abroad.",
-      "url": "https://jx-fund.org/",
-      "applyUrl": "https://jx-fund.org/",
-      "applicantTypes": [
-        "organisation",
-        "freelancer"
-      ],
-      "supportTypes": [
-        "emergency",
-        "core"
-      ],
-      "topics": [
-        "exile",
-        "safety"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": null
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "jx-fund",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified against the funder's site."
     },
     {
       "id": "media-defence-legal-support",
@@ -893,194 +267,6 @@
       "confidence": "low",
       "provenance": "seed",
       "notes": "Not yet verified. Financing, not grant funding — repayment terms apply."
-    },
-    {
-      "id": "ned-grants",
-      "funder": "National Endowment for Democracy",
-      "programme": "Core grant programme",
-      "summary": "Grants to non-governmental organisations working on democratic goals, including independent media and freedom of information, outside the United States.",
-      "url": "https://www.ned.org/apply-for-grant/",
-      "applyUrl": "https://www.ned.org/apply-for-grant/",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "project",
-        "core"
-      ],
-      "topics": [
-        "democracy",
-        "media-development"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "note": null
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "ned",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified. NED's funding situation has been volatile — confirm current status directly before investing time in an application."
-    },
-    {
-      "id": "one-world-media-fund",
-      "funder": "One World Media",
-      "programme": "One World Media Fund",
-      "summary": "Production grants plus mentoring for journalists and filmmakers reporting on the Global South, across print, audio, video and documentary.",
-      "url": "https://oneworldmedia.org.uk/funding/",
-      "applyUrl": "https://oneworldmedia.org.uk/funding/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "global-south",
-        "documentary"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "GBP",
-        "note": null
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "one-world-media",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified against the funder's site."
-    },
-    {
-      "id": "pulitzer-global-reporting-grants",
-      "funder": "Pulitzer Center",
-      "programme": "Global Reporting Grants",
-      "summary": "Support for in-depth, high-impact reporting on under-covered issues. No restriction on topic or reporting location; staff and freelance journalists worldwide are eligible. One application form covers most Pulitzer Center grants.",
-      "url": "https://pulitzercenter.org/grant-application",
-      "applyUrl": "https://pulitzercenter.org/grant-application",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "investigative",
-        "global"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "note": "Varies by project"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "pulitzer-center",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Awarded on a rolling basis with no deadline."
-    },
-    {
-      "id": "pulitzer-ocean-reporting-network",
-      "funder": "Pulitzer Center",
-      "programme": "Ocean Reporting Network (cohort 4)",
-      "summary": "Grants and fellowships building a cross-border network of investigative journalists covering ocean and environmental topics.",
-      "url": "https://pulitzercenter.org/grants-fellowships",
-      "applyUrl": "https://pulitzercenter.org/grant-application",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project",
-        "fellowship"
-      ],
-      "topics": [
-        "environment",
-        "oceans",
-        "investigative"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "note": null
-      },
-      "deadline": "2026-09-13",
-      "deadlineType": "fixed",
-      "opensAt": null,
-      "status": "closed",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "pulitzer-center",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Cohort 4 closed 13 September 2026. Watch for the next cohort call."
-    },
-    {
-      "id": "pulitzer-rainforest-reporting",
-      "funder": "Pulitzer Center",
-      "programme": "Rainforest Reporting Grant",
-      "summary": "Independent journalism on the world's three major rainforest regions: the Amazon, the Congo Basin and Southeast Asia.",
-      "url": "https://pulitzercenter.org/grant-application",
-      "applyUrl": "https://pulitzercenter.org/grant-application",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "environment",
-        "climate",
-        "investigative"
-      ],
-      "amount": {
-        "min": null,
-        "max": 15000,
-        "currency": "USD",
-        "note": "Reported at up to $15,000"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "pulitzer-center",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Rolling basis, no deadline. Reporting must concern the Amazon, Congo Basin or Southeast Asia."
     },
     {
       "id": "reporters-shield-membership",
@@ -1194,27 +380,720 @@
       "notes": "Not yet verified against the institute's site."
     },
     {
-      "id": "rory-peck-crisis-fund",
-      "funder": "Rory Peck Trust",
-      "programme": "Crisis Fund",
-      "summary": "Financial grants for freelance news and current-affairs journalists anywhere in the world whose work and livelihood are at risk because of their journalism — medical costs, emergency subsistence, legal advice, relocation.",
-      "url": "https://rorypecktrust.org/freelance-assistance/",
-      "applyUrl": "https://rorypecktrust.org/freelance-assistance/",
+      "id": "ijnet-opportunities-cerc-migration-journalism-fellowship",
+      "funder": "CERC Migration and Integration / Toronto Metropolitan University",
+      "programme": "CERC Migration Journalism Fellowship",
+      "summary": "A one-month residency at Toronto Metropolitan University for a journalist to engage with migration research and develop reporting informed by that scholarship. Includes a stipend covering the residency period and travel.",
+      "url": "https://ijnet.org/en/opportunity/cerc-migration-journalism-fellowship-open-worldwide",
+      "applyUrl": "https://ijnet.org/en/opportunity/cerc-migration-journalism-fellowship-open-worldwide",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "travel"
+      ],
+      "topics": [
+        "migration",
+        "residency",
+        "fellowship"
+      ],
+      "amount": {
+        "min": 5000,
+        "max": 5000,
+        "currency": "CAD",
+        "note": "Total stipend value of CAD 5,000 including a travel allowance."
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": "2026-03-01",
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "ijnet-opportunities",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Residency window given as March 1 to November 30, 2026; no application deadline was found. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "ijnet-opportunities-james-b-steele-fellowship",
+      "funder": "Reynolds Center for Business Journalism, Cronkite School (ASU)",
+      "programme": "James B. Steele Fellowship in Investigative Business Journalism",
+      "summary": "A one-year fellowship combining a master's degree, mentored investigative reporting projects, and an internship at a major media organization, aimed at early-career business journalists.",
+      "url": "https://ijnet.org/en/opportunity/james-b-steele-fellowship-investigative-business-journalism-open-worldwide",
+      "applyUrl": "https://businessjournalism.org/fellowship/",
       "applicantTypes": [
         "freelancer"
       ],
       "supportTypes": [
-        "emergency",
-        "legal"
+        "fellowship",
+        "training"
       ],
       "topics": [
+        "business-journalism",
+        "fellowship",
+        "early-career"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Covers tuition, a stipend, and health insurance; exact stipend amount not stated."
+      },
+      "deadline": "2027-01-01",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "ijnet-opportunities",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Requires admission to Cronkite's MAIJ/MMC graduate program (early admission deadline Dec 1, 2026); this is degree-linked, not a pure grant. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "gfmd-fundings-spj-foundation-2026-grant-cycle",
+      "funder": "Society of Professional Journalists (SPJ) Foundation",
+      "programme": "SPJ Foundation 2026 Grant Cycle",
+      "summary": "Grants for journalists, media professionals and organizations advocating for press freedom, newsroom resilience, media literacy and public trust in journalism; a separate small Freelance Fund mini-grant also exists for SPJ members.",
+      "url": "https://gfmd.info/fundings/spj-foundation-2026-grant-cycle/",
+      "applyUrl": "https://www.spj.org/spj-foundation-grants/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "core"
+      ],
+      "topics": [
+        "press-freedom",
+        "media-literacy"
+      ],
+      "amount": {
+        "min": null,
+        "max": 500,
+        "currency": "USD",
+        "note": "Main grant-cycle amounts not stated; a separate Freelance Fund mini-grant tops out at $500 and requires paid SPJ membership."
+      },
+      "deadline": "2026-08-13",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "US"
+      ],
+      "sourceId": "gfmd-fundings",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Primarily US-focused (SPJ is a US organization). Deadline already passed; annual recurring cycle. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "gfmd-fundings-european-cross-border-grants",
+      "funder": "Journalismfund Europe",
+      "programme": "European Cross-border Grants",
+      "summary": "A long-running programme supporting cross-border teams of professional journalists and/or news outlets investigating European topics, across several application rounds per year.",
+      "url": "https://gfmd.info/fundings/european-cross-border-grants-2026/",
+      "applyUrl": "https://www.journalismfund.eu/european-cross-border-grants",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "cross-border",
+        "investigative",
+        "europe"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": "€280,000 total pool distributed per call round among all funded projects; individual award size not stated."
+      },
+      "deadline": "2026-10-01",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "europe"
+      ],
+      "sourceId": "gfmd-fundings",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Teams of at least 2 professional journalists/outlets from at least 2 different European countries; at least 80% of budget must go to EU-based team members. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "journalismfund-environmental-investigative-journalism",
+      "funder": "Journalismfund Europe",
+      "programme": "Environmental Investigative Journalism grants",
+      "summary": "Grants for cross-border teams investigating environmental issues, funding reporting costs for print, online, or broadcast stories with a strong environmental angle.",
+      "url": "https://www.journalismfund.eu/environmental-investigative-journalism",
+      "applyUrl": "https://grants.journalismfund.eu/en/environmental-investigative-journalism",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "environment",
+        "cross-border",
+        "investigative"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": "Around €400,000 total pool distributed per call among funded investigations; individual amounts not stated."
+      },
+      "deadline": "2026-08-06",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "europe"
+      ],
+      "sourceId": "journalismfund",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Solo applications are not eligible — must be a team of at least two journalists/outlets from different countries, with letters of intent to publish from at least two outlets. Three rounds ran in 2026 (Jan 22, Apr 23, Aug 6), all now past. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "ij4eu-investigation-support-scheme",
+      "funder": "Investigative Journalism for Europe (IJ4EU)",
+      "programme": "Investigation Support Scheme",
+      "summary": "Funds cross-border investigative journalism projects across Europe in any format (print, broadcast, online, documentary, multi-platform), plus mentoring, training, legal and security assistance.",
+      "url": "https://investigativejournalismforeu.net/grants/investigation-support-scheme/",
+      "applyUrl": "https://investigativejournalismforeu.net/grants/investigation-support-scheme/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "legal",
+        "training"
+      ],
+      "topics": [
+        "investigative",
+        "cross-border",
+        "europe"
+      ],
+      "amount": {
+        "min": 5000,
+        "max": 50000,
+        "currency": "EUR",
+        "note": "€1.2 million total available across the 2026-27 cycle."
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": "2026-12-01",
+      "status": "upcoming",
+      "geoScope": [
+        "europe-eu",
+        "europe-eu-candidate"
+      ],
+      "sourceId": "ij4eu",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Requires teams with members in at least two Creative Europe-eligible countries. First 2026-27 call already closed (deadline Apr 13, 2026); a second call opens Dec 1, 2026, exact deadline (nine weeks after opening) not stated verbatim. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "ij4eu-freelancer-support-scheme",
+      "funder": "Investigative Journalism for Europe (IJ4EU)",
+      "programme": "Freelancer Support Scheme",
+      "summary": "Grants specifically for cross-border investigative teams made up predominantly of freelance journalists, plus training, mentoring and networking support.",
+      "url": "https://investigativejournalismforeu.net/grants/freelancer-support-scheme/",
+      "applyUrl": "https://investigativejournalismforeu.net/grants/freelancer-support-scheme/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "project",
+        "training"
+      ],
+      "topics": [
+        "freelance",
+        "cross-border",
+        "investigative"
+      ],
+      "amount": {
+        "min": null,
+        "max": 20000,
+        "currency": "EUR",
+        "note": "Up to €20,000 per team; about €400,000 total available across the 2026-27 cycle."
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": "2026-12-01",
+      "status": "upcoming",
+      "geoScope": [
+        "europe-eu",
+        "europe-eu-candidate"
+      ],
+      "sourceId": "ij4eu",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Requires a team of at least two freelancers, not a solo application. First call closed Apr 13, 2026; second call opens Dec 1, 2026, exact deadline not stated verbatim. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "ij4eu-uncovered-2026-travel-grant",
+      "funder": "Investigative Journalism for Europe (IJ4EU)",
+      "programme": "Travel grant to attend IJ4EU UNCOVERED 2026",
+      "summary": "Small travel grants to help journalists attend the IJ4EU UNCOVERED conference, a networking and training event for investigative journalists in Europe.",
+      "url": "https://investigativejournalismforeu.net/travel2uncovered2026/",
+      "applyUrl": "https://investigativejournalismforeu.net/travel2uncovered2026/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "travel"
+      ],
+      "topics": [
+        "conference",
+        "travel",
+        "networking"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": null
+      },
+      "deadline": "2026-08-20",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "europe"
+      ],
+      "sourceId": "ij4eu",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "This is a conference-attendance travel grant, not a reporting grant. Deadline already passed. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "pulitzer-center-global-reporting-grants",
+      "funder": "Pulitzer Center",
+      "programme": "Global Reporting Grants",
+      "summary": "Rolling-basis grants supporting in-depth, high-impact reporting on underreported global issues, open to journalists and newsrooms worldwide with no restriction on topic or reporting location.",
+      "url": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/global-reporting-grants",
+      "applyUrl": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/global-reporting-grants",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "global",
+        "investigative",
+        "rolling"
+      ],
+      "amount": {
+        "min": 5000,
+        "max": 10000,
+        "currency": "USD",
+        "note": "Typically $5,000-$10,000; larger amounts considered in exceptional cases."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "pulitzer-center",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Accepted year-round with no fixed deadline. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "pulitzer-center-ai-accountability-fellowships",
+      "funder": "Pulitzer Center",
+      "programme": "AI Accountability Fellowships (2026-27)",
+      "summary": "A fellowship funding investigative reporting projects examining the accountability and societal impact of artificial intelligence systems.",
+      "url": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships",
+      "applyUrl": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "investment"
+      ],
+      "topics": [
+        "ai",
+        "accountability",
+        "investigative"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "note": "Third-party listings gave conflicting figures for the amount, so left unspecified rather than guessed."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "pulitzer-center",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Applications for the 2026-27 cycle are already closed per search results; likely to reopen in a future annual cycle. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "iwmf-fault-lines-reporting-fund",
+      "funder": "International Women's Media Foundation (IWMF)",
+      "programme": "Fault Lines Reporting Fund",
+      "summary": "Supports print, broadcast, digital and multimedia investigative reporting on the forces driving racism, antisemitism, Islamophobia, misogyny and other forms of intolerance and hate within the United States.",
+      "url": "https://www.iwmf.org/programs/",
+      "applyUrl": "https://iwmf.submittable.com/submit/f8b1761b-8064-40c6-b8c0-e349b0bc3881/fault-lines-reporting-fund",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "hate",
+        "extremism",
+        "us-focus"
+      ],
+      "amount": {
+        "min": 2500,
+        "max": 10000,
+        "currency": "USD",
+        "note": "Grants range from $2,500 to $10,000."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "iwmf",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Applicants need 3+ years of professional journalism experience, or evidence of editor interest; individuals and teams may apply worldwide, but the funded reporting must focus on the United States. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "iwmf-kari-howard-fund-for-narrative-journalism",
+      "funder": "International Women's Media Foundation (IWMF)",
+      "programme": "Kari Howard Fund for Narrative Journalism (2026)",
+      "summary": "Supports narrative (long-form) journalism projects by women and nonbinary journalists, funding reporting and production costs for stories published in English.",
+      "url": "https://www.iwmf.org/programs/kari-howard-fund/",
+      "applyUrl": "https://iwmf.submittable.com/submit/c65a15f2-9ff5-4c2b-b2a3-2d897c703381/the-kari-howard-fund-for-narrative-journalism-2026",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "narrative",
+        "longform",
+        "gender"
+      ],
+      "amount": {
+        "min": null,
+        "max": 5000,
+        "currency": "USD",
+        "note": "Grants reported as averaging about $5,000."
+      },
+      "deadline": "2026-07-12",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "iwmf",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open to women and nonbinary journalists (freelance or staff); reporting and publication must be in English. 2026 window (closed July 12) has ended; next cycle timing unknown. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "iwmf-elizabeth-neuffer-fellowship",
+      "funder": "International Women's Media Foundation (IWMF)",
+      "programme": "Elizabeth Neuffer Fellowship",
+      "summary": "A six-month fellowship for one woman or nonbinary journalist per year, focused on human rights and social justice reporting, combining study at MIT's Center for International Studies with a placement at The Boston Globe.",
+      "url": "https://www.iwmf.org/programs/",
+      "applyUrl": "https://iwmf.submittable.com/submit",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship"
+      ],
+      "topics": [
+        "human-rights",
+        "fellowship",
+        "social-justice"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Provides a fixed monthly stipend plus housing, round-trip airfare, health insurance and visa costs; no dollar figures found."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "iwmf",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open to women and nonbinary journalists from any country. 2026 fellow's placement runs Feb-July 2026, so the 2026 application cycle has already concluded; exact application deadline not found. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "fij-regular-grants",
+      "funder": "Fund for Investigative Journalism (FIJ)",
+      "programme": "Regular Grants",
+      "summary": "Grants to support in-depth investigative reporting for print, online or broadcast stories, books, documentaries or podcasts, covering costs like travel and public-records requests.",
+      "url": "https://fij.org/apply-for-a-grant/",
+      "applyUrl": "https://investigate.submittable.com/submit",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "investigative",
+        "freelance",
+        "reporting-grant"
+      ],
+      "amount": {
+        "min": null,
+        "max": 10000,
+        "currency": "USD",
+        "note": "Grants of up to $10,000."
+      },
+      "deadline": "2026-09-14",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "fij",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "FIJ runs three annual cycles (2026 deadlines Jan 30, Apr 27, Sep 14); the most recent deadline has just passed. Next cycle dates not yet found. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "fij-seed-grants",
+      "funder": "Fund for Investigative Journalism (FIJ)",
+      "programme": "Seed Grants",
+      "summary": "Small grants for preliminary or exploratory reporting that can develop into a full investigation, covering costs such as records requests and initial reporting trips.",
+      "url": "https://fij.org/apply-for-a-grant/",
+      "applyUrl": "https://investigate.submittable.com/submit",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "seed-funding",
+        "investigative",
+        "early-stage"
+      ],
+      "amount": {
+        "min": null,
+        "max": 2500,
+        "currency": "USD",
+        "note": "Grants of up to $2,500."
+      },
+      "deadline": "2026-09-14",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "fij",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Runs on the same review cycle as FIJ's Regular Grants; most recent 2026 deadline has passed. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "fij-alicia-patterson-fellowship",
+      "funder": "Fund for Investigative Journalism (FIJ) / Alicia Patterson Foundation",
+      "programme": "Alicia Patterson Fellowship",
+      "summary": "A fellowship supporting a single in-depth, long-form investigative reporting and writing project over six or twelve months. The Alicia Patterson Foundation merged into FIJ in December 2025.",
+      "url": "https://fij.org/apply-for-a-grant/",
+      "applyUrl": "https://investigate.submittable.com/submit",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship"
+      ],
+      "topics": [
+        "fellowship",
+        "longform",
+        "investigative"
+      ],
+      "amount": {
+        "min": 20000,
+        "max": 40000,
+        "currency": "USD",
+        "note": "Up to $20,000 for a 6-month fellowship, or up to $40,000 for a 12-month fellowship."
+      },
+      "deadline": "2026-10-01",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "fij",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Applications open each May and are due October 1, with decisions in early January; the window is currently open. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "earth-journalism-biodiversity-story-grants-2026",
+      "funder": "Earth Journalism Network (Internews)",
+      "programme": "Biodiversity Story Grants 2026",
+      "summary": "Reporting grants to produce in-depth, published journalism on biodiversity and nature-based solutions, paired with editorial mentorship.",
+      "url": "https://earthjournalism.net/opportunities",
+      "applyUrl": "https://earthjournalism.net/opportunities/biodiversity-and-nature-based-solutions-story-grants",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "training"
+      ],
+      "topics": [
+        "biodiversity",
+        "nature",
+        "environment"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": null
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "ET",
+        "ID",
+        "KE",
+        "KG",
+        "MG"
+      ],
+      "sourceId": "earth-journalism",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open to journalists based in Ethiopia, Indonesia, Kenya, Kyrgyzstan and Madagascar. Exact deadline and amount not found. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "earth-journalism-marine-conservation-media-grants-2026-2027",
+      "funder": "Earth Journalism Network (Internews)",
+      "programme": "Marine Conservation Media Grants 2026-2027",
+      "summary": "Media grants to strengthen journalism on marine conservation, funding newsroom reporting projects on ocean and coastal issues.",
+      "url": "https://earthjournalism.net/opportunities",
+      "applyUrl": "https://earthjournalism.net/opportunities",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "marine",
+        "ocean",
+        "conservation"
+      ],
+      "amount": {
+        "min": null,
+        "max": 10000,
+        "currency": "USD",
+        "note": "Five grants of up to US$10,000 each."
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "earth-journalism",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Not open to individual freelancers — organisations/newsrooms only. Open to media organisations in eligible coastal countries worldwide; priority given to applicants from Ghana, Mexico and the Philippines. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "rory-peck-crisis-fund",
+      "funder": "Rory Peck Trust",
+      "programme": "Crisis Fund",
+      "summary": "Emergency financial assistance for freelance journalists facing a crisis directly resulting from their work, such as physical attacks, urgent medical or equipment-replacement costs, or forced relocation.",
+      "url": "https://rorypecktrust.org/freelance-assistance/",
+      "applyUrl": "https://rorypecktrust.submittable.com/submit",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "emergency"
+      ],
+      "topics": [
+        "emergency",
+        "crisis",
         "safety"
       ],
       "amount": {
         "min": null,
         "max": null,
-        "currency": "GBP",
-        "note": "Assessed case by case"
+        "currency": null,
+        "note": "Assessed case-by-case."
       },
       "deadline": null,
       "deadlineType": "rolling",
@@ -1224,84 +1103,518 @@
         "global"
       ],
       "sourceId": "rory-peck",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Freelancers only. Applications accepted on a rolling basis."
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open to freelance journalists working in news and current affairs worldwide, whose sole income comes from journalism (no regular salary/retainer). Not confirmed on the funder's own page."
     },
     {
-      "id": "unesco-gmdf-partnerships",
-      "funder": "UNESCO",
-      "programme": "Global Media Defence Fund — Call for Partnerships",
-      "summary": "Support for local, regional and global non-profits implementing projects that bolster journalists' legal safety and advance media freedom through investigative journalism and strategic litigation.",
-      "url": "https://www.unesco.org/en/articles/global-media-defence-fund-launches-6th-call-partnerships-strengthen-legal-protection-journalists",
-      "applyUrl": "https://www.unesco.org/en/safety-journalists/global-media-defence-fund",
+      "id": "rory-peck-recovery-fund",
+      "funder": "Rory Peck Trust",
+      "programme": "Recovery Fund",
+      "summary": "Grants for freelance journalists and their families facing financial hardship as a direct result of their journalism work, to support recovery and safer continuation of work.",
+      "url": "https://rorypecktrust.org/how-we-help/financial-support/",
+      "applyUrl": "https://rorypecktrust.submittable.com/submit",
       "applicantTypes": [
-        "organisation"
+        "freelancer"
       ],
       "supportTypes": [
-        "project",
-        "legal"
+        "emergency"
       ],
       "topics": [
-        "safety",
-        "legal",
-        "impunity"
+        "hardship",
+        "recovery",
+        "safety"
       ],
       "amount": {
-        "min": 15000,
-        "max": 50000,
-        "currency": "USD",
-        "note": "Indicative budget $800,000; 16–25 grants expected"
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": null
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "rory-peck",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open to freelance journalists (and their families) worldwide, working in news and current affairs. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "rory-peck-hefat-training-fund-bursaries-2026",
+      "funder": "Rory Peck Trust",
+      "programme": "HEFAT Training Fund Bursaries 2026",
+      "summary": "Bursaries covering the cost of Hostile Environment and First Aid Training (HEFAT) courses, helping freelance journalists build safety and first-aid skills for high-risk assignments.",
+      "url": "https://rorypecktrust.org/get-help/training/hefat-training-fund/",
+      "applyUrl": "https://rorypecktrust.submittable.com/submit/b9880d76-bb68-48c7-9c42-417edfd8fa1e/hefat-bursaries-2026",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "training"
+      ],
+      "topics": [
+        "safety-training",
+        "hefat",
+        "freelancer"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Covers cost of a HEFAT course."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "rory-peck",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Requires at least 18 months' experience in newsgathering/current affairs; priority to those working in hostile environments or with a confirmed assignment. Processing time currently around six weeks due to high volume. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "one-world-media-fellowship",
+      "funder": "One World Media",
+      "programme": "One World Media Fellowship",
+      "summary": "A year-long remote fellowship providing a reporting grant, one-to-one mentoring, industry workshops and a peer network to help mid-career journalists and filmmakers develop existing Global South reporting.",
+      "url": "https://oneworldmedia.org.uk/funding/",
+      "applyUrl": "https://oneworldmedia.org.uk/fellowship/apply/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "training"
+      ],
+      "topics": [
+        "fellowship",
+        "global-south",
+        "mentoring"
+      ],
+      "amount": {
+        "min": null,
+        "max": 3000,
+        "currency": "GBP",
+        "note": "Up to £3,000 reporting grant."
       },
       "deadline": null,
       "deadlineType": "recurring",
       "opensAt": null,
-      "status": "upcoming",
+      "status": "closed",
       "geoScope": [
         "global"
       ],
-      "sourceId": "unesco-gmdf",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The 6th call ran 4 November 2025 – 2 January 2026. Non-profit organisations only, not individuals. Calls are roughly annual."
+      "sourceId": "one-world-media",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open to mid-career journalists and filmmakers based in the Global South (no single region code captures this — see summary). Call opens each February with a March deadline; 2026 Fellows already announced in June 2026, so this cycle is closed. Not confirmed on the funder's own page."
     },
     {
-      "id": "unesco-ipdc-call",
-      "funder": "UNESCO",
-      "programme": "IPDC — Call for Project Proposals",
-      "summary": "The International Programme for the Development of Communication funds media development in developing countries, countries in transition and conflict or post-conflict situations.",
-      "url": "https://www.unesco.org/en/international-programme-development-communication",
-      "applyUrl": "https://www.unesco.org/en/international-programme-development-communication",
+      "id": "one-world-media-climate-reporting-gap-fellowship",
+      "funder": "One World Media",
+      "programme": "Climate Reporting Gap Fellowship",
+      "summary": "Project grants and one-to-one mentoring for journalists reporting on under-covered climate stories, disbursed in instalments per project.",
+      "url": "https://oneworldmedia.org.uk/projects/climate-reporting-gap-fellowship/",
+      "applyUrl": "https://oneworldmedia.org.uk/projects/climate-reporting-gap-fellowship/",
       "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "project",
+        "fellowship"
+      ],
+      "topics": [
+        "climate",
+        "fellowship",
+        "global-south"
+      ],
+      "amount": {
+        "min": 3000,
+        "max": 5000,
+        "currency": "GBP",
+        "note": "£3,000-£5,000 per project, paid in instalments."
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "one-world-media",
+      "lastVerified": "2026-09-17",
+      "confidence": "low",
+      "provenance": "auto",
+      "notes": "Geographic eligibility not clearly stated beyond One World Media's usual Global South focus. All funded projects were required to be completed by June 2026, so this round has ended; unclear if/when it recurs. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "free-press-unlimited-cross-border-ai-investigations",
+      "funder": "Free Press Unlimited",
+      "programme": "Grants for cross-border collaborative investigations on the impact of AI",
+      "summary": "Funded four grants of EUR 5,000 each to teams of journalists for cross-border collaborative investigative reporting on the impact of AI, covering a project period of September 2026 to February 2027.",
+      "url": "https://www.freepressunlimited.org/en/current/grants-cross-border-collaborative-investigations-impact-ai",
+      "applyUrl": "https://www.freepressunlimited.org/en/current/grants-cross-border-collaborative-investigations-impact-ai",
+      "applicantTypes": [
+        "freelancer",
         "organisation"
       ],
       "supportTypes": [
         "project"
       ],
       "topics": [
-        "media-development",
-        "capacity-building"
+        "ai",
+        "investigative-journalism",
+        "cross-border"
+      ],
+      "amount": {
+        "min": 5000,
+        "max": 5000,
+        "currency": "EUR",
+        "note": "Four grants of EUR 5,000 each, to teams of journalists."
+      },
+      "deadline": "2026-07-22",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "europe-eu"
+      ],
+      "sourceId": "free-press-unlimited",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open to independent European media organisations and freelance/staff journalists resident in the EU, including Ukrainian, Belarusian, or Russian journalists legally resident in the EU. Deadline has passed; kept for reference in case a future round reopens. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "mfrr-practical-legal-support",
+      "funder": "Media Freedom Rapid Response (MFRR)",
+      "programme": "Practical and legal support for journalists",
+      "summary": "Beyond monitoring and advocacy, the MFRR consortium (led by ECPMF with ARTICLE19 Europe, EFJ, IPI, Free Press Unlimited, and OBCT) provides direct practical support to journalists in danger: medical assistance for work-related injuries, subsistence costs, psychological support, digital-safety tools, family support, and help with legal proceedings or relocation.",
+      "url": "https://www.mfrr.eu/support/practical-support/",
+      "applyUrl": "https://www.freepressunlimited.org/en/application-form-reporters-respond",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "emergency",
+        "legal"
+      ],
+      "topics": [
+        "emergency",
+        "legal-aid",
+        "safety",
+        "relocation"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "No fixed amount stated; support is need-based (medical, subsistence, psychological, legal costs)."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "europe-eu",
+        "europe-eu-candidate"
+      ],
+      "sourceId": "mfrr",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "MFRR is primarily a monitoring/advocacy consortium, but this practical-support arm is a genuine assistance scheme delivered operationally via Free Press Unlimited's application channel. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "ned-grants-program",
+      "funder": "National Endowment for Democracy (NED)",
+      "programme": "NED Grants Program",
+      "summary": "Awards grants to nongovernmental organisations — including independent media, civic groups and associations — working to advance democratic goals, in more than 100 countries. Does not fund individuals, government bodies, or state-supported institutions.",
+      "url": "https://www.ned.org/apply-for-grant/",
+      "applyUrl": "https://www.ned.org/apply-for-grant/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "core",
+        "project"
+      ],
+      "topics": [
+        "independent-media",
+        "democracy",
+        "ngo-funding"
       ],
       "amount": {
         "min": null,
         "max": null,
         "currency": "USD",
+        "note": "Described as averaging roughly USD 50,000 for a typical ~12-month grant; not a stated fixed range."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "ned",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "For organisations working in newly established democracies, semi-authoritarian states, highly repressive societies, and countries in democratic transition; generally excludes projects located in established democracies. Not open to individual freelance journalists. A quarterly submission pattern was reported but no specific 2026 date could be corroborated reliably enough to report. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "eed-open-grant",
+      "funder": "European Endowment for Democracy",
+      "programme": "EED Open Grant / Request for Support",
+      "summary": "Provides flexible, rolling financial and technical support to independent media outlets, journalists, bloggers and pro-democracy civil society actors, including in repressive or conflict-affected environments.",
+      "url": "https://www.democracyendowment.eu/en/support.html",
+      "applyUrl": "https://apply.democracyendowment.eu/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "core",
+        "project",
+        "emergency"
+      ],
+      "topics": [
+        "independent-media",
+        "press-freedom",
+        "rolling-grant"
+      ],
+      "amount": {
+        "min": 10000,
+        "max": 150000,
+        "currency": "EUR",
+        "note": "EED states requests for support 'usually' range €10,000-€150,000 but has no formal funding range."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "europe-western-balkans",
+        "europe-eastern-partnership",
+        "mena",
+        "TR",
+        "RU",
+        "asia-central"
+      ],
+      "sourceId": "eed",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Official registration is reportedly not required; individuals, bloggers and informal/unregistered groups are eligible alongside organisations. Rolling basis, no fixed deadline (EED aims to respond within ~12 weeks). Covers EU Eastern and Southern Neighbourhood, Western Balkans and wider region (not for EU-internal media). Not confirmed on the funder's own page."
+    },
+    {
+      "id": "civitates-media-independent-journalism",
+      "funder": "Civitates (philanthropic collaborative, via King Baudouin Foundation)",
+      "programme": "Strengthening Independent Public Interest Journalism in Europe",
+      "summary": "Core funding for non-profit, independent public-interest media organisations in a set of EU countries, to strengthen organisational sustainability, business models, editorial development and audience engagement over a two-year period.",
+      "url": "https://civitates-eu.org/funding-opportunities/",
+      "applyUrl": "https://civitates-eu.org/funding-opportunity/call-for-proposals-strengthening-independent-public-interest-journalism-in-europe/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "core"
+      ],
+      "topics": [
+        "media-sustainability",
+        "core-funding",
+        "public-interest-journalism"
+      ],
+      "amount": {
+        "min": null,
+        "max": 160000,
+        "currency": "EUR",
+        "note": "Reported maximum of up to €160,000 per organisation over two years (~€80,000/year), capped at half the applicant's 2024 total spending."
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "HU",
+        "PL",
+        "IT",
+        "ES",
+        "BG",
+        "SK",
+        "HR"
+      ],
+      "sourceId": "civitates",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Open only to media organisations registered in Hungary, Poland, Italy, Spain, Bulgaria, Slovakia and Croatia. King Baudouin Foundation has confirmed roughly €2.467M already granted to 11 outlets under this call, indicating this round has concluded; a newer 2026 round was not independently confirmed. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "fritt-ord-norwegian-journalism-programme",
+      "funder": "Fritt Ord Foundation",
+      "programme": "Norwegian Journalism grants (Norsk journalistikk)",
+      "summary": "Recurring project grants for journalism on topics important to public debate in Norway, prioritising investigative or otherwise resource-intensive reporting. Freelancers with a publication agreement from an editorial outlet are explicitly invited to apply alongside newsrooms.",
+      "url": "https://frittord.no/en/support",
+      "applyUrl": "https://frittord.no/nb/sok-stotte/soknadsfrister",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "investigative-journalism",
+        "freelance-journalism",
+        "norway"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "NOK",
+        "note": "Fritt Ord allocates up to NOK 25 million per year in total to journalism projects across all grantees; no single-grant amount was stated."
+      },
+      "deadline": "2026-10-23",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "NO"
+      ],
+      "sourceId": "fritt-ord",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Freelancer applicants must submit brief verification of their publishing agreement and remuneration level; projects/topics must relate to Norwegian public debate. 2026 deadlines: Apr 24 and Aug 14 (both passed), and Oct 23 (upcoming, used here). Not confirmed on the funder's own page."
+    },
+    {
+      "id": "fritt-ord-oxford-journalism-fellowship",
+      "funder": "Fritt Ord Foundation",
+      "programme": "Fritt Ord's Journalism Fellowship at the Reuters Institute, Oxford",
+      "summary": "Funds a six-month fellowship at the Reuters Institute for the Study of Journalism, University of Oxford, for a Norwegian journalist to conduct research and professional development abroad.",
+      "url": "https://frittord.no/en/projects/media-and-journalism/the-fritt-ord-journalism-fellowship-2020",
+      "applyUrl": "https://frittord.no/nb/prosjekter/medier-og-journalistikk/fritt-ords-journaliststipend-i-oxford",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship"
+      ],
+      "topics": [
+        "fellowship",
+        "norway",
+        "reuters-institute"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": null
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "NO"
+      ],
+      "sourceId": "fritt-ord",
+      "lastVerified": "2026-09-17",
+      "confidence": "low",
+      "provenance": "auto",
+      "notes": "Open to Norwegian journalists only (fellowship hosted in Oxford, UK). Amount and current application deadline could not be confirmed via search; programme appears to run on an annual/recurring basis. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "icfj-knight-fellowship",
+      "funder": "International Center for Journalists (ICFJ)",
+      "programme": "ICFJ Knight Fellowships",
+      "summary": "Supports individual journalists and media innovators proposing their own project targeting news innovation (new tools, formats, business models) rather than applying to a fixed call.",
+      "url": "https://www.icfj.org/our-work/programs",
+      "applyUrl": "https://www.icfj.org/our-work/knight/icfj-knight-fellowships-apply-now",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship"
+      ],
+      "topics": [
+        "fellowship",
+        "media-innovation",
+        "rolling"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": null
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "icfj",
+      "lastVerified": "2026-09-17",
+      "confidence": "low",
+      "provenance": "auto",
+      "notes": "ICFJ's own page reportedly states no fixed openings are posted, but invites candidates to propose an idea for a potential fellowship at any time — treated here as a rolling, propose-based route rather than a scheduled call. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "icfj-burns-fellowship",
+      "funder": "International Center for Journalists (ICFJ)",
+      "programme": "Arthur F. Burns Fellowship",
+      "summary": "A journalist exchange programme between the US/Canada and Germany: journalists spend roughly eight weeks working in a newsroom in the partner country after a one-week orientation, to build transatlantic reporting collaboration.",
+      "url": "https://www.icfj.org/our-work/burns",
+      "applyUrl": "https://www.icfj.org/our-work/burns",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "travel"
+      ],
+      "topics": [
+        "exchange-fellowship",
+        "germany",
+        "newsroom-placement"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
         "note": null
       },
       "deadline": null,
       "deadlineType": "recurring",
       "opensAt": null,
-      "status": "upcoming",
+      "status": "closed",
       "geoScope": [
-        "global"
+        "US",
+        "CA",
+        "DE"
       ],
-      "sourceId": "unesco-ipdc",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "The 2026 call closed 8 February 2026. Runs annually; proposals normally go through National Commissions for UNESCO."
+      "sourceId": "icfj",
+      "lastVerified": "2026-09-17",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "For US/Canadian journalists, or German journalists, applying for a reciprocal exchange. The 2026 cohort's deadlines (Mar 1 for US/Canada, Feb 1 for Germany) have already passed, with the exchange running roughly late July-September 2026. Next cycle's deadlines (likely early 2027) were not found. Not confirmed on the funder's own page."
     }
   ]
 }
