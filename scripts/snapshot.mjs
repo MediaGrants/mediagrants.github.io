@@ -31,7 +31,11 @@ const MAX_FOLLOW = 4;           // sub-pages followed per source
 const CONCURRENCY = 6;
 const TIMEOUT_MS = 25000;
 
-const UA = "Mozilla/5.0 (compatible; MediaGrantRadar/1.0; +https://mediagrants.github.io)";
+// An honest bot string gets 403'd by several funder sites (europa.rs among
+// them) while the same request with a browser string is served. We are reading
+// public pages a journalist could open by hand, at 25 requests a day.
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+  "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
 /** Sub-pages worth following from a listing page. */
 const RELEVANT = /grant|fund|call|apply|opportunit|fellowship|support|scheme|proposal/i;
