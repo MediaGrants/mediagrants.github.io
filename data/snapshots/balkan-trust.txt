@@ -1,6 +1,6 @@
 SOURCE: Balkan Trust for Democracy (GMF)
 URL: https://www.gmfus.org/
-FETCHED: 2026-09-17T16:28:21.860Z
+FETCHED: 2026-09-17T16:30:57.198Z
 TITLE: German Marshall Fund of the United States
 
 === MAIN PAGE ===

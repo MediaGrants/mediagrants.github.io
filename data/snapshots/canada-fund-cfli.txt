@@ -1,6 +1,6 @@
 SOURCE: Canada Fund for Local Initiatives
 URL: https://www.international.gc.ca/
-FETCHED: 2026-09-17T16:28:22.371Z
+FETCHED: 2026-09-17T16:30:57.644Z
 TITLE: Global Affairs Canada – Splash page / Affaires mondiales Canada – Page de garde
 
 === MAIN PAGE ===
