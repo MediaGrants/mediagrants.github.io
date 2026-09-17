@@ -293,6 +293,14 @@ a:focus-visible {
   color: var(--ink-faint);
 }
 
+.subscribe {
+  margin: 8px 0 0;
+  font-size: 13px;
+  color: var(--ink-faint);
+}
+.subscribe a { color: var(--accent); }
+#feed-scope { color: var(--ink-faint); }
+
 .cards { display: flex; flex-direction: column; gap: 12px; }
 
 .card {

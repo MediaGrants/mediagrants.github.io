@@ -43,6 +43,11 @@ jobs:
       - name: Validate grant data
         run: node scripts/validate.mjs
 
+      # Built at deploy time rather than committed: they are derived from the
+      # data, and rebuilding them here means they can never drift from it.
+      - name: Build per-country feeds and calendars
+        run: node scripts/feeds.mjs
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3

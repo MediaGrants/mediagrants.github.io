@@ -100,6 +100,12 @@
     <div class="results-head">
       <h2 id="result-count">Loading calls…</h2>
       <p id="result-context" class="result-context"></p>
+      <p class="subscribe">
+        Follow these without coming back:
+        <a id="feed-rss" href="feeds/all.xml">news reader</a> ·
+        <a id="feed-ics" href="feeds/all.ics">calendar of deadlines</a>
+        <span id="feed-scope"></span>
+      </p>
     </div>
     <div id="cards" class="cards"></div>
     <p id="empty" class="empty" hidden>No calls match these filters. Try widening the country or clearing the "kind of support" boxes.</p>
@@ -111,6 +117,7 @@
   <div class="wrap">
     <p><strong>How this works.</strong> An automated sweep re-reads the websites of the funders and aggregators listed in <code>data/sources.json</code> and rewrites <code>data/grants.json</code>. Everything on this page comes from that file.</p>
     <p><strong>Always check the funder's own page before you apply.</strong> Deadlines move, calls are withdrawn, and eligibility rules change between rounds. Entries carry the date they were last verified; treat anything older than two weeks as a lead, not a fact.</p>
+    <p><strong>Know a funder we are missing?</strong> Local and national funders are exactly what an automated sweep cannot find on its own — a journalist in the country usually knows them first. <a href="https://github.com/MediaGrants/mediagrants.github.io/issues/new?title=Suggest%20a%20funder&amp;body=Funder%20name%3A%0AWebsite%3A%0ACountries%20it%20funds%3A%0AWho%20can%20apply%20(freelancers%2C%20organisations)%3A%0AAnything%20else%20worth%20knowing%3A%0A" target="_blank" rel="noopener noreferrer">Suggest one here</a> — it takes a minute and needs only a free GitHub account.</p>
     <p class="foot-meta">Built for newsroom project managers and freelance journalists. <span id="foot-generated"></span></p>
   </div>
 </footer>

@@ -334,6 +334,15 @@
     if (f.applicant) bits.push("open to " + (APPLICANT_LABELS[f.applicant] || f.applicant).toLowerCase());
     el.context.textContent = bits.join(" · ");
 
+    // The feeds are per country, not per filter combination: a file exists for
+    // each country, and there is no server to build one for an arbitrary query.
+    var feed = f.country || "all";
+    document.getElementById("feed-rss").href = "feeds/" + feed + ".xml";
+    document.getElementById("feed-ics").href = "feeds/" + feed + ".ics";
+    document.getElementById("feed-scope").textContent = f.country
+      ? "— for " + (state.geo.countryNames[f.country] || f.country)
+      : "— worldwide; pick a country above to narrow them";
+
     writeUrl(f);
   }
 
