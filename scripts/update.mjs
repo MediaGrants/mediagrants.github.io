@@ -326,6 +326,14 @@ async function main() {
     }
   });
 
+  // If not a single source could be read, we learned nothing. Writing anyway
+  // would only bump generatedAt, and the site would tell readers it was
+  // "Updated today" on the strength of a sweep that verified nothing.
+  if (!swept.size) {
+    console.error(`every one of the ${due.length} due sources failed — refusing to write`);
+    process.exit(1);
+  }
+
   const grants = merge(grantsFile.grants || [], found, swept);
   const openNow = grants.filter((g) => g.status === "open").length;
   console.log(`\n${grants.length} calls total, ${openNow} open, ${failures} source(s) failed`);
