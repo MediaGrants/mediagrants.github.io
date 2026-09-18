@@ -1,90 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-18T04:20:56.096Z",
+  "generatedAt": "2026-09-18T11:20:14.779Z",
   "grants": [
-    {
-      "id": "au-embassy-belgrade-direct-aid-program",
-      "funder": "Australian Embassy Belgrade (Direct Aid Program)",
-      "programme": "Direct Aid Program (DAP) — Serbia, North Macedonia & Montenegro",
-      "summary": "Australia's small-grants aid programme, managed by the Embassy in Belgrade, funds small-scale community and civil-society projects in Serbia, North Macedonia and Montenegro. It runs as an annual call — most recently open 15 September to 5 October 2025 — and the exact FY2026-27 opening/closing dates for the Belgrade round could not be confirmed today.",
-      "url": "https://serbia.embassy.gov.au/bgde/direct-aid-program.html",
-      "applyUrl": "https://dap.smartygrants.com.au/",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "human-rights",
-        "media-freedom",
-        "governance",
-        "gender",
-        "education",
-        "youth",
-        "disability",
-        "mental-health"
-      ],
-      "track": "adjacent",
-      "eligibleActivity": "DAP's own published priorities for Serbia/North Macedonia/Montenegro explicitly list 'promoting human rights, media freedom and good governance' alongside gender equality and youth priorities, so a documentation, reporting or public-education project on human rights, corruption or press-freedom issues sits under a named priority, not an inferred one. Funding is awarded to the project rather than to the applicant's profession, so an outlet would need to apply as, or in partnership with, a registered local NGO/CSO in Serbia, North Macedonia or Montenegro rather than as an individual freelancer.",
-      "amount": {
-        "min": null,
-        "max": 20000,
-        "currency": "AUD",
-        "note": "Up to AUD 20,000 per project, per the FY2025-26 Belgrade guidelines; the cap for the FY2026-27 round has not been independently reconfirmed."
-      },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "RS",
-        "MK",
-        "ME"
-      ],
-      "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-09-18",
-      "confidence": "medium",
-      "provenance": "auto",
-      "notes": "Today's snapshot of the shared SmartyGrants portal is a landing page whose only followed live round was Cairo (Egypt), FY2026-27, closing 22 Sept 2026 — it did not confirm Belgrade-specific 2026-27 dates. WebSearch found the FY2025-26 Belgrade round ran 15 Sept - 5 Oct 2025, capped at AUD 20,000, with priorities 'human rights, media freedom and good governance', gender equality, youth-with-disabilities education/employment, and youth mental health. This is a corrected replacement for the previous seed entry, whose amount (EUR 10,000), currency and stated priorities (green transition) matched nothing found on the funder's own materials. Not confirmed on the funder's own page for the current round; check the SmartyGrants portal directly for the live Belgrade-specific deadline."
-    },
-    {
-      "id": "fpu-reporters-respond",
-      "funder": "Free Press Unlimited",
-      "programme": "Reporters Respond",
-      "summary": "Emergency response fund providing direct assistance, legal support and safety advice to journalists and media outlets in distress. In the most urgent cases support can be released within 24 hours.",
-      "url": "https://freepressunlimited.org/en/projects/reporters-respond-emergency-funding-for-the-media",
-      "applyUrl": "https://freepressunlimited.org/en/projects/reporters-respond-emergency-funding-for-the-media",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "emergency",
-        "legal"
-      ],
-      "topics": [
-        "safety"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": "Assessed case by case"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "reporters-respond",
-      "lastVerified": "2026-09-16",
-      "confidence": "high",
-      "provenance": "seed",
-      "notes": "Applications accepted on a rolling basis."
-    },
     {
       "id": "visegrad-fund-grants",
       "funder": "International Visegrad Fund",
@@ -125,80 +42,6 @@
       "notes": "Not yet verified. The fund historically ran fixed deadlines several times a year — confirm the current calendar."
     },
     {
-      "id": "media-defence-legal-support",
-      "funder": "Media Defence",
-      "programme": "Legal defence support",
-      "summary": "Legal support and funding for the defence of journalists, bloggers and independent media facing prosecution or civil suits over their work.",
-      "url": "https://www.mediadefence.org/",
-      "applyUrl": "https://www.mediadefence.org/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "legal"
-      ],
-      "topics": [
-        "legal",
-        "safety"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "GBP",
-        "note": "Covers legal costs rather than paying a grant"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "media-defence",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified against the funder's site."
-    },
-    {
-      "id": "mdif-investment",
-      "funder": "Media Development Investment Fund",
-      "programme": "Debt and equity financing for independent media",
-      "summary": "Affordable financing (loans, equity, and related advisory support) for independent news businesses in countries with a history of media oppression. Not a grant — a capital investment in the business.",
-      "url": "https://www.mdif.org/",
-      "applyUrl": "https://www.mdif.org/",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "investment",
-        "core"
-      ],
-      "topics": [
-        "sustainability",
-        "business-model"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "USD",
-        "note": "Case by case"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "mdif",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified. Financing, not grant funding — repayment terms apply."
-    },
-    {
       "id": "reporters-shield-membership",
       "funder": "Reporters Shield",
       "programme": "Membership — defamation defence cover",
@@ -234,43 +77,6 @@
       "confidence": "low",
       "provenance": "seed",
       "notes": "Not yet verified against the programme's site."
-    },
-    {
-      "id": "rsf-assistance",
-      "funder": "Reporters Without Borders (RSF)",
-      "programme": "Assistance desk",
-      "summary": "Individual assistance for journalists at risk — legal aid, medical costs, relocation and equipment replacement.",
-      "url": "https://rsf.org/en/assistance",
-      "applyUrl": "https://rsf.org/en/assistance",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "emergency",
-        "legal"
-      ],
-      "topics": [
-        "safety"
-      ],
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": "EUR",
-        "note": "Assessed case by case"
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "rsf",
-      "lastVerified": null,
-      "confidence": "low",
-      "provenance": "seed",
-      "notes": "Not yet verified against RSF's site."
     },
     {
       "id": "reuters-institute-fellowship",
@@ -2643,45 +2449,6 @@
       "notes": "Today's snapshot of arij.net confirms a standing 'Submit an investigation' (قدم تحقيقاً) intake and references pausing responses over winter holidays, indicating an ongoing/rolling submission process, but did not capture ARIJ's dedicated grants page. The $2,500 amount and eligible-country list come from a search of ARIJ's own site (en.arij.net) rather than today's snapshot content. Not confirmed on the funder's own page."
     },
     {
-      "id": "balkan-trust-media-freedom-wb6",
-      "funder": "Balkan Trust for Democracy (German Marshall Fund)",
-      "programme": "BTD Support for Western Balkans 6 — Media Freedom track",
-      "summary": "The Balkan Trust for Democracy funds civil society organisations registered in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. One of its two current thematic tracks is strengthening media freedom (the other combats domestic and gender-based violence). Proposals are accepted on a rolling basis with no fixed deadline until the grantmaking budget is exhausted.",
-      "url": "https://www.gmfus.org/balkan-trust-democracy/support-western-balkans-6",
-      "applyUrl": "https://www.gmfus.org/btd-grantmaking",
-      "applicantTypes": [
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "media freedom",
-        "press freedom",
-        "civil society",
-        "democracy"
-      ],
-      "track": "media",
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "note": null
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "europe-western-balkans"
-      ],
-      "sourceId": "balkan-trust",
-      "lastVerified": "2026-09-18",
-      "confidence": "medium",
-      "provenance": "auto",
-      "notes": "Today's snapshot of gmfus.org only captured generic GMF organisational pages (fellowships, donor FAQ) and never reached Balkan Trust for Democracy's own grant-call pages, so this entry is built from a search of GMF's own site. Only registered civil-society organisations in the six WB6 countries may apply — not individual freelancers. Not confirmed on the funder's own page."
-    },
-    {
       "id": "bertha-the-bertha-challenge",
       "funder": "Bertha Foundation",
       "programme": "The Bertha Challenge",
@@ -2798,6 +2565,656 @@
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Today's snapshot of astraeafoundation.org/grants/ was only a 145-word cookie-consent shell with no grant content (likely JS-rendered), so this entry relies entirely on WebSearch. The International Fund excludes the US and Canada and covers Africa, Asia/Pacific, Eastern Europe/former-Soviet countries, Latin America/Caribbean and the Middle East; whether Serbia specifically falls in Astraea's 'Eastern Europe' grouping was not confirmed, so geoScope is left as global rather than guessed. No specific 2026 deadline or grant-size ceiling was found; treat as an LOI-based rolling fund pending direct confirmation. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "eu-mogucnosti-glasno-o-pravima",
+      "funder": "EU Delegation to Serbia (via \"Glas(no) o pravima\" project)",
+      "programme": "Glas(no) o pravima: EU Grantovi za organizacije i medije",
+      "summary": "An EU-funded call offering EUR 12,000 per project to civil society organisations and independent media in Serbia to improve how human rights are communicated to and understood by local communities. It responds to research showing a gap between how CSOs talk about human rights and how citizens actually understand them.",
+      "url": "https://eumogucnosti.rs/glasno-o-pravima-eu-grantovi-za-organizacije-i-medije/",
+      "applyUrl": "https://eumogucnosti.rs/glasno-o-pravima-eu-grantovi-za-organizacije-i-medije/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "human-rights",
+        "media",
+        "civil-society",
+        "public-education"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "The call's own eligibility line names 'organizacije civilnog društva i nezavisne medije' (civil society organisations AND independent media) as who may apply, so a media outlet applies directly rather than through an inferred route. Its stated aim — supporting projects that improve how human rights are communicated and understood in local communities — is squarely a reporting/public-education activity, not a generic civil-society grant repurposed for journalism.",
+      "amount": {
+        "min": null,
+        "max": 12000,
+        "currency": "EUR",
+        "note": "12.000 evra po projektu, per today's snapshot of the call page."
+      },
+      "deadline": "2026-10-11",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "RS"
+      ],
+      "sourceId": "eu-mogucnosti",
+      "lastVerified": "2026-09-18",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": null
+    },
+    {
+      "id": "au-embassy-belgrade-direct-aid-program",
+      "funder": "Australian Embassy Belgrade (Direct Aid Program)",
+      "programme": "Direct Aid Program (DAP) — Serbia, North Macedonia & Montenegro",
+      "summary": "Australia's small-grants aid programme, managed by the Embassy in Belgrade, funds small-scale community and civil-society projects in Serbia, North Macedonia and Montenegro. It runs as an annual call — most recently open 15 September to 5 October 2025 — and the exact FY2026-27 opening/closing dates for the Belgrade round could not be confirmed today.",
+      "url": "https://serbia.embassy.gov.au/bgde/direct-aid-program.html",
+      "applyUrl": "https://dap.smartygrants.com.au/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "human-rights",
+        "media-freedom",
+        "governance",
+        "gender",
+        "education",
+        "youth",
+        "disability",
+        "mental-health"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "DAP's own published priorities for Serbia/North Macedonia/Montenegro explicitly list 'promoting human rights, media freedom and good governance' alongside gender equality and youth priorities, so a documentation, reporting or public-education project on human rights, corruption or press-freedom issues sits under a named priority, not an inferred one. Funding is awarded to the project rather than to the applicant's profession, so an outlet would need to apply as, or in partnership with, a registered local NGO/CSO in Serbia, North Macedonia or Montenegro rather than as an individual freelancer.",
+      "amount": {
+        "min": null,
+        "max": 20000,
+        "currency": "AUD",
+        "note": "Up to AUD 20,000 per project, per the FY2025-26 Belgrade guidelines; the cap for the FY2026-27 round has not been independently reconfirmed."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "upcoming",
+      "geoScope": [
+        "RS",
+        "MK",
+        "ME"
+      ],
+      "sourceId": "au-embassy-belgrade",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Re-verified today: today's snapshot of the shared SmartyGrants portal is a landing page whose only followed live round was Cairo (Egypt), FY2026-27, closing 22 Sept 2026 — it did not confirm Belgrade-specific 2026-27 dates. A fresh WebSearch confirms the FY2025-26 Belgrade round (15 Sept - 5 Oct 2025, AUD 20,000 cap, priorities 'human rights, media freedom and good governance') but found no FY2026-27 Belgrade-specific dates yet published; the FY2025-26 round is now closed and next dates are unconfirmed. Not confirmed on the funder's own page for the current round; check the SmartyGrants portal directly for the live Belgrade-specific deadline."
+    },
+    {
+      "id": "us-embassy-belgrade-mtd-small-grants",
+      "funder": "U.S. Embassy Belgrade (Public Diplomacy Section)",
+      "programme": "Media Training & Development (MT&D) Small Grants Program",
+      "summary": "A recurring small-grants line run by the U.S. Embassy Belgrade's Public Diplomacy Section, aimed specifically at strengthening the Serbian press and the free flow of accurate information. Past rounds (2020 and a 2024 round focused on countering foreign information manipulation and interference) funded workshops, training courses, conferences, hackathons and online projects; only registered organisations may apply, not individuals.",
+      "url": "https://rs.usembassy.gov/grants-programs-2/",
+      "applyUrl": "https://rs.usembassy.gov/grants-programs-2/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "training"
+      ],
+      "topics": [
+        "media",
+        "press-freedom",
+        "disinformation",
+        "media-literacy"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "This is not an inferred fit: the funder's own stated purpose for this specific small-grants line is 'to fund individual projects that support the strengthening of the Serbian press and ensure the free flow of accurate information to keep Serbia's citizens informed.' The most recent (2024) round required proposals to counter foreign information manipulation and interference (FIMI); applications may only come from organisations, not individual freelance journalists.",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "note": "No award ceiling found in the sources checked; historic notices did not disclose a per-project cap."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "upcoming",
+      "geoScope": [
+        "RS"
+      ],
+      "sourceId": "us-embassy-belgrade",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Today's snapshot fetch for this source failed, so this entry is built entirely from WebSearch: a 2020 embassy announcement and a 2024 Notice of Funding Opportunity (focused on countering FIMI) describe a recurring MT&D small-grants line, organisations only, but no current 2026 round or deadline could be found. Check rs.usembassy.gov/grants-programs-2/ directly for the live status. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "eidhr-ncidi-human-rights-democracy-programme",
+      "funder": "European Union (NDICI-Global Europe, via EU Delegations worldwide)",
+      "programme": "Thematic Programme on Human Rights and Democracy (successor to EIDHR)",
+      "summary": "The EU's flagship global human-rights and democracy funding instrument under NDICI-Global Europe (2021-2027). Rather than one fixed call, it operates as a rolling, multi-country programme: individual EU Delegations publish their own periodic calls for proposals for local civil-society organisations, each with its own budget, country scope and deadline.",
+      "url": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_en",
+      "applyUrl": "https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_en",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "human-rights",
+        "media-freedom",
+        "press-freedom",
+        "civil-society",
+        "democracy"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "The programme's own Multiannual Indicative Programme (2021-2027) names 'freedom of expression, supporting independent journalism and media' and 'inclusive and sustainable support measures for journalists, especially women journalists, and whistle-blowers' as an explicit strand of its Human Rights and Fundamental Freedoms priority — so investigative reporting, media-support or journalist-protection projects sit under a named priority, not an inferred one. Grants go to registered non-profit CSOs (or public-sector/local-authority partners) under individual country/regional calls, not to individual freelance journalists directly.",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "No global award ceiling found; amounts vary by the individual country/regional call published under this thematic programme."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "upcoming",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "eidhr-ncidi",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Today's snapshot of the EU International Partnerships landing page (~1290 words, mostly repeated across language variants) was navigation/boilerplate only — the priority language on independent journalism/media support was not visible there and comes from the programme's Multiannual Indicative Programme, found via WebSearch. Individual country calls (e.g. a West Bank/Gaza round with a 26 Jan 2026 concept-note deadline, already passed) open and close on a rolling basis via EU Delegations and the EU Funding & Tenders Portal, not on this landing page itself, so no single current deadline could be confirmed. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "cpj-gene-roberts-emergency-assistance",
+      "funder": "Committee to Protect Journalists (CPJ)",
+      "programme": "The Gene Roberts Fund for Emergency Assistance",
+      "summary": "CPJ provides case-by-case emergency financial support to journalists who have recently faced a serious incident and whose safety is compromised, through the Gene Roberts Fund, administered by CPJ staff in New York and overseen by a board committee. Funds may cover relocation expenses, medical costs, mental health support, legal help and other urgent needs; CPJ cannot fund visa or immigration/asylum applications, education, or general medical needs unrelated to an act of journalism. CPJ separately offers non-financial assistance such as referrals to partner organisations, fellowship/residency information, and safety or trauma consultations.",
+      "url": "https://cpj.org/campaigns/assistance/",
+      "applyUrl": "https://cpj.org/campaigns/assistance/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "emergency",
+        "legal"
+      ],
+      "topics": [
+        "safety",
+        "emergency-assistance",
+        "press-freedom",
+        "journalists-at-risk"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Described only as 'modest grants' assessed case by case; no fixed amount stated on CPJ's own pages."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "cpj",
+      "lastVerified": "2026-09-18",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "CPJ explicitly excludes visa applications, immigration/asylum claims, education costs, and general medical needs unrelated to an act of journalism from this fund's scope."
+    },
+    {
+      "id": "craig-newmark-promoting-the-truth",
+      "funder": "Craig Newmark Philanthropies",
+      "programme": "Promoting the Truth — grant proposals (rolling)",
+      "summary": "Craig Newmark Philanthropies accepts funding proposals from registered nonprofits on a rolling basis across its focus areas, one of which is 'Promoting the Truth'; a separate portal exists only for veterans/military-family support. Applicants must supply proof of active 501(c)(3)/public-charity status with the IRS and Secretary of State, and CNP says it cannot review or fund every request. Multi-year commitments are released annually based on progress and the effectiveness of the grantee's communication and collaboration.",
+      "url": "https://craignewmarkphilanthropies.org/apply",
+      "applyUrl": "https://craignewmarkphilanthropies.org/apply",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "core"
+      ],
+      "topics": [
+        "trustworthy-journalism",
+        "misinformation",
+        "press-freedom"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Application asks for a 'grant amount requested' but no published range."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "americas-north"
+      ],
+      "sourceId": "craig-newmark",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Reporting from January 2026 (Nieman Journalism Lab) quotes founder Craig Newmark saying he is pulling back from journalism funding because 'a lot of my efforts haven't been as effective as I'd like them to be,' now treating journalism as a secondary focus behind cybersecurity and safety of journalists — so openness to new 'Promoting the Truth' proposals from newsrooms may be more limited than the site's generic apply page suggests. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "media-defence-legal-support",
+      "funder": "Media Defence",
+      "programme": "Apply for Case Support",
+      "summary": "Media Defence provides legal grants and practical support for the defence of journalists, citizen journalists and media outlets facing prosecution or civil suits connected to their work. Applications for case support are usually made by the lawyer handling the case but can also be made by the journalist, their family or friends, or a relevant support organisation. Media Defence combines financial assistance with practical support to organisations that have, or wish to establish, a legal aid unit for journalists.",
+      "url": "https://www.mediadefence.org/apply-for-case-support/",
+      "applyUrl": "https://www.mediadefence.org/apply-for-case-support/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "legal"
+      ],
+      "topics": [
+        "legal",
+        "safety",
+        "press-freedom"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Covers legal costs case-by-case; no published amount range found."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "media-defence",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "No snapshot was available for mediadefence.org (fetch never produced a file), so this entry is built from web search of the funder's own site pages (apply-for-case-support/, get-help/). Not confirmed on the funder's own page."
+    },
+    {
+      "id": "media-defence-partner-legal-aid-support",
+      "funder": "Media Defence",
+      "programme": "Partner support for legal aid organisations",
+      "summary": "Media Defence funds and supports partner organisations that operate, or want to establish, a legal aid unit providing free legal support to journalists, citizen journalists and media outlets facing legal threats. In 2025 it reported awarding over £350,000 in grants to 19 partner organisations running media-defence centres across Europe, Latin America, Africa, Asia, and the Middle East/North Africa, enabling litigation of hundreds of freedom-of-expression cases.",
+      "url": "https://www.mediadefence.org/get-help/",
+      "applyUrl": "https://www.mediadefence.org/get-help/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "legal",
+        "regranting",
+        "core"
+      ],
+      "topics": [
+        "legal",
+        "regranting",
+        "press-freedom",
+        "capacity-building"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "GBP",
+        "note": "£350,000+ distributed across 19 partner organisations in 2025 in aggregate; no per-grant figure published."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "media-defence",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "No snapshot was available for mediadefence.org; this entry (distinct from individual case support) is built from web search covering the funder's own 'get-help' page and a 2025 partner impact report. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "rsf-assistance",
+      "funder": "Reporters Without Borders (RSF)",
+      "programme": "Individual Support (Assistance Desk)",
+      "summary": "RSF's Assistance Desk provides financial and administrative help to professional and citizen journalists who have been the target of reprisals connected to their reporting, covering emergency relocation, legal fees, medical costs, psychological support and replacement of destroyed or confiscated equipment. Grants generally range from EUR 500 to EUR 2,500 per case, and RSF may also support applications for international protection or asylum where its research supports it. In 2025 RSF reported aiding nearly 750 journalists in 76 countries.",
+      "url": "https://rsf.org/en/individual-support",
+      "applyUrl": "https://rsf.org/en/assistance",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "emergency",
+        "legal",
+        "equipment"
+      ],
+      "topics": [
+        "safety",
+        "emergency-assistance",
+        "legal",
+        "relocation"
+      ],
+      "track": "media",
+      "amount": {
+        "min": 500,
+        "max": 2500,
+        "currency": "EUR",
+        "note": "Per-case emergency support grant range reported by RSF; larger relocation/asylum cases may exceed this via other mechanisms."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "rsf",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "No snapshot was available for rsf.org/en/assistance; amount range and scope are drawn from web search of RSF's own reporting and individual-support page. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "rsf-press-fund-us",
+      "funder": "Reporters Without Borders (RSF USA)",
+      "programme": "PRESS Fund — protective equipment grants",
+      "summary": "RSF launched a grant programme reimbursing US-based journalists for personal protective equipment, including first-aid kits, helmets, eye protection, protective vests and respirator masks, in response to escalating on-the-ground risks to reporters covering protests and conflict.",
+      "url": "https://rsf.org/en/usa-rsf-launches-protective-equipment-grant-program-journalists-face-mounting-risks",
+      "applyUrl": "https://rsf.org/en/usa-rsf-launches-protective-equipment-grant-program-journalists-face-mounting-risks",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "equipment"
+      ],
+      "topics": [
+        "safety",
+        "equipment",
+        "press-freedom"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Reimbursement scheme; no published cap found."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "US"
+      ],
+      "sourceId": "rsf",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "No snapshot was available for this source; found via web search of RSF's own news release announcing the US-specific PRESS equipment grant programme. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "balkan-trust-media-freedom-wb6",
+      "funder": "Balkan Trust for Democracy (German Marshall Fund)",
+      "programme": "BTD Support for Western Balkans 6 — Media Freedom track",
+      "summary": "The Balkan Trust for Democracy funds civil society organisations registered in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. One of its two current thematic tracks is strengthening media freedom (the other combats domestic and gender-based violence), delivered as a sub-granting scheme realised with the Norwegian Ministry of Foreign Affairs and the Royal Norwegian Embassy in Belgrade. Proposals have previously been accepted on a rolling basis with no fixed deadline until the grantmaking budget is exhausted.",
+      "url": "https://www.gmfus.org/balkan-trust-democracy/support-western-balkans-6",
+      "applyUrl": "https://www.gmfus.org/btd-grantmaking",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "media-freedom",
+        "press-freedom",
+        "civil-society",
+        "democracy"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": null
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "europe-western-balkans"
+      ],
+      "sourceId": "balkan-trust",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Re-checked on 2026-09-18: today's snapshot of gmfus.org again only captured generic GMF organisational pages (About, Global Power Shifts, Fellowships, donor FAQ, a press article) and never reached Balkan Trust for Democracy's own grant-call pages, so this entry is still built from a web search of GMF's own site (balkan-trust-democracy/support-western-balkans-6 and the related WB6 media-freedom announcement page confirm the six-country scope and Norwegian co-funding). Only registered civil-society organisations in the six WB6 countries may apply — not individual freelancers. No corroborated deadline was found; secondary sites reference other, separate WB6 media programmes (e.g. EU/EEAS 'WB6 MEDIA') with their own deadlines that should not be conflated with this BTD call. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "reporters-respond-emergency-fund",
+      "funder": "Free Press Unlimited",
+      "programme": "Reporters Respond",
+      "summary": "Emergency response fund providing direct assistance, legal support and safety advice to journalists, fixers and media outlets in distress worldwide who face (online) harassment, intimidation, legal proceedings or violence because of their work. The emergency must be a direct result of the applicant's journalism work and be confirmed by at least two trusted sources outside the applicant.",
+      "url": "https://www.freepressunlimited.org/en/projects/reporters-respond-emergency-funding-for-the-media",
+      "applyUrl": "https://www.freepressunlimited.org/en/application-form-reporters-respond",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "emergency",
+        "legal"
+      ],
+      "topics": [
+        "safety",
+        "harassment",
+        "legal-support"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": "Assessed case by case; typical response time cited as 48-72 hours, with faster turnaround (up to 24 hours) for the most urgent cases."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "reporters-respond",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Replaces prior unverified seed entry. Application form accepts submissions in English, French, Spanish and Portuguese; contact reportersrespond@freepressunlimited.org. No snapshot of the funder's page was available this run, so this is based on web search results only. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "oak-foundation-healthy-information-sphere",
+      "funder": "Oak Foundation",
+      "programme": "Healthy Information Sphere (International Human Rights Programme)",
+      "summary": "Oak Foundation's Healthy Information Sphere portfolio, within its International Human Rights Programme, supports independent journalism, media pluralism, digital rights and information integrity work aimed at holding power to account. Not-for-profit organisations not already invited by a programme officer may submit an unsolicited Letter of Enquiry, though the Foundation states it has no open call for proposals and funds only a small share of the enquiries it receives.",
+      "url": "https://oakfnd.org/helping-to-build-a-healthy-information-sphere/",
+      "applyUrl": "https://oakfnd.org/submit-enquiry/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "core"
+      ],
+      "topics": [
+        "press-freedom",
+        "media-pluralism",
+        "digital-rights",
+        "information-integrity"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Not stated publicly; programme budgets are reported to be allocated roughly a year in advance and only a small number of unsolicited enquiries are funded each year."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "oak-foundation",
+      "lastVerified": "2026-09-18",
+      "confidence": "low",
+      "provenance": "auto",
+      "notes": "This is a general unsolicited-Letter-of-Enquiry intake, not a journalism-specific open call; the Foundation explicitly says it has no open call for proposals at this time and only responds to enquiries submitted via its online form. Geographic focus reported as EU, US, UK, Brazil and other 'global East' geographies, so global scope is uncertain. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "mdif-debt-equity-financing",
+      "funder": "Media Development Investment Fund",
+      "programme": "MDIF Financing (Debt and Equity Investment)",
+      "summary": "MDIF provides loans, equity investments, loan guarantees and related business advisory support to independent media and information businesses operating in countries with a history of media oppression, ownership concentration, a state of democratic transition, or information poverty. This is investment capital rather than grant funding; applicants must be independent of government or other interest groups, complete an inquiry form, and go through a multi-step due-diligence process that typically takes several months.",
+      "url": "https://www.mdif.org/",
+      "applyUrl": "https://www.mdif.org/apply-for-financing/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "investment",
+        "core"
+      ],
+      "topics": [
+        "sustainability",
+        "business-model"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "note": "Case by case; specific loan/equity size ranges not stated publicly. MDIF reports a portfolio of roughly $118.7M across around 58-60 media businesses in 31-34 countries as of its most recent reporting found."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "mdif",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Replaces prior unverified seed entry. Not a grant — financing carries repayment (debt) or ownership (equity) terms. No snapshot of the funder's page was available this run, so this is based on web search results only. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "sembramedia-gni-lab-emerging-news-voices",
+      "funder": "SembraMedia",
+      "programme": "GNI Lab | Emerging News Voices",
+      "summary": "GNI Lab is a 12-week program combining virtual sessions, practical exercises and personalized mentoring that helps independent news creators and small digital media outlets strengthen their journalism using Google tools, audience-building practices, and revenue-diversification strategies. It is run by SembraMedia in partnership with the Google News Initiative for participants from Argentina, Chile, Colombia, Mexico, Peru and Uruguay. The 2026 cohort's application window closed on August 2, 2026.",
+      "url": "https://sembramedia.org/en/our-initiatives/gni-lab-emerging-news-voices/",
+      "applyUrl": "https://sembramedia.org/en/our-initiatives/gni-lab-emerging-news-voices/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "training"
+      ],
+      "topics": [
+        "digital-sustainability",
+        "audience-growth",
+        "revenue-diversification",
+        "technology-training"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Training and mentoring program; no cash grant amount was stated in search results."
+      },
+      "deadline": "2026-08-02",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "AR",
+        "CL",
+        "CO",
+        "MX",
+        "PE",
+        "UY"
+      ],
+      "sourceId": "sembramedia",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "The 2026 cohort's application window closed August 2, 2026 (Argentina time). SembraMedia runs this as a recurring initiative, so a future cycle is likely, but no confirmed next call date was found in search results. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "n-ost-pulse-thematic-networks-2026",
+      "funder": "n-ost",
+      "programme": "PULSE -- Thematic Network Grants (2026 call)",
+      "summary": "PULSE, n-ost's cross-border journalism network ('Europe beyond the beat'), funds small reporting teams of two journalists from different eligible countries to produce collaborative stories under one of four Thematic Networks (media and society, media/AI legislation, digitalisation, and disinformation/fact-checking). The 2026 call was open to journalists with fiscal residency across a broad list of countries including EU and EU-candidate states, Armenia, Azerbaijan, Brazil, China, India, Kazakhstan, Kyrgyzstan, Lebanon, Russia, the UK, the US, Uzbekistan, Belarus, Israel/Palestine and Iran, with two teams funded per network. The pitch deadline was extended to July 20, 2026, with results expected in September 2026, so this cycle is now closed to new applicants.",
+      "url": "https://n-ost.org/projects/pulse",
+      "applyUrl": "https://n-ost.org/news/pulse-2026-open-calls",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "cross-border-journalism",
+        "media-literacy",
+        "disinformation",
+        "ai",
+        "media-legislation"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Grant amount per team was not stated in search results."
+      },
+      "deadline": "2026-07-20",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "europe"
+      ],
+      "sourceId": "n-ost",
+      "lastVerified": "2026-09-18",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "The 2026 Thematic Network pitch deadline (extended to July 20, 2026) has passed and results were due in September 2026. PULSE runs as a recurring annual programme, so a future call is expected, but no next date was found. The 2026 call's eligible journalist countries extend well beyond Europe (e.g. Brazil, China, India, US) even though the programme is Europe-focused; geoScope here reflects the programme's Europe focus, not the full eligibility list. Not confirmed on the funder's own page."
     }
   ]
 }
