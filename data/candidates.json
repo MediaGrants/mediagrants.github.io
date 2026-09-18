@@ -1,5 +1,214 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": null,
-  "candidates": []
+  "generatedAt": "2026-09-18T16:16:39.313Z",
+  "candidates": [
+    {
+      "name": "European Centre for Press and Media Freedom (ECPMF)",
+      "url": "https://www.ecpmf.eu/",
+      "why": "Runs the SAFE project offering emergency, training/capacity grants and a Journalists-in-Residence programme for media workers from Eastern Partnership countries under threat.",
+      "seenAt": [
+        "gfmd-fundings",
+        "council-of-europe"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "National Institute for Health Care Management (NIHCM) Foundation",
+      "url": "https://nihcm.org/",
+      "why": "Funds annual US health-care journalism grants of $15,000-$30,000 for independent journalists and newsrooms.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Media Innovation Europe (International Press Institute consortium)",
+      "url": "https://ipi.media/innovation/media-innovation-europe/",
+      "why": "Funds European media organisations' audience-engagement and business-innovation projects.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Henry Nxumalo Foundation / SA|AJP",
+      "url": "https://henrynxumalofoundation.co.za/",
+      "why": "Provides investigative-journalism reporting grants and editorial support to journalists and newsrooms across the SADC region.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Batory Foundation / EEA & Norway Grants Civil Society Fund Poland",
+      "url": "https://www.batory.org.pl/en/",
+      "why": "Administers Polish civil-society grants including calls for projects countering disinformation, some of which fund media literacy/journalism activity.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Tech Policy Press",
+      "url": "https://www.techpolicy.press/fellowships/",
+      "why": "Funds a $10,000, year-long fellowship for journalists, researchers and policy professionals reporting on tech and democracy.",
+      "seenAt": [
+        "gfmd-fellowships",
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Journalists' Programmes (IJP)",
+      "url": "https://ijp.org/en/",
+      "why": "Funds journalist exchange fellowships (German-Nordic/Baltic and German-British) with stipends for placements abroad.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "World Federation of Science Journalists / WCSJ2027",
+      "url": "https://www.wfsj.org/",
+      "why": "Funds travel fellowships for journalists and journalism students to attend the World Conference of Science Journalists.",
+      "seenAt": [
+        "gfmd-fellowships",
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Exile Hub",
+      "url": "https://www.exile-hub.org/",
+      "why": "Funds fellowships, production grants and emergency support for exiled Myanmar media professionals.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "USC Annenberg Center for Health Journalism",
+      "url": "https://centerforhealthjournalism.org/",
+      "why": "Funds a five-month data-journalism fellowship for US health reporters.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Durham University - Sir Harry Evans Memorial Fund",
+      "url": "https://www.durham.ac.uk/sir-harry-evans-memorial-fund/",
+      "why": "Funds a nine-month, salaried investigative-journalism fellowship inside a Reuters newsroom for an early-career journalist.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Nova Institute for Health",
+      "url": "https://novainstituteforhealth.org/",
+      "why": "Funds a one-year, $60,000 media fellowship for US journalists and newsrooms reporting on health and wellbeing.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Walkley Foundation",
+      "url": "https://www.walkleys.com/",
+      "why": "Australian journalism foundation that co-administers and hosts grant programmes for freelance journalists.",
+      "seenAt": [
+        "judith-neilson"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Fundación Avina",
+      "url": "https://www.avina.net/",
+      "why": "Latin American foundation that co-funds Fundación Gabo's investigative-journalism grants on sustainable-development themes.",
+      "seenAt": [
+        "fundacion-gabo"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The Climate Pledge",
+      "url": "https://www.theclimatepledge.com/",
+      "why": "Co-funds, with the National Geographic Society, storytelling grants (up to $100,000) for journalists and other storytellers covering climate resilience, energy transition and sustainability.",
+      "seenAt": [
+        "national-geographic"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Fulbright-National Geographic Digital Storytelling Fellowship (via Fulbright/IIE)",
+      "url": "https://us.fulbrightonline.org/applicants/types-of-awards/fulbright-national-geographic-award-program",
+      "why": "A joint Fulbright/National Geographic award funding US citizens to combine an academic research grant abroad with digital storytelling/multimedia journalism training.",
+      "seenAt": [
+        "national-geographic"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Reflecta Fördermittelkompass",
+      "url": "https://foerdermittelkompass.reflecta.org/",
+      "why": "A German funding database that aggregates media/journalism grant and scholarship listings not otherwise indexed by the existing aggregator sources.",
+      "seenAt": [
+        "robert-bosch",
+        "taz-panter"
+      ],
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    }
+  ]
 }
