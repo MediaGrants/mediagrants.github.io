@@ -1,9 +1,35 @@
 SOURCE: IJNet — Opportunities
-URL: https://ijnet.org/en/opportunities
-FETCHED: 2026-09-18T03:39:39.189Z
-TITLE: Opportunities | International Journalists Network
+URL: https://ijnet.org/en/rss.xml
+FETCHED: 2026-09-18T15:56:13.966Z
+TITLE: (feed)
 
-=== MAIN PAGE ===
+=== FEED ITEMS ===
+How an Italian data journalism collaboration investigated dark money across Europe
+Fri, 15 Jan 2016 12:13:14 +0000
+<span>How an Italian data journalism collaboration investigated dark money across Europe</span>
+
+<span><span lang="" about="https://ijnet.org/en/user/152" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">sberkhead</span></span>
+
+<span>Fri, 01/15/2016 - 07:13</span>
+
+<div class="field field--name-field-image field--type-image field--label-hidden field--item"> <picture><source srcset="https://ijnet.org/sites/default/files/styles/small_2_1/public/migrated/2016/01/Screen-Shot-2016-01-08-at-1.02.55-PM.png?itok=sLJw4EWt 1x" media="all and (min-width: 0px) and (max-width: 480px)" type="image/png"></source><source srcset="https://ijnet.org/sites/default/files/styles/medium_2_1/public/migrated/2016/01/Screen-Shot-2016-01-08-at-1.02.55-PM.png?itok=ridwJR_F 1x" media="all and (min-width: 480px) and (max-width: 768px)" type="image/png"></source><source srcset="https://ijnet.org/sites/default/files/styles/large_2_1/public/migrated/2016/01/Screen-Shot-2016-01-08-at-1.02.55-PM.png?itok=YIvmrC9W 1x" media="all and (min-width: 768px) and (max-width: 992px)" type="image/png"></source><source srcset="https://ijnet.org/sites/default/files/styles/full_width_node/public/migrated/2016/01/Screen-Shot-2016-01-08-at-1.02.55-PM.png?itok=XsdvpjOx 1x" media="all and (min-width: 1200px)" type="image/png"></source><img src="https://ijnet.org/sites/default/files/styles/full_width_node/public/migrated/2016/01/Screen-Shot-2016-01-08-at-1.02.55-PM.png?itok=XsdvpjOx" alt="" typeof="foaf:Image" class="img-responsive" /></picture></div>
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><em>Editor's Note: <a href="http://eu.confiscatibene.it/">Confiscati Bene</a>, released in mid-December in Europe, is a pioneering data journalism collaboration that digs into the EUR4 billion of goods in the EU confiscated from criminals by European authorities. An international team of journalists and their allies sought to create a European database of seized assets and answer troubling questions about the accountability of the process.</em></p><p><em>In this post, Andrea Nelson Mauro, founder of project leader <a href="http://www.dataninja.it/">DataNinja.it</a>, tells GIJN about organizing the project in Italy, which involved a diverse group of journalists, activists and technologists. Mauro describes step-by-step the investigation — now published in 19 Italian newspapers and across Europe — and explains the various tools used, including web scraping, content curation, data mining and coding. </em></p><p>On September 5, we had a Publication Day in Italy for our inve­sti­ga­tion regar­ding goods confiscated from the Mafia: one natio­nal newspa­per (<a href="http://espresso.repubblica.it/inchieste/2014/09/05/news/mafia-la-mappa-dei-beni-confiscati-ma-spesos-lo-stato-non-riesce-a-gestirli-1.178810?ref=HEF_RULLO">L’Espresso</a>) and 18 web­si­tes of the same publi­sher (Repubblica-L’Espresso) — see the map below — put online our series revealing how many buil­dings and com­pa­nies have been sei­zed, region by region, to whom they did belon­ged and what the government is doing to give back these assets to Italian citi­zens. It was a big oppor­tu­nity and an ama­zing expe­rience for those of us wor­king on the inve­sti­ga­tion. We began the project in July 2015.</p><p><iframe frameborder="0" height="600" scrolling="no" src="https://s3.eu-central-1.amazonaws.com/viz.dataninja.it/confiscatibene/eu/map/index.html" width="100%"></iframe></p><p>Meanwhile, a very inte­re­sting blog ­post by <a href="https://twitter.com/albertocairo">Alberto Cairo</a>, the Knight Chair in Visual Journalism at the University of Miami, appeared on the Nieman Lab website. Titled "<a href="http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/" target="_blank" title="">Data Journalism Needs To Up Its Own Stan­dards</a>,” the story talked about over-promises from <a href="http://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a> and <a href="http://vox.com/" target="_blank">Vox​.com</a> pro­jects that should “treat their data with more scien­ti­fic rigor,” according to Cairo. For these and for other exam­ples he cited, you may find — IMHO — a lot of inte­re­sting sug­ge­stions, expe­cially if you’re doing jour­na­lism with data, and the kind of issues and doubts we see every day in our jobs inside DataNinja’s pipe­line. Until now data jour­na­lism — as I saw it — has deve­lo­ped too much as descrip­tive sta­ti­stics, data visua­li­za­tions, pre­dic­tive ana­ly­sis and spe­cial effects on the web (the “Wow! Effect,” as some friends say — or “map-itis,” about peo­ple who pu­blish a map every minute without any news value).</p><p>So, I’d like to share what we did for the pro­ject <a href="http://www.confiscatibene.it/it/about-project-english-version">“Confiscati Bene”</a> (literally, “Well Confiscated") with the aim of starting a dialogue and getting feedback on we did well and what we need to improve.</p><h4>Step 1: From meeting the open data project “Confiscati Bene” to working inside</h4><div id="attachment_6002"><p><a href="https://twitter.com/spaghetti_folks">Spaghetti Open Data</a> (SOD) is a group of Italian citizens interested in release of public data in an open format.</p></div><p>The open data world gave me a great oppor­tu­nity for refac­to­ring my skills, and some years back I joi­ned Italy's “Spaghetti Open Data” community. In March 2014, during a hac­ka­thon, we deve­lo­ped the first ver­sion of “Confiscati Bene,” an indepen­dent pro­ject powe­red by citi­zens to open data on goods sei­zed from the Mafia. As first step, all data was scra­ped from the offi­cial web­site of the agency which has a data­base of con­fi­sca­ted goods. What a great oppor­tu­nity! Not only for publishing the data, but for try­ing to improve the pro­ject with our jour­na­li­stic and data skills. </p><p>We joi­ned the team and helped build an online plat­form with a data cata­log on Mafia assets that needed to be upda­ted. Working this way we lear­ned a lot about con­fi­sca­ted goods (by rea­ding Acts from Parliament and disco­ve­ring various reports and docu­ments); Team mem­bers shared these docu­ments on a project mailing list. How long would I have spent fin­ding these resour­ces on my own, instead of having a team that shared it quic­kly? How much could peo­ple help us (as jour­na­lists) do our jobs better, if only we gave them the oppor­tu­nity? Doing it toge­ther — and not only with jour­na­lists — should work better.</p><h4>Step 2: From starting the investigation to publishing in 19 newspapers and on the web</h4><p>By the end of July, we had star­ted our inve­sti­ga­tion and built a team of three jour­na­lists (<a href="http://twitter.com/nelsonmau">Andrea Nelson Mauro</a> — that’s me!; <a href="http://twitter.com/jenkin27">Alessio Cimarelli</a> and <a href="http://twitter.com/glucademartino">Gianluca De Martino</a>). We read some­thing like 3,000 pages of docu­ments and reports by various insti­tu­tions and obser­va­to­ries, to better understand the data (even we are not experts in this area). By matching results and leads, we created a kind of “con­tent cura­tion” from the docu­ments, extrac­ting the most important jour­na­li­stic issues (for us).</p><p>For instance, we disco­ve­red that the Italian government (with the EU) provided EUR6 million to the public agency overseeing con­fi­sca­ted goods to build a big data­base to collect these data, but no one did anything, no one knows where the money went and no one ever saw the project.</p><p>Regarding the skills and acti­vi­ties we developed:</p><ul><li>Data (and sto­ry) mining — This was a big chap­ter of the inve­sti­ga­tion: we did it on offi­cial docu­ments and also on the web for finding mat­ching results and sta­ti­stics with data scra­ped from the public agency of confiscated goods. Sometimes you need to be determined to understand exactly at which step the good is taken. For example, is it sei­zed, con­fi­sca­ted, frozen by the law, ceded to an NGO?</li><li>Coding and geo issues — For sho­wing con­fi­sca­ted goods on a map, we nee­ded to develop a visua­li­za­tion tool. This was created by Alessio Cimarelli, using only open ­source tools (Leaflet, D3js, OSM Nominatim, and others). Data are sho­wn on the Italian regions by abso­lute values and not nor­ma­li­zed by popu­la­tion or other dimen­sions, because we aimed to draft a kind of raw over­view: to show where the Mafia spent the money, and the dif­fe­rences bet­ween big cities and small towns.</li><li>Content curation — We thought every con­fi­sca­tion should be told by every new­spa­per, as well. Starting from this idea, we aggre­ga­ted every story by region and from new­spa­per archi­ves, and from the most impor­tant bosses from whom goods were con­fi­sca­ted. Working this way (and after mat­ching results with quan­ti­ta­tive data) we could draw an over­view showing which Mafia (the Sicilian Mafia, the Camorra, the Ndrangheta), sho­wing a kind of distri­bu­tion by region.</li><li>The review process — Working in a team is very hel­p­ful for poin­ting out mista­kes, but even better in my honest opi­nion was sha­ring article drafts with other mem­bers of the pro­ject.</li></ul><h4>Step 3: Looking forward, we’re doing database journalism</h4><p>After we pu­bli­shed, we gave the data back to Confiscati Bene by uploa­ding in a data cata­log deve­lo­ped with DKAN (a Drupal CMS like CKAN, powe­red for us by Twinbit). We’re part of the team of this pro­ject, so we’re inte­re­sted for impro­ving it, col­lec­ting other data and deve­lo­ping other chap­ters (for instance across Europe). With the release of the project in 19 new­spa­pers, we’ve now successfully disseminated not only the news from the project but the data itself, and we're continuing to update the data. I don’t know where we will end up, but I know we’re moving forward and try­ing to improve this, so maybe you will hear yet more about Confiscati Bene.</p><p><em>This <a href="http://en.dataninja.it/making-off-confiscated-goods-what-we-did-for-making-better-our-data-journalism/">post </a>was originally published at DataNinja.it. It was then <a href="http://gijn.org/2016/01/11/inside-a-pioneering-italian-data-journalism-collaboration/">cross-posted</a> by the Global Investigative Journalism Network, and is republished on IJNet with permission. <a href="https://twitter.com/nelsonmau" target="_blank">Andrea Nelson Mauro</a> is a data journalist and founder of <a href="http://www.dataninja.it/" target="_blank">DataNinja.it</a> and <a href="http://www.datamediahub.it/">Datamediahub.it</a>.</em></p><p><em>Image is a screenshot of Confiscati Bene's homepage.</em></p></div>
+
+<div class="field field--name-field-summary field--type-text-long field--label-hidden field--item"><p>Andrea Nelson Mauro of DataNinja.it explains how Confiscati Bene, an Italian data journalism project, investigated the EUR4 billion of confiscated goods seized across the European Union each year.</p></div>
+https://ijnet.org/en/story/how-italian-data-journalism-collaboration-investigated-dark-money-across-europe
+
+Year in review: The 10 most important things that happened at the intersection of media and tech
+Wed, 31 Dec 2014 16:50:17 +0000
+<span>Year in review: The 10 most important things that happened at the intersection of media and tech</span>
+
+<span><span lang="" about="https://ijnet.org/en/user/73" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">mfernandez</span></span>
+
+<span>Wed, 12/31/2014 - 11:50</span>
+
+<div class="field field--name-field-image field--type-image field--label-hidden field--item"> <picture><source srcset="https://ijnet.org/sites/default/files/styles/small_2_1/public/migrated/2014/12/11685603396_443a4ee939_z_0.jpg?itok=yMcYJHK4 1x" media="all and (min-width: 0p
+
+=== https://ijnet.org/en/story/how-italian-data-journalism-collaboration-investigated-dark-money-across-europe ===
 Skip to main content
 
 A project of
@@ -62,76 +88,66 @@ Support IJNet
 
 Newsletter
 
-IJNet provides the latest tips, trends and training opportunities in eight languages . Sign up here for our weekly newsletter:
+How an Italian data journalism collaboration investigated dark money across Europe
 
-Subscribe
+by
+Andrea Nelson Mauro
 
-IJNet
+Oct 30, 2018
+in Data Journalism
 
-About us
+Editor's Note: Confiscati Bene , released in mid-December in Europe, is a pioneering data journalism collaboration that digs into the EUR4 billion of goods in the EU confiscated from criminals by European authorities. An international team of journalists and their allies sought to create a European database of seized assets and answer troubling questions about the accountability of the process.
+In this post, Andrea Nelson Mauro, founder of project leader DataNinja.it , tells GIJN about organizing the project in Italy, which involved a diverse group of journalists, activists and technologists. Maur
 
-ICFJ
+--- relevant lines ---
+On September 5, we had a Publication Day in Italy for our inve­sti­ga­tion regar­ding goods confiscated from the Mafia: one natio­nal newspa­per ( L’Espresso ) and 18 web­si­tes of the same publi­sher (Repubblica-L’Espresso) — see the map below — put online our series revealing how many buil­dings and com­pa­nies have been sei­zed, region by region, to whom they did belon­ged and what the government is doing to give back these assets to Italian citi­zens. It was a big oppor­tu­nity and an ama­zing expe­rience for those of us wor­king on the inve­sti­ga­tion. We began the project in July 2015.
+The open data world gave me a great oppor­tu­nity for refac­to­ring my skills, and some years back I joi­ned Italy's “Spaghetti Open Data” community. In March 2014, during a hac­ka­thon, we deve­lo­ped the first ver­sion of “Confiscati Bene,” an indepen­dent pro­ject powe­red by citi­zens to open data on goods sei­zed from the Mafia. As first step, all data was scra­ped from the offi­cial web­site of the agency which has a data­base of con­fi­sca­ted goods. What a great oppor­tu­nity! Not only for publishing the data, but for try­ing to improve the pro­ject with our jour­na­li­stic and data skills.
+© 2024 International Center for Journalists
 
-ICFJ.org
+=== https://ijnet.org/en/story/year-review-10-most-important-things-happened-intersection-media-and-tech ===
+Skip to main content
 
-ICFJ Tribute to Journalists
+A project of
 
-Be a part
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
 
 Pitch to IJNet
 
 Support IJNet
 
-© 2024 International Center for Journalists
+Newsletter
 
-750 17th Street, NW, Suite 300, Washington, DC 20006 USA
-
-Phone 202.737.3700 Fax 202.737.0530
-
-=== https://ijnet.org/es/opportunities ===
-Skip to main content
-
-Un proyecto de
-
-Español Toggle Dropdown
-Español
-English
-Português
-简体中文
-عربى
-Русский
-فارسی
-Français
-
-Top header
-
-Escribe para IJNet
-
-Apoya a IJNet
-
-Boletín
-
-Red internacional de periodistas
+International Journalists Network
 
 Toggle navigation
 
 Main navigation
 
-Artículos
+Stories
 
-Oportunidades
+Opportunities
 
-Herramientas
+Toolkits
 
 Blueprints
 
 Evidence
 
-Un proyecto de
+A project of
 
-Español Toggle Dropdown
-Español
+English Toggle Dropdown
 English
+Español
 Português
 简体中文
 عربى
@@ -141,83 +157,44 @@ Français
 
 Top header
 
-Escribe para IJNet
+Pitch to IJNet
 
-Apoya a IJNet
-
-Boletín
-
-IJNet ofrece los últimos consejos, tendencias y oportunidades de capacitación en ocho idiomas . Regístrate aquí para recibir nuestro boletín semanal:
-
-Suscríbete
-
-IJNet
-
-Acerca De
-
-ICFJ
-
-ICFJ.org
-
-Cena de Premiación de ICFJ
-
-Be a part
-
-Escribir para IJNet
-
-Soporte IJNet
-
-© 2024 International Center for Journalists
-
-750 17th Street, NW, Suite 300, Washington, DC 20006 USA
-
-Teléfono 202.737.3700 Fax 202.737.0530
-
-=== https://ijnet.org/pt-br/opportunities ===
-Skip to main content
-
-Um projeto do
-
-Português Toggle Dropdown
-Português
-English
-Español
-简体中文
-عربى
-Русский
-فارسی
-Français
-
-Top header
-
-Escreva para a IJNet
-
-Apoie a IJNet
+Support IJNet
 
 Newsletter
 
-Rede de Jornalistas Internacionais
+Year in review: The 10 most important things that happened at the intersection of media and tech
 
-Toggle navigation
+by
+Maite Fernandez
 
-Main navigation
+Oct 30, 2018
+in Miscellaneous
 
-Artigos
+From the leak of The New York Times innovation report to the craze over Serial, a lot has happened this year. Here are 10 of the most important things.
+1- The New York Times innovation report is leaked. The publication of the 96-page internal report in May showed to the outside world the struggles the Times has been going through to adapt to digital and mobile.
+The report detailed the problems in the Times' social media strategy, how the traditional newsroom culture clashes with digital staffers, and how the Times is threatened by leaner, more digitally savvy competitors like BuzzFeed, Cir
 
-Oportunidades
+--- relevant lines ---
+— Jen Schradie (@schradie) October 17, 2014
+One good thing happened in 2014 though: Twitter finally implemented changes in an attempt to curb online harassment .
+5- Serial goes viral. The podcast produced by This American Life that carefully dissected the case against Adnan Syed, convicted of killing his exgirlfriend in Baltimore in 1999, proved that audio can go viral, giving public radio a new hope for distribution and fundraising. Podcasts found a second wind. While Serial’s ending left us debating who killed Hae for days on end (have you read Jay’s interview ?), the producers announced that the podcast will have a new season next year.
+6- Newsletters go viral. Though everybody seems to complain about email overload, 2014 has seen the rise of the email newsletter. In a way to cut through the noise and get back that lost feeling of personalization, at one point it seemed like everyone with a pulse and an Internet connection had a newsletter.
+— Lynn Cherny (@arnicas) December 29, 2014
+— Jon Passantino (@passantino) November 24, 2014
+On a sad note, 2014 will also be the year that Homicide Watch , the site that documents every murder in DC since 2010 and pioneered a new reporting model, will shut down .
+Secondary image: Instagram photo by Maite Fernandez of The Washington Post front page, Aug. 4, 2013.
+© 2024 International Center for Journalists
 
-Ferramentas
+=== https://ijnet.org/en/opportunity/dfrlab-digital-sherlocks ===
+Skip to main content
 
-Blueprints
+A project of
 
-Evidence
-
-Um projeto do
-
-Português Toggle Dropdown
-Português
+English Toggle Dropdown
 English
 Español
+Português
 简体中文
 عربى
 Русский
@@ -226,84 +203,35 @@ Français
 
 Top header
 
-Escreva para a IJNet
+Pitch to IJNet
 
-Apoie a IJNet
+Support IJNet
 
 Newsletter
 
-A IJNet fornece as últimas dicas, tendências e oportunidades de jornalismo em oito idiomas . Inscreva-se aqui para receber nossa newsletter semanal.
-
-Inscreva-se
-
-IJNet
-
-Sobre
-
-ICFJ
-
-ICFJ.org
-
-Jantar de premiação do ICFJ
-
-Be a part
-
-Escreva para a IJNet
-
-Suporte IJNet
-
-© 2024 International Center for Journalists
-
-750 17th Street, NW, Suite 300, Washington, DC 20006 USA
-
-Telefone 202.737.3700 Fax 202.737.0530
-
-=== https://ijnet.org/zh-hans/opportunities ===
-Skip to main content
-
-的一个项目
-
-简体中文 Toggle Dropdown
-简体中文
-English
-Español
-Português
-عربى
-Русский
-فارسی
-Français
-
-Top header
-
-为IJNet写信
-
-支持 IJNet
-
-新闻信
-
-国际记者网络
+International Journalists Network
 
 Toggle navigation
 
 Main navigation
 
-故事
+Stories
 
-为记者提供的机会
+Opportunities
 
-工具包
+Toolkits
 
 Blueprints
 
 Evidence
 
-的一个项目
+A project of
 
-简体中文 Toggle Dropdown
-简体中文
+English Toggle Dropdown
 English
 Español
 Português
+简体中文
 عربى
 Русский
 فارسی
@@ -311,119 +239,573 @@ Français
 
 Top header
 
-为IJNet写信
+Pitch to IJNet
 
-支持 IJNet
+Support IJNet
 
-新闻信
+Newsletter
 
-国际记者网以八种语言提供最新贴士、趋势以及培训机会。在这里注册获取我们的每周新闻信吧。
+DEADLINE
+May 11, 2026
 
-订阅
+DFRLab Digital Sherlocks
 
-IJNet
+Posted on May 18, 2026
+in Specialized Topics
 
-关于我们
+Digital Sherlocks is a free, annual, live online training program for members of civil society, journalists, researchers and analysts who are committed to monitoring and protecting the information environment in their respective regions.
 
-ICFJ
+The program spans three months, with two to three sessions per week delivered live. Participants can register for as many sessions as they would like based on interests and schedules. Given the global nature of each cohort, we schedule sessions to accommodate as many time zones as possible.
 
-ICFJ.org
+All sessions are delivered in English. Applicants are expected to have a sufficient level of English proficiency to ac
 
-ICFJ颁奖晚宴
-
-Be a part
-
-为IJNet写信
-
-支持 IJNet
-
+--- relevant lines ---
+Deadline: 2026-05-11
 © 2024 International Center for Journalists
 
-750 17th Street, NW, Suite 300, Washington, DC 20006 USA
-
-电话 202.737.3700 传真 202.737.0530
-
-=== https://ijnet.org/ar/opportunities ===
+=== https://ijnet.org/en/opportunity/icfj-offers-webinar-how-find-stories-hidden-health-data-latin-america ===
 Skip to main content
 
-مشروع
+A project of
 
-عربى Toggle Dropdown
-عربى
+English Toggle Dropdown
 English
 Español
 Português
 简体中文
+عربى
 Русский
 فارسی
 Français
 
 Top header
 
-اكتب لـ IJNet
+Pitch to IJNet
 
-دعم IJNet
+Support IJNet
 
-النشرة البريدية
+Newsletter
 
-شبكة الصحفيين الدوليين
+International Journalists Network
 
 Toggle navigation
 
 Main navigation
 
-مقالات
+Stories
 
-الفرص
+Opportunities
 
-مجموعات الأدوات
+Toolkits
 
 Blueprints
 
 Evidence
 
-مشروع
+A project of
 
-عربى Toggle Dropdown
-عربى
+English Toggle Dropdown
 English
 Español
 Português
 简体中文
+عربى
 Русский
 فارسی
 Français
 
 Top header
 
-اكتب لـ IJNet
+Pitch to IJNet
 
-دعم IJNet
+Support IJNet
 
-النشرة البريدية
+Newsletter
 
-تقدم شبكة الصحفيين الدوليين أحدث النصائح والاتجاهات وفرص التدريب بثماني لغات. اشترك هنا في نشرتنا الأسبوعية
+ICFJ offers webinar on how to find stories hidden in health data [Latin America]
 
-الاشتراك
+Posted on Dec 3, 2018
+in Specialized Topics
+
+Health journalism helps people make important decisions about their own well-being and hold governments and corporations accountable for their policies. However, it can be challenging to locate the health data that drives these stories and to present them in ways that resonate with wide audiences.
+
+Despite these difficulties, there is an inexhaustible need for such reporting, says Fabiola Torres , an International Center for Journalists (ICFJ) Knight Fellow and co-founder and editor of OjoPúblico , a Peruvian newsroom known internationally for its award-winning investigative journalism.
+
+Journalists can join a 
+
+--- relevant lines ---
+© 2024 International Center for Journalists
+
+=== https://ijnet.org/en/story/are-you-ijnets-journalist-month-worldwide ===
+Skip to main content
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+International Journalists Network
+
+Toggle navigation
+
+Main navigation
+
+Stories
+
+Opportunities
+
+Toolkits
+
+Blueprints
+
+Evidence
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+Are you IJNet s journalist of the month?
+
+by
+IJNet
+
+Oct 30, 2018
+in Journalist of the Month
+
+We are looking for an outstanding journalist who has used IJNet to further his or her career. The journalist will be interviewed and featured on IJNet.
+
+Nominate yourself, or someone else, by filling out the Google Form , which is included at the end of this post. Check out our previous profiles of Enock Nyariki and Chani Guyot.
+
+This is a great opportunity to gain international exposure for your work!
+
+Loading…
+
+Main image courtesy of journalists of the month.
+
+Read more articles by
 
 IJNet
 
-معلومات عنا
+IJNet provides the latest tips, trends and training opportunities for journalists in eight languages .
 
-ICFJ
+IJNet provides the latest tips, trends and training
 
-ICFJ.org
-
-الحفلات التكريمية للمركز الدولي للصحفيين
-
-Be a part
-
-اكتب لـ IJNet
-
-دعم IJNet
-
+--- relevant lines ---
 © 2024 International Center for Journalists
 
-750 17th Street, NW, Suite 300, Washington, DC 20006 USA
+=== https://ijnet.org/en/story/tell-us-what-you-think-about-ijnet ===
+Skip to main content
 
-الهاتف 202.737.3700 فاكس 202.737.0530
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+International Journalists Network
+
+Toggle navigation
+
+Main navigation
+
+Stories
+
+Opportunities
+
+Toolkits
+
+Blueprints
+
+Evidence
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+Tell us what you think about IJNet
+
+by
+IJNet
+
+Oct 30, 2018
+in Journalism Basics
+
+IJNet would like to learn more about its audience, so we can make sure we're keeping you informed about the opportunities, journalism resources and media tools and trends that matter most to you.
+Please take just a few minutes to let us know what you like, what you don't and how IJNet can serve you better. To thank you for responding to our survey, we'll give you a chance to win one of five Amazon gift cards worth US$50.
+Fill out the survey in English here .
+You can also fill out the survey in Arabic , Chinese , Portuguese , Russian or Spanish .
+Please respond by Jan. 15. Thank you for your help and we're looking forward to your feedback!
+Image CC-licensed
+
+--- relevant lines ---
+© 2024 International Center for Journalists
+
+=== https://ijnet.org/en/story/five-new-strategies-digital-storytelling-africa ===
+Skip to main content
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+International Journalists Network
+
+Toggle navigation
+
+Main navigation
+
+Stories
+
+Opportunities
+
+Toolkits
+
+Blueprints
+
+Evidence
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+Five new strategies for digital storytelling in Africa
+
+by
+Patrick Butler
+
+Oct 30, 2018
+in Miscellaneous
+
+The African Story Challenge is a US$1 million program of reporting grants to encourage innovative, multimedia storytelling that aims to improve the health and prosperity of Africans. It was launched by former ICFJ Knight Fellow Joseph Wanguru and is run by the African Media Iniative with the support of the International Center for Journalists.
+Finalists in the latest round of the contest recently attended a weeklong bootcamp in Marrakech, Morocco to learn about best practices in data journalism and digital media. Below, ICFJ Vice President for Programs Patrick Butler and ICFJ Database and Social Media Officer Kendall McCabe shared 
+
+--- relevant lines ---
+© 2024 International Center for Journalists
+
+=== https://ijnet.org/en/story/six-opportunities-apply-october ===
+Skip to main content
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+International Journalists Network
+
+Toggle navigation
+
+Main navigation
+
+Stories
+
+Opportunities
+
+Toolkits
+
+Blueprints
+
+Evidence
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+Six opportunities to apply for in October
+
+by
+IJNet
+
+Oct 30, 2018
+in Journalism Basics
+
+Looking to expand your journalism toolkit, take on a new beat or receive recognition for your work? Check out these promising courses, fellowships and competitions with deadlines in October. Each is open to journalists worldwide.
+Radcliffe Institute Fellowship Program : Deadline Oct. 1
+The Radcliffe Institute Fellowship Program is a scholarly community where individuals pursue advanced work in multiple academic disciplines, including journalism. Stipends are funded up to US$75,000 for one year with additional funds for project expenses. Fellows receive office or studio space and access to libraries and other resources of Harvard University during th
+
+--- relevant lines ---
+e fellowship year. Click here for more information.
+Wilson Center Public Policy Fellowships : Deadline Oct. 1
+The Woodrow Wilson International Center for Scholars is accepting applications for its nine-month residential fellowship program in Washington. Journalists who want to research and write about a specific topic while interacting with policymakers may apply. Fellowships include a stipend and 75 percent of health insurance premiums for fellows who elect center coverage. Travel costs are also covered. Click here for more information.
+Mongabay.org Biodiversity Grant : Deadline Oct. 5
+Mongabay.org is accepting applications from journalists to cover industry and its effects on biodiversity in Latin America. The grant will be up to US$15,000, including US$12,000 for a stipend and up to US$3,000 for travel. All applications must be submitted in English. Click here for more information.
+Texas A&M ConDev Photojournalism Grant : Deadline Oct. 10
+The Conflict and Development Center at Texas A&M University will present a photojournalism award to students who use innovative methods to research and chronicle issues facing conflict-afflicted nations. The winner will receive US$5,000 and must commit to a three-month period of traveling, writing and research. Click here for more information.
+InternationalStudent.com Travel Video Contest : Deadline Oct. 22
+InternationalStudent.com ’s Travel Video Contest is open to all students who would like to study abroad. Five-minute videos must describe a trip you would like to take. The winning video will get US$4,000, and runner-up prizes will be available. Students must be 18 and older. Click here for more information.
+Kiplinger Journalism Fellowships : Deadline Oct. 31
+The Kiplinger Program in Public Affairs Journalism offers short-term fellowships to help make better use of new online tools and channels. The fellowship will run April 26 - May 1, 2015, at Ohio State University in Columbus. The Kiplinger Foundation covers the costs of training, lodging, most meals and a travel stipend. All application materials must be submitted in English. Click here for more information.
+© 2024 International Center for Journalists
+
+=== https://ijnet.org/en/story/shorthand-storehouse-and-steller-three-visual-storytelling-apps-journalists ===
+Skip to main content
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+International Journalists Network
+
+Toggle navigation
+
+Main navigation
+
+Stories
+
+Opportunities
+
+Toolkits
+
+Blueprints
+
+Evidence
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+Shorthand, Storehouse and Steller: Three visual-storytelling apps for journalists
+
+by
+Jessica Weiss
+
+Oct 30, 2018
+in Digital Journalism
+
+When The New York Times revealed its multimedia “Snow Fall” feature in December 2012, the web caught a glimpse of the future of online storytelling. Snow Fall combined text, photos, videos and interactive graphics in an unprecedented way to tell the story of skiers and snowboarders trapped beneath an avalanche.
+But it took a lot of manpower and technical wizardry to complete (an 11-person graphics and design team, a photographer, three video folks and a researcher), leading some to declare that the Snow Fall model couldn’t feasibly, sustainably become the standard. “Stuff like this will get better and
+
+--- relevant lines ---
+Publishers itching to do the same in 2012 needed to at least know HTML, CSS and complex design suites like PhotoShop or InDesign to create compelling visual stories. But since Snow Fall disrupted online journalism, a number of new tools and apps have emerged to help publishers create these interactives without the need for much tech savvy at all. Now news outlets looking to easily infuse multimedia into their storytelling can combine text, video and photos with just a few clicks, and often at low (or no) cost.
+Shorthand , currently in private beta, is a web-based app that allows users to arrange text, photos and videos to create multimedia, Snow Fall-esque stories, with no coding knowledge necessary. The Brisbane-based startup was founded in March 2013 and first tested the tool with the Guardian Australia for England v Australia , a long-form interactive story that traces the history of the two countries’ sporting rivalry. Since then, Shorthand has worked with leading news outlets like BBC, The Guardian and ESPN.
+Storehouse has plans to make its creation tool available on the web in early 2015.
+© 2024 International Center for Journalists
+
+=== https://ijnet.org/en/story/bbc-news-tests-video-distribution-using-chat-app-line ===
+Skip to main content
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+International Journalists Network
+
+Toggle navigation
+
+Main navigation
+
+Stories
+
+Opportunities
+
+Toolkits
+
+Blueprints
+
+Evidence
+
+A project of
+
+English Toggle Dropdown
+English
+Español
+Português
+简体中文
+عربى
+Русский
+فارسی
+Français
+
+Top header
+
+Pitch to IJNet
+
+Support IJNet
+
+Newsletter
+
+BBC News tests video distribution using chat app Line
+
+by
+Margaret Looney
+
+Oct 30, 2018
+in Multimedia Journalism
+
+Mobile news consumption is on the rise across the globe, but reaching international audiences with varying data plans can be tricky for video-heavy organizations.
+Enter BBC News' latest experiment , launching a presence for international news on a chat app with Line , a free instant messaging service for video, text and calls.
+BBC will distribute two push alerts each day in English and feature news updates on its Line homepage, a strategy the outlet has tried on similar chat apps with its WhatsApp account in India and BBC Hausa's BlackBerry Messenger channel in Nigeria.
+"Receiving push alerts with heavy video files would be
+
+--- relevant lines ---
+© 2024 International Center for Journalists
