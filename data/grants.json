@@ -3,6 +3,36 @@
   "generatedAt": "2026-09-18T11:20:14.779Z",
   "grants": [
     {
+      "id": "stigler-center-journalists-in-residence",
+      "funder": "Stigler Center, University of Chicago Booth School of Business",
+      "programme": "Journalists in Residence Program",
+      "summary": "A twelve-week residence on the Chicago Hyde Park campus for working journalists with an interest in political economy. The centre covers living costs, airfare, visa fees and health insurance, so the fellow is not funding the stay themselves.",
+      "url": "https://www.chicagobooth.edu/research/stigler/education/journalists-in-residence-program",
+      "applyUrl": "https://apply.chicagobooth.edu/",
+      "applicantTypes": ["freelancer"],
+      "supportTypes": ["fellowship"],
+      "topics": ["political-economy", "accountability", "business"],
+      "track": "media",
+      "amount": { "min": null, "max": 14000, "currency": "USD", "note": "$14,000 towards living expenses over twelve weeks, plus economy airfare to and from Chicago, SEVIS and visa fees, and health insurance. Fellows need their own funds for roughly the first month, before the stipend is paid." },
+      "deadline": "2026-09-20",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": ["global"],
+      "sourceId": "stigler-center",
+      "lastVerified": "2026-09-18",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "Residence runs tentatively 15 March – 31 May 2027. Applicants need professional journalism experience, proficient English and an interest in political economy. Read on the centre's own page: deadline \"September 20, 2026 by 11:59 p.m. CT Chicago time\".",
+      "pinned": {
+        "deadline": "2026-09-20",
+        "deadlineType": "fixed",
+        "status": "open",
+        "confidence": "high",
+        "_why": "Added by hand after a reader noticed it was missing. Verified on the centre's own page on 18 September 2026, two days before it closes — too close to the deadline to risk the sweep re-reading it wrongly."
+      }
+    },
+    {
       "id": "visegrad-fund-grants",
       "funder": "International Visegrad Fund",
       "programme": "Visegrad Grants / Visegrad+ Grants",

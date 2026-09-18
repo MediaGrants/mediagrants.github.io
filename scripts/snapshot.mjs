@@ -161,7 +161,7 @@ async function attempt(url, agent) {
     });
     if (!res.ok) return { error: `HTTP ${res.status}` };
     const type = res.headers.get("content-type") || "";
-    if (!/html|text/i.test(type)) return { error: `not html (${type.split(";")[0]})` };
+    if (!/html|text|xml|rss|atom/i.test(type)) return { error: `not readable (${type.split(";")[0]})` };
     return { html: await res.text(), finalUrl: res.url };
   } catch (err) {
     return { error: err.name === "AbortError" ? "timeout" : err.message };
@@ -170,31 +170,80 @@ async function attempt(url, agent) {
   }
 }
 
+const isFeed = (body) => /^\s*<\?xml|<rss[\s>]|<feed[\s>]/i.test(body.slice(0, 500));
+
+/**
+ * An RSS item is already the summary a listing page would show, and the
+ * aggregators that matter most — IJNet, GFMD — render their listings in
+ * JavaScript, so fetching their HTML returns an empty shell while their feed
+ * returns the actual calls. Reading the feed is the difference between seeing
+ * a source and only appearing to.
+ */
+function feedToText(xml) {
+  const items = [...xml.matchAll(/<(item|entry)\b[\s\S]*?<\/\1>/gi)].map((m) => m[0]);
+  const field = (block, tag) => {
+    const m = new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)</${tag}>`, "i").exec(block);
+    return m ? toText(m[1]) : "";
+  };
+  return items.map((block) => [
+    field(block, "title"),
+    field(block, "pubDate") || field(block, "updated"),
+    field(block, "description") || field(block, "summary") || field(block, "content"),
+    feedLink(block)
+  ].filter(Boolean).join("\n")).join("\n\n");
+}
+
+function feedLink(block) {
+  const plain = /<link\b[^>]*>([\s\S]*?)<\/link>/i.exec(block);
+  if (plain && plain[1].trim()) return toText(plain[1]);
+  const href = /<link\b[^>]*href=["']([^"']+)["']/i.exec(block);
+  return href ? href[1] : "";
+}
+
+function feedLinks(xml, limit) {
+  const items = [...xml.matchAll(/<(item|entry)\b[\s\S]*?<\/\1>/gi)].map((m) => m[0]);
+  const out = [];
+  for (const block of items) {
+    const link = feedLink(block);
+    if (/^https?:\/\//.test(link) && !out.includes(link)) out.push(link);
+    if (out.length >= limit) break;
+  }
+  return out;
+}
+
 async function snapshot(source) {
   const main = await get(source.url);
   if (main.error) return { id: source.id, ok: false, error: main.error };
+
+  const feed = isFeed(main.html);
+  const follow = source.follow ?? MAX_FOLLOW;
 
   const parts = [
     `SOURCE: ${source.name}`,
     `URL: ${source.url}`,
     `FETCHED: ${new Date().toISOString()}`,
-    `TITLE: ${titleOf(main.html)}`,
+    `TITLE: ${feed ? "(feed)" : titleOf(main.html)}`,
     "",
-    "=== MAIN PAGE ===",
-    condense(toText(main.html), MAIN_CHARS)
+    feed ? "=== FEED ITEMS ===" : "=== MAIN PAGE ===",
+    // A feed's items are the listing; condensing them the way a web page is
+    // condensed would throw away the very lines we came for.
+    feed ? feedToText(main.html).slice(0, MAIN_CHARS * 2)
+         : condense(toText(main.html), MAIN_CHARS)
   ];
 
   // A listing page usually names the programmes but keeps the dates one click
   // away, so the linked pages matter more than the listing itself. A global
   // programme index — Canada's CFLI covers 120 countries on one page — needs a
   // much higher limit than an ordinary funder, hence the per-source override.
-  const follow = source.follow ?? MAX_FOLLOW;
   // On a country index, each sub-page carries one call: a country, a deadline,
   // an amount. Keeping 3.5KB of each would make a 120-country index enormous
   // for no gain, and capping the count instead would mean the same twenty
   // countries every run while the other hundred are never seen.
   const budget = follow > 10 ? 1200 : SUB_CHARS;
-  for (const link of subLinks(main.html, main.finalUrl || source.url, follow)) {
+  const links = feed
+    ? feedLinks(main.html, follow)
+    : subLinks(main.html, main.finalUrl || source.url, follow);
+  for (const link of links) {
     const sub = await get(link);
     if (sub.error) continue;
     const text = toText(sub.html);

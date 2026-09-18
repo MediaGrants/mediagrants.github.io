@@ -2,8 +2,8 @@
   "_comment": "Registry of funders and aggregators the daily updater sweeps. 'tier' controls how often a source is re-checked: 1 = every run, 2 = every 3 days, 3 = weekly. Add a source by appending an object here — no code change needed.",
   "sources": [
     { "id": "gijn-grants", "name": "GIJN — Grants & Fellowships", "kind": "aggregator", "tier": 1, "url": "https://gijn.org/resource/grants-fellowships/", "scope": ["global"] },
-    { "id": "ijnet-opportunities", "name": "IJNet — Opportunities", "kind": "aggregator", "tier": 1, "url": "https://ijnet.org/en/opportunities", "scope": ["global"] },
-    { "id": "gfmd-fundings", "name": "GFMD — Funding opportunities", "kind": "aggregator", "tier": 1, "url": "https://gfmd.info/fundings/", "scope": ["global"] },
+    { "id": "ijnet-opportunities", "name": "IJNet — Opportunities", "kind": "aggregator", "tier": 1, "follow": 10, "url": "https://ijnet.org/en/rss.xml", "scope": ["global"] },
+    { "id": "gfmd-fundings", "name": "GFMD — Funding opportunities", "kind": "aggregator", "tier": 1, "follow": 10, "url": "https://gfmd.info/fundings/feed/", "scope": ["global"] },
     { "id": "ejc-funding", "name": "European Journalism Centre — Funding", "kind": "aggregator", "tier": 1, "url": "https://ejc.net/funding", "scope": ["europe"] },
     { "id": "journalismgrants", "name": "Journalism Grants (EJC)", "kind": "aggregator", "tier": 2, "url": "https://www.journalismgrants.org/", "scope": ["global"] },
 
@@ -88,8 +88,9 @@
     { "id": "gnf", "name": "Global Network Initiative / tech-for-media funds", "kind": "funder", "tier": 3, "url": "https://globalnetworkinitiative.org/", "scope": ["global"] },
 
     { "_comment": "Fellowships: what an individual journalist applies to in order to go somewhere — to study, to be mentored, to relocate for a term. A different thing from a grant that pays for a story, and the reason the site treats it as its own category." },
-    { "id": "gfmd-fellowships", "name": "GFMD — Fellowships archive", "kind": "aggregator", "tier": 1, "follow": 12, "url": "https://gfmd.info/type_fund/fellowship/", "scope": ["global"], "_note": "GFMD curates fellowships separately from grants. One page in place of twenty programme sites." },
+    { "id": "gfmd-fellowships", "name": "GFMD — Fellowships archive", "kind": "aggregator", "tier": 1, "follow": 12, "url": "https://gfmd.info/type_fund/fellowship/feed/", "scope": ["global"], "_note": "GFMD curates fellowships separately from grants. One page in place of twenty programme sites." },
     { "id": "humphrey-fellowship", "name": "Hubert H. Humphrey Fellowship Program", "kind": "funder", "tier": 3, "follow": 6, "url": "https://www.humphreyfellowship.org/", "scope": ["global"] },
+    { "id": "stigler-center", "name": "Stigler Center, Chicago Booth — Journalists in Residence", "kind": "funder", "tier": 3, "url": "https://www.chicagobooth.edu/research/stigler/education/journalists-in-residence-program", "scope": ["global"], "_note": "A university research centre, not a media funder, which is why no aggregator we watch carried it and why it was missing until a reader asked." },
 
     { "_comment": "Below: the 'adjacent' track. These fund a cause, not journalism — but reporting, public information and community education are routinely eligible activities. None of them appear on journalism grant lists, which is the point." },
 
