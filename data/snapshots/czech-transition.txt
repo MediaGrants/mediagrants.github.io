@@ -1,6 +1,6 @@
 SOURCE: Czech MFA — Transition Promotion Programme
 URL: https://mzv.gov.cz/jnp/en/foreign_relations/human_rights/transition_promotion_program/index.html
-FETCHED: 2026-09-17T16:30:59.542Z
+FETCHED: 2026-09-18T11:08:21.648Z
 TITLE: Transition Promotion Programme | Ministry of Foreign Affairs of the Czech Republic
 
 === MAIN PAGE ===
@@ -48,5 +48,4 @@ Human Rights Framework 2025
 25.01.2024 / 10:52
 25.01.2024 / 10:49
 25.01.2024 / 10:50
-Sep 18, 2026 Foreign ministers of the Czech Republic and the Hashemite Kingdom of Jordan will discuss deepening bilateral Cooperation at the Czernin Palace
 September 2026

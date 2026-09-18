@@ -1,6 +1,6 @@
 SOURCE: German Embassy Belgrade — micro-projects
 URL: https://belgrad.diplo.de/
-FETCHED: 2026-09-17T16:31:00.722Z
+FETCHED: 2026-09-18T11:08:04.972Z
 TITLE: Botschaft der Bundesrepublik Deutschland Belgrad - Auswärtiges Amt
 
 === MAIN PAGE ===
@@ -116,6 +116,4 @@ Suche öffnen
 Wi
 
 --- relevant lines ---
-Die Botschaft bleibt am 16.9.2026 wegen Betriebsausflug geschlossen
-Die Botschaft macht am Mittwoch, 16. September 2026, ihren jährlichen Betriebsausflug und bleibt an diesem Tag geschlossen. Die telefonische Erreichbarkeit für deutsche Staatsangehörige in Notfällen ist über das Bereitschaftsdiensttelefon gewährleistet.
 1995 – 2026

@@ -1,6 +1,6 @@
 SOURCE: Committee to Protect Journalists — assistance
 URL: https://cpj.org/campaigns/assistance/
-FETCHED: 2026-09-17T16:30:59.055Z
+FETCHED: 2026-09-18T11:08:02.613Z
 TITLE: Journalist Safety and Emergencies - Committee to Protect Journalists
 
 === MAIN PAGE ===

@@ -1,6 +1,6 @@
 SOURCE: Balkan Trust for Democracy (GMF)
 URL: https://www.gmfus.org/
-FETCHED: 2026-09-18T03:39:43.308Z
+FETCHED: 2026-09-18T11:08:00.350Z
 TITLE: German Marshall Fund of the United States
 
 === MAIN PAGE ===
@@ -653,3 +653,4 @@ The transition from a US- to a Europe-led security order is no longer theoretica
 European NATO members and Canada raised defense spending by 20% in real terms in 2025, bringing their combined total to $574 billion. For the first time since the benchmark was set in 2014, every NATO ally met the 2%-of-GDP target for such outlays. Yet the central paradox is stark: Europe is beginning to spend for wartime while still procuring and planning for peacetime. Closing that gap is the defining defense policy challenge of this decade, and it requires three urgent measures.
 First, align procurement with threat reality and use Ukrainian expertise. Defense budgets are rising, but the institutional machinery governing their expenditure remains fragmented, slow, and risk-averse. The EU's defense industrial base is still structured around national champions, redundant capabilities, and political horse-trading rather than operational requirements. With a 3.5%-of-GDP spending target coming into force by 2035, EU member states that are also in NATO will collectively represent a defense market of roughly $1 trillion annually. Without fundamental reform of procurement rules, joint tendering, and interoperability standards, however, the extraordinary amount of funds risks being squandered on duplication. The ReArm Europe plan is a start, but ambition must be matched by ruthless industrial pragmatism.
 Europe faces a real dilemma: rebuilding its defense-industrial base for long-term autonomy while urgently closing immediate capability gaps. These goals are not mutually exclusive, but they require balancing. Strong political will and financial commitment do not automatically produce rapid increases in production.
+Long-range strike is the most pressing gap. Europeans must plan for the possibility that US a…

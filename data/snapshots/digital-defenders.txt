@@ -1,6 +1,6 @@
 SOURCE: Digital Defenders Partnership
 URL: https://www.digitaldefenders.org/
-FETCHED: 2026-09-17T16:31:01.479Z
+FETCHED: 2026-09-18T11:08:06.325Z
 TITLE: Digital Defenders Partnership We fund. We accompany. We facilitate communities.
 
 === MAIN PAGE ===
@@ -300,6 +300,7 @@ How long does the evaluation of IEF applications take?
 We try to respond within two weeks from the moment the proposal is submitted. However, this period might be longer depending on the amount of proposals received, our internal referencing processes, etc.
 Does our organisation need to be legally constituted to apply?
 Can we get in touch to discuss our proposal?
+DDP donors, partners, grantees, consultants, and other stakeholders who experience undesirable behaviour from DDP employees or repr…
 
 === https://www.digitaldefenders.org/regional-partnership-fund ===
 Skip to content
@@ -403,6 +404,7 @@ Who can apply?
 What happens if my proposal gets rejected?
 Does our organisation need to be legally constituted to apply?
 Can we get in touch to discuss our proposal?
+DDP donors, partners, grantees, consultants, and other stakeholders who experience undesirable behaviour from DDP employees or representatives are invited to report it via our…
 
 === https://www.digitaldefenders.org/sustainable-protection-fund ===
 Skip to content
@@ -510,3 +512,4 @@ Who can apply?
 DDP target groups are women, feminist and LGTBQIA+ organisations; land and environmental rights defenders; and journalists and other actors who make information available to the public. However, each regional team defines the target groups for each call. Check the call for your region.
 How long does the evaluation of SPF applications take?
 It depends on the ammount of proposals recieved.
+Does our organisation need to be legally constituted to app…
