@@ -1,7 +1,7 @@
 SOURCE: British Embassy Belgrade — programme funds
-URL: https://www.gov.uk/world/organisations/british-embassy-belgrade
-FETCHED: 2026-09-18T03:39:41.666Z
-TITLE: British Embassy Belgrade - GOV.UK
+URL: https://www.gov.uk/world/serbia/news
+FETCHED: 2026-09-18T10:55:37.697Z
+TITLE: Serbia and the UK - GOV.UK
 
 === MAIN PAGE ===
 Cookies on GOV.UK
@@ -76,102 +76,19 @@ Guidance and regulation
 Detailed guidance,
 
 --- relevant lines ---
-You can apply for an emergency travel document if you’re abroad and your passport has been lost or stolen , damaged or expired, and you can’t get a new or replacement passport in time to travel.
-Apply online for an emergency travel document .
-If the person needing the emergency travel document is under 16, a parent or guardian should apply on their behalf.
-Contact us to apply for an emergency travel document if you are:
-If you’re not a British citizen but think you may be eligible, contact us to apply for an emergency travel document .
-(opens in new tab)
-(opens in new tab)
-(opens in new tab)
-(opens in new tab)
-(opens in new tab)
-(opens in new tab)
-Please fill in this survey (opens in a new tab ) .
-
-=== https://www.gov.uk/emergency-travel-document ===
-Cookies on GOV.UK
-
-We use some essential cookies to make this website work.
-We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
-We also use cookies set by other sites to help us deliver content from their services.
-
-You have accepted additional cookies. You can change your cookie settings at any time.
-
-You have rejected additional cookies. You can change your cookie settings at any time.
-
-Accept additional cookies
-
-Reject additional cookies
-
-View cookies
-
-Hide cookie message
-
-Skip to main content
-
-Navigation menu
-
-Menu
-
-Menu
-
-Services and information
-
-Benefits
-
-Births, death, marriages and care
-
-Business and self-employed
-
-Childcare and parenting
-
-Citizenship and living in the UK
-
-Crime, justice and the law
-
-Disabled people
-
-Driving and transport
-
-Education and learning
-
-Employing people
-
-Environment and countryside
-
-Housing and local services
-
-Money and tax
-
-Passports, travel and living abroad
-
-Visas and immigration
-
-Working, jobs and pensions
-
-Government activity
-
-Departments
-Departments, agencies and public bodies
-
-News
-News stories, speeches, letters and notices
-
-Guidance and regulation
-Detailed guidance,
-
---- relevant lines ---
-Who can apply
-How to apply
-Who can apply
-You can apply for an emergency travel document if all the following apply:
-you have had a valid UK passport that was issued on or after 1 January 2006
-If you have not had a passport issued on or after 1 January 2006
-If you have not had a UK passport that was issued on or after 1 January 2006, you’ll usually need to apply for a UK passport instead of an emergency travel document.
-You might be able to get an emergency travel document if all the following apply:
-you have, or are eligible for, British nationality
-If you have not had a UK passport that was issued on or after 1 January 2006, you cannot get emergency travel documents for activities such as holidays, weddings, family events and job interviews.
-You’ll have to explain and provide evidence to show why your journey is urgent and essential. Applications are assessed on a case by case basis.
-Next : How to apply
+8 September 2026
+Report by the Head of OSCE Mission to Serbia: UK statement, July 2026
+30 July 2026
+Joint E4 Leaders’ Statement on the US-Iran peace deal: 14 June 2026
+24 June 2026
+8 September 2026
+Report by the Head of OSCE Mission to Serbia: UK statement, July 2026
+30 July 2026
+Joint E4 Leaders’ Statement on the US-Iran peace deal: 14 June 2026
+24 June 2026
+Western Balkans Summit Economy Ministers' meeting: 16 October 2025
+20 October 2025
+Western Balkans Summit Foreign Ministers' Meeting: 9 October 2025
+15 October 2025
+19 March 2025
 Please fill in this survey (opens in a new tab ) .
