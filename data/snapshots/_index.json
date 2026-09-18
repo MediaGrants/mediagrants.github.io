@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T13:51:26.501Z",
+  "generatedAt": "2026-09-18T13:51:39.036Z",
   "captured": {
-    "nieman": {
-      "fetchedAt": "2026-09-18T13:51:26.501Z",
-      "words": 1624,
-      "pages": 4
+    "reuters-institute": {
+      "fetchedAt": "2026-09-18T13:51:39.036Z",
+      "words": 2731,
+      "pages": 5
     }
   },
   "failed": {}
