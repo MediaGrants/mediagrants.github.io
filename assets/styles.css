@@ -272,6 +272,19 @@ a:focus-visible {
 
 .checks input { accent-color: var(--accent); width: 15px; height: 15px; flex: none; }
 
+.soon {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 9px;
+  padding-top: 9px;
+  border-top: 1px solid var(--line);
+  font-size: 14px;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.soon input { accent-color: var(--accent); width: 15px; height: 15px; flex: none; }
+
 .actions { display: flex; flex-direction: column; gap: 6px; }
 
 .btn-ghost {

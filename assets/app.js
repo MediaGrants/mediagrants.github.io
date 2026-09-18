@@ -158,6 +158,7 @@
       kind: (data.get("kind") || "").toString(),
       track: (data.get("track") || "").toString(),
       themes: data.getAll("theme").map(String),
+      soon: data.get("soon") === "1",
       support: data.getAll("support").map(String),
       status: data.getAll("status").map(String),
       sort: (data.get("sort") || "deadline").toString()
@@ -181,6 +182,13 @@
         });
         if (f.kind === "fellowship" && !goesSomewhere) return false;
         if (f.kind === "grant" && goesSomewhere) return false;
+      }
+
+      // A rolling call has no deadline to be close to, so it is not "ending
+      // soon" and does not belong in this view.
+      if (f.soon) {
+        var left = daysLeft(g);
+        if (left == null || left < 0 || left > 30) return false;
       }
 
       if (f.themes.length) {
@@ -215,8 +223,17 @@
       if (f.sort === "verified") {
         return (b.lastVerified || "").localeCompare(a.lastVerified || "");
       }
-      // Deadline order: dated calls soonest first, then rolling, then undated.
+      // Live calls first, soonest deadline at the top, then rolling, then
+      // undated, then the archive. Inside the archive the order reverses:
+      // what closed last month tells you more about next year's round than
+      // what closed two years ago.
+      var closedA = effectiveStatus(a) === "closed";
+      var closedB = effectiveStatus(b) === "closed";
+      if (closedA !== closedB) return closedA ? 1 : -1;
+
       var da = daysLeft(a), db = daysLeft(b);
+      if (closedA) return (b.deadline || "").localeCompare(a.deadline || "");
+
       var ra = da != null ? 0 : (a.deadlineType === "rolling" ? 1 : 2);
       var rb = db != null ? 0 : (b.deadlineType === "rolling" ? 1 : 2);
       if (ra !== rb) return ra - rb;
@@ -357,6 +374,7 @@
 
     var bits = [];
     if (openNow) bits.push(openNow + " accepting applications right now");
+    if (f.soon) bits.push("closing within 30 days");
     if (f.kind === "fellowship") bits.push("fellowships only");
     else if (f.kind === "grant") bits.push("grants only");
     if (f.country) bits.push("eligible from " + (state.geo.countryNames[f.country] || f.country));
@@ -385,6 +403,7 @@
     if (f.kind) p.set("kind", f.kind);
     if (f.track) p.set("track", f.track);
     if (f.themes.length) p.set("theme", f.themes.join(","));
+    if (f.soon) p.set("soon", "1");
     if (f.support.length) p.set("support", f.support.join(","));
     if (f.status.join(",") !== "open,upcoming") p.set("status", f.status.join(","));
     if (f.sort !== "deadline") p.set("sort", f.sort);
@@ -397,6 +416,11 @@
     if (p.get("q")) el.q.value = p.get("q");
     if (p.get("country")) el.country.value = p.get("country");
     if (p.get("sort")) el.sort.value = p.get("sort");
+
+    if (p.get("soon") === "1") {
+      var soonBox = el.form.querySelector('input[name="soon"]');
+      if (soonBox) soonBox.checked = true;
+    }
 
     ["applicant", "kind", "track"].forEach(function (name) {
       var value = p.get(name);
