@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T13:51:39.036Z",
+  "generatedAt": "2026-09-18T13:51:50.315Z",
   "captured": {
-    "reuters-institute": {
-      "fetchedAt": "2026-09-18T13:51:39.036Z",
-      "words": 2731,
-      "pages": 5
+    "jsk-stanford": {
+      "fetchedAt": "2026-09-18T13:51:50.315Z",
+      "words": 1170,
+      "pages": 3
     }
   },
   "failed": {}
