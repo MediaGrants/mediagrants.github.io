@@ -1,6 +1,6 @@
 SOURCE: Bertha Foundation
 URL: https://berthafoundation.org/
-FETCHED: 2026-09-17T16:30:57.924Z
+FETCHED: 2026-09-18T03:39:43.728Z
 TITLE: Bertha Foundation
 
 === MAIN PAGE ===

@@ -1,6 +1,6 @@
 SOURCE: Balkan Trust for Democracy (GMF)
 URL: https://www.gmfus.org/
-FETCHED: 2026-09-17T16:30:57.198Z
+FETCHED: 2026-09-18T03:39:43.308Z
 TITLE: German Marshall Fund of the United States
 
 === MAIN PAGE ===
@@ -124,9 +124,9 @@ European Commission President Ursula von der Leyen, echoing Charles Dickens “b
 September 06, 2026
 September 08, 2026
 August 12, 2026
+September 17, 2026
 September 16, 2026
 September 16, 2026
-September 15, 2026
 EIN: 52-0954751 - All Rights Reserved. German Marshall Fund 2026.
 
 === https://www.gmfus.org/programs-grants/geostrategy ===

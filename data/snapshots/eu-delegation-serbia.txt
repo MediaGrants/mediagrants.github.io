@@ -1,6 +1,6 @@
 SOURCE: EU Delegation to Serbia — calls for proposals
 URL: https://europa.rs/
-FETCHED: 2026-09-17T16:30:57.034Z
+FETCHED: 2026-09-18T03:39:41.220Z
 TITLE: Početna - EU u Srbiji
 
 === MAIN PAGE ===

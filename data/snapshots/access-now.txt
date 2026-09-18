@@ -1,6 +1,6 @@
 SOURCE: Access Now — Digital Security Helpline / grants
 URL: https://www.accessnow.org/
-FETCHED: 2026-09-17T16:30:57.050Z
+FETCHED: 2026-09-18T03:39:42.636Z
 TITLE: Access Now - Access Now
 
 === MAIN PAGE ===
@@ -84,7 +84,7 @@ Subscribe to our action alerts and newsletter
 
 " * " indicates required fields
 
-Facebook
+Comments
 This field is for validation purposes and should be left unchanged.
 
 This field is hidden when viewing the form
@@ -139,7 +139,7 @@ Subscribe to our action alerts and newsletter
 
 " * " indicates required fields
 
-Comments
+Facebook
 This field is for validation purposes and should be left unchanged.
 
 This field is hidden when viewing the form
