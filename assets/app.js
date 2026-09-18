@@ -16,8 +16,15 @@
     regranting: "Re-granting to others",
     training: "Training",
     travel: "Travel",
-    equipment: "Equipment"
+    equipment: "Equipment",
+    scholarship: "Scholarship",
+    mentoring: "Mentoring"
   };
+
+  /* Both send a person somewhere to learn, so both belong under Fellowships.
+     A prize for work already published is a different thing and is not
+     tracked: you cannot apply for it as funding for work you intend to do. */
+  var FELLOWSHIP_TYPES = ["fellowship", "scholarship"];
 
   var APPLICANT_LABELS = {
     freelancer: "Freelancers",
@@ -41,6 +48,7 @@
     q: document.getElementById("q"),
     country: document.getElementById("country"),
     supportTypes: document.getElementById("support-types"),
+    themes: document.getElementById("themes"),
     sort: document.getElementById("sort"),
     cards: document.getElementById("cards"),
     empty: document.getElementById("empty"),
@@ -147,7 +155,9 @@
       q: (data.get("q") || "").toString().trim().toLowerCase(),
       country: (data.get("country") || "").toString(),
       applicant: (data.get("applicant") || "").toString(),
+      kind: (data.get("kind") || "").toString(),
       track: (data.get("track") || "").toString(),
+      themes: data.getAll("theme").map(String),
       support: data.getAll("support").map(String),
       status: data.getAll("status").map(String),
       sort: (data.get("sort") || "deadline").toString()
@@ -160,6 +170,23 @@
       if (!matchesCountry(g, f.country)) return false;
       // Entries written before the two tracks existed are media funds.
       if (f.track && (g.track || "media") !== f.track) return false;
+
+      // A fellowship sends a person somewhere; everything else pays for work
+      // done where they already are. That is the first thing a reader is
+      // choosing between, so it splits the whole list rather than sitting in
+      // the list of support types.
+      if (f.kind) {
+        var goesSomewhere = (g.supportTypes || []).some(function (t) {
+          return FELLOWSHIP_TYPES.indexOf(t) !== -1;
+        });
+        if (f.kind === "fellowship" && !goesSomewhere) return false;
+        if (f.kind === "grant" && goesSomewhere) return false;
+      }
+
+      if (f.themes.length) {
+        var topics = g.topics || [];
+        if (!f.themes.some(function (t) { return topics.indexOf(t) !== -1; })) return false;
+      }
 
       if (f.applicant) {
         var who = g.applicantTypes || [];
@@ -330,6 +357,8 @@
 
     var bits = [];
     if (openNow) bits.push(openNow + " accepting applications right now");
+    if (f.kind === "fellowship") bits.push("fellowships only");
+    else if (f.kind === "grant") bits.push("grants only");
     if (f.country) bits.push("eligible from " + (state.geo.countryNames[f.country] || f.country));
     if (f.applicant) bits.push("open to " + (APPLICANT_LABELS[f.applicant] || f.applicant).toLowerCase());
     el.context.textContent = bits.join(" · ");
@@ -353,7 +382,9 @@
     if (f.q) p.set("q", f.q);
     if (f.country) p.set("country", f.country);
     if (f.applicant) p.set("applicant", f.applicant);
+    if (f.kind) p.set("kind", f.kind);
     if (f.track) p.set("track", f.track);
+    if (f.themes.length) p.set("theme", f.themes.join(","));
     if (f.support.length) p.set("support", f.support.join(","));
     if (f.status.join(",") !== "open,upcoming") p.set("status", f.status.join(","));
     if (f.sort !== "deadline") p.set("sort", f.sort);
@@ -367,7 +398,7 @@
     if (p.get("country")) el.country.value = p.get("country");
     if (p.get("sort")) el.sort.value = p.get("sort");
 
-    ["applicant", "track"].forEach(function (name) {
+    ["applicant", "kind", "track"].forEach(function (name) {
       var value = p.get(name);
       if (!value) return;
       var radio = el.form.querySelector(
@@ -375,12 +406,13 @@
       if (radio) radio.checked = true;
     });
 
-    var support = (p.get("support") || "").split(",").filter(Boolean);
-    if (support.length) {
-      el.form.querySelectorAll('input[name="support"]').forEach(function (box) {
-        box.checked = support.indexOf(box.value) !== -1;
+    ["support", "theme"].forEach(function (name) {
+      var wanted = (p.get(name) || "").split(",").filter(Boolean);
+      if (!wanted.length) return;
+      el.form.querySelectorAll('input[name="' + name + '"]').forEach(function (box) {
+        box.checked = wanted.indexOf(box.value) !== -1;
       });
-    }
+    });
 
     var status = (p.get("status") || "").split(",").filter(Boolean);
     if (status.length) {
@@ -407,24 +439,57 @@
     el.country.appendChild(frag);
   }
 
+  function addCheck(container, name, value, text) {
+    var label = document.createElement("label");
+    var box = document.createElement("input");
+    box.type = "checkbox";
+    box.name = name;
+    box.value = value;
+    label.appendChild(box);
+    label.appendChild(make("span", null, text));
+    container.appendChild(label);
+  }
+
   function buildSupportChecks() {
     var seen = {};
     state.grants.forEach(function (g) {
       (g.supportTypes || []).forEach(function (t) { seen[t] = true; });
     });
-    var types = Object.keys(seen).sort(function (a, b) {
+    // These are the top-level choice now; repeating them here would let a
+    // reader tick a box that contradicts the switch above it.
+    FELLOWSHIP_TYPES.forEach(function (t) { delete seen[t]; });
+    Object.keys(seen).sort(function (a, b) {
       return (SUPPORT_LABELS[a] || a).localeCompare(SUPPORT_LABELS[b] || b);
+    }).forEach(function (t) {
+      addCheck(el.supportTypes, "support", t, SUPPORT_LABELS[t] || t);
     });
-    types.forEach(function (t) {
-      var label = document.createElement("label");
-      var box = document.createElement("input");
-      box.type = "checkbox";
-      box.name = "support";
-      box.value = t;
-      label.appendChild(box);
-      label.appendChild(make("span", null, SUPPORT_LABELS[t] || t));
-      el.supportTypes.appendChild(label);
+  }
+
+  /* Themes come from the data, so a topic the sweep starts recording appears
+     as a filter on its own. Only the ones that actually recur are worth a
+     checkbox: a list of sixty one-off keywords is not a filter. */
+  function buildThemeChecks() {
+    // The sweep sometimes files a structural word as a topic — "fellowship",
+    // "rolling", "grant". Those describe the shape of the call, not what it is
+    // about, and every one of them is already a filter of its own.
+    var notThemes = ["fellowship", "scholarship", "grant", "grants", "funding",
+      "rolling", "core", "global", "journalism", "media", "award"];
+
+    var counts = {};
+    state.grants.forEach(function (g) {
+      (g.topics || []).forEach(function (t) {
+        if (notThemes.indexOf(t) === -1) counts[t] = (counts[t] || 0) + 1;
+      });
     });
+    Object.keys(counts)
+      .filter(function (t) { return counts[t] >= 2; })
+      .sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); })
+      .slice(0, 14)
+      .sort()
+      .forEach(function (t) {
+        var text = t.replace(/-/g, " ");
+        addCheck(el.themes, "theme", t, text.charAt(0).toUpperCase() + text.slice(1));
+      });
   }
 
   /* ---------- CSV export ---------- */
@@ -484,6 +549,7 @@
 
     buildCountrySelect();
     buildSupportChecks();
+    buildThemeChecks();
     readUrl();
 
     el.freshness.textContent = freshnessText(state.generatedAt) +
@@ -497,7 +563,9 @@
 
     document.getElementById("reset").addEventListener("click", function () {
       el.form.reset();
-      el.form.querySelectorAll('input[name="support"]').forEach(function (b) { b.checked = false; });
+      // form.reset() restores the checked attribute, which these never had.
+      el.form.querySelectorAll('input[name="support"], input[name="theme"]')
+        .forEach(function (b) { b.checked = false; });
       render();
     });
 

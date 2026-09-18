@@ -33,6 +33,16 @@
   <aside class="filters" aria-label="Filters">
     <form id="filter-form" autocomplete="off">
 
+      <fieldset class="field field-primary">
+        <legend>What are you looking for</legend>
+        <div class="segmented" role="radiogroup" aria-label="What are you looking for">
+          <label><input type="radio" name="kind" value="" checked><span>Everything</span></label>
+          <label><input type="radio" name="kind" value="grant"><span>Grants</span></label>
+          <label><input type="radio" name="kind" value="fellowship"><span>Fellowships</span></label>
+        </div>
+        <p class="hint">A grant pays for work you do where you are. A fellowship sends you somewhere — to study, to be mentored, to be hosted by a newsroom.</p>
+      </fieldset>
+
       <div class="field">
         <label for="q">Search</label>
         <input type="search" id="q" name="q" placeholder="Funder, topic, keyword…">
@@ -68,6 +78,11 @@
       <fieldset class="field">
         <legend>Kind of support</legend>
         <div id="support-types" class="checks"></div>
+      </fieldset>
+
+      <fieldset class="field">
+        <legend>Theme</legend>
+        <div id="themes" class="checks"></div>
       </fieldset>
 
       <fieldset class="field">

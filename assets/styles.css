@@ -172,6 +172,17 @@ select { min-width: 0; max-width: 100%; }
 }
 
 .field { margin: 0 0 18px; border: 0; padding: 0; }
+
+/* The first question a reader has is which of the two things they want. */
+.field-primary {
+  background: var(--surface-2);
+  border-radius: 9px;
+  padding: 12px 12px 10px;
+  margin-bottom: 20px;
+}
+.field-primary > legend { padding: 0 0 0 12px; }
+.field-primary .segmented { background: var(--surface); }
+.field-primary .hint { margin-top: 8px; }
 .field:last-of-type { margin-bottom: 14px; }
 
 .field > label,
