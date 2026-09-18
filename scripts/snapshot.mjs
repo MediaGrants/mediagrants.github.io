@@ -103,9 +103,14 @@ function condense(text, budget) {
   let size = head.length;
   for (const line of rest) {
     if (line.length < 3 || !SIGNAL.test(line)) continue;
-    if (size + line.length > budget) break;
-    kept.push(line);
-    size += line.length + 1;
+    if (size >= budget) break;
+    // One long paragraph used to end collection for the whole page: the first
+    // line that did not fit hit a `break`, so everything after it was dropped.
+    // On a page whose calls sit below a long intro, that discarded the calls.
+    const room = budget - size;
+    const text = line.length > room ? line.slice(0, room) + "…" : line;
+    kept.push(text);
+    size += text.length + 1;
   }
   return kept.length ? `${head}\n\n--- relevant lines ---\n${kept.join("\n")}` : head;
 }
