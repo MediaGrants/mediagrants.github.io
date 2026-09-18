@@ -2633,14 +2633,14 @@
       "eligibleActivity": "DAP's own published priorities for Serbia/North Macedonia/Montenegro explicitly list 'promoting human rights, media freedom and good governance' alongside gender equality and youth priorities, so a documentation, reporting or public-education project on human rights, corruption or press-freedom issues sits under a named priority, not an inferred one. Funding is awarded to the project rather than to the applicant's profession, so an outlet would need to apply as, or in partnership with, a registered local NGO/CSO in Serbia, North Macedonia or Montenegro rather than as an individual freelancer.",
       "amount": {
         "min": null,
-        "max": 20000,
-        "currency": "AUD",
-        "note": "Up to AUD 20,000 per project, per the FY2025-26 Belgrade guidelines; the cap for the FY2026-27 round has not been independently reconfirmed."
+        "max": 10000,
+        "currency": "EUR",
+        "note": "Up to €10,000 for a single project."
       },
-      "deadline": null,
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "upcoming",
+      "deadline": "2026-10-04",
+      "deadlineType": "fixed",
+      "opensAt": "2026-09-08",
+      "status": "open",
       "geoScope": [
         "RS",
         "MK",
@@ -2648,9 +2648,24 @@
       ],
       "sourceId": "au-embassy-belgrade",
       "lastVerified": "2026-09-18",
-      "confidence": "medium",
+      "confidence": "high",
       "provenance": "auto",
-      "notes": "Re-verified today: today's snapshot of the shared SmartyGrants portal is a landing page whose only followed live round was Cairo (Egypt), FY2026-27, closing 22 Sept 2026 — it did not confirm Belgrade-specific 2026-27 dates. A fresh WebSearch confirms the FY2025-26 Belgrade round (15 Sept - 5 Oct 2025, AUD 20,000 cap, priorities 'human rights, media freedom and good governance') but found no FY2026-27 Belgrade-specific dates yet published; the FY2025-26 round is now closed and next dates are unconfirmed. Not confirmed on the funder's own page for the current round; check the SmartyGrants portal directly for the live Belgrade-specific deadline."
+      "notes": "The embassy's own page states: \"Australian Direct Aid Program 2026-27… This round will be opened from 8 September to 4 October 2026\", a €10,000 ceiling per project, and projects running between 1 December 2026 and 31 December 2027.",
+      "pinned": {
+        "amount": {
+          "min": null,
+          "max": 10000,
+          "currency": "EUR",
+          "note": "Up to €10,000 for a single project."
+        },
+        "deadline": "2026-10-04",
+        "deadlineType": "fixed",
+        "opensAt": "2026-09-08",
+        "status": "open",
+        "confidence": "high",
+        "notes": "The embassy's own page states: \"Australian Direct Aid Program 2026-27… This round will be opened from 8 September to 4 October 2026\", a €10,000 ceiling per project, and projects running between 1 December 2026 and 31 December 2027.",
+        "_why": "Read directly on serbia.embassy.gov.au on 17 and 18 September 2026. The sweep cannot see this: the DAP portal does not render as text, so it falls back to search, which returns the closed FY2025-26 round (AUD 20,000, October 2025) and reports the current round as unknown. Pinned until the portal becomes readable."
+      }
     },
     {
       "id": "us-embassy-belgrade-mtd-small-grants",
