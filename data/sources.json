@@ -109,6 +109,8 @@
     { "id": "fulbright", "name": "Fulbright — foreign student and scholar programmes", "kind": "funder", "tier": 3, "follow": 6, "url": "https://foreign.fulbrightonline.org/", "scope": ["global"] },
     { "id": "journalismfund-scholarships", "name": "Journalismfund Europe — Scholarships", "kind": "funder", "tier": 2, "url": "https://www.journalismfund.eu/scholarships", "scope": ["europe"] },
     { "id": "cjid", "name": "Centre for Journalism Innovation and Development (Africa)", "kind": "funder", "tier": 3, "follow": 8, "url": "https://thecjid.org/", "scope": ["africa"] },
+    { "id": "scholars-at-risk", "name": "Scholars at Risk Network", "kind": "funder", "tier": 3, "url": "https://www.scholarsatrisk.org/", "scope": ["global"], "_note": "Site exists but refuses automated fetches, so this source will always fall back to search. Kept because the programme is real and well documented elsewhere." },
+    { "id": "daad", "name": "DAAD — German Academic Exchange Service", "kind": "funder", "tier": 3, "url": "https://www.daad.de/en/", "scope": ["global"], "_note": "Refuses automated fetches; covered through search." },
     { "id": "stigler-center", "name": "Stigler Center, Chicago Booth — Journalists in Residence", "kind": "funder", "tier": 3, "url": "https://www.chicagobooth.edu/research/stigler/education/journalists-in-residence-program", "scope": ["global"], "_note": "A university research centre, not a media funder, which is why no aggregator we watch carried it and why it was missing until a reader asked." },
 
     { "_comment": "Added after a September 2026 funding briefing listed calls this registry had missed. Half of that briefing's funders were absent — these are the ones whose URLs were checked and answered." },
