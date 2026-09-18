@@ -1,0 +1,74 @@
+SOURCE: Rosalynn Carter Fellowships for Mental Health Journalism
+URL: https://carter.emory.edu/mental-health/fellowships/
+FETCHED: 2026-09-18T16:12:19.402Z
+TITLE: President Jimmy Carter | Emory News
+
+=== MAIN PAGE ===
+Skip to main content
+
+{
+const url = 'https://template.aws.emory.edu/shared-assets/emergency/alert-feed.php';
+
+async function load() {
+try {
+const res = await fetch(url);
+const text = (await res.text()).trim();
+body = text;
+$nextTick(() => {
+$store.header.update()
+$store.header.updateOffset()
+});
+} catch (e) {
+console.error('Failed to load alert feed', e);
+}
+}
+await load();
+// poll every 60s
+setInterval(load, 60_000);
+
+})()"
+>
+
+Emory News
+
+{ visible = target }, 600);
+"
+class="relative h-12 w-12 lg:w-24"
+>
+
+Search
+
+$refs.searchOpen.focus(), { once: true })"
+aria-label="Close Search"
+:aria-expanded="$store.search.modalOpen"
+aria-controls="mobile-menu"
+>
+
+Close
+
+{ visible = target }, 600);
+"
+class="relative h-12 w-12 lg:w-24"
+>
+
+Menu
+
+$refs.menuOpen.focus(), { once: true })"
+:class="{ 'is-hidden': visible !== 'close' }"
+aria-label="Close Menu"
+:aria-expanded="$store.header.open"
+aria-controls="mobile-menu"
+>
+
+Close
+
+$el.querySelector('#primary-navigation a, #primary-navigation button')?.focus(), 300)
+}
+"
+x-transition:enter="transition ease-out duration-300"
+x-transition:enter-start="opacity-0 -translate-y-[3%]"
+x-transition:enter-end="opacity-100 translate-y-0"
+x-transition:leave="tran
+
+--- relevant lines ---
+© 2026 Emory University |

@@ -1,11 +1,120 @@
 {
-  "generatedAt": "2026-09-18T15:56:17.719Z",
+  "generatedAt": "2026-09-18T16:12:29.237Z",
   "captured": {
+    "gfmd-fellowships": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 2989,
+      "pages": 13
+    },
+    "gfmd-fundings": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 4232,
+      "pages": 11
+    },
     "ijnet-opportunities": {
-      "fetchedAt": "2026-09-18T15:56:17.719Z",
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
       "words": 4276,
       "pages": 11
+    },
+    "journalismfund-scholarships": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 1847,
+      "pages": 5
+    },
+    "western-balkans-fund": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 4231,
+      "pages": 9
+    },
+    "akademie-solitude": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 2619,
+      "pages": 7
+    },
+    "artists-at-risk-connection": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 2193,
+      "pages": 5
+    },
+    "astraea": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 145,
+      "pages": 1
+    },
+    "carter-mental-health": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 159,
+      "pages": 1
+    },
+    "ch-embassy-serbia": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 437,
+      "pages": 1
+    },
+    "cjid": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 218,
+      "pages": 1
+    },
+    "climate-justice-resilience": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 1449,
+      "pages": 4
+    },
+    "code-for-africa": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 19,
+      "pages": 1
+    },
+    "creative-europe": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 1209,
+      "pages": 4
+    },
+    "czech-transition": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 268,
+      "pages": 1
+    },
+    "daad": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 227,
+      "pages": 1
+    },
+    "de-embassy-belgrade": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 173,
+      "pages": 1
+    },
+    "digital-defenders": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 2080,
+      "pages": 5
+    },
+    "digital-freedom-fund": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 2174,
+      "pages": 5
+    },
+    "eea-grants": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 3772,
+      "pages": 11
+    },
+    "erasmus-plus": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 1071,
+      "pages": 5
+    },
+    "erste-stiftung": {
+      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "words": 697,
+      "pages": 2
     }
   },
-  "failed": {}
+  "failed": {
+    "ecpmf": "fetch failed",
+    "coe-youth-foundation": "HTTP 403",
+    "council-of-europe": "HTTP 403"
+  }
 }

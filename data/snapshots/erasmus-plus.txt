@@ -1,6 +1,6 @@
 SOURCE: Erasmus+ — civic education & youth participation
 URL: https://erasmus-plus.ec.europa.eu/opportunities
-FETCHED: 2026-09-18T11:08:06.258Z
+FETCHED: 2026-09-18T16:12:23.337Z
 TITLE: Opportunities under Erasmus+ - Erasmus+
 
 === MAIN PAGE ===

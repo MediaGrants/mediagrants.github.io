@@ -1,6 +1,6 @@
 SOURCE: ERSTE Foundation
 URL: https://www.erstestiftung.org/en/
-FETCHED: 2026-09-18T11:08:09.220Z
+FETCHED: 2026-09-18T16:12:25.215Z
 TITLE: Homepage - ERSTE Foundation
 
 === MAIN PAGE ===

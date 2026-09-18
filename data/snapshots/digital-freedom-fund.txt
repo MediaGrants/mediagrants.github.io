@@ -1,6 +1,6 @@
 SOURCE: Digital Freedom Fund
 URL: https://digitalfreedomfund.org/
-FETCHED: 2026-09-18T11:08:06.319Z
+FETCHED: 2026-09-18T16:12:22.752Z
 TITLE: Digital Freedom Fund Advancing digital rights through strategic litigation
 
 === MAIN PAGE ===
@@ -625,13 +625,14 @@ The case studies below illustrate the important digital rights work of our grant
 ver time as new grants are approved and projects progress.
 Highlighting Litigation Success in the Digital Rights Community : a report documenting some of the impact from the more than 100 grants we made between 2018 and 2024.
 Litigation Impact Stories : stories from grantee partners highlighting notable outcomes and successes from their litigation and pre-litigation research.
-In September 2025, Spain's Supreme Court ruled in Civio's favour after a seven-year legal battle, ordering the government to release the source code of BOSCO, an algorithm determining eligibility for
-In Germany, since 2017, citizens’ personal information and photographs from their ID cards have been stored in registers that are accessible to various state bodies. Under German law, authorities such
-Liberty are challenging the UK government’s regime to issue a Technical Capability Notice (“TCN”) under the Investigatory Powers Act 2016. In February 2025, it was reported that the UK Secretary
-In Serbia, the Law on Social Card was adopted in 2021, establishing an electronic register containing the data of beneficiaries of social protection schemes, and enabling automated processing of data
-In December 2021, the Norwegian Data Protection Authority (DPA) issued an administrative fine of NOK 65 million (around EUR 6.5 million) against dating app Grindr for disclosing personal information about
-Digital Rights Ireland are taking a “mass action” lawsuit against Facebook. They will represent users who have been affected by the 3 April 2021 release of computer files containing personal
-In Germany, undocumented migrants are at risk of privacy violations and deportation if they try to access healthcare services. This is because the social welfare office is obliged to share
-Constitutional complaint against the amendment of the telecommunication surveillance regulation (“G10” ), which for the first time grants all 19 German intelligence services the right to use malware to surveil
 Based on research carried out by Tracking Exposed (now rebranded into Reversing Works), privacy activists lodged a complaint before the data protection authority (DPA) of Italy. In November 2024, after
-The UK Investigatory Powers Act (IPA) grants the government power to collect and store information about everything people do an…
+In 2019, the UK Police brought in new regulations on how police officers should gather data-based evidence to investigate certain criminal cases. Under the policy, police can request that the
+In September 2025, Spain's Supreme Court ruled in Civio's favour after a seven-year legal battle, ordering the government to release the source code of BOSCO, an algorithm determining eligibility for
+On 18 June 2021, Quad9, a non-profit Domain Name Server (DNS) resolver, received an interim injunction from the District Court of Hamburg, pursuant to an application made by Sony Music.
+UK Home Office visa application streaming algorithm
+In mid-2019, the media revealed that the UK Home Office had been using an algorithm/automated computer system for five years to process visa applications. Foxglove and JCWI argued that the
+In December 2021, the Norwegian Data Protection Authority (DPA) issued an administrative fine of NOK 65 million (around EUR 6.5 million) against dating app Grindr for disclosing personal information about
+The German Asylum Act grants the Federal Ministry for Migration and Refugees the power to access the mobile devices of migrants and asylum seekers, without a warrant, in order to
+In 2024, PILP took litigation challenging automated decision making through the use of an algorithm by banks in the Netherlands, resulting in discrimination against people with "exotic" sounding names, whose
+According to Human Rights Monitoring Institute (HRMI), in Lithuania in 2019, telecommunications companies were legally required to collect and store users' personal communications data. This included information about who sent
+Constitutional complaint against the amendment of the telecommunication surveilla…
