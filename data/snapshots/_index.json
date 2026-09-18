@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T13:51:50.315Z",
+  "generatedAt": "2026-09-18T15:54:41.073Z",
   "captured": {
-    "jsk-stanford": {
-      "fetchedAt": "2026-09-18T13:51:50.315Z",
-      "words": 1170,
-      "pages": 3
+    "gfmd-fellowships": {
+      "fetchedAt": "2026-09-18T15:54:41.073Z",
+      "words": 2989,
+      "pages": 13
     }
   },
   "failed": {}
