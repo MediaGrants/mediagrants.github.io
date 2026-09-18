@@ -63,7 +63,7 @@
     { "id": "council-of-europe", "name": "Council of Europe — media freedom programmes", "kind": "funder", "tier": 3, "url": "https://www.coe.int/en/web/freedom-expression", "scope": ["europe"] },
     { "id": "osce-rfom", "name": "OSCE Representative on Freedom of the Media", "kind": "funder", "tier": 3, "url": "https://www.osce.org/representative-on-freedom-of-media", "scope": ["europe", "asia-central"] },
 
-    { "id": "reuters-institute", "name": "Reuters Institute — Journalist Fellowships", "kind": "funder", "tier": 3, "url": "https://reutersinstitute.politics.ox.ac.uk/fellowships", "scope": ["global"] },
+    { "id": "reuters-institute", "name": "Reuters Institute — Journalist Fellowships", "kind": "funder", "tier": 3, "url": "https://reutersinstitute.politics.ox.ac.uk/journalist-fellowship-programme", "scope": ["global"] },
     { "id": "nieman", "name": "Nieman Foundation", "kind": "funder", "tier": 3, "url": "https://nieman.harvard.edu/fellowships/", "scope": ["global"] },
     { "id": "jsk-stanford", "name": "JSK Journalism Fellowships, Stanford", "kind": "funder", "tier": 3, "url": "https://jsk.stanford.edu/", "scope": ["global"] },
     { "id": "knight-wallace", "name": "Knight-Wallace Fellowships, Michigan", "kind": "funder", "tier": 3, "url": "https://wallacehouse.umich.edu/knight-wallace/", "scope": ["global"] },
@@ -86,6 +86,10 @@
     { "id": "reporters-shield", "name": "Reporters Shield", "kind": "funder", "tier": 3, "url": "https://reportersshield.org/", "scope": ["global"] },
     { "id": "google-news-initiative", "name": "Google News Initiative", "kind": "funder", "tier": 3, "url": "https://newsinitiative.withgoogle.com/", "scope": ["global"] },
     { "id": "gnf", "name": "Global Network Initiative / tech-for-media funds", "kind": "funder", "tier": 3, "url": "https://globalnetworkinitiative.org/", "scope": ["global"] },
+
+    { "_comment": "Fellowships: what an individual journalist applies to in order to go somewhere — to study, to be mentored, to relocate for a term. A different thing from a grant that pays for a story, and the reason the site treats it as its own category." },
+    { "id": "gfmd-fellowships", "name": "GFMD — Fellowships archive", "kind": "aggregator", "tier": 1, "follow": 12, "url": "https://gfmd.info/type_fund/fellowship/", "scope": ["global"], "_note": "GFMD curates fellowships separately from grants. One page in place of twenty programme sites." },
+    { "id": "humphrey-fellowship", "name": "Hubert H. Humphrey Fellowship Program", "kind": "funder", "tier": 3, "follow": 6, "url": "https://www.humphreyfellowship.org/", "scope": ["global"] },
 
     { "_comment": "Below: the 'adjacent' track. These fund a cause, not journalism — but reporting, public information and community education are routinely eligible activities. None of them appear on journalism grant lists, which is the point." },
 
