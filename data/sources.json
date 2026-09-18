@@ -67,7 +67,7 @@
     { "id": "nieman", "name": "Nieman Foundation", "kind": "funder", "tier": 3, "url": "https://nieman.harvard.edu/fellowships/", "scope": ["global"] },
     { "id": "jsk-stanford", "name": "JSK Journalism Fellowships, Stanford", "kind": "funder", "tier": 3, "url": "https://jsk.stanford.edu/", "scope": ["global"] },
     { "id": "knight-wallace", "name": "Knight-Wallace Fellowships, Michigan", "kind": "funder", "tier": 3, "url": "https://wallacehouse.umich.edu/knight-wallace/", "scope": ["global"] },
-    { "id": "iwm-milena-jesenska", "name": "IWM Vienna — Milena Jesenská Fellowships", "kind": "funder", "tier": 3, "url": "https://www.iwm.at/fellowships", "scope": ["europe"] },
+    { "id": "iwm-milena-jesenska", "name": "IWM Vienna — Milena Jesenská Fellowships", "kind": "funder", "tier": 3, "follow": 8, "url": "https://www.iwm.at/", "scope": ["europe"] },
     { "id": "alicia-patterson", "name": "Alicia Patterson Foundation", "kind": "funder", "tier": 3, "enabled": false, "url": "https://aliciapatterson.org/", "scope": ["americas-north"], "_note": "Merged into the Fund for Investigative Journalism on 4 December 2025 and closed; the fellowships are now an FIJ programme and are covered by the fij source." },
     { "id": "national-geographic", "name": "National Geographic Society — grants", "kind": "funder", "tier": 3, "url": "https://www.nationalgeographic.org/society/grants-and-investments/", "scope": ["global"] },
 
@@ -90,6 +90,25 @@
     { "_comment": "Fellowships: what an individual journalist applies to in order to go somewhere — to study, to be mentored, to relocate for a term. A different thing from a grant that pays for a story, and the reason the site treats it as its own category." },
     { "id": "gfmd-fellowships", "name": "GFMD — Fellowships archive", "kind": "aggregator", "tier": 1, "follow": 12, "url": "https://gfmd.info/type_fund/fellowship/feed/", "scope": ["global"], "_note": "GFMD curates fellowships separately from grants. One page in place of twenty programme sites." },
     { "id": "humphrey-fellowship", "name": "Hubert H. Humphrey Fellowship Program", "kind": "funder", "tier": 3, "follow": 6, "url": "https://www.humphreyfellowship.org/", "scope": ["global"] },
+
+    { "_comment": "Mapped deliberately rather than harvested. Until this point every fellowship on the site arrived as a by-product of a funder tracked for other reasons: thirteen fellowships scattered across ten sources, one of them from the dedicated fellowship archive. A category cannot rest on that. Every URL below was opened and checked; programmes whose sites refused or had moved were left out rather than guessed at." },
+
+    { "id": "ksj-mit", "name": "Knight Science Journalism Program, MIT", "kind": "funder", "tier": 3, "follow": 6, "url": "https://ksj.mit.edu/apply/", "scope": ["global"] },
+    { "id": "carter-mental-health", "name": "Rosalynn Carter Fellowships for Mental Health Journalism", "kind": "funder", "tier": 3, "follow": 6, "url": "https://carter.emory.edu/mental-health/fellowships/", "scope": ["global"] },
+    { "id": "rji-fellowships", "name": "Reynolds Journalism Institute — fellowships", "kind": "funder", "tier": 3, "follow": 6, "url": "https://www.rjionline.org/fellowships/", "scope": ["americas-north"] },
+    { "id": "national-press-foundation", "name": "National Press Foundation", "kind": "funder", "tier": 3, "follow": 8, "url": "https://www.nationalpress.org/", "scope": ["global"] },
+    { "id": "usc-health-journalism", "name": "USC Annenberg Center for Health Journalism", "kind": "funder", "tier": 3, "follow": 8, "url": "https://centerforhealthjournalism.org/", "scope": ["global"] },
+    { "id": "ire-fellowships", "name": "IRE — fellowships and scholarships", "kind": "funder", "tier": 3, "follow": 8, "url": "https://www.ire.org/training/fellowships-and-scholarships/", "scope": ["global"] },
+
+    { "id": "akademie-solitude", "name": "Akademie Schloss Solitude — residencies", "kind": "funder", "tier": 3, "follow": 6, "url": "https://www.akademie-solitude.de/en/fellowship/", "scope": ["global"] },
+    { "id": "hamburger-stiftung", "name": "Hamburger Stiftung für politisch Verfolgte", "kind": "funder", "tier": 3, "url": "https://www.hamburger-stiftung.de/", "scope": ["global"] },
+    { "id": "icorn", "name": "ICORN — International Cities of Refuge Network", "kind": "funder", "tier": 3, "follow": 6, "url": "https://www.icorn.org/", "scope": ["global"] },
+    { "id": "artists-at-risk-connection", "name": "Artists at Risk Connection (PEN America)", "kind": "funder", "tier": 3, "follow": 6, "url": "https://artistsatriskconnection.org/", "scope": ["global"] },
+
+    { "id": "rias-berlin", "name": "RIAS Berlin Kommission — journalist exchange", "kind": "funder", "tier": 3, "follow": 6, "url": "https://www.riasberlin.org/", "scope": ["americas-north", "europe"] },
+    { "id": "fulbright", "name": "Fulbright — foreign student and scholar programmes", "kind": "funder", "tier": 3, "follow": 6, "url": "https://foreign.fulbrightonline.org/", "scope": ["global"] },
+    { "id": "journalismfund-scholarships", "name": "Journalismfund Europe — Scholarships", "kind": "funder", "tier": 2, "url": "https://www.journalismfund.eu/scholarships", "scope": ["europe"] },
+    { "id": "cjid", "name": "Centre for Journalism Innovation and Development (Africa)", "kind": "funder", "tier": 3, "follow": 8, "url": "https://thecjid.org/", "scope": ["africa"] },
     { "id": "stigler-center", "name": "Stigler Center, Chicago Booth — Journalists in Residence", "kind": "funder", "tier": 3, "url": "https://www.chicagobooth.edu/research/stigler/education/journalists-in-residence-program", "scope": ["global"], "_note": "A university research centre, not a media funder, which is why no aggregator we watch carried it and why it was missing until a reader asked." },
 
     { "_comment": "Added after a September 2026 funding briefing listed calls this registry had missed. Half of that briefing's funders were absent — these are the ones whose URLs were checked and answered." },
