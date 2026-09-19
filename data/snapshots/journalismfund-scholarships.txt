@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe — Scholarships
 URL: https://www.journalismfund.eu/scholarships
-FETCHED: 2026-09-18T16:12:16.845Z
+FETCHED: 2026-09-19T03:39:21.319Z
 TITLE: Scholarships | Journalismfund Europe
 
 === MAIN PAGE ===
@@ -325,10 +325,9 @@ Country
 Choose a country Afghanistan Åland Islands Albania Algeria American Samoa
 
 --- relevant lines ---
-1723 supported projects match your criteria. View the awarded projects
+1724 supported projects match your criteria. View the awarded projects
 © European Union, 2016 (CC 4.0)
 BRUSSELS - The film Returnees follows migrants in Belgium who are preparing for voluntary return.
-CATALONIA / MAURITIUS – Since China halted exports during the COVID-19 pandemic, Mauritius has become the world's leading exporter of long-tailed macaques for biomedical research, supplying close to half of all animals traded worldwide in 2024.
 Be the first to get informed about our grant deadlines.
 Journalismfund Europe vzw
 info@journalismfund.eu

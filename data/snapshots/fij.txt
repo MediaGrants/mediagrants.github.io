@@ -1,6 +1,6 @@
 SOURCE: Fund for Investigative Journalism
 URL: https://fij.org/apply-for-a-grant/
-FETCHED: 2026-09-18T03:39:38.917Z
+FETCHED: 2026-09-19T03:39:19.128Z
 TITLE: Apply for a Grant - The Fund for Investigative Journalism
 
 === MAIN PAGE ===
@@ -345,6 +345,7 @@ We review applications for seed funding (small grants for preliminary reporting)
 Grant Amounts
 The maximum grant is $10,000. Grants cover out-of-pocket expenses such as travel, document collection and equipment rental. Grants can also be used to cover reporting time.
 Reporters who have already published an investigation with a grant from the Fund can request up to $2,500 for timely follow-up coverage to the original story.
+Reporters who …
 
 === https://fij.org/index-of-grantees-stories/ ===
 0
@@ -673,6 +674,7 @@ Martha Pskowski and Paul Ratje, Inside Climate News (April 19, 2026)
 Juliette Rihl and DaniRae Renno, PennLive (April 14, 2026)
 Max Blaisdell, Book Club Chicago (April 7, 2026)
 Christine Peterson, High Country News (April 6, 2026)
+Kevin …
 
 === https://fij.org/financial-supporters/ ===
 0
@@ -992,6 +994,7 @@ Grants FAQ
 How to Get a Grant
 In 2021, the groundbreaking nonprofit news organization FairWarning ceased operations and donated its remaining assets to the Fund for Investigative Journalism. These funds are used to support investigative reporting on the set of issues that FairWarning covered. The Fund provides grants on these issues through its regular grantmaking cycles and processes, and some of those grants are funded by FairWarning’s donation. Read more about the FairWarning donation here , and view an archive of FairWarning’s coverage here .
 Grantee sues to obtain evidence in official’s fatal car crash in rural Oklahoma
+93% of ICE arrests in New York area targeted Latinos; grantees build datab…
 
 === https://fij.org/grantees-stories/ ===
 0
@@ -1637,3 +1640,4 @@ Grants FAQ
 This FAQ provides information about grant eligibility, proposals, budgets and more. If you have a question that is not answered here, or if you need additional information, please email [email protected] .
 What makes a good proposal?
 A good story pitch written for an editor would be very similar to a good proposal written for a grant from the Fund for Investigative Journalism. What is the main question your investigation seeks to answer? What will you uncover that is new? What is your road map for tracking down information? Is the information obtainable through public records, interviews or your own observations? What has your preliminary research found?
+Wha…

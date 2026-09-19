@@ -1,6 +1,6 @@
 SOURCE: Swiss Embassy Serbia — cooperation programme
 URL: https://www.eda.admin.ch/belgrade
-FETCHED: 2026-09-18T16:12:20.643Z
+FETCHED: 2026-09-19T03:39:22.852Z
 TITLE: Embassy of Switzerland in Serbia
 
 === MAIN PAGE ===

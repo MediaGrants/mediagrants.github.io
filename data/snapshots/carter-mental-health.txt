@@ -1,6 +1,6 @@
 SOURCE: Rosalynn Carter Fellowships for Mental Health Journalism
 URL: https://carter.emory.edu/mental-health/fellowships/
-FETCHED: 2026-09-18T16:12:19.402Z
+FETCHED: 2026-09-19T03:39:23.525Z
 TITLE: President Jimmy Carter | Emory News
 
 === MAIN PAGE ===

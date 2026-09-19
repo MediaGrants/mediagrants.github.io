@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe
 URL: https://www.journalismfund.eu/grants
-FETCHED: 2026-09-18T03:39:39.921Z
+FETCHED: 2026-09-19T03:39:20.707Z
 TITLE: Grants | Journalismfund Europe
 
 === MAIN PAGE ===
@@ -230,10 +230,9 @@ Country
 Choose a country Afghanistan Åland Islands Albania Algeria American Samoa
 
 --- relevant lines ---
-1723 supported projects match your criteria. View the awarded projects
+1724 supported projects match your criteria. View the awarded projects
 © European Union, 2016 (CC 4.0)
 BRUSSELS - The film Returnees follows migrants in Belgium who are preparing for voluntary return.
-CATALONIA / MAURITIUS – Since China halted exports during the COVID-19 pandemic, Mauritius has become the world's leading exporter of long-tailed macaques for biomedical research, supplying close to half of all animals traded worldwide in 2024.
 Be the first to get informed about our grant deadlines.
 Journalismfund Europe vzw
 info@journalismfund.eu
@@ -507,3 +506,4 @@ Grant application portal & rules
 To see all the details about the eligibility and assessment criteria, project advisors and experts, timing, jury and grant conditions, visit our application portal .
 Expert-reviewed European Cross-border Grants grant rules and eligibility criteria
 Journalismfund Europe's General Grant Rules
+Please be advised that if any details (such as full addresses) or documents (IDs, CVs, articles of incorporatio…

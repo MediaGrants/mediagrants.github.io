@@ -1,6 +1,6 @@
 SOURCE: Artists at Risk Connection (PEN America)
 URL: https://artistsatriskconnection.org/
-FETCHED: 2026-09-18T16:12:20.436Z
+FETCHED: 2026-09-19T03:39:25.169Z
 TITLE: ARC – Artists at Risk Connection
 
 === MAIN PAGE ===

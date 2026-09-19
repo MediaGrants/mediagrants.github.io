@@ -1,6 +1,6 @@
 SOURCE: Akademie Schloss Solitude — residencies
 URL: https://www.akademie-solitude.de/en/fellowship/
-FETCHED: 2026-09-18T16:12:19.464Z
+FETCHED: 2026-09-19T03:39:24.104Z
 TITLE: Fellowship - Akademie Schloss Solitude
 
 === MAIN PAGE ===

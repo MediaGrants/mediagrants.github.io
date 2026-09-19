@@ -1,6 +1,6 @@
 SOURCE: DAAD — German Academic Exchange Service
 URL: https://www.daad.de/en/
-FETCHED: 2026-09-18T16:12:22.176Z
+FETCHED: 2026-09-19T03:39:25.095Z
 TITLE: German Academic Exchange Service - DAAD
 
 === MAIN PAGE ===

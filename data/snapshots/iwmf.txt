@@ -1,6 +1,6 @@
 SOURCE: International Women's Media Foundation
 URL: https://www.iwmf.org/programs/
-FETCHED: 2026-09-18T03:39:39.609Z
+FETCHED: 2026-09-19T03:39:19.816Z
 TITLE: Programs - IWMF
 
 === MAIN PAGE ===
@@ -377,6 +377,7 @@ Celebration of Elizabeth Neuffer s Life and Legacy June 15, 2023
 2006/2007
 2005/2006
 2002 Massachusetts Ave
+Copyright 2026 Internation…
 
 === https://www.iwmf.org/programs/fault-lines/ ===
 About
@@ -618,3 +619,4 @@ The Fund s Indigenous Journalists & Allies: Reporting on Missing & Murdered Peop
 Applications are being accepted and reviewed on a rolling basis. The IWMF is conducting ongoing, targeted outreach to eligible journalists and Indigenous and non-Indigenous journalism groups to solicit proposals. Indigenous and non-Indigenous journalists of all genders affiliated with media outlets, as well as freelancers, are invited to apply.
 In addition to monetary support, the IWMF is committed to providing editorial and pitching support to grantees.
 Please read our FAQ page about the program. Eligible journalists can apply here . For additional information, contact our team at [email protected] .
+In 2023, my reporting revealed that although Gov. Michelle Lujan Grisham’s administration publicly touted its work to address the crisis, it had pulled the plug on a state MMIWR task force to the surpri…

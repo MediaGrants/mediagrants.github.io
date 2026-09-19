@@ -1,120 +1,120 @@
 {
-  "generatedAt": "2026-09-18T16:12:29.237Z",
+  "generatedAt": "2026-09-19T03:39:33.006Z",
   "captured": {
+    "ejc-funding": {
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 1673,
+      "pages": 5
+    },
+    "fij": {
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 3213,
+      "pages": 5
+    },
     "gfmd-fellowships": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 2989,
       "pages": 13
     },
     "gfmd-fundings": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 4232,
       "pages": 11
     },
+    "ij4eu": {
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 1292,
+      "pages": 3
+    },
     "ijnet-opportunities": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 4276,
       "pages": 11
     },
+    "iwmf": {
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 2018,
+      "pages": 5
+    },
+    "journalismfund": {
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 1854,
+      "pages": 5
+    },
+    "pulitzer-center": {
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 2413,
+      "pages": 15
+    },
+    "ecpmf": {
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 3354,
+      "pages": 9
+    },
     "journalismfund-scholarships": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 1847,
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
+      "words": 1811,
       "pages": 5
     },
     "western-balkans-fund": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 4231,
       "pages": 9
     },
     "akademie-solitude": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 2619,
       "pages": 7
     },
     "artists-at-risk-connection": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 2193,
       "pages": 5
     },
     "astraea": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 145,
       "pages": 1
     },
     "carter-mental-health": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 159,
       "pages": 1
     },
     "ch-embassy-serbia": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 437,
       "pages": 1
     },
     "cjid": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 218,
       "pages": 1
     },
     "climate-justice-resilience": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 1449,
       "pages": 4
     },
-    "code-for-africa": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 19,
-      "pages": 1
-    },
-    "creative-europe": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 1209,
-      "pages": 4
-    },
     "czech-transition": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 268,
       "pages": 1
     },
     "daad": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 227,
       "pages": 1
     },
     "de-embassy-belgrade": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
+      "fetchedAt": "2026-09-19T03:39:33.006Z",
       "words": 173,
       "pages": 1
-    },
-    "digital-defenders": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 2080,
-      "pages": 5
-    },
-    "digital-freedom-fund": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 2174,
-      "pages": 5
-    },
-    "eea-grants": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 3772,
-      "pages": 11
-    },
-    "erasmus-plus": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 1071,
-      "pages": 5
-    },
-    "erste-stiftung": {
-      "fetchedAt": "2026-09-18T16:12:29.237Z",
-      "words": 697,
-      "pages": 2
     }
   },
   "failed": {
-    "ecpmf": "fetch failed",
-    "coe-youth-foundation": "HTTP 403",
-    "council-of-europe": "HTTP 403"
+    "earth-journalism": "HTTP 403",
+    "gijn-grants": "HTTP 403",
+    "coe-youth-foundation": "HTTP 403"
   }
 }

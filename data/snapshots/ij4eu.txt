@@ -1,6 +1,6 @@
 SOURCE: IJ4EU — Investigative Journalism for Europe
 URL: https://investigativejournalismforeu.net/grants/
-FETCHED: 2026-09-18T03:39:39.571Z
+FETCHED: 2026-09-19T03:39:19.945Z
 TITLE: Grants - IJ4EU
 
 === MAIN PAGE ===
@@ -132,6 +132,7 @@ Eligibility criteria
 To be eligible for the Freelancer Support Scheme, applications must be submitted by teams composed of at least two freelance journalists that meet the following criteria:
 Teams must have members based in at least two European countries that have signed up to the full cross-sectoral strand of the European Union’s Creative Europe Programme , which provides core funding for IJ4EU.
 Eligible countries include all 27 EU member states and the following non-EU countries: Albania, Bosnia and Herzegovina, Georgia, Iceland, Liechtenstein, Montenegro, North Macedonia, Norway, Serbia and Ukraine.
+Eligibility is based on residency (where you live and work) and not nationality (citizensh…
 
 === https://investigativejournalismforeu.net/grants/investigation-support-scheme/ ===
 Home
@@ -197,3 +198,4 @@ Funding details
 The IJ4EU grant may cover any percentage of a project’s costs , up to 100 percent of the total. Co-funding is encouraged but not mandatory. Teams must declare any existing sources of funding on their application.
 Applicants to the Investigation Support Scheme can request grants of between €5,000 and €50,000 .
 To ensure that IJ4EU can fund as many high-quality projects as possible — and recognising that cross-border projects don’t necessarily have to involve many countries to have an impact — we encourage applicants to think in terms of the following informal tier system, which is aimed at encouraging a diversity of budget sizes:
+The IJ4EU grant may be used to cover nearly any costs necessary for the production of journalistic content. This includes, but is not limited to, salary and human resource costs for both employed journalists and freelance journalists, research- and production-related costs, travel costs and translation cost…
