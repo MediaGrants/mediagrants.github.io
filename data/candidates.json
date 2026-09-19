@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-18T16:16:39.313Z",
+  "generatedAt": "2026-09-19T04:19:40.000Z",
   "candidates": [
     {
       "name": "European Centre for Press and Media Freedom (ECPMF)",
@@ -207,6 +207,90 @@
       ],
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Africa No Filter",
+      "url": "https://africanofilter.org/",
+      "why": "Pan-African narrative-change organisation running the Voices for Climate Justice storyteller grants, which explicitly names journalists among eligible applicants.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "German Embassy Kyiv",
+      "url": "http://www.kiew.diplo.de",
+      "why": "Runs an annual human-rights project fund for Ukraine restricted to Ukrainian media organisations, with disinformation/press-freedom as one of three priority areas.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Society of Professional Journalists (SPJ) Foundation",
+      "url": "https://www.spj.org/spj-foundation-grants/",
+      "why": "US journalism nonprofit's foundation running an annual grant cycle for journalists/newsrooms plus a small members-only Freelance Fund mini-grant.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Media Diversity Institute (Western Balkans)",
+      "url": "https://www.media-diversity.org/",
+      "why": "Runs media-literacy and gender-in-media initiatives in the Western Balkans.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Public Interest Journalism Lab (PIJL)",
+      "url": "https://pijlab.substack.com/",
+      "why": "Runs an emergency/operational grants programme (several open calls per year, plus a 2026 scholarship call with ECPMF) for Ukrainian regional media outlets and individual journalists, prioritising frontline regions.",
+      "seenAt": [
+        "ecpmf"
+      ],
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The Fix Media Foundation — Technology Support Fund",
+      "url": "https://www.thefix.foundation/",
+      "why": "Runs an equipment grant scheme replacing lost or outdated gear for journalists working in frontline or high-risk areas in Ukraine/Eastern Europe. Note: a separate URL from the already-tracked 'thefix.media' source (The Fix media innovation programmes) — may be a related but distinct foundation entity worth checking.",
+      "seenAt": [
+        "ecpmf"
+      ],
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The Lenfest Institute for Journalism",
+      "url": "https://www.lenfestinstitute.org/",
+      "why": "Runs its own journalism funding programmes (e.g. Lenfest-Google News Initiative News Catalyst Grants for local news community-listening projects) beyond the Google co-branded one.",
+      "seenAt": [
+        "google-news-initiative"
+      ],
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
       "timesSeen": 1,
       "status": "new"
     }
