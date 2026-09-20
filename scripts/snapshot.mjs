@@ -24,7 +24,22 @@ const DATA = path.join(ROOT, "data");
 const OUT = path.join(DATA, "snapshots");
 
 const TIER_DAYS = { 1: 1, 2: 3, 3: 14 };
-const MAX_SOURCES = Number(process.env.MAX_SOURCES || 25);
+const MAX_SOURCES = Number(process.env.MAX_SOURCES || 32);
+
+/**
+ * Slots held back for sources never fetched before.
+ *
+ * Without this, a new source can wait forever. Tier 1 is due every day and
+ * tier 2 every third, so together they claim most of the run; tier 3 gets
+ * whatever is left, which has been less than it needs. Forty-three sources
+ * had never been read once, nearly all of them tier 3, and nearly all of the
+ * "adjacent" registry sits in tier 3 - so a whole category of the site stayed
+ * empty while the queue looked healthy.
+ *
+ * Raising the cap alone only postpones that. A reserved share means anything
+ * newly added is read within days, whatever the pressure above it.
+ */
+const RESERVE_FOR_NEW = Number(process.env.RESERVE_FOR_NEW || 10);
 const MAIN_CHARS = 6000;        // kept from the source's own page
 const SUB_CHARS = 3500;         // kept from each linked call page
 const MAX_FOLLOW = 4;           // sub-pages followed per source
@@ -283,19 +298,33 @@ const age = (id) => Math.min(daysSince(state.lastChecked[id]), 9999);
 const only = opt("only");
 // Same due-list rule the sweep uses half an hour later, so the pages on disk
 // are the pages it is about to be asked about.
-const due = sources
+// Tier first, then whichever has gone longest without a look, so a slow source
+// cannot sit at the back of the queue forever. Never-checked sources are the
+// oldest of all, but as a finite number: subtracting two Infinities gives NaN,
+// which would silently destroy the ordering.
+const byPriority = (a, b) =>
+  a.tier - b.tier || age(b.id) - age(a.id) || a.id.localeCompare(b.id);
+
+const eligible = sources
   .filter((s) => s.id && s.enabled !== false)
   .filter((s) => {
     if (only) return s.id === only;
     if (flag("all")) return true;
     return daysSince(state.lastChecked[s.id]) >= (TIER_DAYS[s.tier] ?? 14);
-  })
-  // Tier first, then whichever has gone longest without a look, so a slow
-  // source cannot sit at the back of the queue forever. Never-checked sources
-  // are the oldest of all, but as a finite number: subtracting two Infinities
-  // gives NaN, which would silently destroy the ordering on the first run.
-  .sort((a, b) => a.tier - b.tier || age(b.id) - age(a.id) || a.id.localeCompare(b.id))
-  .slice(0, (only || flag("all")) ? sources.length : MAX_SOURCES);
+  });
+
+let due;
+if (only || flag("all")) {
+  due = eligible.sort(byPriority);
+} else {
+  // Sources never read before go first, up to the reserved share, so adding a
+  // source guarantees it is read rather than queued behind the daily tier-1 run.
+  const unseen = eligible.filter((s) => !state.lastChecked[s.id]).sort(byPriority);
+  const head = unseen.slice(0, RESERVE_FOR_NEW);
+  const taken = new Set(head.map((s) => s.id));
+  const rest = eligible.filter((s) => !taken.has(s.id)).sort(byPriority);
+  due = [...head, ...rest].slice(0, MAX_SOURCES);
+}
 
 console.log(`fetching ${due.length} of ${sources.filter((s) => s.id).length} sources`);
 
