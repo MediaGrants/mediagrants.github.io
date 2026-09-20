@@ -1,20 +1,7 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-19T04:19:40.000Z",
+  "generatedAt": "2026-09-20T04:29:35.286Z",
   "candidates": [
-    {
-      "name": "European Centre for Press and Media Freedom (ECPMF)",
-      "url": "https://www.ecpmf.eu/",
-      "why": "Runs the SAFE project offering emergency, training/capacity grants and a Journalists-in-Residence programme for media workers from Eastern Partnership countries under threat.",
-      "seenAt": [
-        "gfmd-fundings",
-        "council-of-europe"
-      ],
-      "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
-      "status": "new"
-    },
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
       "url": "https://nihcm.org/",
@@ -59,8 +46,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -72,8 +59,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -81,11 +68,12 @@
       "url": "https://ijp.org/en/",
       "why": "Funds journalist exchange fellowships (German-Nordic/Baltic and German-British) with stipends for placements abroad.",
       "seenAt": [
-        "gfmd-fellowships"
+        "gfmd-fellowships",
+        "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -97,8 +85,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -109,20 +97,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
-      "status": "new"
-    },
-    {
-      "name": "USC Annenberg Center for Health Journalism",
-      "url": "https://centerforhealthjournalism.org/",
-      "why": "Funds a five-month data-journalism fellowship for US health reporters.",
-      "seenAt": [
-        "gfmd-fellowships"
-      ],
-      "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -133,8 +109,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -145,8 +121,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -218,8 +194,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -230,8 +206,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -254,8 +230,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -291,6 +267,42 @@
       ],
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "African Investigative Journalism Conference (AIJC)",
+      "url": "https://aijc.africa/",
+      "why": "Runs an annual fellowship covering full travel and accommodation costs for Francophone African investigative journalists to attend its conference.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Harold W. McGraw, Jr. Center for Business Journalism",
+      "url": "https://www.mcgrawcenter.org/",
+      "why": "Funds a recurring $15,000 fellowship for enterprise/investigative business-journalism reporting, open to freelance and staff journalists.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Journalism Science Alliance",
+      "url": "https://journalismsciencealliance.eu/",
+      "why": "Funds journalist-scientist collaboration reporting projects at EUR 10k/20k/50k tiers via an EJC-hosted application platform.",
+      "seenAt": [
+        "civitates"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
       "timesSeen": 1,
       "status": "new"
     }
