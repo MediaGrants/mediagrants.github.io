@@ -1,17 +1,18 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-20T04:29:35.286Z",
+  "generatedAt": "2026-09-20T15:00:00.000Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
       "url": "https://nihcm.org/",
       "why": "Funds annual US health-care journalism grants of $15,000-$30,000 for independent journalists and newsrooms.",
       "seenAt": [
-        "gfmd-fundings"
+        "gfmd-fundings",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -215,11 +216,12 @@
       "url": "https://www.spj.org/spj-foundation-grants/",
       "why": "US journalism nonprofit's foundation running an annual grant cycle for journalists/newsrooms plus a small members-only Freelance Fund mini-grant.",
       "seenAt": [
-        "gfmd-fundings"
+        "gfmd-fundings",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -305,6 +307,58 @@
       "lastSeen": "2026-09-20",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "International Fund for Public Interest Media (IFPIM)",
+      "url": "https://ifpim.org/",
+      "why": "Global multilateral fund making grants up to US$250,000 to independent public-interest media organisations in low- and middle-income countries across Africa, the Middle East, Asia-Pacific, Latin America and Eastern Europe.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "ifpim.org and gfmd.info funding archive; IFJ (ifj.org) press release, 1 Aug 2026, on the IFPIM-funded $1m Palestine media fund it distributes through the Palestinian Journalists Syndicate. Read September 2026."
+    },
+    {
+      "name": "RCDIJ Africa Fund (Ripples Centre for Data and Investigative Journalism)",
+      "url": "https://www.rcdij.org/",
+      "why": "Nigeria-based nonprofit's pan-African fund of up to US$10,000 for individual journalists' data and investigative journalism projects.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "Media Rights Agenda (mediarightsagenda.org) and gfmd.info funding-archive coverage of the 2026 RCDIJ Africa Fund call; confirmed on rcdij.org. Read September 2026."
+    },
+    {
+      "name": "St. David's Foundation",
+      "url": "https://stdavidsfoundation.org/",
+      "why": "Central Texas health foundation funding local newsrooms and community-centered journalism covering health and social issues affecting underserved communities, through its 'Strengthening Local Media to Advance Community Health' programme.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "stdavidsfoundation.org 2026 grantmaking announcement naming 21 organisations awarded over $3m under the local-media funding opportunity. Read September 2026."
+    },
+    {
+      "name": "Journalists for Human Rights (JHR)",
+      "url": "https://jhr.ca/",
+      "why": "Canadian media-development NGO training journalists in 23 countries to report on human rights, democratic reform and climate, with small reporting grants available to journalists who complete its training.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "opportunitiesforyouth.org write-up of the 2026 JHR Program (training plus small reporting grants, deadline 10 Aug 2026), confirmed against jhr.ca. Read September 2026."
     }
   ]
 }
