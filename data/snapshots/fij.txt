@@ -1,6 +1,6 @@
 SOURCE: Fund for Investigative Journalism
 URL: https://fij.org/apply-for-a-grant/
-FETCHED: 2026-09-19T03:39:19.128Z
+FETCHED: 2026-09-20T03:39:37.955Z
 TITLE: Apply for a Grant - The Fund for Investigative Journalism
 
 === MAIN PAGE ===
