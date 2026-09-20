@@ -1,6 +1,6 @@
 SOURCE: EEA & Norway Grants — civil society funds
 URL: https://eeagrants.org/
-FETCHED: 2026-09-18T16:12:23.251Z
+FETCHED: 2026-09-20T12:15:09.149Z
 TITLE: FMO
 
 === MAIN PAGE ===
@@ -1209,9 +1209,9 @@ No Items Selected
 
 Romania
 
-Poland
-
 Slovakia
+
+Poland
 
 Greece
 
@@ -1223,6 +1223,9 @@ Cr
 Civil Society Fund
 Call for projects
 Call for bilateral initiatives
+Submission Deadline:
+18/01/2027
+Call for projects
 Submission Deadline:
 15/12/2026
 Call for projects
@@ -1260,7 +1263,6 @@ Open call for proposals in Outcome 1: Cultural heritage is revitalised and susta
 Submission Deadline:
 31/12/2026
 Call for projects
-Call for bilateral initiatives
 Funding
 Do you have general enquiries about the EEA and Norway Grants?
 Stay updated on the EEA and Norway Grants' new funding opportunities and news directly in your inbox!
@@ -1621,39 +1623,43 @@ Countries
 No 
 
 --- relevant lines ---
-EEA Civil Society Fund in Croatia
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€470,000
-EEA Civil Society Fund in Slovakia
+€9,978
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€24,960
+€7,918
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€5,578
-EEA Civil Society Fund in Slovakia
+€8,560
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€24,129
-EEA Civil Society Fund in Slovakia
+€9,999
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€23,200
+€9,999
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€3,800
-EEA Civil Society Fund in Slovakia
+€9,996
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€24,984
-Bilateral Fund
+€9,999
+NEPN 2030–2040: Strengthening the consumer voice for a just green transition
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€149,961
-Community Bridge to Safe Integration and Socio-legal Awareness of Ukraine Emigrants
-EEA Civil Society Fund in Slovakia
+€9,298
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€24,992
+€10,000
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€5,012,226
+€9,994
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€11,764,706
-EEA Civil Society Fund in Slovakia
+€5,290
+EEA Civil Society Fund in Slovenia
 Grant amount:
-€24,994
+€7,734
 Do you have general enquiries about the EEA and Norway Grants?
 Stay updated on the EEA and Norway Grants' new funding opportunities and news directly in your inbox!
 Copyright 2026. All rights reserved.
