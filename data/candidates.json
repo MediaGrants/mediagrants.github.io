@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-20T15:00:00.000Z",
+  "generatedAt": "2026-09-20T12:25:04.798Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -359,6 +359,18 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "opportunitiesforyouth.org write-up of the 2026 JHR Program (training plus small reporting grants, deadline 10 Aug 2026), confirmed against jhr.ca. Read September 2026."
+    },
+    {
+      "name": "Solutions Journalism Network",
+      "url": "https://www.solutionsjournalism.org/",
+      "why": "Co-runs journalism fellowships with other funders (e.g. the European media leaders climate solutions fellowship with EJC) and posts fellowship calls on its own site.",
+      "seenAt": [
+        "journalismgrants"
+      ],
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }

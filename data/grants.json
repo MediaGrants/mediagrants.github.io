@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-20T04:28:46.029Z",
+  "generatedAt": "2026-09-20T12:24:57.492Z",
   "grants": [
     {
       "id": "stigler-center-journalists-in-residence",
@@ -5950,6 +5950,552 @@
       "confidence": "medium",
       "provenance": "auto",
       "notes": "'Relocation Programmes' appears as a named nav item on MFRR's own homepage (fetched today), confirming the offering exists; the Leipzig/Journalists-in-Residence operational detail above comes from ECPMF's own site and web search, not today's thin MFRR snapshot. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "carter-mental-health-fellowships-mental-health-journalism",
+      "funder": "The Carter Center",
+      "programme": "Rosalynn Carter Fellowships for Mental Health Journalism",
+      "summary": "A year-long, non-residential fellowship supporting journalists to report on a mental health topic of their choice, with mentoring from mental-health and journalism experts. Open to journalists from the United States, Ireland, Qatar and the United Arab Emirates.",
+      "url": "https://carter.emory.edu/mental-health/fellowships/",
+      "applyUrl": "https://mentalhealthjournalism.org/become-a-fellow/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship"
+      ],
+      "topics": [
+        "mental-health",
+        "health"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Amount not stated in evidence reviewed."
+      },
+      "deadline": "2027-04-07",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "upcoming",
+      "geoScope": [
+        "US",
+        "IE",
+        "QA",
+        "AE"
+      ],
+      "sourceId": "carter-mental-health",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "This cycle's window (2026-2027, deadline 3 April 2026) has already closed. The next cycle is expected to open around the end of January 2027 with a deadline of 7 April 2027. Today's snapshot of the funder's own page failed to render usable content (JS-heavy site; only nav/footer text was captured), so this record comes from search results about the programme. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "rji-fellowships-professional-innovation",
+      "funder": "Reynolds Journalism Institute (Missouri School of Journalism)",
+      "programme": "RJI Professional Innovation Fellowships",
+      "summary": "Fellowships funding individuals or teams to pursue a newsroom innovation project, open to applicants regardless of location, employment status, age or experience level. Institutional and individual tracks are both offered.",
+      "url": "https://www.rjionline.org/fellowships/",
+      "applyUrl": "https://rjionline.org/about-rji-fellowships/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "project"
+      ],
+      "topics": [
+        "innovation",
+        "technology"
+      ],
+      "track": "media",
+      "amount": {
+        "min": 75000,
+        "max": 100000,
+        "currency": "USD",
+        "note": "Individual fellowships pay $75,000-$100,000 depending on project scope, paid in three installments; institutional fellowships pay $75,000."
+      },
+      "deadline": "2026-02-06",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "rji-fellowships",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "The 2026 round's first-round deadline was 6 February 2026 (applications opened 1 December 2025); that round is now closed and the next call has not been announced. Today's snapshot job did not capture this source, so this record comes from search results. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "rji-fellowships-student-newsroom-innovation",
+      "funder": "Reynolds Journalism Institute (Missouri School of Journalism)",
+      "programme": "RJI Student & Newsroom Innovation Fellowships",
+      "summary": "A companion track to RJI's flagship Professional Innovation Fellowships, funding student teams and newsrooms/organisations to prototype journalism innovation ideas.",
+      "url": "https://www.rjionline.org/fellowships/",
+      "applyUrl": "https://rjionline.org/student-innovation-fellowships/",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "project"
+      ],
+      "topics": [
+        "innovation"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Amount not stated in evidence reviewed."
+      },
+      "deadline": "2026-11-08",
+      "deadlineType": "fixed",
+      "opensAt": "2026-10-05",
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "rji-fellowships",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Newsroom/organisation applications opened 1 September 2026; student applications open 5 October 2026. Both tracks close 8 November 2026. Today's snapshot job did not capture this source, so this record comes from search results. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "national-press-foundation-widening-the-pipeline",
+      "funder": "National Press Foundation",
+      "programme": "Widening the Pipeline Fellowship",
+      "summary": "A year-long fellowship for journalists of color combining monthly virtual skills-building sessions, D.C.-based training and mentor matches with veteran journalists, aimed at supporting retention and advancement in U.S. newsrooms.",
+      "url": "https://www.nationalpress.org/fellowship/",
+      "applyUrl": "https://nationalpress.org/fellowships/widening-the-pipeline-fellowship/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "training",
+        "mentoring"
+      ],
+      "topics": [
+        "diversity"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Free training and mentoring; no cash stipend mentioned on the funder's page."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "US"
+      ],
+      "sourceId": "national-press-foundation",
+      "lastVerified": "2026-09-20",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "The 2026 cohort (15 journalists) has already been selected; today's snapshot of the funder's own page states no application window or deadline for the next round. NPF also runs several other themed annual fellowships recruiting cohorts the same way (Local Business Journalism, Healthcare, International Trade, Workplace Mental Health, Rare Disease Reporting) plus the year-long Paul Miller Washington Reporting Fellowship for DC-based reporters — none had an open call with a stated deadline on today's page. NPF's other current listed calls (Easterseals, U.S. Chamber, AARP, Wounded Warrior, Bradlee, Dirksen, Berryman awards) are prizes for already-published work, not funding, and are excluded per site rules."
+    },
+    {
+      "id": "ire-fellowships-conference-fellowships",
+      "funder": "Investigative Reporters and Editors (IRE)",
+      "programme": "IRE / NICAR / AccessFest Conference Fellowships & Scholarships",
+      "summary": "About ten named funds that cover travel, registration and membership costs for journalists to attend IRE's conferences (the IRE Conference, NICAR and AccessFest), each with its own eligibility rules — some restricted to U.S. journalists, students, TV reporters, or specific beats such as immigration or rural news.",
+      "url": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "applyUrl": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "travel",
+        "training"
+      ],
+      "topics": [
+        "investigative",
+        "diversity"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "USD",
+        "note": "Typically covers IRE membership (up to $75), conference registration, and for several funds four hotel nights (roughly $932-$1,100) plus a travel stipend ($500-$650); these are travel/attendance grants, not cash awards."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "US"
+      ],
+      "sourceId": "ire-fellowships",
+      "lastVerified": "2026-09-20",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "Named funds include Eric B. Sager, Godfrey Wells Stancill, Sandra Thomas Environmental, Susan Carroll, Apples & Oranges, Diversity, Napoli Management Group TV, Jennifer Leonard, James Richard Bennett, David Donald and Gary Marx. AccessFest26's window closed 13 September 2026; the NICAR (March 2026) and IRE Conference (June 2026) rounds have also passed for this year. Check ahead of the 2027 conference season for the next windows."
+    },
+    {
+      "id": "ire-fellowships-freelance-fellowship",
+      "funder": "Investigative Reporters and Editors (IRE)",
+      "programme": "IRE Freelance Fellowship",
+      "summary": "Supports nonfiction investigative reporting projects by journalists who make their living primarily as freelancers, intended for projects that demonstrate impact, breadth and significance.",
+      "url": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "applyUrl": "https://www.ire.org/training/fellowships-and-scholarships/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "investigative",
+        "freelance"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Amount not stated in evidence reviewed."
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "ire-fellowships",
+      "lastVerified": "2026-09-20",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "The funder's page states this application is 'currently closed' with no reopening date given. Unlike most other IRE funds, the text captured does not state a nationality restriction, but confirm this on the funder's page before assuming it is open outside the U.S. Similar closed, currently-undated IRE project grants seen today: the Koch Continuum Grant in Public Health and Disability Investigative Reporting ($10,000), the David Dietz Fellowship (financial investigative journalism, under 10 years' experience) and the Chauncey Bailey Journalist of Color Investigative Reporting Fellowship."
+    },
+    {
+      "id": "akademie-solitude-fellowship",
+      "funder": "Akademie Schloss Solitude",
+      "programme": "Solitude Fellowship",
+      "summary": "A residential fellowship in Stuttgart for artists, researchers and cultural professionals from any discipline who are past the earliest career stage but not yet established, offering a monthly stipend plus project funding.",
+      "url": "https://www.akademie-solitude.de/en/fellowship/solitude-fellowship/",
+      "applyUrl": "https://www.akademie-solitude.de/en/fellowship/application/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship"
+      ],
+      "topics": [
+        "narrative-journalism"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "The residency is open to 'artists, scholars, and cultural practitioners from around the world' working on an independent project, not to journalists by name. A narrative or documentary journalist with 2-10 years of professional experience could apply as a cultural practitioner, proposing a long-form or documentary project for the open-ended residency period, and would need to make the case in their application for why the residency suits their specific stage of development.",
+      "amount": {
+        "min": null,
+        "max": 1300,
+        "currency": "EUR",
+        "note": "A monthly fellowship of €1,300 to cover living expenses, plus project funding 'depending on budget availability'. Main residence in Stuttgart is required for the full fellowship period."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "akademie-solitude",
+      "lastVerified": "2026-09-20",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "The 2026-2028 application round has concluded (jury met May 2026, fellows announced June 2026). The next call is expected in autumn 2027, with residencies beginning no earlier than autumn 2028. Several special fellowships on this page (Zwangsarbeit/en residency, deadline 16 March 2026, already passed; Field Trip residency with MPI-AB, next call not yet published; Namibia-Baden-Württemberg residencies, current phase's selection already completed) are for visual/performing artists and researchers specifically and were not recorded here, as none states a route for journalistic work."
+    },
+    {
+      "id": "hamburger-stiftung-fellowship",
+      "funder": "Hamburger Stiftung für politisch Verfolgte",
+      "programme": "One-year fellowship for politically persecuted individuals",
+      "summary": "A one-year, non-competitive fellowship offering safe housing, living expenses and a professional network in Hamburg to individuals — including journalists — who are persecuted in their home country for their commitment to democracy, freedom or human rights.",
+      "url": "https://www.hamburger-stiftung.de/",
+      "applyUrl": "https://www.hamburger-stiftung.de/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "emergency"
+      ],
+      "topics": [
+        "exile",
+        "relocation",
+        "human-rights"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "The foundation's stated mission is protecting politically persecuted people broadly, not journalists specifically — but journalists are named as one of the recognised categories of fellows (past guests featured on the funder's page include reporters Omar Radi and Islam Shikhali), alongside artists, scientists and civil-society activists. A journalist facing political persecution can be proposed via the foundation's partner network for a year of safe housing in Hamburg while continuing their journalistic work.",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Covers housing, care and living expenses in Hamburg for one year; no specific figure stated."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "hamburger-stiftung",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Today's snapshot of the funder's own page carried only homepage narrative (guest bios, donation appeal) with no application or eligibility detail, so this record relies on search results. Applications appear to be accepted on a rolling basis, typically via referral from partner organisations (OSCE, PEN Centre, Amnesty International, German and foreign diplomatic missions, Reporters Without Borders) rather than a direct open call. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "icorn-residency-programme",
+      "funder": "ICORN — International Cities of Refuge Network",
+      "programme": "ICORN Residency Programme",
+      "summary": "A temporary protective residency programme, typically two years, for writers, journalists and artists who face persecution because of their work and cannot continue it safely in their home country or region.",
+      "url": "https://www.icorn.org/",
+      "applyUrl": "https://www.icorn.org/apply",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "emergency"
+      ],
+      "topics": [
+        "exile",
+        "relocation",
+        "safety",
+        "journalists-at-risk"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "A grant covering living costs and accommodation, plus travel expenses related to relocation; no specific figure stated. Free of charge to applicants — no application or advisory fees."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "icorn",
+      "lastVerified": "2026-09-20",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "The funder's own page states it is currently assessing a backlog of already-received applications and is not accepting new applications; new calls will be announced on its site. Standard residency length is two years, hosted across 92 ICORN member cities in Europe and the Americas."
+    },
+    {
+      "id": "artists-at-risk-connection-us-writers-aid-initiative",
+      "funder": "PEN America (via Artists at Risk Connection)",
+      "programme": "U.S. Writers Aid Initiative / PEN Writers' Emergency Fund",
+      "summary": "One-time emergency grants of up to $2,000 for U.S.-based professional writers — including journalists — facing a short-term financial crisis, alongside ARC's broader catalogue of emergency funding, relocation, legal and residency resources for artists and journalists at risk worldwide.",
+      "url": "https://artistsatriskconnection.org/",
+      "applyUrl": "https://pen.org/us-writers-aid-initiative/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "emergency",
+        "legal"
+      ],
+      "topics": [
+        "journalists-at-risk",
+        "safety",
+        "emergency"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": 2000,
+        "currency": "USD",
+        "note": "PEN Writers' Emergency Fund grants are up to $2,000, 'depending on the situation'."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "US"
+      ],
+      "sourceId": "artists-at-risk-connection",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Today's snapshot fetch for this source failed (HTTP 500), so this record comes from search results, not the funder's own page. ARC itself is chiefly a referral catalogue (emergency funding, housing, residencies, legal/immigration aid) for at-risk artists and journalists worldwide rather than a direct grantor; the U.S. Writers Aid Initiative and PEN Writers' Emergency Fund are PEN America's own U.S.-only emergency funds explicitly open to journalists. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "rias-berlin-transatlantic-exchange-journalism-students",
+      "funder": "RIAS Berlin Commission",
+      "programme": "Transatlantic Exchange Programme for Journalism Students",
+      "summary": "A new exchange programme pairing eight American and eight German journalism master's students to report jointly on transatlantic issues (trade, defence, politics, culture, the future of journalism), mentored by RIAS alumni journalists.",
+      "url": "https://www.riasberlin.org/",
+      "applyUrl": "https://riasberlin.org/call-for-a-transatlantic-exchange-program-for-journalism-students/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "travel",
+        "training"
+      ],
+      "topics": [
+        "exchange",
+        "journalism-education"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "RIAS covers participants' travel expenses; no cash stipend stated."
+      },
+      "deadline": "2026-11-30",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "US",
+        "DE"
+      ],
+      "sourceId": "rias-berlin",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Programme runs February 2027-May 2028; open to journalism master's students from Germany and the U.S. Application is a resume/CV and cover letter to students@riasberlin.org. Today's snapshot job did not capture this source, so this record comes from search results. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "journalismgrants-journalism-science-alliance",
+      "funder": "European Journalism Centre (EJC)",
+      "programme": "Journalism Science Alliance (JSA)",
+      "summary": "A €2.7 million, two-year (2025-2027) programme delivering grant funding, training, mentoring and networking to drive local, regional and transnational investigative journalism grounded in science, alongside cross-sectoral collaboration between journalism and research institutions.",
+      "url": "https://www.journalismgrants.org/",
+      "applyUrl": "https://ejc.net/funding",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "training",
+        "mentoring"
+      ],
+      "topics": [
+        "science",
+        "investigative"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": "The overall programme is funded at €2.7 million; per-grant amounts not stated in evidence reviewed."
+      },
+      "deadline": null,
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "journalismgrants",
+      "lastVerified": "2026-09-20",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "The 2026 call is marked 'Applications closed' on the funder's own page today; a 2025 call ran previously. Next round not yet announced. Every other programme listed on this aggregator today (ODA Germany Grants, Innovation in Development Reporting, Global Health Journalism Grants, European Development Journalism Grants, Global Health Security Fund, European media leaders climate solutions fellowship with Solutions Journalism Network) is also marked 'Applications closed' with no date given, and IJ4EU's Freelancer Support Scheme 2026 (also listed here) is already tracked separately under sourceId ij4eu."
+    },
+    {
+      "id": "usc-health-journalism-california-health-equity",
+      "funder": "USC Annenberg Center for Health Journalism",
+      "programme": "California Health Equity Journalism Fellowship",
+      "summary": "A fellowship for California journalists reporting on health equity, providing training, mentoring and a reporting grant to support an in-depth health-equity story or series. Restricted to journalists based in California.",
+      "url": "https://centerforhealthjournalism.org/fellowships-grants/california-fellowship",
+      "applyUrl": "https://centerforhealthjournalism.org/fellowships-grants/california-fellowship",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "project",
+        "training"
+      ],
+      "topics": [
+        "health"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Amount not stated in evidence reviewed."
+      },
+      "deadline": "2026-12-16",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "US"
+      ],
+      "sourceId": "usc-health-journalism",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Today's snapshot job did not capture this source, so this record comes from search results, not the funder's own page. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "usc-health-journalism-national-fellowship",
+      "funder": "USC Annenberg Center for Health Journalism",
+      "programme": "National Fellowship",
+      "summary": "A national fellowship for U.S. health journalists, combining an intensive training seminar with mentoring and a reporting grant for an in-depth health-related story or series.",
+      "url": "https://centerforhealthjournalism.org/fellowships-grants/national-fellowship",
+      "applyUrl": "https://centerforhealthjournalism.org/fellowships-grants/national-fellowship",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "project",
+        "training"
+      ],
+      "topics": [
+        "health"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Amount not stated in evidence reviewed."
+      },
+      "deadline": "2026-04-16",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "US"
+      ],
+      "sourceId": "usc-health-journalism",
+      "lastVerified": "2026-09-20",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "2026 round's application deadline (16 April 2026) has passed; that cohort met for its seminar 8-11 June 2026. Next round's dates not yet announced. The Center also runs a Data Fellowship (2026 deadline 22 July, seminar 6-9 October 2026, now closed) not recorded separately here. Today's snapshot job did not capture this source, so this record comes from search results. Not confirmed on the funder's own page."
     }
   ]
 }
