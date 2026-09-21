@@ -1,6 +1,6 @@
 SOURCE: BIRN — Balkan Investigative Reporting Network
 URL: https://birn.eu.com/programmes/
-FETCHED: 2026-09-18T03:39:40.707Z
+FETCHED: 2026-09-21T03:41:52.418Z
 TITLE: Programmes Archives - BIRN
 
 === MAIN PAGE ===
@@ -92,3 +92,4 @@ The project addresses the lack of trust between communities, civil society, and 
 Author Aleksandra Vrbica Posted on October 7, 2025 December 30, 2025 Categories Programmes Tags Kosovo
 Through the development of the Social Audit program, BIRN and D+ aim to build the capacities of six local organizations and 120 community activists to identify, monitor, and advocate for the improvement of 16 projects funded by the Municipal Performance Grant, by applying the Social Audit methodology.
 Author Aleksandra Vrbica Posted on October 7, 2025 Categories Programmes Tags Kosovo
+World Bank through the International Bank for Reconstruction and Development (IBRD), acting as administrator of the State and Peace Building Multi…

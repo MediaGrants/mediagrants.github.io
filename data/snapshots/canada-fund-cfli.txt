@@ -1,6 +1,6 @@
 SOURCE: Canada Fund for Local Initiatives
 URL: https://www.international.gc.ca/world-monde/funding-financement/cfli-fcil/index.aspx?lang=eng
-FETCHED: 2026-09-18T11:07:58.968Z
+FETCHED: 2026-09-21T03:41:52.607Z
 TITLE: The Canada Fund for Local Initiatives
 
 === MAIN PAGE ===

@@ -1,6 +1,6 @@
 SOURCE: Digital Freedom Fund
 URL: https://digitalfreedomfund.org/
-FETCHED: 2026-09-20T12:15:09.346Z
+FETCHED: 2026-09-21T03:41:47.813Z
 TITLE: Digital Freedom Fund Advancing digital rights through strategic litigation
 
 === MAIN PAGE ===
@@ -625,13 +625,14 @@ The case studies below illustrate the important digital rights work of our grant
 ver time as new grants are approved and projects progress.
 Highlighting Litigation Success in the Digital Rights Community : a report documenting some of the impact from the more than 100 grants we made between 2018 and 2024.
 Litigation Impact Stories : stories from grantee partners highlighting notable outcomes and successes from their litigation and pre-litigation research.
-As exams were shifted online during the COVID-19 pandemic, some German universities began to use proctoring software to monitor students taking their exams. This software may violate fundamental rights by
-In October 2024, IuRe filed a lawsuit with the Municipal Court in Prague to challenge the processing and use of sensitive personal medical data by the Czech Institute of Health
 In September 2025, Spain's Supreme Court ruled in Civio's favour after a seven-year legal battle, ordering the government to release the source code of BOSCO, an algorithm determining eligibility for
+In October 2024, IuRe filed a lawsuit with the Municipal Court in Prague to challenge the processing and use of sensitive personal medical data by the Czech Institute of Health
+Constitutional complaint against the amendment of the telecommunication surveillance regulation (“G10” ), which for the first time grants all 19 German intelligence services the right to use malware to surveil
+The Greek law on the retention of electronic communications metadata (Law 3917/2011) was not revised following the 2014 ruling of the Court of Justice of the European Union (CJEU), which
+Open Rights Group, Migrants’ Rights Network and Migrants At Work sought to determine how a test claim could be brought to challenge the Home Office’s use of automated digital identity
 In 2024, PILP took litigation challenging automated decision making through the use of an algorithm by banks in the Netherlands, resulting in discrimination against people with "exotic" sounding names, whose
-In January 2019, the EU’s European Commission granted adequacy to Japan for its data protection laws, allowing personal data to flow freely between the EU and Japan. The adequacy decision
-In Slovenia, the Act on Urgent Measures to Ensure Public Security (“Sutar Law”) was adopted in November 2025 and entered into force in January 2026. According to the Roma Feminist
-BSWC are carrying out research looking at how the deplatforming and digital exclusion of Sex Workers—especially those who are Black, migrant, trans, and disabled—constitutes a violation of fundamental rights under
-The UK Investigatory Powers Act (IPA) grants the government power to collect and store information about everything people do and say online. This includes emails, texts, calls, location data and
+In Germany, undocumented migrants are at risk of privacy violations and deportation if they try to access healthcare services. This is because the social welfare office is obliged to share
+In December 2021, the Norwegian Data Protection Authority (DPA) issued an administrative fine of NOK 65 million (around EUR 6.5 million) against dating app Grindr for disclosing personal information about
 The German Asylum Act grants the Federal Ministry for Migration and Refugees the power to access the mobile devices of migrants and asylum seekers, without a warrant, in order to
-In 2019, the Bulgaria National Revenue Agency servers were hacked, compromising personal data of approximately six million people. KDBM believes the hack was partly due to de…
+With the support of the 5Rights Foundation, Good Law Project made a submission in May 2025 to the UK Competition and Markets Authority (CMA) against Apple and Google app stores
+Partn…

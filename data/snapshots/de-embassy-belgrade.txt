@@ -1,6 +1,6 @@
 SOURCE: German Embassy Belgrade — micro-projects
 URL: https://belgrad.diplo.de/
-FETCHED: 2026-09-20T12:15:08.401Z
+FETCHED: 2026-09-21T03:41:47.124Z
 TITLE: Botschaft der Bundesrepublik Deutschland Belgrad - Auswärtiges Amt
 
 === MAIN PAGE ===

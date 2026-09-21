@@ -1,6 +1,6 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-09-20T03:39:38.537Z
+FETCHED: 2026-09-21T03:41:49.603Z
 TITLE: (feed)
 
 === FEED ITEMS ===

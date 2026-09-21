@@ -1,6 +1,6 @@
 SOURCE: EEA & Norway Grants — civil society funds
 URL: https://eeagrants.org/
-FETCHED: 2026-09-20T12:15:09.149Z
+FETCHED: 2026-09-21T03:41:48.306Z
 TITLE: FMO
 
 === MAIN PAGE ===
@@ -1223,6 +1223,8 @@ Cr
 Civil Society Fund
 Call for projects
 Call for bilateral initiatives
+Small Project Emergency Grants
+Call for projects
 Submission Deadline:
 18/01/2027
 Call for projects
@@ -1258,10 +1260,6 @@ Call for projects
 First Call for Organisational Grants
 Submission Deadline:
 30/09/2026
-Call for projects
-Open call for proposals in Outcome 1: Cultural heritage is revitalised and sustainably managed with strong local involvement
-Submission Deadline:
-31/12/2026
 Call for projects
 Funding
 Do you have general enquiries about the EEA and Norway Grants?

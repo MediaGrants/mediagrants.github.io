@@ -1,6 +1,6 @@
 SOURCE: EU Neighbourhood & Enlargement — civil society funding
 URL: https://neighbourhood-enlargement.ec.europa.eu/funding-and-technical-assistance_en
-FETCHED: 2026-09-20T12:15:10.118Z
+FETCHED: 2026-09-21T03:41:58.945Z
 TITLE: Funding & Technical Assistance - Enlargement and Eastern Neighbourhood
 
 === MAIN PAGE ===

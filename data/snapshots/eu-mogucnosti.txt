@@ -1,6 +1,6 @@
 SOURCE: EU mogućnosti — donor calls in Serbia
 URL: https://eumogucnosti.rs/
-FETCHED: 2026-09-18T11:07:59.926Z
+FETCHED: 2026-09-21T03:41:54.756Z
 TITLE: EU mogućnosti
 
 === MAIN PAGE ===
