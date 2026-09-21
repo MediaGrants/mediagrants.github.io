@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-20T12:25:04.798Z",
+  "generatedAt": "2026-09-21T04:23:54.379Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -47,8 +47,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -60,70 +60,70 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
       "name": "International Journalists' Programmes (IJP)",
-      "url": "https://ijp.org/en/",
-      "why": "Funds journalist exchange fellowships (German-Nordic/Baltic and German-British) with stipends for placements abroad.",
+      "url": "https://ijp.org/en/programmes/",
+      "why": "Runs recurring German-Northern European and German-British (Weidenfeld) journalist exchange fellowships, each with a €3,800 scholarship.",
       "seenAt": [
         "gfmd-fellowships",
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
       "name": "World Federation of Science Journalists / WCSJ2027",
-      "url": "https://www.wfsj.org/",
-      "why": "Funds travel fellowships for journalists and journalism students to attend the World Conference of Science Journalists.",
+      "url": "https://gfmd.info/fundings/wcsj2027-travel-fellowship/",
+      "why": "Travel fellowships for journalists and journalism students to attend the World Conference of Science Journalists.",
       "seenAt": [
         "gfmd-fellowships",
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
       "name": "Exile Hub",
       "url": "https://www.exile-hub.org/",
-      "why": "Funds fellowships, production grants and emergency support for exiled Myanmar media professionals.",
+      "why": "Runs the Critical Voices Fellowship and other emergency/production funds for exiled Myanmar media professionals.",
       "seenAt": [
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
       "name": "Durham University - Sir Harry Evans Memorial Fund",
-      "url": "https://www.durham.ac.uk/sir-harry-evans-memorial-fund/",
-      "why": "Funds a nine-month, salaried investigative-journalism fellowship inside a Reuters newsroom for an early-career journalist.",
+      "url": "https://www.durham.ac.uk/sir-harry-evans-memorial-fund/global-fellowship/",
+      "why": "Nine-month early-career investigative journalism fellowship placed inside a Reuters newsroom.",
       "seenAt": [
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
       "name": "Nova Institute for Health",
-      "url": "https://novainstituteforhealth.org/",
-      "why": "Funds a one-year, $60,000 media fellowship for US journalists and newsrooms reporting on health and wellbeing.",
+      "url": "https://novainstituteforhealth.org/our-communities/media-fellows/",
+      "why": "Funds a $60,000 one-year health-journalism fellowship for US journalists.",
       "seenAt": [
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -190,25 +190,25 @@
     {
       "name": "Africa No Filter",
       "url": "https://africanofilter.org/",
-      "why": "Pan-African narrative-change organisation running the Voices for Climate Justice storyteller grants, which explicitly names journalists among eligible applicants.",
+      "why": "Runs the Voices for Climate Justice Program, an adjacent-track grant explicitly open to journalists producing climate-justice content in ten African countries.",
       "seenAt": [
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
       "name": "German Embassy Kyiv",
       "url": "http://www.kiew.diplo.de",
-      "why": "Runs an annual human-rights project fund for Ukraine restricted to Ukrainian media organisations, with disinformation/press-freedom as one of three priority areas.",
+      "why": "Funds a recurring Ukrainian human-rights project call with a press/media-freedom and disinformation priority area, restricted to Ukrainian media organisations.",
       "seenAt": [
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -226,14 +226,14 @@
     },
     {
       "name": "Media Diversity Institute (Western Balkans)",
-      "url": "https://www.media-diversity.org/",
-      "why": "Runs media-literacy and gender-in-media initiatives in the Western Balkans.",
+      "url": "https://media-diversity.org/",
+      "why": "Runs journalism-adjacent media literacy/gender programmes in the Western Balkans (currently the MLADI Award, a prize, so not recorded as a grant); may run other applicable funding.",
       "seenAt": [
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -275,37 +275,38 @@
     {
       "name": "African Investigative Journalism Conference (AIJC)",
       "url": "https://aijc.africa/",
-      "why": "Runs an annual fellowship covering full travel and accommodation costs for Francophone African investigative journalists to attend its conference.",
+      "why": "Runs an annual, francophone-focused, fully-funded conference fellowship for investigative journalists in Africa.",
       "seenAt": [
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 2,
       "status": "new"
     },
     {
       "name": "Harold W. McGraw, Jr. Center for Business Journalism",
       "url": "https://www.mcgrawcenter.org/",
-      "why": "Funds a recurring $15,000 fellowship for enterprise/investigative business-journalism reporting, open to freelance and staff journalists.",
+      "why": "Runs a recurring (spring/fall) $15,000 business-journalism reporting fellowship open to freelance and staff journalists.",
       "seenAt": [
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 2,
       "status": "new"
     },
     {
       "name": "Journalism Science Alliance",
-      "url": "https://journalismsciencealliance.eu/",
-      "why": "Funds journalist-scientist collaboration reporting projects at EUR 10k/20k/50k tiers via an EJC-hosted application platform.",
+      "url": "https://ejc.net/funding",
+      "why": "EJC-hosted, EUR 2.7 million, two-year programme (2025-2027) delivering grant funding, training, mentoring and networking for science-backed investigative journalism; annual call cycle, currently closed for 2026.",
       "seenAt": [
-        "civitates"
+        "civitates",
+        "ejc-funding"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-21",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -369,6 +370,30 @@
       ],
       "firstSeen": "2026-09-20",
       "lastSeen": "2026-09-20",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "European Media and Information Fund (EMIF)",
+      "url": "https://gulbenkian.pt/emifund/grants/",
+      "why": "Gulbenkian-hosted fund running open calls for media literacy, disinformation research and journalism-adjacent projects across Europe; surfaced while researching the EEA Grants Romania disinformation call. Not verified in depth — flagged for a future dedicated check.",
+      "seenAt": [
+        "eea-grants"
+      ],
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Alfred Friendly Press Partners",
+      "url": "https://www.presspartners.org/",
+      "why": "Runs a six-month fellowship placing early-career journalists (aged 25-35, 3+ years' experience) from developing countries in U.S. newsrooms via the Missouri School of Journalism, with a $2,000 living stipend and essentials covered, plus a separate four-week programme for journalists living in exile in the US. Surfaced as a Scholars at Risk 'Practitioners at Risk' host-institution partner.",
+      "seenAt": [
+        "scholars-at-risk"
+      ],
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
       "timesSeen": 1,
       "status": "new"
     }
