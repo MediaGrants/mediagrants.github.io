@@ -1,6 +1,6 @@
 SOURCE: King Baudouin Foundation
 URL: https://kbs-frb.be/en
-FETCHED: 2026-09-20T12:15:14.844Z
+FETCHED: 2026-09-22T03:40:19.631Z
 TITLE: The King Baudouin Foundation
 
 === MAIN PAGE ===
@@ -158,11 +158,11 @@ Answer a call for projects
 Fundraising
 International fundraising
 An independent jury of photographers selected 16 photographs from the 600 entries submitted to our annual photo competition. Their selection was based both on the quality of the photograph itself and on the story it tells.
-International newsletter Summer 2026
-On 8 June, the Prince Albert Fund, managed by the King Baudouin Foundation, celebrates a new cohort of 29 young professionals who spent a year outside Europe carrying out entrepreneurial missions in support of Belgian companies. This unique hands-on experience shapes a new generation of leaders capable of thriving in demanding environments and advancing Belgium’s economic ambitions internationally.
-In response to the exceptionally severe wildfire currently ravaging the High Fens, the King Baudouin Foundation has established a Solidarity Fund dedicated to restoring this unique natural heritage site. It offers citizens, businesses, and organisations the opportunity to express their solidarity in a tangible way through a donation.
 At the initiative of philanthropists wishing to provide practical support to the affected communities, the King Baudouin Foundation is launching a Solidarity Fund to support the victims of the devastating earthquake that struck Venezuela on 24 June 2026.
+On 8 June, the Prince Albert Fund, managed by the King Baudouin Foundation, celebrates a new cohort of 29 young professionals who spent a year outside Europe carrying out entrepreneurial missions in support of Belgian companies. This unique hands-on experience shapes a new generation of leaders capable of thriving in demanding environments and advancing Belgium’s economic ambitions internationally.
 The King Baudouin Foundation has launched a Solidarity Fund for the victims of the devastating earthquake that struck Colombia on 10 August 2026, giving philanthropists, companies and citizens the opportunity to provide swift and practical support to those affected. The earthquake, measuring 7.4 on the Richter scale, caused a humanitarian disaster, claiming hundreds of lives, injuring thousands of people, and causing extensive damage to homes, schools, healthcare facilities and other essential infrastructure.
+International newsletter Summer 2026
+In response to the exceptionally severe wildfire currently ravaging the High Fens, the King Baudouin Foundation has established a Solidarity Fund dedicated to restoring this unique natural heritage site. It offers citizens, businesses, and organisations the opportunity to express their solidarity in a tangible way through a donation.
 Our impact in 2025
 Active Funds
 2026 Ernest Solvay Fund

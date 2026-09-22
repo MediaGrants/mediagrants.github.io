@@ -1,6 +1,6 @@
 SOURCE: Charles Stewart Mott Foundation — civil society
 URL: https://www.mott.org/how-to-apply/
-FETCHED: 2026-09-20T12:15:15.600Z
+FETCHED: 2026-09-22T03:40:20.713Z
 TITLE: What We Fund | Mott Foundation
 
 === MAIN PAGE ===
@@ -323,15 +323,15 @@ $100,000
 Grant Period
 July 1, 2026–June 30, 2027
 $200,000
+Fund for Global Human Rights
+Grant Period
+July 1, 2026–June 30, 2028
+$200,000
 Grant Period
 January 1, 2027–December 31, 2028
 $200,000
 Grant Period
 November 1, 2026–October 31, 2028
-$200,000
-Fund for Global Human Rights
-Grant Period
-July 1, 2026–June 30, 2028
 Funders' Initiative for Civil Society
 Funders' Initiative for Civil Society
 $300,000

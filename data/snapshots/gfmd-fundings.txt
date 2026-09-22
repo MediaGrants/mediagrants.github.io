@@ -1,6 +1,6 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-09-21T03:41:49.603Z
+FETCHED: 2026-09-22T03:40:15.289Z
 TITLE: (feed)
 
 === FEED ITEMS ===
@@ -58,15 +58,6 @@ The post Call for proposals on countering disinformation Poland appeared first o
 ]]>
 https://gfmd.info/fundings/call-for-proposals-on-countering-disinformation-poland/
 
-Competition of sub-grants to cover temporarily occupied territories, forced displacement and reintegration
-Fri, 11 Sep 2026 12:06:50 +0000
-Eligibility: Ukrainian news organisations covering occupation Target Region: Ukraine Application Language: Ukrainian NGO Internews-Ukraine announces a sub-grant competition for Ukrainian media workers to create content about the experience of people from the temporarily occupied territories of Ukraine. The goal of the project is to support independent Ukrainian media and media organisations in systematic, ethical and [ ]
-
-The post Competition of sub-grants to cover temporarily occupied territories, forced displacement and reintegration appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/competition-of-sub-grants-to-cover-temporarily-occupied-territories-forced-displacement-and-reintegration/
-
 Visegrad Grants
 Fri, 11 Sep 2026 11:53:09 +0000
 Eligibility: Media organisation in co-operation with atleast 3 Visegrad countries Target Region: Visegrad region, Eastern Partnership, Western Balkans Application Language: English Visegrad grants support regional partnerships among NGOs and civil society organisations, public institutions and municipalities, private companies and nonprofit organisations, as well as education and research centres that contribute to cooperation in the Visegrad [ ]
@@ -111,6 +102,15 @@ The post Fault Lines Reporting Fund appeared first on GFMD .
 
 ]]>
 https://gfmd.info/fundings/fault-lines-reporting-fund/
+
+Belgian Bridge Programme
+Fri, 21 Aug 2026 14:31:27 +0000
+Eligibility: Dutch-speaking and French-speaking journalists residing in Belgium Target Region: Belgium Application Language: Dutch, French The Belgian Bridge programme supports collaborative investigative projects led by Dutch-speaking and French-speaking journalists residing in Belgium who work together on local issues of national importance. The goal is to produce multilingual journalism that exposes how issues arise on both [ ]
+
+The post Belgian Bridge Programme appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/belgian-bridge-programme/
 
 === https://gfmd.info/fundings/free-press-awards-newcomer-of-the-year-and-most-resilient-journalist/ ===
 Support journalism GFMD IMPACT
@@ -420,57 +420,6 @@ Find Funding Funding Opportunities
 Fundraising Guide
 Funder Profiles
 
-=== https://gfmd.info/fundings/competition-of-sub-grants-to-cover-temporarily-occupied-territories-forced-displacement-and-reintegration/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings Competition of sub-grants to cover temporarily occupied territories, forced displacement and reintegration
-Organisation: Internews
-
-Status: Open
-Type: Grant
-
-Theme: Emergency support
-
-Funding Size: Up to UAH 520,000
-Deadline: 20/09/2026
-
-Eligibility: Ukrainian news organisations covering occupation
-Target Region: Ukraine
-Application Language: Ukrainian
-NGO Internews-Ukraine announces a sub-grant competition for Ukrainian media workers to create content about the experience of people from the temporarily occupied territories of Ukraine.
-The goal of the project is to support independent Ukrainian media and media organisations in systematic, ethical and human-centred coverage of topics related to temporarily occupied territories, the experience of living in occupation, forced displacement, reintegration and social cohesion. In addit
-
---- relevant lines ---
-ion to funds, successful applicants will receive online trainings, mentoring and access to research.
-Eligibility
-Applicants can submit one project proposal for one of two lots; Independent national, regional, local and relocated media
-How to apply
-You can apply until September 20, 2026 inclusive through online form. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
 === https://gfmd.info/fundings/visegrad-grants-4/ ===
 Support journalism GFMD IMPACT
 Policy and Advocacy
@@ -629,6 +578,62 @@ Students in science journalism, journalism, media studies, science communication
 Those carrying out research and teaching in journalism, media studies or science communication may also apply. They must have a proven track record in the media as authors or producers. Examples of work will be requested.
 How to apply
 Applications must be submitted through the online application form. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/call-for-applications-2027-tech-policy-press-fellowship-program/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings Call for Applications: 2027 Tech Policy Press Fellowship Program
+Organisation: Tech Policy Press
+
+Status: Open
+Type: Fellowship
+
+Theme: Media Innovation
+
+Funding Size: $10,000
+Deadline: 24/09/2026
+
+Eligibility: Mid-career journalists with an expertise in tech
+Target region: Global
+Application language: English
+Tech Policy Press intends to support a new cohort of fellows to pursue independent reporting and analysis that explore urgent questions at the intersection of technology and democracy. The year-long, part-time fellowship is designed to support mid-career journalists, researchers, and public policy professionals. They welcome a wide range of contributions, from original reporting to policy analysis.
+Applicants should come prepared with a clear area of focus and a sense of how their work will contribute to informing both the 
+
+--- relevant lines ---
+Each fellow will receive a $10,000 stipend to support their work. In addition, fellows will join an international cohort for regular feedback and exchange of ideas, receive ongoing editorial guidance, and participate in monthly sessions designed to support and strengthen their work.
+Eligibility
+Fellows will be expected to Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
+Fellows will Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
+Fellows will Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
+Fellows will be expected to Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
+Fellows are expected to Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
+How to apply
+If you would like to apply for the fellowship, complete the online form by 11:59 p.m. EDT on September 24th, 2026. Required documents include:
+Submit your applications here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

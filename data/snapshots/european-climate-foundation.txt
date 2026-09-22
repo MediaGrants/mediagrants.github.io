@@ -1,6 +1,6 @@
 SOURCE: European Climate Foundation
 URL: https://europeanclimate.org/
-FETCHED: 2026-09-20T12:15:10.155Z
+FETCHED: 2026-09-22T03:40:13.592Z
 TITLE: Homepage | European Climate Foundation
 
 === MAIN PAGE ===
