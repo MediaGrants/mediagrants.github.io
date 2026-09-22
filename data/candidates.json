@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-21T04:23:54.379Z",
+  "generatedAt": "2026-09-22T04:27:57.658Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -47,8 +47,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -60,8 +60,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -73,8 +73,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -86,8 +86,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -98,8 +98,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -110,8 +110,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -122,8 +122,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -195,8 +195,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -207,8 +207,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -232,8 +232,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -280,8 +280,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -292,8 +292,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -305,8 +305,8 @@
         "ejc-funding"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -366,11 +366,12 @@
       "url": "https://www.solutionsjournalism.org/",
       "why": "Co-runs journalism fellowships with other funders (e.g. the European media leaders climate solutions fellowship with EJC) and posts fellowship calls on its own site.",
       "seenAt": [
-        "journalismgrants"
+        "journalismgrants",
+        "ejc-funding"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-22",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -394,6 +395,78 @@
       ],
       "firstSeen": "2026-09-21",
       "lastSeen": "2026-09-21",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Digital Forensic Research Lab (DFRLab), Atlantic Council",
+      "url": "https://www.digitalforensicresearchlab.org/",
+      "why": "Runs Digital Sherlocks, a free annual training programme for journalists/civil society on monitoring and protecting the information environment, listed as a media opportunity via IJNet.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Climate Justice Resilience Fund (CJRF)",
+      "url": "https://www.cjrfund.org/",
+      "why": "Explicitly funds documentation, journalism, oral histories and visual storytelling as part of its climate-justice grantmaking to frontline communities — a much closer match to the 'climate-justice-resilience' source's own name and stated purpose than the currently configured ClimateWorks Foundation URL, which is invitation-only and unrelated to media. Worth tracking as its own source.",
+      "seenAt": [
+        "climate-justice-resilience"
+      ],
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "FRIDA — The Young Feminist Fund",
+      "url": "https://youngfeministfund.org/",
+      "why": "Global feminist fund listed on Global Fund for Women's own funder-resources page; young-feminist-led groups doing storytelling/media work could plausibly fit the adjacent track.",
+      "seenAt": [
+        "global-fund-for-women"
+      ],
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Equality Fund",
+      "url": "https://equalityfund.ca/",
+      "why": "Global feminist funder listed on Global Fund for Women's funder-resources page; worth checking for media/communications-eligible streams.",
+      "seenAt": [
+        "global-fund-for-women"
+      ],
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "AmplifyChange",
+      "url": "https://amplifychange.org/",
+      "why": "Funder of sexual and reproductive rights advocacy listed on Global Fund for Women's funder-resources page; advocacy-communications grants may be adjacent-track eligible.",
+      "seenAt": [
+        "global-fund-for-women"
+      ],
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Africa Women's Development Fund (AWDF)",
+      "url": "https://awdf.org/",
+      "why": "Pan-African feminist fund listed on Global Fund for Women's funder-resources page; not yet assessed for media/documentation eligibility.",
+      "seenAt": [
+        "global-fund-for-women"
+      ],
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
       "timesSeen": 1,
       "status": "new"
     }
