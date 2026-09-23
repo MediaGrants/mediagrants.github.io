@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-22T04:27:57.658Z",
+  "generatedAt": "2026-09-23T04:31:30.926Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -467,6 +467,54 @@
       ],
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-09-22",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Joan Shorenstein Fellowship Program (Shorenstein Center, Harvard Kennedy School)",
+      "url": "https://shorensteincenter.org/fellowships/shorenstein-fellowships/",
+      "why": "A one-year (mostly remote) fellowship for journalists with 10+ years' experience to research public policy/political affairs at Harvard; surfaced during today's gijn-grants search fallback.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Press Forward",
+      "url": "https://www.pressforward.news/",
+      "why": "A $500M+ philanthropic collaborative funding U.S. local news outlets directly (e.g. its 2025 Open Call awarded ~$100k each to 200+ small newsrooms); it also co-funds IWMF's Safety Ambassador Fellowship, and its own Pooled Fund/Open Call cycles could be a distinct grant source worth tracking.",
+      "seenAt": [
+        "iwmf"
+      ],
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "UN Trust Fund to End Violence against Women and Girls (UNTF)",
+      "url": "https://untf.unwomen.org/en",
+      "why": "The actual grant-making body behind UN Women's largest civil-society calls for proposals (four-year core/flexible grants, up to ~USD 20M per round across two cohorts) — a more useful source URL than sources.json's current un-women procurement page, which is for vendor procurement, not grants.",
+      "seenAt": [
+        "un-women"
+      ],
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Kosovar Civil Society Foundation (KCSF)",
+      "url": "https://kcsfoundation.org/en/",
+      "why": "Co-manages the Civic Emergency Fund with Trag Foundation and runs its own recurring 'Urgent Grants' open call for Kosovo/regional civil society, which may independently be usable by media/journalism organisations under threat.",
+      "seenAt": [
+        "trag-foundation"
+      ],
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
       "timesSeen": 1,
       "status": "new"
     }
