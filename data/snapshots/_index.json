@@ -1,147 +1,110 @@
 {
-  "generatedAt": "2026-09-22T03:40:24.921Z",
+  "generatedAt": "2026-09-23T03:40:52.796Z",
   "captured": {
-    "astraea": {
-      "fetchedAt": "2026-09-22T03:40:24.921Z",
-      "words": 145,
-      "pages": 1
-    },
-    "ch-embassy-serbia": {
-      "fetchedAt": "2026-09-22T03:40:24.921Z",
-      "words": 437,
-      "pages": 1
-    },
-    "climate-justice-resilience": {
-      "fetchedAt": "2026-09-22T03:40:24.921Z",
-      "words": 1449,
-      "pages": 4
-    },
-    "de-embassy-belgrade": {
-      "fetchedAt": "2026-09-22T03:40:24.921Z",
-      "words": 173,
-      "pages": 1
-    },
-    "digital-freedom-fund": {
-      "fetchedAt": "2026-09-22T03:40:24.921Z",
-      "words": 2191,
+    "rockefeller-brothers": {
+      "fetchedAt": "2026-09-23T03:40:52.796Z",
+      "words": 2245,
       "pages": 5
     },
-    "erasmus-plus": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 1071,
+    "trag-foundation": {
+      "fetchedAt": "2026-09-23T03:40:52.796Z",
+      "words": 1780,
       "pages": 5
-    },
-    "eu-civil-society-facility": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 2688,
-      "pages": 9
-    },
-    "european-climate-foundation": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 1179,
-      "pages": 3
     },
     "ejc-funding": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.796Z",
       "words": 1673,
       "pages": 5
     },
     "fij": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.796Z",
       "words": 3213,
       "pages": 5
     },
     "gfmd-fellowships": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.796Z",
       "words": 2989,
       "pages": 13
     },
     "gfmd-fundings": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
       "words": 4478,
       "pages": 11
     },
     "ij4eu": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
       "words": 1292,
       "pages": 3
     },
     "ijnet-opportunities": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
       "words": 4276,
       "pages": 11
     },
     "iwmf": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
       "words": 2018,
       "pages": 5
     },
     "journalismfund": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
       "words": 1901,
       "pages": 5
     },
     "pulitzer-center": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
       "words": 2413,
       "pages": 15
     },
-    "ecpmf": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 3353,
-      "pages": 9
-    },
-    "journalismfund-scholarships": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 1858,
+    "ec-journalism-partnerships": {
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
+      "words": 3017,
       "pages": 5
     },
-    "western-balkans-fund": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 4231,
-      "pages": 9
-    },
-    "frontline-defenders": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 1035,
-      "pages": 4
-    },
-    "global-fund-for-women": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 2091,
-      "pages": 5
-    },
-    "global-human-rights-fund": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 1880,
-      "pages": 5
-    },
-    "king-baudouin": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 1965,
-      "pages": 5
-    },
-    "mama-cash": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 2249,
-      "pages": 5
-    },
-    "mott-foundation": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 870,
-      "pages": 3
-    },
-    "no-embassy-belgrade": {
-      "fetchedAt": "2026-09-22T03:40:24.922Z",
-      "words": 803,
+    "free-press-unlimited": {
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
+      "words": 590,
       "pages": 2
+    },
+    "journalismgrants": {
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
+      "words": 2123,
+      "pages": 5
+    },
+    "jx-fund": {
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
+      "words": 801,
+      "pages": 1
+    },
+    "mfrr": {
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
+      "words": 253,
+      "pages": 1
+    },
+    "ned": {
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
+      "words": 2261,
+      "pages": 5
+    },
+    "unesco-ipdc": {
+      "fetchedAt": "2026-09-23T03:40:52.797Z",
+      "words": 1633,
+      "pages": 5
     }
   },
   "failed": {
-    "coe-youth-foundation": "HTTP 403",
-    "european-cultural-foundation": "HTTP 404",
+    "un-women": "HTTP 403",
+    "unhcr-iom-migration": "HTTP 403",
+    "urgent-action-fund": "HTTP 404",
     "earth-journalism": "HTTP 403",
     "gijn-grants": "HTTP 403",
-    "ilga-europe": "HTTP 404"
+    "civitates": "HTTP 404",
+    "eed": "HTTP 404",
+    "fritt-ord": "HTTP 404",
+    "icfj": "HTTP 404",
+    "one-world-media": "HTTP 403",
+    "osf": "HTTP 404",
+    "rory-peck": "HTTP 403",
+    "unesco-gmdf": "HTTP 404"
   }
 }
