@@ -1,6 +1,6 @@
 SOURCE: British Embassy Belgrade — programme funds
 URL: https://www.gov.uk/world/serbia/news
-FETCHED: 2026-09-21T03:41:55.468Z
+FETCHED: 2026-09-24T03:40:49.801Z
 TITLE: Serbia and the UK - GOV.UK
 
 === MAIN PAGE ===

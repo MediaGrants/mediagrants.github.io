@@ -1,6 +1,6 @@
 SOURCE: EU — EIDHR / NDICI human rights & civil society calls
 URL: https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_en
-FETCHED: 2026-09-21T03:41:53.306Z
+FETCHED: 2026-09-24T03:40:48.468Z
 TITLE: Funding and technical assistance - International Partnerships
 
 === MAIN PAGE ===

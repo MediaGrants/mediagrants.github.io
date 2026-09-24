@@ -1,6 +1,6 @@
 SOURCE: EU mogućnosti — donor calls in Serbia
 URL: https://eumogucnosti.rs/
-FETCHED: 2026-09-21T03:41:54.756Z
+FETCHED: 2026-09-24T03:40:50.444Z
 TITLE: EU mogućnosti
 
 === MAIN PAGE ===
@@ -45,6 +45,12 @@ FOTO
 
 Search for:
 
+RESCALE: EU podrška malim i srednjim preduzećima iz južne i istočne Srbije
+
+Biznis
+Biznis i inovacije
+Lokalni razvoj
+
 GLAS(NO) O PRAVIMA: EU Grantovi za organizacije i medije
 
 Civilno društvo
@@ -78,19 +84,14 @@ Biznis i inovacije
 Inovacije
 Poljoprivreda
 
-Poziv za uključivanje banaka i lizing kuća u finansiranje zelene tranzicije
-
-Biznis
-Zelena tranzicija
-
-Forum naprednih tehnologija u Nišu: Prilike za 
+Erasmus za mlade preduzetnike: I
 
 --- relevant lines ---
-16 - 17/09/2026
 22/09/2026 - 08/10/2026
 24/09/2026
 29/09/2026 - 02/10/2026
 30/09/2026
+23/09/2026
 11/09/2026
 06/08/2026
 06/08/2026
@@ -102,13 +103,16 @@ Evropska fondacija za mlade (EYF): Kako organizacije iz Srbije mogu do grantova 
 13/03/2026
 07/02/2026
 30/12/2025
-11/12/2025
 EU nedelja mogućnosti 2026: Mladi, obrazovanje i sport
 EU nedelja mogućnosti 2026: Lokalni razvoj i zelena tranzicija
 EU nedelja mogućnosti 2026: Kultura i civilno društvo
 EU nedelja mogućnosti 2026: Biznis i inovacije
 Info dan EU mogućnosti: WBF grantovi za lokalne inicijative koje povezuju region
 EU programi podrške: Info sesija o CERV pozivu Uključivanje i učešće građana 06.03.2026.
+📅 Rok za prijavljivanje: 11. oktobar 2026.
+📍 Novi Sad – 2. oktobar u 14.00 časova, OPENS
+📅 Rok za prijavljivanje: 11. oktobar 2026.
+📍 Novi Sad – 2. oktobar u 14.00 časova, OPENS
 🧡 DAPHNE 2026 је отворен до новембра
 Нови DAPHNE 2026 позив у оквиру програма CERV отворен је за организације које раде на спречавању и борби против родно заснованог насиља, насиља у породици и насиља над децом.
 📅 Рок за подношење пријава: 3. новембар 2026. у 17:00

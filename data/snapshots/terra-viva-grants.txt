@@ -1,6 +1,6 @@
 SOURCE: Terra Viva Grants — environment & rural development
 URL: https://www.terravivagrants.org/
-FETCHED: 2026-09-21T03:41:55.619Z
+FETCHED: 2026-09-24T03:40:51.014Z
 TITLE: Home - Terra Viva Grants
 
 === MAIN PAGE ===
@@ -278,16 +278,18 @@ View Grant Makers
 Funding Alerts
 Grants Database
 Funding News
-September 10, 2026
-e-MOVE invites young agripreneurs within the cashew sector to transform their ideas into investment-ready, climate-smart ventures. Selected participants receive €2,000 in direct funding, mentoring, tools, and incubation support. Agripreneurs in a member state of the Organisation of African, Caribbean, and Pacific States are eligible. The submission window is open until 30 October 2026. Link
-September 1, 2026
-African Women in Agricultural Research and Development (AWARD) invites applications for its nine-month, non-residential Leadership Program for Emerging African Women in Agricultural Sciences, building leadership, communication, and networking skills for up to 40 selected women and their mentors. Applicants must be women under 35 working in agricultural sciences, from Benin, Burkina Faso, Côte d Ivoire, Ethiopia, Ghana, Kenya, Malawi, Nigeria, Senegal, Tanzania, or Zambia. The deadline is 20 September 2026. African Women in Agricultural Sciences
-Garden Club of America — Awards in Tropical Botany and Horticulture
-September 1, 2026
-The Garden Club of America (GCA) offers several grants, prizes, and fellowships for students enrolled at universities in the USA, including some awards that have a tropical focus. The GCA Awards in Tropical Botany are open to PhD candidates (application deadline is 15 January); the Loy McCandless Marks Scholarship in Tropical Horticulture is restricted to U.S. citizens who are graduate students or advanced undergraduate students (deadline is 15 January). The Anne Chatham Fellowship in Medicinal Botany is open to PhD students and recent PhD graduates (deadline is 31 January). Applicants should review all programs, criteria, and deadlines. Botany and Horticulture Scholarships
-agriculture , awards/prizes , early-career , fellowships/scholarships , forests , individuals , january2027 , research , worldwide
-September 10, 2026
-Girls Who Click invites young female and female-identifying photographers and videographers aged 16–30 to apply for its Ambassador Program, a nine-mont…
+International Fund for Agricultural Development — Rural Sector Performance Assessment for Policy and Investment
+September 22, 2026
+The International Fund for Agricultural Development (IFAD) invites non-profit organizations, private companies, universities, think tanks, or research institutes to submit proposals for a grant of up to US$1.2 million to implement an initiative strengthening country-level rural development policy and investment environments, through enhanced policy assessment. Selected recipients must provide a counterpart contribution of at least 20% of the grant amount (25% for private sector applicants). This call has been re-opened, with a new deadline of 07 October 2026. Find details here
+International Fund for Agricultural Development — Food Systems Transformation in the Central Sahel
+September 22, 2026
+The International Fund for Agricultural Development invites eligible organizations, government agencies, private sector entities, research institutions, or consortia to submit proposals for Support for Food Systems Transformation in the Central Sahel, a US$2 million grant supporting innovative, scalable interventions in the livestock, cassava, and rice value chains across Burkina Faso, Mali, and Niger. Proposals should demonstrate regional relevance, commercial viability, climate resilience, and inclusion of women and youth. The deadline is 16 October 2026. Food Systems Transformation
+Marine Stewardship Council — Science and Research Fund
+September 22, 2026
+The MSC s Science and Research Fund supports research projects addressing the barriers that MSC-certified fisheries face in maintaining certification, such as bycatch reduction, marine habitat protection, or climate change impacts. Grants reach up to £50,000 over up to two years. Applicants first submit an Expression of Interest before a full application. The deadline is 18 October 2026. Science and Research Fund
+Society for Conservation Biology — Graduate Student Research Fellowship
+September 22, 2026
+The Society for Conservation Biology (SCB) su…
 
 === https://www.terravivagrants.org/subscribe-to-funding-alerts/ ===
 Skip to content

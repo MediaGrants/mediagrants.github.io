@@ -1,6 +1,6 @@
 SOURCE: Australian Direct Aid Program (all missions)
 URL: https://dap.smartygrants.com.au/
-FETCHED: 2026-09-21T03:41:51.998Z
+FETCHED: 2026-09-24T03:40:47.534Z
 TITLE: Home Page -
 Direct Aid Program
 
@@ -44,5 +44,5 @@ A list of Australian missions overseas which have receive
 --- relevant lines ---
 Please contact the Australian mission overseas that administers DAP in the country you are applying for. For Australian mission contact details see http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx
 Cairo Direct Aid Program 2026-27
-Submissions close 4:00pm 22 September 2026 (EEST).
+Submissions close 6:00pm 26 September 2026 (EEST).
 Find out more about Cairo Direct Aid Program 2026-27 ...
