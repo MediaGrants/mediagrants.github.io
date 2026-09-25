@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-24T04:25:42.823Z",
+  "generatedAt": "2026-09-25T04:21:35.000Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -60,8 +60,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -73,8 +73,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -86,8 +86,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -98,8 +98,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -110,8 +110,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -122,8 +122,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -195,8 +195,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -207,8 +207,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -232,8 +232,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -244,8 +244,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -256,8 +256,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -370,8 +370,8 @@
         "ejc-funding"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -490,8 +490,8 @@
         "iwmf"
       ],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-23",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-25",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -541,6 +541,19 @@
       "lastSeen": "2026-09-24",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Digital Whistleblowing Fund (Hermes Center / Renewable Freedom Foundation)",
+      "url": "https://www.whistleblowingfund.org/",
+      "why": "Micro-grants of up to €3,000 plus IT/advisory support for investigative-journalism groups and human-rights grassroots organisations starting secure digital whistleblowing initiatives, requiring endorsement by a partner such as ICIJ, OCCRP or Transparency International.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "Listed on GIJN's grants & fellowships resource page (surfaced via WebSearch since gijn.org returned HTTP 403 today); most corroborating search results date to ~2020, so current-cycle status is uncertain. Read September 2026."
     }
   ]
 }
