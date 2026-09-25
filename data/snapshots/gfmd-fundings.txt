@@ -1,6 +1,6 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-09-24T03:40:45.094Z
+FETCHED: 2026-09-25T03:40:22.334Z
 TITLE: (feed)
 
 === FEED ITEMS ===
@@ -85,15 +85,6 @@ The post WCSJ2027 Travel Fellowship appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/wcsj2027-travel-fellowship/
 
-Call for Applications: 2027 Tech Policy Press Fellowship Program
-Wed, 02 Sep 2026 14:20:20 +0000
-Eligibility: Mid-career journalists with an expertise in tech Target region: Global Application language: English Tech Policy Press intends to support a new cohort of fellows to pursue independent reporting and analysis that explore urgent questions at the intersection of technology and democracy. The year-long, part-time fellowship is designed to support mid-career journalists, researchers, and public policy professionals. They [ ]
-
-The post Call for Applications: 2027 Tech Policy Press Fellowship Program appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/call-for-applications-2027-tech-policy-press-fellowship-program/
-
 Fault Lines Reporting Fund
 Fri, 28 Aug 2026 12:23:34 +0000
 Eligibility: USA journalists writing about discrimination Target Region: USA Application Language: English The IWMF s Fault Lines Reporting Fund supports journalists reporting on the forces driving racism, antisemitism, Islamophobia, misogyny, and other forms of intolerance promoting hate in the United States. Successful applications examine how false, divisive, and harmful narratives — such as stories that promote [ ]
@@ -111,6 +102,15 @@ The post Belgian Bridge Programme appeared first on GFMD .
 
 ]]>
 https://gfmd.info/fundings/belgian-bridge-programme/
+
+Health Care Journalism Grants 2026–2027
+Fri, 14 Aug 2026 13:35:25 +0000
+Eligibility: USA journalists specialised in health Target Region: North America Application Language: English The NIHCM Foundation supports independent, timely, and impactful health care journalism with the potential to inform efforts to improve the affordability, accessibility, and quality of health care in the United States. For this cycle, the Foundation is particularly interested in reporting on [ ]
+
+The post Health Care Journalism Grants 2026–2027 appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/health-care-journalism-grants-2026-2027/
 
 === https://gfmd.info/fundings/free-press-awards-newcomer-of-the-year-and-most-resilient-journalist/ ===
 Support journalism GFMD IMPACT
@@ -583,7 +583,7 @@ Find Funding Funding Opportunities
 Fundraising Guide
 Funder Profiles
 
-=== https://gfmd.info/fundings/call-for-applications-2027-tech-policy-press-fellowship-program/ ===
+=== https://gfmd.info/fundings/fault-lines-reporting-fund/ ===
 Support journalism GFMD IMPACT
 Policy and Advocacy
 Briefings
@@ -606,34 +606,31 @@ Partner with us
 
 Subscribe
 
-« Back to all Fundings Call for Applications: 2027 Tech Policy Press Fellowship Program
-Organisation: Tech Policy Press
+« Back to all Fundings Fault Lines Reporting Fund
+Organisation: International Women s Media Foundation
 
 Status: Open
-Type: Fellowship
+Type: Grant
 
-Theme: Media Innovation
+Theme: Freedom of expression
 
-Funding Size: $10,000
-Deadline: 24/09/2026
+Funding Size: USD 2,500–USD 10,000
+Deadline: Ongoing
 
-Eligibility: Mid-career journalists with an expertise in tech
-Target region: Global
-Application language: English
-Tech Policy Press intends to support a new cohort of fellows to pursue independent reporting and analysis that explore urgent questions at the intersection of technology and democracy. The year-long, part-time fellowship is designed to support mid-career journalists, researchers, and public policy professionals. They welcome a wide range of contributions, from original reporting to policy analysis.
-Applicants should come prepared with a clear area of focus and a sense of how their work will contribute to informing both the 
+Eligibility: USA journalists writing about discrimination
+Target Region: USA
+Application Language: English
+The IWMF s Fault Lines Reporting Fund supports journalists reporting on the forces driving racism, antisemitism, Islamophobia, misogyny, and other forms of intolerance promoting hate in the United States. Successful applications examine how false, divisive, and harmful narratives — such as stories that promote or normalise hate, discrimination, and the dehumanisation of individuals and communities — take hold, including what is fuelling them, where they are most pronounced, the scope of their impact, and where individuals and communities
 
 --- relevant lines ---
-Each fellow will receive a $10,000 stipend to support their work. In addition, fellows will join an international cohort for regular feedback and exchange of ideas, receive ongoing editorial guidance, and participate in monthly sessions designed to support and strengthen their work.
+ are making real progress in combating these hate-based agendas. The three-year programme provides grants to staff and freelance journalists planning well-researched, investigative, and evidence-based reporting within the United States. Grant funds may be used to cover travel, logistics, security, insurance, and other reporting-related expenses.
 Eligibility
-Fellows will be expected to Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
-Fellows will Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
-Fellows will Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
-Fellows will be expected to Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
-Fellows are expected to Contribute (on at least a monthly basis) analysis or reporting on issues related to technology and democracy. (While topics can change after the fellowship commences, each fellow should clearly articulate a topic and why they are a good fit to cover it)
-How to apply
-If you would like to apply for the fellowship, complete the online form by 11:59 p.m. EDT on September 24th, 2026. Required documents include:
-Submit your applications here .
+The applicant s primary profession must be journalism; applications will be accepted from freelance, staff, or content-based journalists.
+A completed application in English (reporting itself may be conducted in any language).
+A well-developed story pitch demonstrating investigative merit, originality, reach, potential impact, and need for funding.
+Grantees must publish in a U.S. outlet within one year of receiving a grant and must credit the IWMF.
+How to Apply
+Submit the application through the IWMF Submittable portal on a rolling basis; there is no fixed closing date for the current programme cycle. Larger awards are considered on a case-by-case basis. Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

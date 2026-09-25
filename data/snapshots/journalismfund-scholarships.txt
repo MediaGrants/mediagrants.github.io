@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe — Scholarships
 URL: https://www.journalismfund.eu/scholarships
-FETCHED: 2026-09-22T03:40:17.532Z
+FETCHED: 2026-09-25T03:40:24.904Z
 TITLE: Scholarships | Journalismfund Europe
 
 === MAIN PAGE ===
@@ -326,7 +326,7 @@ Choose a country Afghanistan Åland Islands Albania Algeria American Samoa
 
 --- relevant lines ---
 1727 supported projects match your criteria. View the awarded projects
-INTERNATIONAL - The IPCC is one of the most respected scientific institutions in climate research. An investigation into its inner workings now reveals strong links to the Saudi government within its ranks, as well as apparent contradictions of the IPCC’s application of its conflict of interest ...
+GENEVA - The IPCC is one of the most respected scientific institutions in climate research. An investigation into its inner workings now reveals strong links to the Saudi government within its ranks, as well as apparent contradictions of the IPCC’s application of its conflict of interest rules.
 © European Union, 2016 (CC 4.0)
 BRUSSELS - The film Returnees follows migrants in Belgium who are preparing for voluntary return.
 Be the first to get informed about our grant deadlines.

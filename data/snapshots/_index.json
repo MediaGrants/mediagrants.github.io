@@ -1,100 +1,69 @@
 {
-  "generatedAt": "2026-09-24T03:40:56.878Z",
+  "generatedAt": "2026-09-25T03:40:31.362Z",
   "captured": {
     "ejc-funding": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
+      "fetchedAt": "2026-09-25T03:40:31.362Z",
       "words": 1673,
       "pages": 5
     },
     "fij": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 3213,
+      "fetchedAt": "2026-09-25T03:40:31.362Z",
+      "words": 3203,
       "pages": 5
     },
     "gfmd-fellowships": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
+      "fetchedAt": "2026-09-25T03:40:31.362Z",
       "words": 2989,
       "pages": 13
     },
     "gfmd-fundings": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 4478,
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
+      "words": 4308,
       "pages": 11
     },
     "ij4eu": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
       "words": 1292,
       "pages": 3
     },
     "ijnet-opportunities": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
       "words": 4276,
       "pages": 11
     },
     "iwmf": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
       "words": 2018,
       "pages": 5
     },
     "journalismfund": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
       "words": 1901,
       "pages": 5
     },
     "pulitzer-center": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
       "words": 2413,
       "pages": 15
     },
-    "au-embassy-belgrade": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 268,
-      "pages": 1
+    "ecpmf": {
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
+      "words": 3362,
+      "pages": 9
     },
-    "birn": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 858,
-      "pages": 1
-    },
-    "canada-fund-cfli": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 11231,
-      "pages": 61
-    },
-    "eidhr-ncidi": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 1290,
+    "journalismfund-scholarships": {
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
+      "words": 1858,
       "pages": 5
     },
-    "eu-delegation-serbia": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 402,
-      "pages": 2
-    },
-    "eu-funding-portal": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 67,
-      "pages": 2
-    },
-    "eu-mogucnosti": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 1393,
-      "pages": 4
-    },
-    "terra-viva-grants": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 1664,
-      "pages": 4
-    },
-    "uk-embassy-belgrade": {
-      "fetchedAt": "2026-09-24T03:40:56.879Z",
-      "words": 306,
-      "pages": 1
+    "western-balkans-fund": {
+      "fetchedAt": "2026-09-25T03:40:31.363Z",
+      "words": 4618,
+      "pages": 9
     }
   },
   "failed": {
     "earth-journalism": "HTTP 403",
-    "gijn-grants": "HTTP 403",
-    "us-embassy-belgrade": "fetch failed"
+    "gijn-grants": "HTTP 403"
   }
 }

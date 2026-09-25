@@ -1,10 +1,16 @@
 SOURCE: Western Balkans Fund
 URL: https://westernbalkansfund.org/
-FETCHED: 2026-09-22T03:40:18.312Z
+FETCHED: 2026-09-25T03:40:25.259Z
 TITLE: Western Balkans Fund | Building Regional Cooperation
 
 === MAIN PAGE ===
 Skip to main content
+
+Apply for ERC
+
+Apply for MOVE
+
+Register for Info Sessions
 
 Supporting lasting
 
@@ -27,25 +33,26 @@ Learn About WBF
 Open call
 
 MOVE Grants: Call 7 is open for applications
+
+For individuals
 Deadline 5 October 2026, 12:59 CET
+
+Open call
+
+ERC Grants: the new call is open for applications
+
+For non-profit organisations
+Deadline 26 October 2026, 13:59 CET
 
 Funding & Opportunities
 
 Explore our programs
 
-From flagship regional grant schemes to fellowships, mobility funding, and capacity-building academies, find the WBF programme that fits your organisation, institution, or individual work, and open its page to apply.
-
-All programmes 8
-
-Who it's for
-Organisations 5
-Individuals 3
-
-What you get
-Grant funding 6
-Capac
+From flagship regional grant schemes to fellowships, mobility funding, and capacity-building academies, find t
 
 --- relevant lines ---
+he WBF programme that fits your organisation, institution, or individual work, and open its page to apply.
+Grant funding 6
 €15,000
 max grant
 Grants for Grassroots Initiatives (GGI)
@@ -59,7 +66,7 @@ The Fund's dedicated regional mechanism for gender equality, supporting collabor
 max grant
 Grant
 Larger EU co-funded grants that strengthen civil society partnerships and collaborative initiatives across the Western Balkans, promoting democracy and sustainable development.
-Opens on 23 September
+Deadline 26 October 13:59 CET
 €10,000
 max grant
 Matching Grants
@@ -110,48 +117,93 @@ Podgorica, 20 February 2026 – The Ministry of Foreign Affairs of Montenegro ho
 The event focused on the key priorities set by the Ministry for the year ahead, including further diversification of the grant portfolio, institutional strengthening, and enhancing the status and visibility of the WBF.
 Welcoming ambassadors, international donors, partners, and representatives of the media, Minister of Foreign Affairs H.E. Ervin Ibrahimović emphasized the importance of regional cooperation for Montenegro. “Assuming the Presidency of the Western Balkans Fund represents both an honor and a responsibility. The Fund is a unique regional initiative because it is truly ours. It belongs to the region, but above all to its people. It proves that regional cooperation is not merely declarative, but practical, connecting civil society, academia, cultural actors, and young people across borders” , Minister Ibrahimović underlined.
 Leading the WBF delegation, Executive Director Dr. Gjergj Murra expressed gratitude to the Ministries of Foreign Affairs of the region and key partners, including the European Union, the Swiss Government, the Government of Japan, and the International Visegrad Fund for their continued support. “Consider WBF as an example of what the WB6 can achieve when it puts needs before differences,” the Executive Director stated.
-During the event, the WBF signed two cooperation agreements. The first, with the Swiss Confederation, extends cooperation with the Fund until 2029 and secures approximately one million Swiss francs in funding. The second, with the Federal Ministry for Economic Cooperation and Development, marks the…
+During the event, the WBF signed two cooperation agreements. The first, with the Swiss Confederation, extends cooperation with the Fund until 2029 and secures approxima…
 
-=== https://westernbalkansfund.org/our-programs/ ===
+=== https://westernbalkansfund.org/erc/ ===
 Skip to main content
 
-Home › Our Programmes
+Home › Our Programmes › ERC
 
-Our Programmes
+2nd Edition: Open
 
-Programmes & Initiatives
+Deadline 26 October 2026
 
-The Western Balkans Fund supports regional cooperation through grant programmes, capacity-building initiatives, and policy dialogue. By connecting civil society, public institutions, academia, and other stakeholders across all six Contracting Parties, the Fund fosters lasting partnerships, strengthens regional networks, and promotes good neighbourly relations.
+Empowering Regional Cooperation (ERC)
 
-What We Offer
+ERC is specifically designed to support higher-impact, multi-partner regional initiatives led by well-established Civil Society Organisations, with a clear focus on strengthening regional cooperation, regional CSO partnership and EU aligned priorities, thereby contributing to increased trust, reconciliation and good neighborly relations in the Western Balkans.
 
-Three ways we back regional cooperation
+Apply via OGMS
 
-The Western Balkans Fund works across all six Contracting Parties to turn shared ideas into shared results. Our support falls into three connected areas, each designed to help partners meet, learn, and build something that outlasts a single project. Each one has its own section below, with its programmes listed inside.
+Register for Info Sessions
 
-Funding Opportunities
+Meet the grantees
 
-From flagship regional schemes to fast, people-to-people mobility funding, our grants back partnerships of every size and ambition across the Western Balkans.
+Grant
 
-Grants for non-profit organizations
+€20,000–€25,000
 
-Grants for Grassroots Initiatives (GGI)
+Partnership
 
-GGI supports young, emerging CSOs and Grassroots organizations to participate and contribute to regional coope
+Min 4 Org. from 4 CPs
+
+Duration
+
+6–10 months
+
+Co-financing
+
+Minimum 20%
+
+Deadline
+
+26 Oct 2026, 13:59 CET
+
+Co-funded by
+
+Who can apply
+
+Eligibility
+
+Non-profit legal entities established in a WBF Contracting Party
+
+CSOs, and associations of business, media, sports or education, etc.
+
+Lead applicant with experience in donor-funded regional projects in the last 3 years
+
+1 Lead + at least 3 Partners from 4 different Contracting Parties
+
+Full eligibility rules
+
+Funding
+
+Grant and co-financing
+
+Grants of €20,000 to €25,000 per project
+
+WBF covers up to 80% of total eligible costs
+
+At least 20% co-fi
 
 --- relevant lines ---
-Gender Equality Fund (GEFund)
-GeFund is the Western Balkans Fund's dedicated regional funding mechanism for gender equality. By supporting collaborative initiatives across the six Contracting Parties, it transforms the Fund's long-term commitment to women's empowerment into concrete action and regional impact.
-ERC Grant strengthens regional civil society partnerships and supports collaborative initiatives across the Western Balkans. It promotes democracy, active citizenship, and sustainable development while fostering regional cooperation and dialogue.
-Matching Grants
-Co-financing for regional projects that have already earned the trust of another funder.
-Grants for individuals
-MOVE Grants
-Short-term mobility funding for individual artists, cultural professionals, scholars, journalists, youth workers, CSO activists, and other changemakers, to engage in regional cooperation, connect with peers, and knowledge sharing.
-WB6-V4 Fellowship
-The WB6-V4 Fellowship Programme supports short-term academic mobility between the Western Balkans and the Visegrad Group. It enables PhD candidates and doctoral holders to undertake research, teaching, or academic study at host institutions across the two regions, fostering knowledge exchange and regional cooperation.
-A flagship capacity-building programme of the Western Balkans Fund, delivered through online learning and a seven-day residential academy. Supported by the Open Society Foundation – Western Balkans, it equips junior professionals and emerging leaders with the knowledge, skills, and regional networks to advance dialogue, cooperation, and reconciliation across the Western Balkans. This year's edition is on Dialogue and Culture of Cooperation.
-A curated archive of the conferences, forums, dialogue sessions and networking moments the Fund has convened across the six Contracting Parties.
+nancing ; contributions in kind are not eligible
+1 to 14 October
+12 October
+16 October
+26 October, 13:59 CET
+Application deadline
+Empowering Regional Cooperation (ERC) is the Western Balkans Fund's larger-scale regional grant scheme . The 2nd Edition is implemented under Work Package 1 of the EU/WBF Joint Action, Phase III, and builds on the ERC 1st Edition piloted in 2024.
+ERC funded projects should demonstrate potential for regional policy influence rather than focusing solely on local outputs. Proposals are expected to incorporate innovative approaches and provide evidence of scalable or transferable impact, and are assessed on their ability to contribute to broader regional policy, advocacy, knowledge or best practice sharing.
+82% of citizens in the region consider regional cooperation better for their economies (RCC Balkan Barometer 2025)
+Proposals must fall within one of these areas, or a combination of them. Activities under each should act as strategic accelerators for regional cooperation, institutional innovation and EU integration.
+Eligibility
+Who can apply
+ERC is open to non-profit organisations from the WBF Contracting Parties, applying together as a regional partnership.
+A legal entity (individuals are not eligible)
+Able to show experience in donor-funded regional projects in the last three years , through experience cards in the online application form
+Project partners must be organisations of the same kind. Organisations that cannot show regional project experience in the last three years cannot lead an ERC project but can join one as partners. To lead a regional project, they should consider the Grants for Grassroots Initiatives (GGI) call instead.
+Eligible organisations
+Who cannot apply. Profit-making companies, political parties, organisations dealing mostly or only with political or religious activities, and central government entities are not eligible under this call, neither as Lead Applicant nor as Project Partner. The same applies to central and local government entities, units and directorates, and to government-funded organisations such as museums and universities, which may take part only as associated institutions. An application that does not meet all of these requirements will not be eligible.
+Every ERC project is delivered by a r…
 
 === https://westernbalkansfund.org/move/ ===
 Skip to main content
@@ -215,6 +267,47 @@ Dec 2026 – Apr 2027
 All mobility activities run in this window. Final report due by 30 April 2027.
 These caps apply no matter what the market price is. Anything above them has to be covered from your own resources.
 Accomm…
+
+=== https://westernbalkansfund.org/our-programs/ ===
+Skip to main content
+
+Home › Our Programmes
+
+Our Programmes
+
+Programmes & Initiatives
+
+The Western Balkans Fund supports regional cooperation through grant programmes, capacity-building initiatives, and policy dialogue. By connecting civil society, public institutions, academia, and other stakeholders across all six Contracting Parties, the Fund fosters lasting partnerships, strengthens regional networks, and promotes good neighbourly relations.
+
+What We Offer
+
+Three ways we back regional cooperation
+
+The Western Balkans Fund works across all six Contracting Parties to turn shared ideas into shared results. Our support falls into three connected areas, each designed to help partners meet, learn, and build something that outlasts a single project. Each one has its own section below, with its programmes listed inside.
+
+Funding Opportunities
+
+From flagship regional schemes to fast, people-to-people mobility funding, our grants back partnerships of every size and ambition across the Western Balkans.
+
+Grants for non-profit organizations
+
+Grants for Grassroots Initiatives (GGI)
+
+GGI supports young, emerging CSOs and Grassroots organizations to participate and contribute to regional coope
+
+--- relevant lines ---
+Gender Equality Fund (GEFund)
+GeFund is the Western Balkans Fund's dedicated regional funding mechanism for gender equality. By supporting collaborative initiatives across the six Contracting Parties, it transforms the Fund's long-term commitment to women's empowerment into concrete action and regional impact.
+ERC Grant strengthens regional civil society partnerships and supports collaborative initiatives across the Western Balkans. It promotes democracy, active citizenship, and sustainable development while fostering regional cooperation and dialogue.
+Matching Grants
+Co-financing for regional projects that have already earned the trust of another funder.
+Grants for individuals
+MOVE Grants
+Short-term mobility funding for individual artists, cultural professionals, scholars, journalists, youth workers, CSO activists, and other changemakers, to engage in regional cooperation, connect with peers, and knowledge sharing.
+WB6-V4 Fellowship
+The WB6-V4 Fellowship Programme supports short-term academic mobility between the Western Balkans and the Visegrad Group. It enables PhD candidates and doctoral holders to undertake research, teaching, or academic study at host institutions across the two regions, fostering knowledge exchange and regional cooperation.
+A flagship capacity-building programme of the Western Balkans Fund, delivered through online learning and a seven-day residential academy. Supported by the Open Society Foundation – Western Balkans, it equips junior professionals and emerging leaders with the knowledge, skills, and regional networks to advance dialogue, cooperation, and reconciliation across the Western Balkans. This year's edition is on Dialogue and Culture of Cooperation.
+A curated archive of the conferences, forums, dialogue sessions and networking moments the Fund has convened across the six Contracting Parties.
 
 === https://westernbalkansfund.org/ggi/ ===
 Skip to main content
@@ -404,43 +497,6 @@ The Western Balkans Fund joined 150+ representatives from across the region at t
 A. Application Form and Annexes
 Q1. We cannot locate Annex A (Application Form), Annex B (Budget) and Annex C (Declaration by the Lead Applicant). Where can we find them?
 All three annexes are embedded inside the WBF Online Grant Management System (OGMS) at wbfportal.org/applicant . Annex A and B are not provided as separate d…
-
-=== https://westernbalkansfund.org/erc/ ===
-Skip to main content
-
-Home › Our Programmes › Empowering Regional Cooperation (ERC)
-
-Next call · September 2026
-
-Empowering Regional Cooperation across the Western Balkans
-
-Programme refresh
-
-The Call will open in September 2026 , and all the guidelines for this call will be published here.
-
-Implemented under the EU/WBF Joint Action "Support to the Promotion of Civil Society Regional Actions in the Western Balkans (Phase II)".
-
-Meet the grantees
-
-Find Partners
-
-Co-funded by
-
-Previous Call
-
-The 12 projects supported by the last ERC call
-
-Twelve regional consortia delivered cross-border projects across the Western Balkans under the previous Empowering Regional Cooperation Call for Proposals.
-
-Stay Informed
-
-Be ready for the next ERC call
-
-The next ERC Call for Proposals opens in September 2026, when full guidelines will be published here.
-
-Find partners
-
-All WBF programmes →
 
 === https://westernbalkansfund.org/matching/ ===
 Skip to main content
