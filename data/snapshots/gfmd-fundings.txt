@@ -1,9 +1,27 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-09-25T03:40:22.334Z
+FETCHED: 2026-09-26T03:39:51.395Z
 TITLE: (feed)
 
 === FEED ITEMS ===
+CTRL+J Microgrants
+Fri, 25 Sep 2026 14:39:43 +0000
+Eligibility: Organisations (or freelancers connected to orgs) organising small convenings Target region: Global (Global South encouraged) Application language: English The CTRL+J Microgrants Program provides grant funding of US$1,000–US$5,000 to support small convenings aligned with CTRL+J’s thematic focus on the intersection of journalism and technology. The program is supported by Luminate, and is expected to run [ ]
+
+The post CTRL+J Microgrants appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/ctrlj-microgrants/
+
+Equality Fund Global Journalism Fellowship 2026–2027
+Fri, 25 Sep 2026 12:56:13 +0000
+Eligibility: five journalists located in ODA-recipient countries Target Region: ODA-eligible countries Application Language: English The Equality Fund has launched its inaugural Global Journalism Fellowship, developed in partnership with Canadian Journalists for Free Expression (CJFE) and African Women in Media (AWiM). The fellowship seeks to surface stories of local solutions to global crises, with a particular [ ]
+
+The post Equality Fund Global Journalism Fellowship 2026–2027 appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/equality-fund-global-journalism-fellowship-2026-2027/
+
 Free Press Awards Newcomer of the Year and Most Resilient Journalist
 Fri, 18 Sep 2026 12:04:10 +0000
 Eligibility: Starting reporters, and reporters committed to journalism under strenuous circumstances Target region: Global Application language: English The Free Press Awards recognise journalists and media professionals who have a strong commitment with press freedom and independent information. FPU will honour journalists and media professionals who continue no matter what. Registration for the upcoming edition is [ ]
@@ -12,15 +30,6 @@ The post Free Press Awards Newcomer of the Year and Most Resilient Journalist ap
 
 ]]>
 https://gfmd.info/fundings/free-press-awards-newcomer-of-the-year-and-most-resilient-journalist/
-
-Voices for Climate Justice Program 2026
-Fri, 18 Sep 2026 11:51:51 +0000
-Eligibility: African storyteller/journalists with an engaged platform Target Region: Mozambique, Uganda, Nigeria, Angola, Chad, Republic of Congo, Tanzania, South Sudan, Malawi, Zambia Application language: English, French Africa No Filter, in partnership with Comic Relief, invites journalists, content creators, podcasters, vloggers, muralists, and data visualizers from ten African countries to take part in the Voices for [ ]
-
-The post Voices for Climate Justice Program 2026 appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/voices-for-climate-justice-program-2026/
 
 German–Northern European Journalists Fellowship 2027
 Fri, 18 Sep 2026 11:44:11 +0000
@@ -103,14 +112,116 @@ The post Belgian Bridge Programme appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/belgian-bridge-programme/
 
-Health Care Journalism Grants 2026–2027
-Fri, 14 Aug 2026 13:35:25 +0000
-Eligibility: USA journalists specialised in health Target Region: North America Application Language: English The NIHCM Foundation supports independent, timely, and impactful health care journalism with the potential to inform efforts to improve the affordability, accessibility, and quality of health care in the United States. For this cycle, the Foundation is particularly interested in reporting on [ ]
+=== https://gfmd.info/fundings/ctrlj-microgrants/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
 
-The post Health Care Journalism Grants 2026–2027 appeared first on GFMD .
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
 
-]]>
-https://gfmd.info/fundings/health-care-journalism-grants-2026-2027/
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings CTRL+J Microgrants
+Organisation: CTRL+J
+
+Status: Open
+Type: Grant
+
+Theme: Advocacy & Development
+
+Funding Size: US$1,000–US$5,000
+Deadline: 15/10/2026
+
+Eligibility: Organisations (or freelancers connected to orgs) organising small convenings
+Target region: Global (Global South encouraged)
+Application language: English
+The CTRL+J Microgrants Program provides grant funding of US$1,000–US$5,000 to support small convenings aligned with CTRL+J’s thematic focus on the intersection of journalism and technology.
+The program is supported by Luminate, and is expected to run continuously, subject to available budget. Further details on the program’s scope and application process are available in the FAQ section.
+Eligibility
+Organization-based applications are preferred and collaborations between multiple organizations are highly encouraged!
+
+--- relevant lines ---
+ If there are more than one organizations involved, there should only be one lead organization applying on behalf of the group.
+Freelancers may apply but would need a letter of support from an organization willing to host the convening. All grant funds can only be transferred to an entity, not an individual.
+Most of the CTRL+J work is centered around the Global South and serving markets operating in mid and low-resourced languages. Local and regional institutions operating in countries that are in the Global South and/or whose dominant language belongs in the “mid or low-resource language” category, are encouraged to apply.
+The CTRL+J Microgrants Program specifically covers small convenings related to advancing or continuing the work and conversation around; 1. The impact of AI on local information producers, 2. Solutions to preserve healthy information flows, 3. Innovative partnerships that reimagine the future of information
+The proposal should be short, precise and include Objective(s), proposed convening, importance, plans for insights derived from your convening and an estimate of the budget itemized
+How to apply
+Fill in the application form before the noted deadline. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/equality-fund-global-journalism-fellowship-2026-2027/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings Equality Fund Global Journalism Fellowship 2026–2027
+Organisation: Equality Fund
+
+Status: Open
+Type: Fellowship
+
+Theme: Gender equality in media
+
+Funding Size: CAD 4,000
+Deadline: 11/11/2026
+
+Eligibility: five journalists located in ODA-recipient countries
+Target Region: ODA-eligible countries
+Application Language: English
+The Equality Fund has launched its inaugural Global Journalism Fellowship, developed in partnership with Canadian Journalists for Free Expression (CJFE) and African Women in Media (AWiM). The fellowship seeks to surface stories of local solutions to global crises, with a particular focus on gender, by selecting up to five journalists located in ODA-recipient countries. Fellows will spend six months in structured programming followed by three additional months to finalise publication (January–September 2027), re
+
+--- relevant lines ---
+Eligibility
+Must be fluent in English, Equality Fund s working language
+Must have a strong affinity for the Equality Fund s mission and values, including equality and diversity of race, gender, sexual orientation, religion, ethnicity, national origin, and disability
+Women, non-binary, and trans people are encouraged to apply
+Applications from women, men, and LGBTQI+ people are welcomed
+Use of AI in the proposal and application is not permitted; use of AI during the journalistic process must be disclosed to the programme and approved in advance
+Completed online application form submitted before the closing date
+In a phased process, shortlisted applicants will be asked to submit a letter of editorial commitment from a news outlet (in some cases of self-publishing, this may be substituted with a fact-checking plan)
+Fellows who are full-time staff journalists will be required to notify their newsroom of the fellowship stipend
+How to Apply
+Complete the online application form before 08/11/2026 at midnight Eastern Standard Time. Full application guidelines, including eligibility criteria and programme expectations, are available on the funder s application page before starting. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
 
 === https://gfmd.info/fundings/free-press-awards-newcomer-of-the-year-and-most-resilient-journalist/ ===
 Support journalism GFMD IMPACT
@@ -158,58 +269,6 @@ Eligibility
 To be eligible for the category of Newcomer of the Year, the nominee should be active as a journalist for a maximum of three years.
 How to apply
 Send in your nomination via the portal available on the webpage. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/voices-for-climate-justice-program-2026/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings Voices for Climate Justice Program 2026
-Organisation: Africa No Filter
-
-Status: Open
-Type: Grant
-
-Theme: Environmental journalism
-
-Funding Size: up to US$4,000
-Deadline: 25/09/2026
-
-Eligibility: African storyteller/journalists with an engaged platform
-Target Region: Mozambique, Uganda, Nigeria, Angola, Chad, Republic of Congo, Tanzania, South Sudan, Malawi, Zambia
-Application language: English, French
-Africa No Filter, in partnership with Comic Relief, invites journalists, content creators, podcasters, vloggers, muralists, and data visualizers from ten African countries to take part in the Voices for Climate Justice initiative, a 12-month programme supporting 15–20 storytellers to produce research-informed, original content that connects climate change, debt, gender inequality, and fossil fuel extraction in Africa. Selected story
-
---- relevant lines ---
-tellers receive training in climate justice, data storytelling, and narrative framing, plus mentorship, content amplification, and a grant of up to US $4,000.
-Eligibility
-Content creators must be unsigned (not represented by an agent); journalists may be affiliated with a publication or outlet provided the submitted work and content rights remain their own.
-Only individual applicants can apply (no organisations or agencies).
-An online application via the ANF application portal including links to platforms (social media, publication, or community network) and a short description of the intended audience/community.
-How to Apply
-Submit the pitch deck or video and the online application via the ANF portal before 25 September at 6:00 PM GMT. Applications are reviewed on a rolling basis; early submission is recommended. Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide
@@ -578,59 +637,6 @@ Students in science journalism, journalism, media studies, science communication
 Those carrying out research and teaching in journalism, media studies or science communication may also apply. They must have a proven track record in the media as authors or producers. Examples of work will be requested.
 How to apply
 Applications must be submitted through the online application form. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/fault-lines-reporting-fund/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings Fault Lines Reporting Fund
-Organisation: International Women s Media Foundation
-
-Status: Open
-Type: Grant
-
-Theme: Freedom of expression
-
-Funding Size: USD 2,500–USD 10,000
-Deadline: Ongoing
-
-Eligibility: USA journalists writing about discrimination
-Target Region: USA
-Application Language: English
-The IWMF s Fault Lines Reporting Fund supports journalists reporting on the forces driving racism, antisemitism, Islamophobia, misogyny, and other forms of intolerance promoting hate in the United States. Successful applications examine how false, divisive, and harmful narratives — such as stories that promote or normalise hate, discrimination, and the dehumanisation of individuals and communities — take hold, including what is fuelling them, where they are most pronounced, the scope of their impact, and where individuals and communities
-
---- relevant lines ---
- are making real progress in combating these hate-based agendas. The three-year programme provides grants to staff and freelance journalists planning well-researched, investigative, and evidence-based reporting within the United States. Grant funds may be used to cover travel, logistics, security, insurance, and other reporting-related expenses.
-Eligibility
-The applicant s primary profession must be journalism; applications will be accepted from freelance, staff, or content-based journalists.
-A completed application in English (reporting itself may be conducted in any language).
-A well-developed story pitch demonstrating investigative merit, originality, reach, potential impact, and need for funding.
-Grantees must publish in a U.S. outlet within one year of receiving a grant and must credit the IWMF.
-How to Apply
-Submit the application through the IWMF Submittable portal on a rolling basis; there is no fixed closing date for the current programme cycle. Larger awards are considered on a case-by-case basis. Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

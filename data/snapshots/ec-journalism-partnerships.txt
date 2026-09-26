@@ -1,6 +1,6 @@
 SOURCE: European Commission — Journalism Partnerships (CREA)
 URL: https://digital-strategy.ec.europa.eu/en/policies/funding-news-media-sector
-FETCHED: 2026-09-23T03:40:40.971Z
+FETCHED: 2026-09-26T03:39:55.896Z
 TITLE: EU funding opportunities for the news media sector | Shaping Europe’s digital future
 
 === MAIN PAGE ===

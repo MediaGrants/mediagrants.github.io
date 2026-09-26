@@ -1,6 +1,6 @@
 SOURCE: UNESCO IPDC
 URL: https://www.unesco.org/en/international-programme-development-communication
-FETCHED: 2026-09-23T03:40:45.079Z
+FETCHED: 2026-09-26T03:39:57.642Z
 TITLE: International Programme for the Development of Communication | UNESCO
 
 === MAIN PAGE ===
@@ -461,8 +461,8 @@ Opens in a new window Opens in a new window Opens in a new window Opens in a new
 16 December 2026
 15 December 2026
 3 December 2026 - 4 December 2026
+4 October 2026
 21 September 2026
 21 September 2026
 21 September 2026
-17 September 2026
 Fellowships
