@@ -1,6 +1,6 @@
 {
-  "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-25T04:21:35.000Z",
+  "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json \u2014 an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
+  "generatedAt": "2026-09-26T04:24:01.000Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -47,8 +47,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 4,
+      "lastSeen": "2026-09-26",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -67,14 +67,14 @@
     {
       "name": "International Journalists' Programmes (IJP)",
       "url": "https://ijp.org/en/programmes/",
-      "why": "Runs recurring German-Northern European and German-British (Weidenfeld) journalist exchange fellowships, each with a €3,800 scholarship.",
+      "why": "Runs recurring German-Northern European and German-British (Weidenfeld) journalist exchange fellowships, each with a \u20ac3,800 scholarship.",
       "seenAt": [
         "gfmd-fellowships",
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-26",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -86,8 +86,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-26",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -139,9 +139,9 @@
       "status": "new"
     },
     {
-      "name": "Fundación Avina",
+      "name": "Fundaci\u00f3n Avina",
       "url": "https://www.avina.net/",
-      "why": "Latin American foundation that co-funds Fundación Gabo's investigative-journalism grants on sustainable-development themes.",
+      "why": "Latin American foundation that co-funds Fundaci\u00f3n Gabo's investigative-journalism grants on sustainable-development themes.",
       "seenAt": [
         "fundacion-gabo"
       ],
@@ -175,7 +175,7 @@
       "status": "new"
     },
     {
-      "name": "Reflecta Fördermittelkompass",
+      "name": "Reflecta F\u00f6rdermittelkompass",
       "url": "https://foerdermittelkompass.reflecta.org/",
       "why": "A German funding database that aggregates media/journalism grant and scholarship listings not otherwise indexed by the existing aggregator sources.",
       "seenAt": [
@@ -207,8 +207,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-26",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -249,9 +249,9 @@
       "status": "new"
     },
     {
-      "name": "The Fix Media Foundation — Technology Support Fund",
+      "name": "The Fix Media Foundation \u2014 Technology Support Fund",
       "url": "https://www.thefix.foundation/",
-      "why": "Runs an equipment grant scheme replacing lost or outdated gear for journalists working in frontline or high-risk areas in Ukraine/Eastern Europe. Note: a separate URL from the already-tracked 'thefix.media' source (The Fix media innovation programmes) — may be a related but distinct foundation entity worth checking.",
+      "why": "Runs an equipment grant scheme replacing lost or outdated gear for journalists working in frontline or high-risk areas in Ukraine/Eastern Europe. Note: a separate URL from the already-tracked 'thefix.media' source (The Fix media innovation programmes) \u2014 may be a related but distinct foundation entity worth checking.",
       "seenAt": [
         "ecpmf"
       ],
@@ -377,7 +377,7 @@
     {
       "name": "European Media and Information Fund (EMIF)",
       "url": "https://gulbenkian.pt/emifund/grants/",
-      "why": "Gulbenkian-hosted fund running open calls for media literacy, disinformation research and journalism-adjacent projects across Europe; surfaced while researching the EEA Grants Romania disinformation call. Not verified in depth — flagged for a future dedicated check.",
+      "why": "Gulbenkian-hosted fund running open calls for media literacy, disinformation research and journalism-adjacent projects across Europe; surfaced while researching the EEA Grants Romania disinformation call. Not verified in depth \u2014 flagged for a future dedicated check.",
       "seenAt": [
         "eea-grants"
       ],
@@ -413,7 +413,7 @@
     {
       "name": "Climate Justice Resilience Fund (CJRF)",
       "url": "https://www.cjrfund.org/",
-      "why": "Explicitly funds documentation, journalism, oral histories and visual storytelling as part of its climate-justice grantmaking to frontline communities — a much closer match to the 'climate-justice-resilience' source's own name and stated purpose than the currently configured ClimateWorks Foundation URL, which is invitation-only and unrelated to media. Worth tracking as its own source.",
+      "why": "Explicitly funds documentation, journalism, oral histories and visual storytelling as part of its climate-justice grantmaking to frontline communities \u2014 a much closer match to the 'climate-justice-resilience' source's own name and stated purpose than the currently configured ClimateWorks Foundation URL, which is invitation-only and unrelated to media. Worth tracking as its own source.",
       "seenAt": [
         "climate-justice-resilience"
       ],
@@ -423,7 +423,7 @@
       "status": "new"
     },
     {
-      "name": "FRIDA — The Young Feminist Fund",
+      "name": "FRIDA \u2014 The Young Feminist Fund",
       "url": "https://youngfeministfund.org/",
       "why": "Global feminist fund listed on Global Fund for Women's own funder-resources page; young-feminist-led groups doing storytelling/media work could plausibly fit the adjacent track.",
       "seenAt": [
@@ -437,13 +437,15 @@
     {
       "name": "Equality Fund",
       "url": "https://equalityfund.ca/",
-      "why": "Global feminist funder listed on Global Fund for Women's funder-resources page; worth checking for media/communications-eligible streams.",
+      "why": "Global feminist funder now confirmed (via GFMD) to run its own Global Journalism Fellowship 2026-2027 (CAD 4,000, five fellows from ODA-recipient countries), in partnership with CJFE and AWiM; already a tracked candidate (previously seenAt global-fund-for-women) -- add gfmd-fellowships to its seenAt list rather than duplicating.",
       "seenAt": [
+        "gfmd-fellowships",
+        "gfmd-fundings",
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-26",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -497,7 +499,7 @@
     {
       "name": "UN Trust Fund to End Violence against Women and Girls (UNTF)",
       "url": "https://untf.unwomen.org/en",
-      "why": "The actual grant-making body behind UN Women's largest civil-society calls for proposals (four-year core/flexible grants, up to ~USD 20M per round across two cohorts) — a more useful source URL than sources.json's current un-women procurement page, which is for vendor procurement, not grants.",
+      "why": "The actual grant-making body behind UN Women's largest civil-society calls for proposals (four-year core/flexible grants, up to ~USD 20M per round across two cohorts) \u2014 a more useful source URL than sources.json's current un-women procurement page, which is for vendor procurement, not grants.",
       "seenAt": [
         "un-women"
       ],
@@ -545,7 +547,7 @@
     {
       "name": "Digital Whistleblowing Fund (Hermes Center / Renewable Freedom Foundation)",
       "url": "https://www.whistleblowingfund.org/",
-      "why": "Micro-grants of up to €3,000 plus IT/advisory support for investigative-journalism groups and human-rights grassroots organisations starting secure digital whistleblowing initiatives, requiring endorsement by a partner such as ICIJ, OCCRP or Transparency International.",
+      "why": "Micro-grants of up to \u20ac3,000 plus IT/advisory support for investigative-journalism groups and human-rights grassroots organisations starting secure digital whistleblowing initiatives, requiring endorsement by a partner such as ICIJ, OCCRP or Transparency International.",
       "seenAt": [
         "gijn-grants"
       ],
@@ -554,6 +556,78 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "Listed on GIJN's grants & fellowships resource page (surfaced via WebSearch since gijn.org returned HTTP 403 today); most corroborating search results date to ~2020, so current-cycle status is uncertain. Read September 2026."
+    },
+    {
+      "name": "CTRL+J",
+      "url": "https://www.ctrl-j.info/",
+      "why": "Runs Luminate-backed microgrants (US$1,000-5,000) for small convenings on journalism and technology, plus a separate Research Hub for Global South researchers; not yet in sources.json.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "CIJI \u2014 Collaborative and Investigative Journalism Initiative",
+      "url": "https://www.ciji.info/",
+      "why": "EU-funded consortium (partner: Free Press Unlimited) coordinating cross-border investigative journalism grant calls, e.g. the 2026 'cross-border investigations on the impact of AI' grants; may run further calls independently of Free Press Unlimited's own listing.",
+      "seenAt": [
+        "free-press-unlimited"
+      ],
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "E3J \u2014 European Excellence Exchange in Journalism",
+      "url": "https://www.e3j.eu/",
+      "why": "EU-funded project (partner: Free Press Unlimited) that has run small production-grant calls (e.g. EUR 10,000 grants for cross-border stories on climate, migration and public health); last known round closed September 2024, current cycle status unconfirmed.",
+      "seenAt": [
+        "free-press-unlimited"
+      ],
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Sudan Media Forum (SMF)",
+      "url": "https://sudanmediaforum.org/",
+      "why": "Coalition of independent Sudanese media outlets that jointly launches funding calls with Free Press Unlimited (e.g. 2026 content-production retainers of EUR 1,000 each for 60 individual journalists); worth watching as a co-administering body even though it is not itself the primary funder.",
+      "seenAt": [
+        "free-press-unlimited"
+      ],
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Mongabay",
+      "url": "https://www.mongabay.org/",
+      "why": "Environmental-journalism nonprofit that co-funds One World Media's Amazon Film Grant (up to $5,000 for documentaries on the Amazon rainforest ecosystem) and may run its own independent journalism-funding programmes.",
+      "seenAt": [
+        "one-world-media"
+      ],
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "CITE (Centre for Innovation and Technology, Zimbabwe)",
+      "url": "https://cite.org.zw/cite-investigative-journalism-grants/",
+      "why": "Runs an annual investigative-journalism grants call (up to US$800 per story) for journalists reporting on Zimbabwean communities.",
+      "seenAt": [
+        "civitates"
+      ],
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
