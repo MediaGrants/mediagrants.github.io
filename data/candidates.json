@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-27T04:23:07.349Z",
+  "generatedAt": "2026-09-27T09:00:00.000Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -664,6 +664,32 @@
       "lastSeen": "2026-09-27",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Media Foundation for West Africa (MFWA)",
+      "url": "https://mfwa.org/",
+      "why": "West African press-freedom NGO that just launched a GHS 544,000 Legal Support Fund giving journalists and media organisations in Ghana legal representation against SLAPPs and other litigation, under its EU-funded Africa Media Integrity and Resilience Programme (also active in Ethiopia and the Central African Republic).",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "IFEX (ifex.org) and MFWA's own site (mfwa.org/issues-in-focus) announcing the Legal Support Fund on 17 September 2026, corroborated by allAfrica, Ghana Business News and MyJoyOnline coverage the same week. Read September 2026."
+    },
+    {
+      "name": "Fonds Bijzondere Journalistieke Projecten (Fonds BJP)",
+      "url": "https://fondsbjp.nl/",
+      "why": "Dutch independent foundation (est. 1990, partly government-supported) that grants direct subsidies to journalists and authors for articles, longreads, journalistic books, documentaries and podcasts published or broadcast in Dutch, including a recurring grant round specifically for journalists in the Caribbean part of the Kingdom.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "Curacao Chronicle (curacaochronicle.com) report on the fund's second 2026 Caribbean grant round, corroborated by the fund's own site fondsbjp.nl. Read September 2026."
     }
   ]
 }
