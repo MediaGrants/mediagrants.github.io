@@ -1,6 +1,6 @@
 {
-  "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json \u2014 an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-26T04:24:01.000Z",
+  "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
+  "generatedAt": "2026-09-27T04:23:07.349Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -67,14 +67,14 @@
     {
       "name": "International Journalists' Programmes (IJP)",
       "url": "https://ijp.org/en/programmes/",
-      "why": "Runs recurring German-Northern European and German-British (Weidenfeld) journalist exchange fellowships, each with a \u20ac3,800 scholarship.",
+      "why": "Runs recurring German-Northern European and German-British (Weidenfeld) journalist exchange fellowships, each with a €3,800 scholarship.",
       "seenAt": [
         "gfmd-fellowships",
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-26",
-      "timesSeen": 6,
+      "lastSeen": "2026-09-27",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -139,9 +139,9 @@
       "status": "new"
     },
     {
-      "name": "Fundaci\u00f3n Avina",
+      "name": "Fundación Avina",
       "url": "https://www.avina.net/",
-      "why": "Latin American foundation that co-funds Fundaci\u00f3n Gabo's investigative-journalism grants on sustainable-development themes.",
+      "why": "Latin American foundation that co-funds Fundación Gabo's investigative-journalism grants on sustainable-development themes.",
       "seenAt": [
         "fundacion-gabo"
       ],
@@ -175,7 +175,7 @@
       "status": "new"
     },
     {
-      "name": "Reflecta F\u00f6rdermittelkompass",
+      "name": "Reflecta Fördermittelkompass",
       "url": "https://foerdermittelkompass.reflecta.org/",
       "why": "A German funding database that aggregates media/journalism grant and scholarship listings not otherwise indexed by the existing aggregator sources.",
       "seenAt": [
@@ -249,9 +249,9 @@
       "status": "new"
     },
     {
-      "name": "The Fix Media Foundation \u2014 Technology Support Fund",
+      "name": "The Fix Media Foundation — Technology Support Fund",
       "url": "https://www.thefix.foundation/",
-      "why": "Runs an equipment grant scheme replacing lost or outdated gear for journalists working in frontline or high-risk areas in Ukraine/Eastern Europe. Note: a separate URL from the already-tracked 'thefix.media' source (The Fix media innovation programmes) \u2014 may be a related but distinct foundation entity worth checking.",
+      "why": "Runs an equipment grant scheme replacing lost or outdated gear for journalists working in frontline or high-risk areas in Ukraine/Eastern Europe. Note: a separate URL from the already-tracked 'thefix.media' source (The Fix media innovation programmes) — may be a related but distinct foundation entity worth checking.",
       "seenAt": [
         "ecpmf"
       ],
@@ -377,7 +377,7 @@
     {
       "name": "European Media and Information Fund (EMIF)",
       "url": "https://gulbenkian.pt/emifund/grants/",
-      "why": "Gulbenkian-hosted fund running open calls for media literacy, disinformation research and journalism-adjacent projects across Europe; surfaced while researching the EEA Grants Romania disinformation call. Not verified in depth \u2014 flagged for a future dedicated check.",
+      "why": "Gulbenkian-hosted fund running open calls for media literacy, disinformation research and journalism-adjacent projects across Europe; surfaced while researching the EEA Grants Romania disinformation call. Not verified in depth — flagged for a future dedicated check.",
       "seenAt": [
         "eea-grants"
       ],
@@ -413,7 +413,7 @@
     {
       "name": "Climate Justice Resilience Fund (CJRF)",
       "url": "https://www.cjrfund.org/",
-      "why": "Explicitly funds documentation, journalism, oral histories and visual storytelling as part of its climate-justice grantmaking to frontline communities \u2014 a much closer match to the 'climate-justice-resilience' source's own name and stated purpose than the currently configured ClimateWorks Foundation URL, which is invitation-only and unrelated to media. Worth tracking as its own source.",
+      "why": "Explicitly funds documentation, journalism, oral histories and visual storytelling as part of its climate-justice grantmaking to frontline communities — a much closer match to the 'climate-justice-resilience' source's own name and stated purpose than the currently configured ClimateWorks Foundation URL, which is invitation-only and unrelated to media. Worth tracking as its own source.",
       "seenAt": [
         "climate-justice-resilience"
       ],
@@ -423,7 +423,7 @@
       "status": "new"
     },
     {
-      "name": "FRIDA \u2014 The Young Feminist Fund",
+      "name": "FRIDA — The Young Feminist Fund",
       "url": "https://youngfeministfund.org/",
       "why": "Global feminist fund listed on Global Fund for Women's own funder-resources page; young-feminist-led groups doing storytelling/media work could plausibly fit the adjacent track.",
       "seenAt": [
@@ -444,8 +444,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-26",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-27",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -499,7 +499,7 @@
     {
       "name": "UN Trust Fund to End Violence against Women and Girls (UNTF)",
       "url": "https://untf.unwomen.org/en",
-      "why": "The actual grant-making body behind UN Women's largest civil-society calls for proposals (four-year core/flexible grants, up to ~USD 20M per round across two cohorts) \u2014 a more useful source URL than sources.json's current un-women procurement page, which is for vendor procurement, not grants.",
+      "why": "The actual grant-making body behind UN Women's largest civil-society calls for proposals (four-year core/flexible grants, up to ~USD 20M per round across two cohorts) — a more useful source URL than sources.json's current un-women procurement page, which is for vendor procurement, not grants.",
       "seenAt": [
         "un-women"
       ],
@@ -540,14 +540,14 @@
         "uk-embassy-belgrade"
       ],
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-24",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-27",
+      "timesSeen": 2,
       "status": "new"
     },
     {
       "name": "Digital Whistleblowing Fund (Hermes Center / Renewable Freedom Foundation)",
       "url": "https://www.whistleblowingfund.org/",
-      "why": "Micro-grants of up to \u20ac3,000 plus IT/advisory support for investigative-journalism groups and human-rights grassroots organisations starting secure digital whistleblowing initiatives, requiring endorsement by a partner such as ICIJ, OCCRP or Transparency International.",
+      "why": "Micro-grants of up to €3,000 plus IT/advisory support for investigative-journalism groups and human-rights grassroots organisations starting secure digital whistleblowing initiatives, requiring endorsement by a partner such as ICIJ, OCCRP or Transparency International.",
       "seenAt": [
         "gijn-grants"
       ],
@@ -565,12 +565,12 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-26",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-27",
+      "timesSeen": 2,
       "status": "new"
     },
     {
-      "name": "CIJI \u2014 Collaborative and Investigative Journalism Initiative",
+      "name": "CIJI — Collaborative and Investigative Journalism Initiative",
       "url": "https://www.ciji.info/",
       "why": "EU-funded consortium (partner: Free Press Unlimited) coordinating cross-border investigative journalism grant calls, e.g. the 2026 'cross-border investigations on the impact of AI' grants; may run further calls independently of Free Press Unlimited's own listing.",
       "seenAt": [
@@ -582,7 +582,7 @@
       "status": "new"
     },
     {
-      "name": "E3J \u2014 European Excellence Exchange in Journalism",
+      "name": "E3J — European Excellence Exchange in Journalism",
       "url": "https://www.e3j.eu/",
       "why": "EU-funded project (partner: Free Press Unlimited) that has run small production-grant calls (e.g. EUR 10,000 grants for cross-border stories on climate, migration and public health); last known round closed September 2024, current cycle status unconfirmed.",
       "seenAt": [
@@ -626,6 +626,42 @@
       ],
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-09-26",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Minor Foundation for Major Challenges (MFMC)",
+      "url": "https://minor-foundation.no/",
+      "why": "Norwegian foundation funding climate-communication projects specifically (public opinion/attitude change/information campaigns), profiled on the Terra Viva Grants directory; recurring, multi-round-per-year funder with a genuine media/documentation angle.",
+      "seenAt": [
+        "terra-viva-grants"
+      ],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Slovak Agency for International Development Cooperation (SlovakAid) — Small Grants Serbia",
+      "url": "https://slovakaid.sk/en/",
+      "why": "Bilateral-embassy-style small-grants programme (up to €10,000, civil society/governance themes) surfaced while researching UK Embassy Belgrade funding, similar in shape to the AU/US/UK embassy sources already tracked but not itself in the registry.",
+      "seenAt": [
+        "uk-embassy-belgrade"
+      ],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU Citizens, Equality, Rights and Values Programme (CERV)",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/cerv",
+      "why": "A distinct EU funding programme from Creative Europe; its CERV-2026-CITIZENS-CIV-ENGAGEMENT-DISINFOFIMI topic funds citizen-engagement work countering disinformation/FIMI (EUR 10M sub-budget), though its own eligible-applicant language does not clearly name news media as a target group — worth judging as an adjacent-track source on its own terms in a future sweep.",
+      "seenAt": [
+        "eu-funding-portal"
+      ],
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
       "timesSeen": 1,
       "status": "new"
     }
