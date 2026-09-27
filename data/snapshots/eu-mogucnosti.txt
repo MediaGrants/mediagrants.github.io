@@ -1,6 +1,6 @@
 SOURCE: EU mogućnosti — donor calls in Serbia
 URL: https://eumogucnosti.rs/
-FETCHED: 2026-09-24T03:40:50.444Z
+FETCHED: 2026-09-27T03:40:52.014Z
 TITLE: EU mogućnosti
 
 === MAIN PAGE ===
@@ -45,6 +45,22 @@ FOTO
 
 Search for:
 
+Nominacije za sedam najugroženijih lokaliteta kulturnog nasleđa u Evropi
+
+Civilno društvo
+Kultura
+Lokalni razvoj
+
+ERC grantovi do 25.000 evra za regionalne projekte na Zapadnom Balkanu
+
+Biznis
+Biznis i inovacije
+Civilno društvo
+Kultura
+Lokalni razvoj i teritorijalna saradnja
+Obrazovanje
+Obrazovanje, mladi i sport
+
 RESCALE: EU podrška malim i srednjim preduzećima iz južne i istočne Srbije
 
 Biznis
@@ -69,26 +85,10 @@ Biznis
 Biznis i inovacije
 Zelena tranzicija
 
-MOVE grantovi: do 3.000 evra za mobilnost pojedinaca na Zapadnom Balkanu
-
-Civilno društvo
-Kultura, mediji i civilno društvo
-Lokalni razvoj
-Obrazovanje, mladi i sport
-Zelena tranzicija
-
-Pokreni se za posao: 5.000 evra za žene i mlade u biznisu i poljoprivredi
-
-Biznis
-Biznis i inovacije
-Inovacije
-Poljoprivreda
-
-Erasmus za mlade preduzetnike: I
+Erasmus za mlade preduzetni
 
 --- relevant lines ---
 22/09/2026 - 08/10/2026
-24/09/2026
 29/09/2026 - 02/10/2026
 30/09/2026
 23/09/2026
@@ -151,6 +151,65 @@ EU programi podrške: Info sesija o CERV pozivu Uključivanje i učešće građa
 Програм може комбиновати грант подршку до 2,5 милиона евра и инвестициону компоненту кроз EIC Fund.
 Copyright © EU Delegacija u Srbiji 2026. Sva prava zadržana.
 
+=== https://eumogucnosti.rs/erc-grantovi-do-25-000-evra-za-regionalne-projekte-na-zapadnom-balkanu/ ===
+Skip to content
+
+X Facebook YouTube Instagram
+
+Kontakt
+SR
+
+Search for:
+
+POČETNA
+O NAMA
+SEKTORI
+MOGUĆNOSTI
+VESTI I PRIČE
+DOGAĐAJI ENM 2026
+ARHIVA ENM 2024
+ARHIVA ENM 2023
+
+MEDIA CENTAR PODKAST
+PUBLIKACIJE
+VIDEO
+FOTO
+
+EU u Srbiji
+Evropska kuća
+
+POČETNA
+O NAMA
+SEKTORI
+MOGUĆNOSTI
+VESTI I PRIČE
+DOGAĐAJI ARHIVA ENM 2023
+
+MEDIA CENTAR PODKAST
+PUBLIKACIJE
+VIDEO
+FOTO
+
+Search for:
+
+ERC grantovi do 25.000 evra za regionalne projekte na Zapadnom Balkanu
+
+Konkurs je: OTVOREN
+
+Rok za prijavu: 26.10.2026. godine u 13:59
+
+Finansijska podrška: od 20.000 do 25.000 EUR po projektu
+
+Oblast: regionalna saradnja, kultura, obrazovanje i nauka, održivi razvoj
+
+Konkurs je za: neprofitne organizacije i udruženja u regionalnom partnerstvu
+
+Fond za Zapadni Balkan – Western Balkans Fund (WBF) otvorio je drugo izdanje poziva Empowering Regional Cooperation – ERC , namenjenog regionalnim projektima koje zajednički sprovode organizacije iz najmanje četiri ugovorne strane Fonda.
+
+Poziv podržava veće regionalne inicijative koje doprinose saradnji organizacija civilnog društva, procesu evropskih integracija, izgradnji poverenja, pomirenju i dobrosusedskim odnosima na Zapadnom Balkanu.
+
+ERC grant šema sufinansirana j
+
 === https://eumogucnosti.rs/glasno-o-pravima-eu-grantovi-za-organizacije-i-medije/ ===
 Skip to content
 
@@ -207,65 +266,6 @@ Konkurs je za: organizacije civilnog društva i nezavisne medije
 U okviru projekta „Glas(no) o pravima“ otvoren je poziv za finansijsku podršku organizacijama civilnog društva i medijima koji žele da učestvuju u promeni načina na koji se govori o ljudskim pravima i kako se ona razumeju u lokalnim zajednicama.
 
 Rezultati istraživanja sprovedenog u okviru projekta „Glas(no) o pravima“ ukazuju da postoji jaz između toga kako organizacije civilnog društva komuniciraju o ljudskim pravima, a kako građani to razumeju. K roz ovaj Poziv biće podržane ideje i projekti koji mogu da doprinesu jasnijoj komunikaciji i boljem razumevanju ljudskih pra
-
-=== https://eumogucnosti.rs/move-grantovi-do-3-000-evra-za-mobilnost-pojedinaca-na-zapadnom-balkanu/ ===
-Skip to content
-
-X Facebook YouTube Instagram
-
-Kontakt
-SR
-
-Search for:
-
-POČETNA
-O NAMA
-SEKTORI
-MOGUĆNOSTI
-VESTI I PRIČE
-DOGAĐAJI ENM 2026
-ARHIVA ENM 2024
-ARHIVA ENM 2023
-
-MEDIA CENTAR PODKAST
-PUBLIKACIJE
-VIDEO
-FOTO
-
-EU u Srbiji
-Evropska kuća
-
-POČETNA
-O NAMA
-SEKTORI
-MOGUĆNOSTI
-VESTI I PRIČE
-DOGAĐAJI ARHIVA ENM 2023
-
-MEDIA CENTAR PODKAST
-PUBLIKACIJE
-VIDEO
-FOTO
-
-Search for:
-
-MOVE grantovi: do 3.000 evra za mobilnost pojedinaca na Zapadnom Balkanu
-
-Konkurs je: OTVOREN
-
-Rok za prijavu: 5. oktobar 2026
-
-Finansijska podrška: od 500 do 3.000 EUR, do 100% prihvatljivih troškova
-
-Oblast: kulturna saradnja, obrazovanje i naučna razmena, održivi razvoj
-
-Konkurs je za: punoletne pojedince sa Zapadnog Balkana
-
-Fond za Zapadni Balkan otvorio je sedmi poziv za MOVE grantove , namenjen pojedincima koji žele da kroz kratkoročnu mobilnost unaprede svoja znanja, veštine i profesionalno iskustvo i uspostave saradnju sa partnerima u drugim delovima Zapadnog Balkana.
-
-Za pojedinačnu mobilnost može se dobiti od 500 do 3.000 evra , a WBF može finansirati do 100% ukupnih prihvatljivih troškova . Ukupan budžet sedmog poziva iznosi 40.000 evra .
-
-Prijave su otvorene do 5. oktobra 2026. godine u 12:59 časova p
 
 === https://eumogucnosti.rs/evropska-fondacija-za-mlade-eyf-kako-organizacije-iz-srbije-mogu-do-grantova-saveta-evrope/ ===
 Skip to content

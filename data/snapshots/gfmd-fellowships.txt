@@ -1,6 +1,6 @@
 SOURCE: GFMD — Fellowships archive
 URL: https://gfmd.info/type_fund/fellowship/feed/
-FETCHED: 2026-09-26T03:39:51.811Z
+FETCHED: 2026-09-27T03:40:48.693Z
 TITLE: (feed)
 
 === FEED ITEMS ===
