@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-27T09:00:00.000Z",
+  "generatedAt": "2026-09-28T04:27:37.814Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -47,8 +47,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-26",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -60,8 +60,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -73,8 +73,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-27",
-      "timesSeen": 7,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -86,8 +86,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-26",
-      "timesSeen": 6,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -98,8 +98,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -110,8 +110,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -122,8 +122,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -207,8 +207,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
-      "timesSeen": 6,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -232,8 +232,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 6,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -244,8 +244,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -256,8 +256,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -370,8 +370,8 @@
         "ejc-funding"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-25",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -444,8 +444,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-27",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -565,8 +565,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27",
-      "timesSeen": 2,
+      "lastSeen": "2026-09-28",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -690,6 +690,18 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "Curacao Chronicle (curacaochronicle.com) report on the fund's second 2026 Caribbean grant round, corroborated by the fund's own site fondsbjp.nl. Read September 2026."
+    },
+    {
+      "name": "Official Development Assistance (ODA) Germany Grants",
+      "url": null,
+      "why": "Listed as a distinct funding item on EJC's funding roundup page (status: Applications closed), a separate funder from EJC/IJ4EU with no tracked source of its own; no own-site URL was given in the snapshot.",
+      "seenAt": [
+        "ejc-funding"
+      ],
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
