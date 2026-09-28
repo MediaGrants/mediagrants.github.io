@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe — Scholarships
 URL: https://www.journalismfund.eu/scholarships
-FETCHED: 2026-09-25T03:40:24.904Z
+FETCHED: 2026-09-28T03:42:53.971Z
 TITLE: Scholarships | Journalismfund Europe
 
 === MAIN PAGE ===
@@ -81,7 +81,7 @@ Up to €1,250 (when you received an Environmental Investigative Journalism gran
 --- relevant lines ---
 ts will be refunded after we have received proof of expenses, photos from the event and a narrative report about the event.
 How to apply?
-Please send your proposal mentioning the date, name and place of the event, as well as expected costs, via email to the project coordinators or to scholarships@journalismfund.eu
+Please send your proposal mentioning the date, name and place of the event, as well as expected costs, emailing your project coordinators.
 Proposals are reviewed on a rolling basis. Applicants will receive a decision within two weeks of receiving the proposal.
 scholarships@journalismfund.eu
 Grantees of ECB and Earth
