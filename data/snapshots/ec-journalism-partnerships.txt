@@ -1,6 +1,6 @@
 SOURCE: European Commission — Journalism Partnerships (CREA)
 URL: https://digital-strategy.ec.europa.eu/en/policies/funding-news-media-sector
-FETCHED: 2026-09-26T03:39:55.896Z
+FETCHED: 2026-09-29T03:42:46.833Z
 TITLE: EU funding opportunities for the news media sector | Shaping Europe’s digital future
 
 === MAIN PAGE ===
@@ -160,15 +160,15 @@ AI Office
 Възможности за финансиране от ЕС за сектора на новинарските медии
 
 Close Information notification
-Това е машинен превод, предоставен от услугата
-eTranslation на Европейската комисия, за да ви помогне да разберете тази страница.
-Моля,
-прочетете условията за използване . За да прочетете оригиналната версия,
-вижте страницата на изходния език .
+This is a machine translation provided by the European
+Commission's eTranslation service to help you understand this page.
+Please
+read the conditions of use . To read the original version,
+access the source page .
 
 Европейската комисия има за цел да подкрепя проекти, които насърчават свободна, разнообразна и плуралистична медийна среда и/или се справят със структурните предизвикателства пред медийния сектор.
 
-Тази
+Тази страница представя безвъзмездн
 
 --- relevant lines ---
 Свободата и плурализмът на медиите са основни принципи, залегнали в Хартата на основните права на Европейския съюз. Инструментите за финансиране включват пилотни проекти и подготвителни действия, а от 2021 г. — чрез програмата „Творческа Европа“.
@@ -244,13 +244,13 @@ Oportunidades de financiación de la UE para el sector de los medios de comunica
 Oportunidades de financiación de la UE para el sector de los medios de comunicación
 
 Close Information notification
-Esto es una traducción automática facilitada por el servicio eTranslation
-de la Comisión Europea para ayudarle a comprender esta página.
-Por favor,
-lea las condiciones de uso . Para leer la versión original,
-acceda a la página fuente .
+This is a machine translation provided by the European
+Commission's eTranslation service to help you understand this page.
+Please
+read the conditions of use . To read the original version,
+access the source page .
 
-La Comisión Europea tiene por objeto apoyar proyectos que promuevan un entorno mediático libre, diverso y plural o que abor
+La Comisión Europea tiene por objeto apoyar proyectos que promuevan un entorno mediático libre, diverso y plural o que aborden los retos estructu
 
 --- relevant lines ---
 La libertad y el pluralismo de los medios de comunicación son principios esenciales consagrados en la Carta de los Derechos Fundamentales de la Unión Europea. Los instrumentos de financiación incluyen proyectos piloto y acciones preparatorias, y a partir de 2021 a través del programa Europa Creativa.
@@ -326,18 +326,18 @@ Možnosti financování EU pro odvětví zpravodajských médií
 Možnosti financování EU pro odvětví zpravodajských médií
 
 Close Information notification
-Toto je strojový překlad vygenerovaný službou eTranslation provozovanou Evropskou komisí.
-Jeho účelem je pomoci vám porozumět obsahu této stránky.
-Přečtěte si
-prosím podmínky . Text v původním jazyce
-je k dispozici na stránce se zdrojovým textem .
+This is a machine translation provided by the European
+Commission's eTranslation service to help you understand this page.
+Please
+read the conditions of use . To read the original version,
+access the source page .
 
 Cílem Evropské komise je podporovat projekty, které prosazují svobodné, rozmanité a pluralitní mediální prostředí a/nebo řeší strukturální problémy mediálních odvětví.
 
-Tato stránka představuje granty EU pro odvětví z
+Tato stránka představuje granty EU pro odvětví zpravodajských médií ve třech hlavn
 
 --- relevant lines ---
-pravodajských médií ve třech hlavních kategoriích: „svoboda a pluralita sdělovacích prostředků“, „spolupráce a inovace“ a „zapojení občanů a veřejná sféra“. V příslušných případech Komise do podepsaných grantů začlení doložku o nezávislosti, aby příjemci působili s plnou redakční nezávislostí.
+ích kategoriích: „svoboda a pluralita sdělovacích prostředků“, „spolupráce a inovace“ a „zapojení občanů a veřejná sféra“. V příslušných případech Komise do podepsaných grantů začlení doložku o nezávislosti, aby příjemci působili s plnou redakční nezávislostí.
 Tyto výzvy k předkládání návrhů jsou rovněž k dispozici v příručce pro financování CulturEU . Informace o podpoře, kterou Evropská komise poskytuje odvětví zpravodajských médií nad rámec grantů, naleznete na stránce „News Initiative“.
 Svoboda a pluralita sdělovacích prostředků jsou základními zásadami zakotvenými v Listině základních práv Evropské unie. Nástroje financování zahrnují pilotní projekty a přípravné akce a od roku 2021 prostřednictvím programu Kreativní Evropa.
 Tato výzva k předkládání návrhů podpoří jeden projekt částkou 3 miliony EUR s cílem poskytnout základní finanční prostředky sdělovacím prostředkům v exilu v EU z Ukrajiny, Ruska a Běloruska. Lhůta 28. května 2026
@@ -353,7 +353,7 @@ Výzva k předkládání návrhů v rámci programu Horizont Evropa na téma „
 rámci programu Horizont Evropa na téma „určení řešení zaměřených na uživatele na podporu svobody zpravodajských médií“ (lhůta 23. září 2027)
 Více informací je k dispozici během informačního dne klastru 2 programu Horizont Evropa dne 26. března 2026.
 Partnerství v oblasti žurnalistiky - spolupráce (2026)
-V návaznosti na výzvu k předkládání návrhů v roce 2022 jedno celoevropské konsorcium zřídí a zavede bezpečný a důvěryhodný datový prostor, který um…
+V návaznosti na výzvu k předkládání návrhů v roce 2022 jedno celoevropské konsorcium zřídí a zavede bezpečný a důvěryhodný datový prostor, který umožní posílenou spolupráci založeno…
 
 === https://digital-strategy.ec.europa.eu/da/policies/funding-news-media-sector ===
 Skip to main content
@@ -410,15 +410,15 @@ EU-finansieringsmuligheder for nyhedsmediesektoren
 EU-finansieringsmuligheder for nyhedsmediesektoren
 
 Close Information notification
-Dette er en maskinoversættelse, der stilles til rådighed af Europa-
-Kommissionens eTranslationstjeneste for at hjælpe dig med at forstå denne side.
-Du bedes
-læse brugsbetingelserne . Du kan læse originalversionen
-på startsiden .
+This is a machine translation provided by the European
+Commission's eTranslation service to help you understand this page.
+Please
+read the conditions of use . To read the original version,
+access the source page .
 
 Europa-Kommissionen har til formål at støtte projekter, der fremmer et frit, mangfoldigt og pluralistisk mediemiljø og/eller tackler mediesektorernes strukturelle udfordringer.
 
-På denne side præsenteres EU-tilskud til nyhedsmediesektoren under tre hov
+På denne side præsenteres EU-tilskud til nyhedsmediesektoren under tre hovedkategorier: "
 
 --- relevant lines ---
 Mediefrihed og -pluralisme er væsentlige principper, der er nedfældet i Den Europæiske Unions charter om grundlæggende rettigheder. Finansieringsinstrumenterne omfatter pilotprojekter og forberedende foranstaltninger og fra 2021 gennem programmet Et Kreativt Europa.

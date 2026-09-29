@@ -1,69 +1,115 @@
 {
-  "generatedAt": "2026-09-28T03:42:59.818Z",
+  "generatedAt": "2026-09-29T03:42:57.519Z",
   "captured": {
     "ejc-funding": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
       "words": 1673,
       "pages": 5
     },
     "fij": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
       "words": 3203,
       "pages": 5
     },
     "gfmd-fellowships": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
       "words": 2995,
       "pages": 13
     },
     "gfmd-fundings": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
-      "words": 4388,
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 4404,
       "pages": 11
     },
     "ij4eu": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
       "words": 1292,
       "pages": 3
     },
     "ijnet-opportunities": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
       "words": 4276,
       "pages": 11
     },
     "iwmf": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
       "words": 2018,
       "pages": 5
     },
     "journalismfund": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
-      "words": 1901,
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 1948,
       "pages": 5
     },
     "pulitzer-center": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
       "words": 2413,
       "pages": 15
     },
-    "ecpmf": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
-      "words": 3356,
-      "pages": 9
-    },
-    "journalismfund-scholarships": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
-      "words": 1853,
+    "ec-journalism-partnerships": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 3022,
       "pages": 5
     },
-    "western-balkans-fund": {
-      "fetchedAt": "2026-09-28T03:42:59.819Z",
-      "words": 4618,
-      "pages": 9
+    "free-press-unlimited": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 629,
+      "pages": 2
+    },
+    "icnl": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 619,
+      "pages": 3
+    },
+    "journalismgrants": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 2123,
+      "pages": 5
+    },
+    "jx-fund": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 801,
+      "pages": 1
+    },
+    "mfrr": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 253,
+      "pages": 1
+    },
+    "ned": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 2261,
+      "pages": 5
+    },
+    "one-world-media": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 14,
+      "pages": 1
+    },
+    "open-information-partnership": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 195,
+      "pages": 1
+    },
+    "rory-peck": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 14,
+      "pages": 1
+    },
+    "unesco-ipdc": {
+      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "words": 1633,
+      "pages": 5
     }
   },
   "failed": {
     "earth-journalism": "HTTP 403",
-    "gijn-grants": "HTTP 403"
+    "gijn-grants": "HTTP 403",
+    "civitates": "HTTP 404",
+    "eed": "HTTP 404",
+    "fritt-ord": "HTTP 404",
+    "icfj": "HTTP 404",
+    "osf": "HTTP 404",
+    "unesco-gmdf": "HTTP 404"
   }
 }
