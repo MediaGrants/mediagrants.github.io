@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-09-29T04:24:16.575Z",
+  "generatedAt": "2026-09-30T04:24:22.593Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -11,8 +11,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 3,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -60,8 +60,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 7,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -73,8 +73,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 10,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -86,8 +86,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 9,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -98,8 +98,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 7,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -110,8 +110,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 7,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -232,8 +232,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 8,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -445,8 +445,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 5,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -611,11 +611,12 @@
       "url": "https://www.mongabay.org/",
       "why": "Environmental-journalism nonprofit that co-funds One World Media's Amazon Film Grant (up to $5,000 for documentaries on the Amazon rainforest ecosystem) and may run its own independent journalism-funding programmes.",
       "seenAt": [
-        "one-world-media"
+        "one-world-media",
+        "gijn-grants"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-26",
-      "timesSeen": 1,
+      "lastSeen": "2026-09-30",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -726,6 +727,42 @@
       ],
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "CORRECTIV (CORRECTIV.Exile)",
+      "url": "https://correctiv.org/en/exile/",
+      "why": "German investigative newsroom running a recurring, twice-yearly paid residency in Berlin for exiled journalists.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Nova Institute for Health",
+      "url": "https://novainstituteforhealth.org",
+      "why": "Funds a $60,000 annual Nova Media Fellowship for health journalism; grants.json previously recorded the funder under the shorthand name \"Nova Media\", now corrected.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Stanley Center for Peace and Security",
+      "url": "https://stanleycenter.org/",
+      "why": "Co-runs the COP31 Climate Change Media Partnership Reporting Fellowship jointly with Internews Earth Journalism Network.",
+      "seenAt": [
+        "earth-journalism"
+      ],
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
       "timesSeen": 1,
       "status": "new"
     }
