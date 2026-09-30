@@ -1,6 +1,6 @@
 SOURCE: International Women's Media Foundation
 URL: https://www.iwmf.org/programs/
-FETCHED: 2026-09-29T03:42:45.877Z
+FETCHED: 2026-09-30T03:43:01.525Z
 TITLE: Programs - IWMF
 
 === MAIN PAGE ===
@@ -123,7 +123,6 @@ May 3, 2024
 January 22, 2026
 December 30, 2025
 Resources: Tips to apply
-2002 Massachusetts Ave
 Copyright 2026 International Women's Media Foundation. All Rights Reserved.
 
 === https://www.iwmf.org/issues/opportunity/ ===
@@ -238,7 +237,6 @@ Annenberg Justice for Women Journalists Award
 Research commissioned by the Bill and Melinda Gates Foundation in 2021 found that women’s representation in the news has flatlined – if not reversed – in the 21st century. This holds true across all areas of the news media: women are underrepresented in newsroom leadership, gender equity stories are going untold, and men remain the vast majority of quoted experts and sources.
 The IWMF seeks to change the narrative by offering women and nonbinary journalists a broad range of reporting opportunities, awarding more than $630,000 in grants and fellowships in 2022. Among them are our Howard G. Buffett Fund for Women Journalists , which offers flexible grants for special projects; our Elizabeth Neuffer Fellowship , which funds one journalist annually to study at MIT and intern at the New York Times and Boston Globe; and, our ¡Exprésate! LGBTQI+ and Women’s Rights Reporting Initiative in Latin America. Learn about all of the IWMF’s programmatic offerings here .
 We are also committed to providing professional development opportunities for women and nonbinary journalists. Our Gwen Ifill Mentorship Program pairs journalists from underrepresented backgrounds including socioeconomic, educational and other diverse perspectives with media industry leaders to advance their careers. In 2021, we launched NextGen Safety Trainers , a program training a new generation of journalism safety trainers with historically marginalized identities. And, in the wake of the crisis in Afghanistan, we established Reclaiming Futures , a program designed to help Afghan women journalists re-establish their careers in the U.S.
-2002 Massachusetts Ave
 Copyright 2026 International Women's Media Foundation. All Rights Reserved.
 
 === https://www.iwmf.org/programs/neuffer/ ===
@@ -376,8 +374,7 @@ Celebration of Elizabeth Neuffer s Life and Legacy June 15, 2023
 2007/2008
 2006/2007
 2005/2006
-2002 Massachusetts Ave
-Copyright 2026 Internation…
+Copyright 2026 International Women's Media Founda…
 
 === https://www.iwmf.org/programs/fault-lines/ ===
 About
@@ -499,7 +496,6 @@ December 16, 2025
 March 15, 2024
 December 4, 2023
 August 17, 2023
-2002 Massachusetts Ave
 Copyright 2026 International Women's Media Foundation. All Rights Reserved.
 
 === https://www.iwmf.org/programs/fund-for-indigenous-journalists/ ===

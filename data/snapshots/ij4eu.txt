@@ -1,6 +1,6 @@
 SOURCE: IJ4EU — Investigative Journalism for Europe
 URL: https://investigativejournalismforeu.net/grants/
-FETCHED: 2026-09-29T03:42:44.727Z
+FETCHED: 2026-09-30T03:42:59.786Z
 TITLE: Grants - IJ4EU
 
 === MAIN PAGE ===

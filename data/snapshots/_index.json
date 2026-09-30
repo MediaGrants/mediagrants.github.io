@@ -1,115 +1,100 @@
 {
-  "generatedAt": "2026-09-29T03:42:57.519Z",
+  "generatedAt": "2026-09-30T03:43:16.621Z",
   "captured": {
     "ejc-funding": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 1673,
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 1675,
       "pages": 5
     },
     "fij": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
       "words": 3203,
       "pages": 5
     },
     "gfmd-fellowships": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
       "words": 2995,
       "pages": 13
     },
     "gfmd-fundings": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
       "words": 4404,
       "pages": 11
     },
     "ij4eu": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
       "words": 1292,
       "pages": 3
     },
     "ijnet-opportunities": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
       "words": 4276,
       "pages": 11
     },
     "iwmf": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 2018,
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 2009,
       "pages": 5
     },
     "journalismfund": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
       "words": 1948,
       "pages": 5
     },
     "pulitzer-center": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
       "words": 2413,
       "pages": 15
     },
-    "ec-journalism-partnerships": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 3022,
+    "au-embassy-belgrade": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 256,
+      "pages": 1
+    },
+    "birn": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 858,
+      "pages": 1
+    },
+    "canada-fund-cfli": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 11231,
+      "pages": 61
+    },
+    "eidhr-ncidi": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 1290,
       "pages": 5
     },
-    "free-press-unlimited": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 629,
+    "eu-delegation-serbia": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 433,
       "pages": 2
     },
-    "icnl": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 619,
-      "pages": 3
+    "eu-funding-portal": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 67,
+      "pages": 2
     },
-    "journalismgrants": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 2123,
-      "pages": 5
+    "eu-mogucnosti": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 1178,
+      "pages": 4
     },
-    "jx-fund": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 801,
+    "terra-viva-grants": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 1664,
+      "pages": 4
+    },
+    "uk-embassy-belgrade": {
+      "fetchedAt": "2026-09-30T03:43:16.622Z",
+      "words": 306,
       "pages": 1
-    },
-    "mfrr": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 253,
-      "pages": 1
-    },
-    "ned": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 2261,
-      "pages": 5
-    },
-    "one-world-media": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 14,
-      "pages": 1
-    },
-    "open-information-partnership": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 195,
-      "pages": 1
-    },
-    "rory-peck": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 14,
-      "pages": 1
-    },
-    "unesco-ipdc": {
-      "fetchedAt": "2026-09-29T03:42:57.519Z",
-      "words": 1633,
-      "pages": 5
     }
   },
   "failed": {
     "earth-journalism": "HTTP 403",
     "gijn-grants": "HTTP 403",
-    "civitates": "HTTP 404",
-    "eed": "HTTP 404",
-    "fritt-ord": "HTTP 404",
-    "icfj": "HTTP 404",
-    "osf": "HTTP 404",
-    "unesco-gmdf": "HTTP 404"
+    "us-embassy-belgrade": "fetch failed"
   }
 }

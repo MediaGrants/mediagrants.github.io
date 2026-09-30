@@ -1,6 +1,6 @@
 SOURCE: EU Funding & Tenders Portal — media calls
 URL: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search
-FETCHED: 2026-09-27T03:40:51.041Z
+FETCHED: 2026-09-30T03:43:03.366Z
 TITLE: EU Funding & Tenders Portal
 
 === MAIN PAGE ===
