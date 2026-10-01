@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe — Scholarships
 URL: https://www.journalismfund.eu/scholarships
-FETCHED: 2026-09-28T03:42:53.971Z
+FETCHED: 2026-10-01T03:43:35.288Z
 TITLE: Scholarships | Journalismfund Europe
 
 === MAIN PAGE ===
@@ -81,7 +81,6 @@ Up to €1,250 (when you received an Environmental Investigative Journalism gran
 --- relevant lines ---
 ts will be refunded after we have received proof of expenses, photos from the event and a narrative report about the event.
 How to apply?
-Please send your proposal mentioning the date, name and place of the event, as well as expected costs, emailing your project coordinators.
 Proposals are reviewed on a rolling basis. Applicants will receive a decision within two weeks of receiving the proposal.
 scholarships@journalismfund.eu
 Grantees of ECB and Earth
@@ -325,7 +324,8 @@ Country
 Choose a country Afghanistan Åland Islands Albania Algeria American Samoa
 
 --- relevant lines ---
-1727 supported projects match your criteria. View the awarded projects
+1735 supported projects match your criteria. View the awarded projects
+BRUSSELS – This investigation shows that local opposition to new reception centres for asylum seekers is often not a spontaneous neighbourhood protest. In 23 of the 26 Flemish municipalities where a new reception centre has opened since 2016, Vlaams Belang actively organised or supported the protest ...
 GENEVA - The IPCC is one of the most respected scientific institutions in climate research. An investigation into its inner workings now reveals strong links to the Saudi government within its ranks, as well as apparent contradictions of the IPCC’s application of its conflict of interest rules.
 © European Union, 2016 (CC 4.0)
 BRUSSELS - The film Returnees follows migrants in Belgium who are preparing for voluntary return.
