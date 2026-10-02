@@ -1,6 +1,6 @@
 SOURCE: Access Now — Digital Security Helpline / grants
 URL: https://www.accessnow.org/
-FETCHED: 2026-09-18T03:39:42.636Z
+FETCHED: 2026-10-02T03:43:28.139Z
 TITLE: Access Now - Access Now
 
 === MAIN PAGE ===
@@ -16,7 +16,130 @@ Subscribe to our action alerts and newsletter
 
 " * " indicates required fields
 
-X/Twitter
+Name
+This field is for validation purposes and should be left unchanged.
+
+This field is hidden when viewing the form
+
+Subscribe to Access Express
+
+This field is hidden when viewing the form
+
+Subscribe to Action Alerts
+
+Name
+
+First
+
+Last
+
+Email *
+
+Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswa
+
+--- relevant lines ---
+Submit
+Access Now Grants
+Funding & financials
+By combining direct technical support, strategic advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age.
+Don t let dictators decide the future of the internet. Fund the good fight!
+8 Dec 2025
+Don t let dictators decide the future of the internet – fund the good fight! Donate to Access Now.
+Don t let dictators decide the future of the internet. Fund the good fight!
+8 Dec 2025
+Don t let dictators decide the future of the internet. Fund the good fight!
+2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
+9 Sep 2026
+2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
+9 Sep 2026
+2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
+23 Sep 2026
+23 Sep 2026
+17 Sep 2026
+17 Sep 2026
+28 Apr 2026
+28 Apr 2026
+18 Aug 2026
+18 Aug 2026
+26 Aug 2026
+26 Aug 2026
+14 Sep 2026
+14 Sep 2026
+Grants
+Grants
+Submit
+
+=== https://www.accessnow.org/grants/ ===
+Skip to main content
+
+Back to content
+
+Get alerts
+
+Help keep the internet open and secure
+
+Subscribe to our action alerts and newsletter
+
+" * " indicates required fields
+
+Name
+This field is for validation purposes and should be left unchanged.
+
+This field is hidden when viewing the form
+
+Subscribe to Access Express
+
+This field is hidden when viewing the form
+
+Subscribe to Action Alerts
+
+Name
+
+First
+
+Last
+
+Email *
+
+Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswa
+
+--- relevant lines ---
+Submit
+Access Now Grants
+Funding & financials
+Access Now Grants
+ACCESS NOW GRANTS
+Who We Fund
+What We Fund
+How We Fund
+We provide flexible and grantee-driven funding to grassroots and frontline organizations fighting for human rights in the digital age. We pursue this work at a time when civil society around the world is working under increasingly difficult circumstances, from targeted censorship, to restrictions on operations, to threats to physical safety. It is also a time when the digital space has become a critical battleground in broader human rights struggles, as well as a place where marginalization, societal discrimination, and violence can be reproduced and even amplified. We aim to strengthen the global digital rights community by expanding, diversifying, and empowering the movement at the grassroots.
+Who we Fund
+Our grantees work with users and communities most at risk of and most detrimentally impacted, online or off, by digital rights violations.
+Where We Fund
+We fund work in low- and middle-income countries, parts of the world receiving the least amount of human rights funding. In rare cases, we support efforts that directly support people in one of these countries, even if the grantee is not based there.
+Where We Fund
+We fund work in low- and middle-income countries, parts of the world receiving the least amount of human rights funding. In rare cases, we support efforts that directly support people in one of these countries, even if the grantee is not based there.
+Grassroots organizations rooted in at-risk communities with limited access to funding
+WHAT WE FUND
+Threats to digital rights take many forms, depending on the context and unique challenges specific users or communities face, ranging from censorship and network disruption, to communications surveillance, to lack of protections for personal data, to online harassment, and beyond. Likewise, Access Now grantees are tackling a diverse array of digital rights challenges with an equally diverse set of approaches depending on their context and the opportunities they see to create positive change.
+Some examples of what Access Now Grants supports include:
+HOW WE FUND
+Our grantmaking is grounded in international human rights frameworks and takes an intersectional approach that recognizes that th…
+
+=== https://www.accessnow.org/support-us/ ===
+Skip to main content
+
+Back to content
+
+Get alerts
+
+Help keep the internet open and secure
+
+Subscribe to our action alerts and newsletter
+
+" * " indicates required fields
+
+Instagram
 This field is for validation purposes and should be left unchanged.
 
 This field is hidden when viewing the form
@@ -38,40 +161,13 @@ Email *
 Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia
 
 --- relevant lines ---
+Submit
 Access Now Grants
 Funding & financials
-By combining direct technical support, strategic advocacy, grassroots grantmaking, and convenings such as RightsCon, we fight for human rights in the digital age.
-Don t let dictators decide the future of the internet. Fund the good fight!
-8 Dec 2025
-Don t let dictators decide the future of the internet – fund the good fight! Donate to Access Now.
-Don t let dictators decide the future of the internet. Fund the good fight!
-8 Dec 2025
-Don t let dictators decide the future of the internet. Fund the good fight!
-Register for the RightsCon Continues Summit, September 22
-31 Aug 2026
-Register for the RightsCon Continues Summit, September 22
-31 Aug 2026
-Register for the RightsCon Continues Summit, September 22
-2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
-9 Sep 2026
-2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
-9 Sep 2026
-2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
-17 Sep 2026
-17 Sep 2026
-28 Apr 2026
-28 Apr 2026
-18 Aug 2026
-18 Aug 2026
-26 Aug 2026
-26 Aug 2026
-11 Aug 2026
-Internet shutdowns have to stop. As Access Now marks the 10th anniversary of the #KeepItOn campaign in 2026, we’re reflecting on the path travelled so far — and the journey still to come as we continue to fight to #KeepItOn around the world.
-11 Aug 2026
-Grants
-Grants
+Fund the good fight! Visit our donations page to learn how to support our mission.
+Submit
 
-=== https://www.accessnow.org/grants/ ===
+=== https://www.accessnow.org/financials/ ===
 Skip to main content
 
 Back to content
@@ -106,100 +202,7 @@ Email *
 Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia 
 
 --- relevant lines ---
-Access Now Grants
-Funding & financials
-Access Now Grants
-ACCESS NOW GRANTS
-Who We Fund
-What We Fund
-How We Fund
-We provide flexible and grantee-driven funding to grassroots and frontline organizations fighting for human rights in the digital age. We pursue this work at a time when civil society around the world is working under increasingly difficult circumstances, from targeted censorship, to restrictions on operations, to threats to physical safety. It is also a time when the digital space has become a critical battleground in broader human rights struggles, as well as a place where marginalization, societal discrimination, and violence can be reproduced and even amplified. We aim to strengthen the global digital rights community by expanding, diversifying, and empowering the movement at the grassroots.
-Who we Fund
-Our grantees work with users and communities most at risk of and most detrimentally impacted, online or off, by digital rights violations.
-Where We Fund
-We fund work in low- and middle-income countries, parts of the world receiving the least amount of human rights funding. In rare cases, we support efforts that directly support people in one of these countries, even if the grantee is not based there.
-Where We Fund
-We fund work in low- and middle-income countries, parts of the world receiving the least amount of human rights funding. In rare cases, we support efforts that directly support people in one of these countries, even if the grantee is not based there.
-Grassroots organizations rooted in at-risk communities with limited access to funding
-WHAT WE FUND
-Threats to digital rights take many forms, depending on the context and unique challenges specific users or communities face, ranging from censorship and network disruption, to communications surveillance, to lack of protections for personal data, to online harassment, and beyond. Likewise, Access Now grantees are tackling a diverse array of digital rights challenges with an equally diverse set of approaches depending on their context and the opportunities they see to create positive change.
-Some examples of what Access Now Grants supports include:
-HOW WE FUND
-
-=== https://www.accessnow.org/support-us/ ===
-Skip to main content
-
-Back to content
-
-Get alerts
-
-Help keep the internet open and secure
-
-Subscribe to our action alerts and newsletter
-
-" * " indicates required fields
-
-Facebook
-This field is for validation purposes and should be left unchanged.
-
-This field is hidden when viewing the form
-
-Subscribe to Access Express
-
-This field is hidden when viewing the form
-
-Subscribe to Action Alerts
-
-Name
-
-First
-
-Last
-
-Email *
-
-Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia 
-
---- relevant lines ---
-Access Now Grants
-Funding & financials
-Fund the good fight! Visit our donations page to learn how to support our mission.
-
-=== https://www.accessnow.org/financials/ ===
-Skip to main content
-
-Back to content
-
-Get alerts
-
-Help keep the internet open and secure
-
-Subscribe to our action alerts and newsletter
-
-" * " indicates required fields
-
-X/Twitter
-This field is for validation purposes and should be left unchanged.
-
-This field is hidden when viewing the form
-
-Subscribe to Access Express
-
-This field is hidden when viewing the form
-
-Subscribe to Action Alerts
-
-Name
-
-First
-
-Last
-
-Email *
-
-Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia
-
---- relevant lines ---
+Submit
 Access Now Grants
 Funding & financials
 Funding
@@ -316,4 +319,4 @@ RightsCon 2025 Sponsorship
 August 2025
 $25,000
 August 2025
-$250,000
+$250,00…

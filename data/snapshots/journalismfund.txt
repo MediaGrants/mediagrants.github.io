@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe
 URL: https://www.journalismfund.eu/grants
-FETCHED: 2026-10-01T03:43:35.241Z
+FETCHED: 2026-10-02T03:43:23.683Z
 TITLE: Grants | Journalismfund Europe
 
 === MAIN PAGE ===
@@ -68,26 +68,6 @@ Grants
 
 Grants
 
-Pascal Decroos Fund
-
-The Pascal Decroos Fund is Journalismfund Europe's oldest grant programme. Since 1999 it strives to advance investigative journalism in Dutch-language ...
-
-Next application deadline (CET):
-
-1 October 2026, 13:00 CET
-
-Meer lezen
-
-European Cross-border Grants
-
-This grant aims to address the shortage of independent journalism by providing grants to investigative journalism projects in Europe and ...
-
-Next application deadline (CET):
-
-1 October 2026, 13:00 CET
-
-Meer lezen
-
 Belgian Bridge
 
 This grant supports collaborative investigative projects led by Dutch-speaking and French-speaking Belgian journalists who work together on local issues of ...
@@ -100,13 +80,34 @@ Meer lezen
 
 The Invisible Life Grant Programme
 
-This programme supports cross-border teams of professional journalists and/or news outlets investigating issues relate
+This programme supports cross-border teams of professional journalists and/or news outlets investigating issues related to farm animal welfare and European ...
+
+Next application deadline (CET):
+
+29 October 2026, 13:00 CET
+
+Meer lezen
+
+European Cross-border Grants
+
+This grant aims to address the shortage of independent journalism by providing grants to investigative journalism projects in Europe and ...
+
+Next application deadline (CET):
+
+7 January 2027, 13:00 CET
+
+Meer lezen
+
+Scholarships
+
+Journalismfund Europe provides support for its grantees t o present their investigation and share their experience and 
 
 --- relevant lines ---
 Next application deadline (CET):
-29 October 2026, 13:00 CET
-Journalismfund Europe provides support for its grantees t o present their investigation and share their experience and knowledge with colleagues ...
+Pascal Decroos Fund
+The Pascal Decroos Fund is Journalismfund Europe's oldest grant programme. Since 1999 it strives to advance investigative journalism in Dutch-language ...
 Next application deadline (CET):
+1 October 2026, 13:00 CET
 This grant programme supports cross-border teams of professional journalists and/or news outlets to conduct investigations into environmental affairs related to geographical ...
 Next application deadline (CET):
 This grant programme is open for organisations with project proposals for collective development and support services to build the capacities ...
@@ -230,11 +231,10 @@ Country
 Choose a country Afghanistan Åland Islands Albania Algeria American Samoa
 
 --- relevant lines ---
-1735 supported projects match your criteria. View the awarded projects
+1737 supported projects match your criteria. View the awarded projects
 BRUSSELS – This investigation shows that local opposition to new reception centres for asylum seekers is often not a spontaneous neighbourhood protest. In 23 of the 26 Flemish municipalities where a new reception centre has opened since 2016, Vlaams Belang actively organised or supported the protest ...
 GENEVA - The IPCC is one of the most respected scientific institutions in climate research. An investigation into its inner workings now reveals strong links to the Saudi government within its ranks, as well as apparent contradictions of the IPCC’s application of its conflict of interest rules.
 © European Union, 2016 (CC 4.0)
-BRUSSELS - The film Returnees follows migrants in Belgium who are preparing for voluntary return.
 Be the first to get informed about our grant deadlines.
 Journalismfund Europe vzw
 info@journalismfund.eu
@@ -325,7 +325,7 @@ https://www.facebook.com/Journalismfund/
 https://www.instagram.com/journalismfund/
 Grants
 
-=== https://www.journalismfund.eu/pascal-decroos-fund ===
+=== https://www.journalismfund.eu/invisible-life-grant-programme ===
 Skip to main content
 
 Menu
@@ -388,39 +388,30 @@ Home
 
 Grants
 
-Pascal Decroos Fund
+The Invisible Life Grant Programme
 
-Pascal Decroos Fund
+The Invisible Life Grant Programme
 
-The Pascal Decroos Fund is Journalismfund Europe's oldest grant programme. Since 1999 it strives to advance investigative journalism in Dutch-language media in Belgium.
+This programme supports cross-border teams of professional journalists and/or news outlets investigating issues related to farm animal welfare and European interests, both within and beyond Europe.
 
-The Pascal Decroos Fund for Investigative Journalism is Journalismfund Europe's grant programme that strives to advance investigative journalism in Dutch-language media in Belgium.
-The programme awards grants to distinctive journalistic projects. The grant gives experienced as well as young journalists the chance to execute their investigative ideas and by doing so, contribute to quality investigative journalism in Flanders.
-The grant programme - established in 1998 - has resided under the wings of Journalismfund Europe since 2013. The programme is subsidised by the Flemish Government. In December 2025, the Flemish Governement and Journalismfund Europe vzw have signed for the second time
+Overview and key criteria
+The Invisible Life grant programme supports cross-border teams of professional journalists and/or news outlets with the aim to raise awareness, increase transparency and promote well-informed public debate on food and sustainability. The focus is on the lives and welfare of farmed animals . The programme is not intended to promote activism or a single point of view; rather, it seeks to bring together facts, context and diverse perspectives to enrich and better inform public debate.
+Supported investigations must result in publications in at least two media outlets based in different countries. At least on
 
 --- relevant lines ---
- a cooperation agreement for a period of 4 years (2026-2029). The contract provides a subsidy of 418.000 euros per year (minimum €271,500 for grants) for the Pascal Decroos Fund project.
-The project aims to keep the memory of Pascal Decroos alive and to continue his life’s work. The Fund was set up in 1998 by family, close friends and colleagues of Decroos to commemorate and further the legacy of the Belgian journalist. What we stand for is what Pascal Decroos stood for in word and deed. He was dedicated to investigative journalism. He was committed to creating opportunities to develop young journalistic talent and had an ability to bring people from different facets of society to dialogue and work together.
-Apply for a grant here .
-Visit the Pascal Decroos Fund website here .
-Find stories supported by this grant programme here .
-Read Journalismfund Europe's General Grant Rules here
-Apply here
-€270,000
-In 2026, there is €270,000 to distribute over four application rounds, which means approx. €67.500 per round. The money comes from the Flemish government.
-Next deadline
-1 October 2026, 13:00 CET
-For this grant programme there are 4 application rounds scheduled in 2026:
-The first deadline will be Thursday 22 January 2026 at 1 pm CET.
-The second deadline will be Thursday 23 April 2026 at 1 pm CET.
-The third deadline will be Thursday 6 August 2026 at 1 pm CET.
-The fourth deadline will be Thursday 1 October 2026 at 1 pm CET.
-Be the first to get informed about our grant deadlines.
-Journalismfund Europe vzw
-info@journalismfund.eu
-https://www.facebook.com/Journalismfund/
-https://www.instagram.com/journalismfund/
-Grants
+Your proposal should include a hypothesis and proposed methodology for a journalistic investigation , as well as a detailed budget.
+In addition to funding, teams can get support from a mentor .
+Grant rules
+Please read in full before starting your application:
+The Invisible Life grant rules and eligibility criteria .
+Journalismfund Europe's General Grant Rules .
+The Invisible Life grant programme is part of Journalismfund's Environmental Investigative Journalism Grant programme , which aims to give journalists the time, resources and independence they need to shine a light on under-exposed issues related to farm animal welfare, which is supported by Coefficient Giving .
+Many of the animals raised for food — including chickens, pigs, cattle, and farmed fish such as salmon, tilapia and sturgeon — remain largely hidden from public view. How t hese animals live, and how their production is organised, is rarely examined in detail, nor are the wider social consequences. Yet despite its close links to human health, the environment, food security and sustainability, this area attracts relatively little research funding or philanthropic support.
+The applications should focus on the welfare and living conditions of farmed animals, particularly in intensive livestock and commercial fish farming , with related topics including supply chain regulation and transparency and the links between animal welfare and public health. Stories examining economic pressures on producers, alternative production models, or trade flows are eligible where they connect clearly to animal welfare . In particular, investigations into chickens (broilers and laying hens), farmed fish, and pigs — species that are numerically significant but frequently underreported are highly encouraged.
+We have some tips on how to find investigative journalists in other countries to team up with, as well as some advice from our grantees and other experts on making this collaboration work. Find them here .
+Application process
+To see all the details about the eligibility and assessment criteria, timing, jury and grant conditions, visit our application portal .
+Please be advised that if any details (such as full addresses) or documents (IDs, CVs, articles of incorporation) are missing when your application is submitte…
 
 === https://www.journalismfund.eu/european-cross-border-grants ===
 Skip to main content

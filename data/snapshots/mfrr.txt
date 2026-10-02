@@ -1,6 +1,6 @@
 SOURCE: Media Freedom Rapid Response
 URL: https://www.mfrr.eu/
-FETCHED: 2026-09-29T03:42:49.039Z
+FETCHED: 2026-10-02T03:43:26.250Z
 TITLE: Media Freedom Rapid Response
 
 === MAIN PAGE ===
@@ -27,6 +27,12 @@ Steadfast support for Massimo Moratti, MFRR researcher, as he is facing an expul
 
 Recent updates
 
+01 October 2026
+Statements
+
+Malta: Call for a proper review process and international assessment of the media reform bill
+The Hon. Robert Abela Prime Minister of Malta CC: The Hon. Clifton Grima Minister for Justice, Research and Innovation Dear Prime Minister Abela, The undersigned international press freedom and…
+
 18 September 2026
 Statements
 
@@ -37,14 +43,7 @@ The Media Freedom Rapid Response (MFRR), press freedom and free expression partn
 Monitoring
 
 Monitoring Briefing 2026
-The first half of 2026 saw a wide variety of attacks on journalists, media outlets and associated individuals across Europe. These included verbal attacks as well as physical assaults, deliberate…
-
-04 September 2026
-Statements
-
-Press freedom at stake in upcoming Saxony-Anhalt elections
-The undersigned partner organisations of the Media Freedom Rapid Response (MFRR) view the upcoming state elec
+The first half of 2026 saw a wide variety of attacks on journalists, media out
 
 --- relevant lines ---
-tions in Saxony-Anhalt with great concern. On Sunday, 6 September, a decision will also be…
 Led by European Centre for Press and Media Freedom and implemented with ARTICLE 19 Europe , European Federation of Journalists , International Press Institute , Free Press Unlimited and Osservatorio Balcani e Caucaso Transeuropa , the consortium monitors violations, supports journalists at risk and drives coordinated advocacy.

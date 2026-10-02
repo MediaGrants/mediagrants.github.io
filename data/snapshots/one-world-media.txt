@@ -1,6 +1,6 @@
 SOURCE: One World Media
 URL: https://oneworldmedia.org.uk/funding/
-FETCHED: 2026-09-29T03:42:49.886Z
+FETCHED: 2026-10-02T03:43:26.580Z
 TITLE: 
 
 === MAIN PAGE ===
