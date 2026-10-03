@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-02T04:25:08.478Z",
+  "generatedAt": "2026-10-03T04:24:08.938Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -60,8 +60,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 10,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -87,8 +87,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 13,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 14,
       "status": "new"
     },
     {
@@ -281,8 +281,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -293,8 +293,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -446,8 +446,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 9,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -494,8 +494,8 @@
         "iwmf"
       ],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-01",
-      "timesSeen": 3,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -616,8 +616,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 3,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -640,8 +640,8 @@
         "terra-viva-grants"
       ],
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-03",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -801,6 +801,103 @@
       ],
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Canal France International (CFI)",
+      "url": "https://www.cfi.fr/",
+      "why": "Runs a current EUR 30,000-per-outlet call for Moldovan independent media countering disinformation, surfaced via gfmd-fundings but not tracked as its own funder source.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Journalists' Programmes (IJP e.V.)",
+      "url": "https://ijp.org/en/",
+      "why": "Runs the German-Northern European Journalists Fellowship and the George Weidenfeld Journalism Fellowship Program, surfaced repeatedly via gfmd-fundings/gfmd-fellowships but not tracked as its own funder source.",
+      "seenAt": [
+        "gfmd-fundings",
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Durham University / Reuters (Sir Harry Evans Global Fellowship)",
+      "url": "https://www.durham.ac.uk/",
+      "why": "Co-funds a nine-month investigative fellowship inside a Reuters newsroom, surfaced via gfmd-fellowships but not tracked as its own funder source.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Nova Media / Nova Institute for Health",
+      "url": "https://novahealthfellows.org/",
+      "why": "Funds a health-journalism fellowship for US print/digital/broadcast journalists and nonprofit newsrooms, surfaced via gfmd-fellowships but not tracked as its own funder source.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Exile Hub / Media in Cooperation and Transition (MiCT)",
+      "url": "https://exilehub.org/",
+      "why": "Jointly runs the Critical Voices Fellowship for exiled Myanmar media professionals, surfaced via gfmd-fellowships but not tracked as its own funder source.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "CORRECTIV",
+      "url": "https://correctiv.org",
+      "why": "Runs the CORRECTIV.Exile Journalist-in-Residence programme for exiled journalists, surfaced via gijn-grants but not tracked as its own funder source.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytco.com/careers/newsroom/newsroom-fellowship/",
+      "why": "Runs a paid year-long early-career journalism fellowship, surfaced via gijn-grants but not tracked as its own funder source.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "AP Fund for Journalism",
+      "url": "https://www.ap.org/media-center/press-releases/2025/ap-fund-for-journalism-announces-board-of-directors-1st-program-with-nearly-50-local-newsrooms/",
+      "why": "A charitable fund created by the Associated Press (2024) providing AP content, editorial tools and training directly to local/state nonprofit newsrooms; surfaced repeatedly while researching Knight Foundation, which has committed $25M to it. Distinct funder/programme not currently tracked as its own source.",
+      "seenAt": [
+        "knight-foundation"
+      ],
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
       "timesSeen": 1,
       "status": "new"
     }
