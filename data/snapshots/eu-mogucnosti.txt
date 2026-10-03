@@ -1,6 +1,6 @@
 SOURCE: EU mogućnosti — donor calls in Serbia
 URL: https://eumogucnosti.rs/
-FETCHED: 2026-09-30T03:43:04.983Z
+FETCHED: 2026-10-03T03:53:24.003Z
 TITLE: EU mogućnosti
 
 === MAIN PAGE ===
@@ -45,6 +45,16 @@ FOTO
 
 Search for:
 
+Delegacija EU u Republici Srbiji: Plaćena stručna praksa prijavite se do 16. oktobra!
+
+EUDEL Otvoreni pozivi i tenderi
+
+YUCOM: EU grantovi do 20.000 evra za besplatnu pravnu pomoć u Srbiji
+
+Civilno društvo
+Kultura, mediji i civilno društvo
+Obrazovanje
+
 Nominacije za sedam najugroženijih lokaliteta kulturnog nasleđa u Evropi
 
 Civilno društvo
@@ -74,20 +84,10 @@ Kultura, mediji i civilno društvo
 Lokalni razvoj
 Mediji
 
-DiscoverEU: Putne karte za mlade rođene 2008. godine
-
-Mladi
-Obrazovanje, mladi i sport
-
-Javni poziv za MSP u Vojvodini: Podrška za zelenu tranziciju i razvoj održivih poslovnih modela
-
-Biznis
-Biznis i inovacije
-Zelena tranzicija
-
-Perform Europe 2026–2028: O
+Perf
 
 --- relevant lines ---
+orm Europe 2026–2028: Otvoren poziv za međunarodne turneje u oblasti izvođačkih umetnosti U toku
 22/07/2026 - 22/10/2026
 22/09/2026 - 08/10/2026
 29/09/2026 - 02/10/2026
@@ -137,9 +137,66 @@ EU programi podrške: Info sesija o CERV pozivu Uključivanje i učešće građa
 📍 OPENS, Нови Сад
 🌍 Србија је чланица Механизма од 2015. године, што јој омогућава да затражи помоћ када је потребна, али и да учествује у пружању помоћи другим земљама.
 🌍 Србија је чланица Механизма од 2015. године, што јој омогућава да затражи помоћ када је потребна, али и да учествује у пружању помоћи другим земљама.
-📅 Рок за подношење пријава је 23. септембар 2026.
-📅 Рок за подношење пријава је 23. септембар 2026.
 Copyright © EU Delegacija u Srbiji 2026. Sva prava zadržana.
+
+=== https://eumogucnosti.rs/yucom-eu-grantovi-do-20-000-evra-za-besplatnu-pravnu-pomoc-u-srbiji/ ===
+Skip to content
+
+X Facebook YouTube Instagram
+
+Kontakt
+SR
+
+Search for:
+
+POČETNA
+O NAMA
+SEKTORI
+MOGUĆNOSTI
+VESTI I PRIČE
+DOGAĐAJI ENM 2026
+ARHIVA ENM 2024
+ARHIVA ENM 2023
+
+MEDIA CENTAR PODKAST
+PUBLIKACIJE
+VIDEO
+FOTO
+
+EU u Srbiji
+Evropska kuća
+
+POČETNA
+O NAMA
+SEKTORI
+MOGUĆNOSTI
+VESTI I PRIČE
+DOGAĐAJI ARHIVA ENM 2023
+
+MEDIA CENTAR PODKAST
+PUBLIKACIJE
+VIDEO
+FOTO
+
+Search for:
+
+YUCOM: EU grantovi do 20.000 evra za besplatnu pravnu pomoć u Srbiji
+
+Konkurs je: OTVOREN
+
+Rok za prijavu: 6.11.2026. godine do 17:00 časova
+
+Finansijska podrška: od 10.000 do 20.000 evra po projektu
+
+Oblast: kultura, mediji i civilno društvo
+
+Konkurs je za: organizacije civilnog društva i univerzitetske pravne klinike
+
+Komitet pravnika za ljudska prava – YUCOM objavio je javni poziv za finansijsku podršku lokalnim organizacijama civilnog društva i univerzitetskim pravnim klinikama koje rade na unapređenju pristupa pravdi i dostupnosti besplatne pravne pomoći u Srbiji.
+
+Poziv je raspisan u okviru projekta „Pristup pravnoj pomoći za sve“ , koji finansira Evropska unija , a sprovodi YUCOM u partnerstvu sa Udruženjem Fenomena , organizacijom IZ KRUGA – VOJVODINA i Mrežom odbora za ljudska prava u Srbiji – CHRIS .
+
+Kr
 
 === https://eumogucnosti.rs/erc-grantovi-do-25-000-evra-za-regionalne-projekte-na-zapadnom-balkanu/ ===
 Skip to content

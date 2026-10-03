@@ -1,6 +1,6 @@
 SOURCE: EU Delegation to Serbia — calls for proposals
 URL: https://europa.rs/
-FETCHED: 2026-09-30T03:43:04.167Z
+FETCHED: 2026-10-03T03:53:24.101Z
 TITLE: Početna - EU u Srbiji
 
 === MAIN PAGE ===
@@ -77,7 +77,7 @@ EVROPSKA KUĆA
 
 Search for:
 
-Početna EUinfo Admin 2026-08-29T19:09:33+02:00
+Početna EUinfo Admin 2026-09-30T14:46:52+02:00
 Vesti
 
 Poznati dobitnici nagrada „Ekoopština“ 2026
@@ -101,11 +101,11 @@ Zajednička izjava izvr
 02/09/2026
 26/08/2026
 „Evropa moja priča!” Otvoren likovni konkurs za kalendar programa EU PRO Plus za 2027. godinu
+02/10/2026
+01/10/2026
+30/09/2026
 „Evropa moja priča!” Otvoren likovni konkurs za kalendar programa EU PRO Plus za 2027. godinu
 25/09/2026
-25/09/2026
-16/09/2026
-15/09/2026
 Copyright © EU Delegacija u Srbiji 2025. Sva prava zadržana.
 
 === https://europa.rs/eu-funding/wbif/ ===

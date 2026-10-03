@@ -1,6 +1,6 @@
 SOURCE: Craig Newmark Philanthropies
 URL: https://craignewmarkphilanthropies.org/
-FETCHED: 2026-09-18T11:08:02.315Z
+FETCHED: 2026-10-03T03:53:27.280Z
 TITLE: Home
 
 === MAIN PAGE ===
@@ -16,7 +16,7 @@ Cybersecurity
 
 Veterans & Military Families
 
-Promoting the Truth
+Pigeons, and Others
 
 Apply
 
@@ -32,9 +32,7 @@ military families and vets ( new grants portal here )
 
 #CyberCivilDefense #cybersecurity
 
-promoting the truth
-
-pigeon rescue
+pigeon rescue and other stuff
 
 (I retired from craigslist a few years ago.)
 
@@ -68,7 +66,7 @@ The founder of Craigslist has given away half a billion dollars. He fears for an
 
 June 17th, 2026
 
-— The Inde
+— The Independe
 
 --- relevant lines ---
 July 8th, 2026
@@ -89,7 +87,7 @@ Cybersecurity
 
 Veterans & Military Families
 
-Promoting the Truth
+Pigeons, and Others
 
 Apply
 

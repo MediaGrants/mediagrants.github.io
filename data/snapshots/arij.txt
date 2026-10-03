@@ -1,6 +1,6 @@
 SOURCE: ARIJ — Arab Reporters for Investigative Journalism
 URL: https://arij.net/
-FETCHED: 2026-10-02T03:43:28.621Z
+FETCHED: 2026-10-03T03:53:25.459Z
 TITLE: "إعلاميون من أجل صحافة استقصائية عربية (أريج)"
 
 === MAIN PAGE ===

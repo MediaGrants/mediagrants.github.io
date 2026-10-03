@@ -1,6 +1,6 @@
 SOURCE: Pulitzer Center
 URL: https://pulitzercenter.org/grants-fellowships
-FETCHED: 2026-10-02T03:43:23.452Z
+FETCHED: 2026-10-03T03:53:21.191Z
 TITLE: Grantees | Pulitzer Center
 
 === MAIN PAGE ===
@@ -21,6 +21,8 @@ Staff
 Board of Directors
 
 Impact
+
+Awards
 
 Annual Reports
 
@@ -120,7 +122,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 --- relevant lines ---
 GRANTS & FELLOWSHIPS
@@ -142,6 +143,7 @@ The 1619 Project Education Impact Grants
 Impact Seed Funding
 U.S. Civil Society Microgrants
 Global South Civil Society Microgrants
+Awards
 Grantees
 Pulitzer Center grantees are a vibrant and diverse community of journalists working across all platforms on in-depth, innovative projects of global importance. Scroll down to meet them and learn about their reporting.
 SEARCH GRANTEES
@@ -196,6 +198,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -294,7 +298,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/journalism/stories/grantee-stories ===
 Skip to main content
@@ -315,6 +318,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -413,7 +418,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/opportunities/reporting-grants-fellowships ===
 Skip to main content
@@ -434,6 +438,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -532,7 +538,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/education/campus-consortium-program-partners/reporting-fellowships ===
 Skip to main content
@@ -553,6 +558,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -651,7 +658,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/tips-writing-successful-pulitzer-center-grant-proposal ===
 Skip to main content
@@ -672,6 +678,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -770,7 +778,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/grants-fellowships/pulitzer-center-crediting-requirements ===
 Skip to main content
@@ -791,6 +798,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -889,7 +898,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/opportunities/grants-fellowships ===
 Skip to main content
@@ -910,6 +918,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1008,7 +1018,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/opportunities-journalists/global-reporting-grants ===
 Skip to main content
@@ -1029,6 +1038,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1127,7 +1138,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-reporting-grants ===
 Skip to main content
@@ -1148,6 +1158,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1246,7 +1258,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/opportunities-journalists/covid-19-vaccines-and-global-health-inequities ===
 Skip to main content
@@ -1267,6 +1278,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1365,7 +1378,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/transparency-governance-reporting-grants ===
 Skip to main content
@@ -1386,6 +1398,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1484,7 +1498,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/opportunities-journalists/rainforest-reporting-grant ===
 Skip to main content
@@ -1505,6 +1518,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1603,7 +1618,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/opportunities-journalists/conflict-peace ===
 Skip to main content
@@ -1624,6 +1638,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1722,7 +1738,6 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA
 
 === https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ocean-and-fisheries-reporting ===
 Skip to main content
@@ -1743,6 +1758,8 @@ Board of Directors
 
 Impact
 
+Awards
+
 Annual Reports
 
 Donors
@@ -1841,4 +1858,3 @@ Campus Consortium Advisory Council
 
 Join the Campus Consortium Network
 
-INTERNA

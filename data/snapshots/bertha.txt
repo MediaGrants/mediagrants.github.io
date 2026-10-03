@@ -1,6 +1,6 @@
 SOURCE: Bertha Foundation
 URL: https://berthafoundation.org/
-FETCHED: 2026-09-18T03:39:43.728Z
+FETCHED: 2026-10-03T03:53:26.691Z
 TITLE: Bertha Foundation
 
 === MAIN PAGE ===
@@ -30,15 +30,15 @@ We exist to create space, opportunities and connections for social justice work 
 
 Happenings
 
-Film screening - exploring masculinity through art
+Dragon Mothers of Lavapiés
 
-“Indoda ayikhali” - a man does not cry. But what happens when silence becomes too heavy to carry? This film, explores Black masculinity, vulnerability and healing through art. Come watch, reflect & feel. More detail on the RSVP link.
+Meet the Dragonas de Lavapiés, a group of migrant mothers in Madrid who came together to form a football team as a way of "holding onto life." Bertha Artivist Ofelia de Pablo has been creating a participatory and collective art project with the team to challenge stereotypes, racism and discrimination.
 
 Learn more
 
 Data centers as rights-enabling infrastructure?
 
-Article One, with Bertha s support, and the Centre for Human Rights have proposed that local data centers can be rights-enabling infrastru
+Article One, with Bertha s support, and the Centre for Human Rights have proposed that local 
 
 --- relevant lines ---
 We use Brevo as our marketing platform. By submitting this form you agree that the personal data you provided will be transferred to Brevo for processing in accordance with Brevo's Privacy Policy.

@@ -1,6 +1,6 @@
 SOURCE: Balkan Trust for Democracy (GMF)
 URL: https://www.gmfus.org/
-FETCHED: 2026-10-02T03:43:28.261Z
+FETCHED: 2026-10-03T03:53:25.259Z
 TITLE: German Marshall Fund of the United States
 
 === MAIN PAGE ===
@@ -114,31 +114,26 @@ Donate
 
 Search
 
-September 28, 2026
+October 2, 2026
 
-A Trump-Xi Summit Scorecard
+How to Politicize a Military
 
-China came out ahead.
+Lessons from Poland demonstrate that political purges and promotions undermine military effectiveness.
 
 By
-Bonnie S. Glaser
+Carrie A. Lee
 
 Learn more
 
-Technology + Innovation
-
-September 23, 2026
-
-A Small Opening for Global AI Safety
-
-
+South a
 
 --- relevant lines ---
+September 30, 2026
+September 28, 2026
 September 22, 2026
-September 24, 2026
+October 02, 2026
 September 30, 2026
 September 30, 2026
-September 29, 2026
 EIN: 52-0954751 - All Rights Reserved. German Marshall Fund 2026.
 
 === https://www.gmfus.org/programs-grants/geostrategy ===

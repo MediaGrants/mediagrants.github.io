@@ -1,9 +1,18 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-10-02T03:43:22.373Z
+FETCHED: 2026-10-03T03:53:19.325Z
 TITLE: (feed)
 
 === FEED ITEMS ===
+CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova
+Fri, 02 Oct 2026 13:23:13 +0000
+Eligibility: Applicants countering disinformation in Moldova Target region: Republic of Moldova Language: English Canal France International (CFI) is inviting applications for a call for projects to strengthen independent journalism and counter disinformation in the Republic of Moldova. Three selected media outlets can receive grants of up to €30,000, with an indicative total call budget of [ ]
+
+The post CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/
+
 CTRL+J Microgrants
 Fri, 25 Sep 2026 14:39:43 +0000
 Eligibility: Organisations (or freelancers connected to orgs) organising small convenings Target region: Global (Global South encouraged) Application language: English The CTRL+J Microgrants Program provides grant funding of US$1,000–US$5,000 to support small convenings aligned with CTRL+J’s thematic focus on the intersection of journalism and technology. The program is supported by Luminate, and is expected to run [ ]
@@ -58,14 +67,14 @@ The post Call for proposals on countering disinformation Poland appeared first o
 ]]>
 https://gfmd.info/fundings/call-for-proposals-on-countering-disinformation-poland/
 
-Visegrad Grants
-Fri, 11 Sep 2026 11:53:09 +0000
-Eligibility: Media organisation in co-operation with atleast 3 Visegrad countries Target Region: Visegrad region, Eastern Partnership, Western Balkans Application Language: English Visegrad grants support regional partnerships among NGOs and civil society organisations, public institutions and municipalities, private companies and nonprofit organisations, as well as education and research centres that contribute to cooperation in the Visegrad [ ]
+SAFE Media capacity support fund opens for applications
+Fri, 04 Sep 2026 11:11:20 +0000
+Eligibility: independent media from the Eastern Partnership region (EaP), looking to provide training Target region: Armenia, Azerbaijan, Belarus, Georgia, the Republic of Moldova and Ukraine. Language: English The Support and Assistance for Free Expression (SAFE) project offers training grants to independent media from the Eastern Partnership region (EaP). These grants fund training programmes that enhance journalistic [ ]
 
-The post Visegrad Grants appeared first on GFMD .
+The post SAFE Media capacity support fund opens for applications appeared first on GFMD .
 
 ]]>
-https://gfmd.info/fundings/visegrad-grants-4/
+https://gfmd.info/fundings/safe-media-capacity-support-fund-opens-for-applications/
 
 WCSJ2027 Travel Fellowship
 Fri, 04 Sep 2026 10:57:32 +0000
@@ -94,15 +103,6 @@ The post Belgian Bridge Programme appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/belgian-bridge-programme/
 
-Health Care Journalism Grants 2026–2027
-Fri, 14 Aug 2026 13:35:25 +0000
-Eligibility: USA journalists specialised in health Target Region: North America Application Language: English The NIHCM Foundation supports independent, timely, and impactful health care journalism with the potential to inform efforts to improve the affordability, accessibility, and quality of health care in the United States. For this cycle, the Foundation is particularly interested in reporting on [ ]
-
-The post Health Care Journalism Grants 2026–2027 appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/health-care-journalism-grants-2026-2027/
-
 Audience-Engaged Journalism Grants
 Fri, 14 Aug 2026 13:27:29 +0000
 Eligibility: Eastern European journalists with a story proposal Target Region: Eastern Europe, Caucasus, and Central Asia Application Language: English The Balkan Investigative Reporting Network (BIRN) is launching the first call for Audience-Engaged Journalism Grants as part of the third edition of the Media Innovation Europe (MIE) initiative, led by the International Press Institute. The programme [ ]
@@ -111,6 +111,59 @@ The post Audience-Engaged Journalism Grants appeared first on GFMD .
 
 ]]>
 https://gfmd.info/fundings/audience-engaged-journalism-grants-5/
+
+=== https://gfmd.info/fundings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova
+Organisation: Canal France International (CFI)
+
+Status: Open
+Type: Grant
+
+Theme: Mis- and Disinformation
+
+Funding Size: EUR 30,000
+Deadline: 17/10/2026
+
+Eligibility: Applicants countering disinformation in Moldova
+Target region: Republic of Moldova
+Language: English
+Canal France International (CFI) is inviting applications for a call for projects to strengthen independent journalism and counter disinformation in the Republic of Moldova. Three selected media outlets can receive grants of up to €30,000, with an indicative total call budget of €90,000. The application deadline is 17 October 2026 at 20:00 (UTC).
+Requirements
+Projects must relate to one or more of the following themes: Topics where disinformation is prevalent (e.g., social issues, publ
+
+--- relevant lines ---
+the application will be rejected of the project solely/mainly funds individuals to participate in workshops, seminars, conferences, or congresses
+Eligibility
+Media organisations that received a grant under the previous Call for Projects implemented within the framework of this Project are not eligible to apply under this Call.
+How to apply
+The provided source excerpt includes call details, eligibility criteria, and technical support elements, but it does not include the full application procedure, the required submission documents, or the specific form/link to submit.
+To apply, follow the instructions on the official CFI opportunity page . At minimum, note the deadline: 17 October 2026 at 20:00 (UTC).
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
 
 === https://gfmd.info/fundings/ctrlj-microgrants/ ===
 Support journalism GFMD IMPACT
@@ -428,7 +481,7 @@ Find Funding Funding Opportunities
 Fundraising Guide
 Funder Profiles
 
-=== https://gfmd.info/fundings/visegrad-grants-4/ ===
+=== https://gfmd.info/fundings/safe-media-capacity-support-fund-opens-for-applications/ ===
 Support journalism GFMD IMPACT
 Policy and Advocacy
 Briefings
@@ -451,30 +504,35 @@ Partner with us
 
 Subscribe
 
-« Back to all Fundings Visegrad Grants
-Organisation: Visegrad Fund
+« Back to all Fundings SAFE Media capacity support fund opens for applications
+Organisation: European Centre for Press and Media Freedom (ECPMF)
 
 Status: Open
 Type: Grant
 
-Theme: Democracy and good governance
+Theme: Media support
 
-Funding Size: €25,000–€35,000
-Deadline: 01/10/2026
+Funding Size: €5,000 per training programme
+Deadline: 04/10/2026
 
-Eligibility: Media organisation in co-operation with atleast 3 Visegrad countries
-Target Region: Visegrad region, Eastern Partnership, Western Balkans
-Application Language: English
-Visegrad grants support regional partnerships among NGOs and civil society organisations, public institutions and municipalities, private companies and nonprofit organisations, as well as education and research centres that contribute to cooperation in the Visegrad region.
-Eligibility
-To apply for Visegrad Grants, your project must address one of the objectives of the grant program from the seven focus areas eligible for funding; Culture and Common Identity
-Education and Capacity Building
-Innov
+Eligibility: independent media from the Eastern Partnership region (EaP), looking to provide training
+Target region: Armenia, Azerbaijan, Belarus, Georgia, the Republic of Moldova and Ukraine.
+Language: English
+The Support and Assistance for Free Expression (SAFE) project offers training grants to independent media from the Eastern Partnership region (EaP). These grants fund training programmes that enhance journalistic reporting and resilience, helping independent media outlets continue their work safely and sustainably under high-risk conditions.
+Requirements
+The training programmes must take pl
 
 --- relevant lines ---
-Grants can cover up to 100% of project budget with 15% for overheads
+ace before 30 December 2026.
+The training programmes must target primarily media workers affiliated with the applying media outlet.
+Eligible topics include, but are not limited to: Mental health, Physical safety, Digital security, Journalistic and editorial skills enhancement, Capacity building aimed at improving the outlet’s operational capacity
+A report detailing the training outcomes, financial expenditure, and impact must be submitted to ECPMF by 15 January 2027.
+Applicants must submit a proposal form outlining: Basic information about the applying outlet
+The purpose of the grant, including the training’s objectives and expected impact, The relevance of the proposed training. A budget, including a breakdown of costs for the proposed training.
+Eligibility
+Grants can also be used to fund training for individual members of the editorial team.
 How to apply
-You can submit your project proposals via My Visegrad any time during the submission period. You need an account to send in your application. Apply here .
+To be considered for the grant, you would also need to download this template , fill it in, and attach it to your application form. Application form still notes deadline of 30 September, which you can disregard. Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide
@@ -582,55 +640,6 @@ A well-developed story pitch demonstrating investigative merit, originality, rea
 Grantees must publish in a U.S. outlet within one year of receiving a grant and must credit the IWMF.
 How to Apply
 Submit the application through the IWMF Submittable portal on a rolling basis; there is no fixed closing date for the current programme cycle. Larger awards are considered on a case-by-case basis. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/belgian-bridge-programme/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings Belgian Bridge Programme
-Organisation: Journalismfund Europe
-
-Status: Open
-Type: Grant
-
-Theme: Investigative journalism
-
-Funding Size: EUR 100,000 available in total
-Deadline: 15/10/2026
-
-Eligibility: Dutch-speaking and French-speaking journalists residing in Belgium
-Target Region: Belgium
-Application Language: Dutch, French
-The Belgian Bridge programme supports collaborative investigative projects led by Dutch-speaking and French-speaking journalists residing in Belgium who work together on local issues of national importance. The goal is to produce multilingual journalism that exposes how issues arise on both sides of Belgium s language border, thereby bringing communities closer together. The programme is in its pilot phase in 2026, with a total of €100,000 available, supported by the King Baudouin Foundation. Grants cover wor
-
---- relevant lines ---
-Eligibility
-Administrative documents as specified in the grant rules.
-How to Apply
-Register with an email address on the Journalismfund Europe grants portal, then complete and submit the online application before 15 October 2026 at 1:00 p.m. CET (Brussels time). Pre-application advice is available via phone or a video-call appointment; contact details are on the funder s page. Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

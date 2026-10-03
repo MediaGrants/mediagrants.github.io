@@ -1,6 +1,6 @@
 SOURCE: ERSTE Foundation
 URL: https://www.erstestiftung.org/en/
-FETCHED: 2026-09-18T16:12:25.215Z
+FETCHED: 2026-10-03T03:53:29.382Z
 TITLE: Homepage - ERSTE Foundation
 
 === MAIN PAGE ===
@@ -53,16 +53,16 @@ EN
 
 Events
 
-#Europe & Democracy
+#Social & Digital Innovation
 
-23–27 September 2026
-Vienna, Various Locations
+13 October 2026
+online
 
-Vienna Humanities Festival 2026: Agency / Tu was
+Young Carers in Austria
 
 Journal
 
-#Europe & Democracy #Foundation
+#Foundation
 
 Seven Takeaways from Alpbach 2026 for a Flourishing Europe
 
@@ -106,7 +106,11 @@ Portfolio
 Erste Financial Life Park (FLiP) —
 Financial Education for Life
 
+Portfolio
 
+#Financial Education
+
+The bank for those with hop
 
 === https://www.erstestiftung.org/en/projects/facing-the-future-fellowship/ ===
 Close
