@@ -1,6 +1,6 @@
 SOURCE: Akademie Schloss Solitude — residencies
 URL: https://www.akademie-solitude.de/en/fellowship/
-FETCHED: 2026-09-20T12:15:08.831Z
+FETCHED: 2026-10-04T05:29:04.322Z
 TITLE: Fellowship - Akademie Schloss Solitude
 
 === MAIN PAGE ===
@@ -273,7 +273,7 @@ The residencies are aimed at artists from Namibia and artists from Baden-Württe
 --- relevant lines ---
 Akademie Schloss Solitude together with the Max Planck Institute of Animal Behavior (MPI-AB), Department for the Ecology of Animal Societies (EAS) have established a residency program to foster interdisciplinary exchange of ideas and perspectives between the arts and sciences. Since 2022, »Field trip« offers an adventure of going to a new place, an experience of being in a different environment and an opportunity to experiment with ideas.
 Jean-Jacques-Rousseau Fellowship
-The Jean-Jacques Rousseau fellowship program, founded in 2011, was established in order to provide authors of both sexes with financial support in emergency situations of all kinds, be it political, economic or other difficulties. It is hoped that the fellowship will allow them to pursue their literary activities in improved conditions. The program is being sponsored by a citizen of Stuttgart who wishes to promote contemporary literature with this unique fellowship and prefers not to be named.
+The Jean-Jacques Rousseau fellowship program, founded in 2011, was established in order to provide authors with financial support in emergency situations of all kinds, be it political, economic or other difficulties. It is hoped that the fellowship will allow them to pursue their literary activities in improved conditions. The program is being sponsored by a citizen of Stuttgart who wishes to promote contemporary literature with this unique fellowship and prefers not to be named.
 Marie Zimmermann Fellowship
 In April 2008, the former director of the Deutsches Schauspielhaus in Hamburg, Friedrich Schirmer, endowed a fellowship designed to support a young dramatist from the German-speaking theater scene in memory of Marie Zimmermann, the dramatist and festival organizer who died in 2007. Akademie Schloss Solitude is responsible for organizing and awarding the fellowship.
 The Web Residencies program was initiated by Akademie Schloss Solitude in 2016 to support young talents from the international digital scene as well as artists of all disciplines who deal with web-based practices to present the process and results of their work online.

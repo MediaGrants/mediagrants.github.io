@@ -1,6 +1,6 @@
 SOURCE: National Press Foundation
 URL: https://www.nationalpress.org/
-FETCHED: 2026-09-20T12:15:16.803Z
+FETCHED: 2026-10-04T05:29:07.567Z
 TITLE: National Press Foundation | NPF
 
 === MAIN PAGE ===
@@ -27,37 +27,34 @@ Annual Report
 
 Donate
 
-Apply for NPF’s Annual Journalism Awards by Sept. 30
+APPLY by Oct. 22: 2026 Rare Disease Reporting Fellowship and Grants
 
-APPLY: Easterseals Award for Excellence in Coverage of Disabilities
+Public Health
 
-NPF Selects Cerys Davies, Paighten Harkins to Attend Wharton Seminars for Business Journalists
+Dr. Georges C. Benjamin: Health For All Is True National Security
 
-APPLY: U.S. Chamber Award for Excellence in Local Business Reporting
+2027 NPF Journalism Awards Dinner – Feb. 25, 2027
 
-Building an Evidence-Based Midterm Reporting Strategy
-Widening the Pipeline
+Public Health
 
-Audiences Need Solid Evidence to Combat Midterm Election Uncertainty
+Dr. Ezekiel Emanuel on Fixing American Healthcare: Prognosis Grim
 
-SciLine editorial consultant Carmen Nobel advised Widening the Pipeline fellows on using a scientific lens to scrutinize midterm election issues in their communities.
+Understanding American Healthcare: A Deep Dive for Reporters
+Public Health
 
-Bilahari Kausikan: On Keeping Perspective in Volatile Geopolitical Times
-Trade
+Christy Ford Chapin of the University of Maryland, Baltimore County presented findings from her book, "Ensuring America's Health," to provide journalists with historical context for their healthcare reporting.
 
-In Geopolitics, Journalists Should Focus on Processes, Not Just Winners and Losers
+Covering the Coverage Gaps in ACA and Medicaid Programs
+Public Health
 
-Former Diplomat Bilahari Kausikan advised journalists to understand the roots of geopolitical volatility, versus over-amplifying br
+Journalists Must Prepare for Surge of Unenrolled Medicaid Recipients, Experts Say
+
+Analysts Katherine Hempstead of the Robert Wood Johnson Foundation and Michael Karpman of The Urban Institute urged fellows to master the nuances of ACA and Medicaid insuranc
 
 --- relevant lines ---
-APPLY: Easterseals Award for Excellence in Coverage of Disabilities
-APPLY: U.S. Chamber Award for Excellence in Local Business Reporting
-APPLY: The AARP Award for Excellence in Journalism on Aging
-APPLY: Wounded Warrior Project® Award for Excellence in Coverage of Veterans
-APPLY: Benjamin C. Bradlee Editor of the Year Award
-APPLY: Everett McKinley Dirksen Award for Distinguished Reporting of Congress
-APPLY: Clifford K. James T. Berryman Award for Editorial Cartoons
-NPF Names 33 Journalists for October 2026 Local Business Journalism Fellowship
+Rural Health Transformation Fund: RX or Placebo?
+APPLY by Oct. 22: 2026 Rare Disease Reporting Fellowship and Grants
+NPF Names 32 Journalists for October 2026 Local Business Journalism Fellowship
 NPF Names 26 Journalists for 2026 Diagnosing the U.S. Healthcare System Fellowship
 NPF Selects 25 Journalists for 2026 International Trade Reporting Fellowship in Singapore
 Bloomberg Law and NBC News Journalists Win Mattingly Award for Mental Health Reporting
@@ -245,9 +242,9 @@ Hi
 story of the Paul Miller Fellowship:
 The National Press Foundation assumed the administration of the Paul Miller Washington Reporting fellowship in 2000 from the Freedom Forum.
 The 2026 Paul Miller fellows are:
+October 2, 2026 Journalists Must Prepare for Surge of Unenrolled Medicaid Recipients, Experts Say
 September 18, 2026 Audiences Need Solid Evidence to Combat Midterm Election Uncertainty
 July 2, 2026 Geopolitics, Trade and India's Development Strategy
-July 1, 2026 In Geopolitics, Journalists Should Focus on Processes, Not Just Winners and Losers
 Widening the Pipeline Fellowship
 Paul Miller Washington Fellowship
 Awards Editor of the Year
@@ -363,7 +360,7 @@ Awards
 Fellowships Widening the Pipeline Fellowship
 Paul Miller Washington Reporting Fellowship
 
-=== https://nationalpress.org/newsfeed/apply-for-npfs-annual-journalism-awards-by-sept-30-fall-2026/ ===
+=== https://nationalpress.org/training/apply-2026-rare-disease-reporting-fellowship-and-grants/ ===
 National Press
 Foundation Upcoming
 Fellowships Widening the Pipeline
@@ -387,28 +384,84 @@ Annual Report
 
 Donate
 
-Apply for NPF’s Annual Journalism Awards by Sept. 30
+APPLY by Oct. 22: 2026 Rare Disease Reporting Fellowship and Grants
 
-National Press Foundation to Honor the Best in Journalism
+Online Journalism Training, Nov. 16-20: Leveraging the Promise of Biotechnology for Rare Disease Patients and Families Worldwide
 
-Updated Thu Aug 06, 2026
+Updated Wed Sep 23, 2026
 
-The National Press Foundation recognizes and encourages excellence in journalism through its awards and fellowships. Applications for NPF s 2026 annual awards are due by 11:59 p.m. Sept. 30, 2026 . Work published or broadcast in any medium between Sept. 30, 2025, and Sept. 30, 2026, is eligible. Many of the winners will be honored during NPF s Annual Awards Dinner on February 25, 2027 , at the Ritz-Carlton, Washington, D.C.
-Awards include:
-NEW: The Easterseals Award for Excellence in Coverage of Disabilities ; $10,000
-The Hinrich Foundation Award for Distinguished Reporting on Trade; $10,000
-The U.S. Chamber Award for Excellence in Local Business Reporting ; $10,000
-The AARP Award for Excellence in Journalism on Aging ; $5,000 (x2)
-The Wounded Warrio
+As biotechnology continues its march toward revolutionary treatments and cures for complex medical conditions, the daily realities for people living with rare diseases and their families can dampen hope. Worldwide, the relentless cycle of caregiving, stress and hypervigilance only deepens the challenges for the 300 million people living with one of more than 7,000 confirmed rare diseases.
+While advocacy and research merge to yield solutions, the need for increased visibility about rare diseases is becoming more urgent. In many countries, healthcare infrastructure and policies must be strengthened to address persistent gaps in access and knowledge.
+To help internatio
 
 --- relevant lines ---
-r Project ® Award for Excellence in Coverage of Veterans; $5,000 (x2)
-The Benjamin C. Bradlee Editor of the Year Award ; $5,000
-The Everett McKinley Dirksen Award for Distinguished Reporting of Congress; $5,000
-The Clifford K. & James T. Berryman Award for Editorial Cartoons; $2,500
-NPF awards are funded by generous individuals and foundations dedicated to celebrating the best in journalism. We are also grateful to our volunteer judges, who bring a wealth of journalism expertise to their deliberations.
-Previous winners of NPF awards include Bob Costas, Bill Owens, Katherine Maher, Christiane Amanpour, Maria Hinojosa, Suki Dardarian, Dorothy Butler Gilliam, Evan Gershkovich, Scott Simon, Lisa Desjardins and Dean Baquet.
-For questions about award applications, contact Celia Milch, celia@nationalpress.org.
+nal journalists amplify these issues, the National Press Foundation is providing a week of free online training for professional journalists in any medium. This fifth in a series of journalism fellowships, made possible with support from Fondation Ipsen, will consist of on-the-record briefings and question-and-answer sessions with top experts, including topics such as rare disease research on the African continent, AI-driven drug development, childhood genetic testing and screening, and the need for more inclusive clinical trials. Journalists will also hear from leaders of global patient advocacy groups and veteran journalists in the field.
+In addition, NPF will offer up to $2,000 in reporting grants to 20 journalists to cover travel expenses and time in executing a rare disease project of their choosing.
+Application Deadline: Oct. 22, 2026
+Apply Here
+All accepted fellows will receive the training. Fellows who require and qualify for a reporting grant will receive $1,000 upon completion of the training and another $1,000 upon submission of their work, which must be published no later than March 1, 2027.
+For fellows who receive a grant, their work will be published first in the journalists’ chosen outlets, then reprinted in a compilation book produced by Fondation Ipsen , a Paris-based nonprofit that focuses on rare diseases, detection, inclusion and disability. The compilation book of 2023 NPF fellows’ work is available for free download here .
+This is a competitive fellowship open to professional journalists based in any country, but attendance at all sessions is mandatory. Sessions will run from 8 a.m. to 12 p.m. ET, Nov. 16-20. Journalists may work in any medium (print, broadcast, online, social) and any language but must have fluency in English, as the training will be conducted in English.
+The application deadline is 11:59 p.m. ET Oct. 22, 2026 . Employed journalists will need a letter of support from their editor, including a commitment to allow four hours off work each day from Nov. 16-20 to accommodate the fellowship hours. This is to ensure full participation. Freelance journalists should submit a letter from an editor indicating an interest in publishing their work on this topic.
+Rare Disease Funding Called Modern-Day Civil Rights Issue
+Widening the …
+
+=== https://nationalpress.org/topic/rural-health-transformation-fund-rx-or-placebo/ ===
+National Press
+Foundation Upcoming
+Fellowships Widening the Pipeline
+Paul Miller for D.C. Press
+All Fellows
+
+Awards Editor of the Year
+Kiplinger Winner
+Taishoff Winner
+
+Resources Beats
+Skills
+Training Videos
+Newsletter
+
+About About NPF
+Staff Board
+NPF AI Principles
+Funding FAQ
+Annual Report
+
+Donate
+
+Government
+Health
+Poverty & Inequality
+Public Health
+
+Rural Health Transformation Fund: RX or Placebo?
+
+Rural Healthcare Access Issues Continue Despite Federal Transformation Program
+
+NORC Walsh Center for Rural Health Analysis Director Alana Knudson and Virginia's Director of Rural Health Transformation Heidi Hertz briefed NPF fellows about the obstacles and opportunities in federal rural health policy.
+
+Program Date: Sept. 23, 2026
+
+By Rachel Jones
+Updated Thu Oct 01, 2026
+
+When the Trump administration’s One Big Beautiful Bill Act (HR-1) was signed into law on July 4, 2025, the legislation highlighted the creation of the Rural Health Transformation Program (RHTP) .
+It’s a $50 billion federal fund administered by the Centers for Medicare and Medicaid Services , intended to strengthen rural hospitals, expand access to health care, address workforce shortages and modernize rural health 
+
+--- relevant lines ---
+systems. But as journalists participating in the NPF Diagnosing the U.S. Healthcare System Fellowship learned on Sept. 23, the central role rural America plays isn t fully appreciated by the public-nor are the barriers to quality care that millions of rural Americans face.
+50% of funding was distributed equally to states; the remaining 50% was application-based
+States had approximately seven weeks to submit applications, which is considered extremely compressed
+The program runs through 2030, with annual re-scoring determining continued funding levels
+Only 15% of the fund can be used to offset revenue losses from Medicaid cuts
+Virginia received $189.5 million in RHTP funds for year one, Hertz said. But that led to another observation: there’s a discrepancy between the RHTP funding and other parts of the HR-1 policy. The Congressional Budget Office’s latest estimate says the law will reduce federal Medicaid outlays by roughly $1.2 trillion between 2026–2035.
+The math doesn t math, right? Hertz said. The amount that Virginia is losing is in no way compared to the Rural Transformation Funds. Still, she believes there’s a story to tell about how states are seizing the opportunity to strengthen rural health infrastructure.
+“We have currently executed contracts for $122 of $189.5 million. Any director of rural health transformation across the Commonwealth will be confident, as confident as I am, that we re going to meet that obligation deadline. There s a specific story for Virginia. We have one initiative that s our largest funding that we re in the process of getting five contracts out. Once we do that, we will have obligated our funds.”
+This fellowship is sponsored by UnitedHealth Group. The National Press Foundation is solely responsible for the content.
+The Rural Health Transformation Fund
+Unpacking the Rural Health Transformation Fund Created by Congress to Soften Impact of Medicaid Cuts on Rural Hospitals , Georgetown University
+Comparing States’ Rural Health Fund Allotments to Medicaid Spending Cuts Can be Misleading , KFF
 Widening the Pipeline Fellowship
 Paul Miller Washington Fellowship
 Awards Editor of the Year
@@ -417,7 +470,7 @@ Awards
 Fellowships Widening the Pipeline Fellowship
 Paul Miller Washington Reporting Fellowship
 
-=== https://nationalpress.org/awards/easterseals-award-for-excellence-in-coverage-of-disabilities/ ===
+=== https://nationalpress.org/newsfeed/npf-names-32-journalists-for-october-2026-local-business-journalism-fellowship-2/ ===
 National Press
 Foundation Upcoming
 Fellowships Widening the Pipeline
@@ -441,118 +494,21 @@ Annual Report
 
 Donate
 
-$10,000 AWARD
+NPF Names 32 Journalists for October 2026 Local Business Journalism Fellowship
 
-APPLY: Easterseals Award for Excellence in Coverage of Disabilities
+Updated Mon Aug 24, 2026
 
-Award Established 2026
+The National Press Foundation has selected 32 journalists from across the country to participate in the October 2026 Local Business Journalism Fellowship. Fellows will travel to Chicago, Illinois, Oct. 5-8, and have exclusive briefings with economists, small business owners and other experts. This four-day training will allow local reporters to dive into the business infrastructure across America today and into the policies and practices that fuel stability and growth for companies large and small in their own communities.
+The fellows report in over 20 states and represent public media, nonprofit newsrooms, business journals and major metro dailies.
 
-Applications for the 2026 Easterseals Award for Excellence in Coverage of Disabilities are now open.
-The Easterseals Award for Excellence in Coverage of Disabilities recognizes outstanding journalism that expands the public’s understanding of issues shaping the lives of people with disabilities.
-This is the inaugural year for the award, established by Easterseals and the National Press Foundation to promote journalism excellence that deepens society’s understanding of the challenges and successes experienced by the more than 1 in 4 people in the U.S. with a disability.
-
-The Easterseals Award for Excellence in Coverage of Disabilities carries a $10,000 prize.
-The award is open to U.S.-based journalists working in any-sized newsroom and in any media format or platform, from podcasts
-
---- relevant lines ---
-The inaugural winner of the Easterseals Award for Excellence in Coverage of Disabilities will be selected in Fall 2026 and presented with the award at the National Press Foundation Annual Journalism Awards Dinner, February 25, 2027, at the Ritz-Carlton in Washington, D.C.
-NPF issues more than 15 awards every year to recognize and encourage excellence in journalism in keeping with our mission of “making good journalists better.”
-“The stories we tell about disability shape our workforce, our economy, and our future. They influence how we define opportunity, how we support families and caregivers, and how we build systems that open doors instead of closing them. Journalism plays an important role in shaping that understanding,” said Easterseals President and CEO Kendra Davenport.
-“Easterseals is proud to partner with the National Press Foundation to establish this award and recognize journalists whose work brings clarity, context, and substance to the national conversation on disability.”
-Apply now
-Registration Deadline
-Sept. 30, 2026
-Letter of Support: Provide a one page letter of support from your editor explaining how this story was reported, how it meets the award criteria of “providing clarity, context, and substance to the national conversation on disability” and discuss any subsequent impact of the story (changes in policy, changes in circumstance, republication, awards, letters to the editor, etc.) to give further context to the judging panel.
-Deadline for Entry
-September 30, 2026
-Eligibility
-Journalism published or broadcast from Sept. 30, 2025 – Sept. 30, 2026.
-Entry Fee: A non-refundable $25 fee for each entry should be paid by credit card.
-When you have gathered your materials (letter and sample work) apply below. It is not possible to save and return the application later, you will need to have all materials at hand.
-Please submit up to three samples. Submit links when possible. If links are not available you can attach files, although they cannot exceed 20 MB. Related social media or short-form video that supplements coverage may be included in the submission.
-Apply now
-Registration Deadline Sept. 30, 2026
-APPLY: Easterseals Award for Excellence in Coverage of Disabilities
-Award value
-$10,000
-Award established
-2026
-Entry deadline
-Sept. 30, 2026
-More…
-
-=== https://nationalpress.org/awards/u-s-chamber-award-for-excellence-in-local-business-reporting/ ===
-National Press
-Foundation Upcoming
-Fellowships Widening the Pipeline
-Paul Miller for D.C. Press
-All Fellows
-
-Awards Editor of the Year
-Kiplinger Winner
-Taishoff Winner
-
-Resources Beats
-Skills
-Training Videos
-Newsletter
-
-About About NPF
-Staff Board
-NPF AI Principles
-Funding FAQ
-Annual Report
-
-Donate
-
-$10,000 AWARD
-
-APPLY: U.S. Chamber Award for Excellence in Local Business Reporting
-
-Award Established 2025
-
-Applications for the 2026 U.S. Chamber Award for Excellence in Local Business Reporting are now open.
-The U.S. Chamber Award for Excellence in Local Business Reporting recognizes outstanding coverage of local businesses across America.
-The U.S. Chamber of Commerce and the National Press Foundation established the award, which carries a $10,000 prize, to promote journalism excellence about the integral relationship between businesses and the communities in which they operate.
-U.S.-based journalists in any medium are encouraged to apply.
-The jury for this prize will be selected from distinguished current and former journalists.
-The Kansas City Star has won the National Press Foundation’s inaugural U.S. Chamber Award for Excellence in Local Business Reporting for its investigation i
+The journalists are:
+Lian Bunny | Buffalo Business First | New York
+Michael Butler | Miami Herald | Florida
+Janet H. Cho | Barron s
+Re
 
 --- relevant lines ---
-The winner was honored at the NPF Annual Journalism Awards Dinner , March 12, 2026, at the Ritz-Carlton in Washington, D.C.
-NPF issues more than 15 awards every year to recognize and encourage excellence in journalism in keeping with our mission of “making good journalists better.”
-Apply now
-Application Deadline:
-Sept. 30, 2026
-Deadline for Entry
-Tuesday, Sept. 30, 2026
-Entry Fee: A non-refundable $25 fee for each entry should be paid by credit card.
-Eligibility
-Journalism published or broadcast from Sept. 30, 2025 Sept. 30, 2026.
-When you have gathered your materials (letter and sample work) apply below. It is not possible to save and return the application later, you will need to have all materials at hand.
-1. Winning entries will be published on the National Press Foundation website. By submitting an application, you grant NPF permission to do so.
-2. Award winner(s) participate in NPF s annual awards event.
-Apply now
-Application Deadline: Sept. 30, 2026
-APPLY: U.S. Chamber Award for Excellence in Local Business Reporting
-Award value
-$10,000
-Award established
-2025
-Entry deadline
-Sept. 30, 2026
-2025 Award Winner
-More Awards
-APPLY: Easterseals Award for Excellence in Coverage of Disabilities
-$10,000 Award
-Deadline: Sept. 30, 2026
-APPLY: Hinrich Foundation Award for Distinguished Reporting on Trade
-$10,000 Award
-Deadline: Sept. 30, 2026
-APPLY: The AARP Award for Excellence in Journalism on Aging
-$5,000 (x2) Award
-Deadline: Sept. 30, 2026
-View all awards
+This fellowship is sponsored by the U.S. Chamber of Commerce as a continuation of a journalism training and award program launched in 2025. The National Press Foundation is solely responsible for its content.
 Widening the Pipeline Fellowship
 Paul Miller Washington Fellowship
 Awards Editor of the Year

@@ -1,6 +1,6 @@
 SOURCE: Hubert H. Humphrey Fellowship Program
 URL: https://www.humphreyfellowship.org/
-FETCHED: 2026-09-18T13:51:12.074Z
+FETCHED: 2026-10-04T05:29:00.137Z
 TITLE: Home - The Hubert H. Humphrey Fellowship Program
 
 === MAIN PAGE ===

@@ -1,6 +1,6 @@
 SOURCE: Digital Defenders Partnership
 URL: https://www.digitaldefenders.org/
-FETCHED: 2026-09-18T16:12:23.007Z
+FETCHED: 2026-10-04T05:29:00.636Z
 TITLE: Digital Defenders Partnership We fund. We accompany. We facilitate communities.
 
 === MAIN PAGE ===
@@ -61,7 +61,7 @@ Our rapid response mechanism for Human Rights defenders, journalists, and activi
 
 UP TO $5,000
 
-OPEN
+CLOSED
 
 Regional Partnership Fund
 
@@ -93,7 +93,7 @@ feministhelplines.org
 
 Digital First Aid Kit
 
-Visit https://digitalfirst
+Visit https://digitalfir
 
 --- relevant lines ---
 DDP donors, partners, grantees, consultants, and other stakeholders who experience undesirable behaviour from DDP employees or representatives are invited to report it via our external complaints mechanism .
@@ -163,7 +163,7 @@ Our rapid response mechanism for Human Rights defenders, journalists, and activi
 
 UP TO $5,000
 
-OPEN
+CLOSED
 
 Regional Partnership Fund
 
@@ -191,10 +191,10 @@ INVITATION ONLY
 
 Regional Focus Groups
 
-While DDP continues to
+While DDP continues 
 
 --- relevant lines ---
- operate globally and present as a single organisation, regional teams have ownership over the grants to best allocate them according to their needs and contexts.
+to operate globally and present as a single organisation, regional teams have ownership over the grants to best allocate them according to their needs and contexts.
 2025 ANGLOPHONE AFRICA
 2025 FRANCOPHONE AFRICA
 2025 ASIA
@@ -255,7 +255,11 @@ Incident Response Fund
 
 Our rapid response mechanism for human rights defenders, journalists, activists and organisations facing digital threats and attacks.
 
-OPEN
+Due to exceptionally high demand, the Incident Response Fund (IRF) has fully allocated its available budget and is temporarily paused.
+At this time, we are unable to accept new applications and must close all pending applications currently under review. We understand this may be disappointing and sincerely apologize for any inconvenience.
+We appreciate your understanding as we work to identify additional funding options.
+
+CLOSED
 
 DESCRIPTION
 
@@ -265,19 +269,7 @@ ELEGIBILITY TEST
 
 FREQUENT QUESTIONS
 
-APPLY NOW ↷
-
-The IEF provides up to 5,000 USD and can be used to cover costs which will directly reduce the risk or impact of a digital attack. The fund covers activities for a maximum of four months, and we aim to respond to requests within two weeks.
-
-What does the IEF cover?
-
-Replacement of hardware or software which has been taken, lost or stolen.
-
-Purchase of more secure hard- and/or software and costs related to installation of the new systems.
-
-Technical or non-technical activities to respond to urgent issues such as internet blockages.
-
-Measures to improve physical security (related to information management and digital securit
+The IEF provides up to 5,000 USD and can be used to cover costs which will directly reduce the risk or impact of a digital attack. The fund covers activities for a maximum of four months, and we aim to respond to re
 
 --- relevant lines ---
 Application process

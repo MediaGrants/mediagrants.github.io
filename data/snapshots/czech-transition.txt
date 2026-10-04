@@ -1,6 +1,6 @@
 SOURCE: Czech MFA — Transition Promotion Programme
 URL: https://mzv.gov.cz/jnp/en/foreign_relations/human_rights/transition_promotion_program/index.html
-FETCHED: 2026-09-19T03:39:25.508Z
+FETCHED: 2026-10-04T05:29:00.717Z
 TITLE: Transition Promotion Programme | Ministry of Foreign Affairs of the Czech Republic
 
 === MAIN PAGE ===
@@ -49,4 +49,4 @@ Human Rights Framework 2025
 25.01.2024 / 10:49
 25.01.2024 / 10:50
 Nov 11, 2026 The High-Level International Religious Freedom or Belief Alliance Conference 2026
-September 2026
+October 2026
