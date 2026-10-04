@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-04T04:22:34.424Z",
+  "generatedAt": "2026-10-04T12:00:00.000Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -132,11 +132,12 @@
       "url": "https://www.walkleys.com/",
       "why": "Australian journalism foundation that co-administers and hosts grant programmes for freelance journalists.",
       "seenAt": [
-        "judith-neilson"
+        "judith-neilson",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-04",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -369,11 +370,12 @@
       "why": "Co-runs journalism fellowships with other funders (e.g. the European media leaders climate solutions fellowship with EJC) and posts fellowship calls on its own site.",
       "seenAt": [
         "journalismgrants",
-        "ejc-funding"
+        "ejc-funding",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-04",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -381,11 +383,12 @@
       "url": "https://gulbenkian.pt/emifund/grants/",
       "why": "Gulbenkian-hosted fund running open calls for media literacy, disinformation research and journalism-adjacent projects across Europe; surfaced while researching the EEA Grants Romania disinformation call. Not verified in depth — flagged for a future dedicated check.",
       "seenAt": [
-        "eea-grants"
+        "eea-grants",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-21",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-04",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -724,11 +727,12 @@
       "url": "https://efcsn.com/",
       "why": "Runs 'Innovation Grants' funding technical tools and disinformation interventions for European fact-checking organisations — a direct media/verification funder in the information-integrity space OIP covers, missing from the registry.",
       "seenAt": [
-        "open-information-partnership"
+        "open-information-partnership",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-04",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -887,6 +891,45 @@
       "lastSeen": "2026-10-03",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Inspirit Foundation — Journalism Futures Fund",
+      "url": "https://inspiritfoundation.org/journalism-futures-fund/",
+      "why": "New CAD 3.15 million pooled fund (with the Euphrosine, McConnell and Sonor foundations) giving three-year grants to small independent Canadian newsrooms serving underrepresented communities.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "Inspirit Foundation's own announcement (inspiritfoundation.org, Sept 2025 launch, Feb 2026 inaugural winners) and futureofgood.co coverage of the four-foundation pooled fund. Read October 2026."
+    },
+    {
+      "name": "The Fund for American Studies (TFAS) — Journalism Excellence Fellowship",
+      "url": "https://tfas.org/programs/center-for-excellence-in-journalism/journalism-excellence-fellowship/",
+      "why": "New 2026 fellowship placing early-career journalists for 9-12 months in US newsrooms including The Washington Post, The Boston Globe, The Economist and The Dispatch.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "tfas.org launch announcement, \"TFAS launches new Journalism Excellence Fellowship Program\". Read October 2026."
+    },
+    {
+      "name": "African Union Media Fellowship (AUMF)",
+      "url": "https://aumf.au.int/",
+      "why": "Pan-African fellowship run by the AU Commission's Information and Communication Directorate, funding training, mentorship and reporting resources for African journalists and content creators continent-wide.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "au.int press releases on the AUMF 3.0 call and fireside chat, and the fellowship's own site aumf.au.int. Read October 2026."
     }
   ]
 }
