@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-04T12:00:00.000Z",
+  "generatedAt": "2026-10-05T04:43:43.294Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -11,8 +11,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-01",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -35,8 +35,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 2,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -47,8 +47,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-01",
-      "timesSeen": 8,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -73,8 +73,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-04",
-      "timesSeen": 15,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 16,
       "status": "new"
     },
     {
@@ -87,8 +87,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 14,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 15,
       "status": "new"
     },
     {
@@ -197,8 +197,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 6,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -209,8 +209,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 8,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -219,11 +219,12 @@
       "why": "US journalism nonprofit's foundation running an annual grant cycle for journalists/newsrooms plus a small members-only Freelance Fund mini-grant.",
       "seenAt": [
         "gfmd-fundings",
-        "weekly-discovery"
+        "weekly-discovery",
+        "hivos"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 3,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -294,8 +295,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 6,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -449,8 +450,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-04",
-      "timesSeen": 11,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 12,
       "status": "new"
     },
     {
@@ -619,8 +620,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -718,8 +719,8 @@
         "open-information-partnership"
       ],
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-09-29",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -732,18 +733,6 @@
       ],
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-10-04",
-      "timesSeen": 2,
-      "status": "new"
-    },
-    {
-      "name": "CORRECTIV (CORRECTIV.Exile)",
-      "url": "https://correctiv.org/en/exile/",
-      "why": "German investigative newsroom running a recurring, twice-yearly paid residency in Berlin for exiled journalists.",
-      "seenAt": [
-        "gijn-grants"
-      ],
-      "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-02",
       "timesSeen": 2,
       "status": "new"
     },
@@ -768,18 +757,6 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 2,
-      "status": "new"
-    },
-    {
-      "name": "The New York Times (Newsroom Fellowship Program)",
-      "url": "https://www.nytco.com/careers/newsroom/newsroom-fellowship/",
-      "why": "Runs an annual paid early-career fellowship for journalists authorized to work in the US/UK; a major, recurring opportunity not currently tracked as its own dedicated funder source.",
-      "seenAt": [
-        "gijn-grants"
-      ],
-      "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-02",
       "timesSeen": 2,
       "status": "new"
@@ -816,8 +793,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-05",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -850,30 +827,6 @@
       "why": "Jointly runs the Critical Voices Fellowship for exiled Myanmar media professionals, surfaced via gfmd-fellowships but not tracked as its own funder source.",
       "seenAt": [
         "gfmd-fellowships"
-      ],
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 1,
-      "status": "new"
-    },
-    {
-      "name": "CORRECTIV",
-      "url": "https://correctiv.org",
-      "why": "Runs the CORRECTIV.Exile Journalist-in-Residence programme for exiled journalists, surfaced via gijn-grants but not tracked as its own funder source.",
-      "seenAt": [
-        "gijn-grants"
-      ],
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 1,
-      "status": "new"
-    },
-    {
-      "name": "The New York Times",
-      "url": "https://www.nytco.com/careers/newsroom/newsroom-fellowship/",
-      "why": "Runs a paid year-long early-career journalism fellowship, surfaced via gijn-grants but not tracked as its own funder source.",
-      "seenAt": [
-        "gijn-grants"
       ],
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-03",
@@ -930,6 +883,54 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "au.int press releases on the AUMF 3.0 call and fireside chat, and the fellowship's own site aumf.au.int. Read October 2026."
+    },
+    {
+      "name": "CORRECTIV (CORRECTIV.Exile)",
+      "url": "https://correctiv.org/en/exile/",
+      "why": "German investigative newsroom running a recurring, twice-yearly paid residency in Berlin for exiled journalists.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-10-05",
+      "timesSeen": 4,
+      "status": "new"
+    },
+    {
+      "name": "The New York Times (Newsroom Fellowship Program)",
+      "url": "https://www.nytco.com/careers/newsroom/newsroom-fellowship/",
+      "why": "Runs an annual paid early-career fellowship for journalists authorized to work in the US/UK; a major, recurring opportunity not currently tracked as its own dedicated funder source.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-05",
+      "timesSeen": 4,
+      "status": "new"
+    },
+    {
+      "name": "SEECheck Network",
+      "url": "https://seecheck.org/",
+      "why": "Regional fact-checking network offering short-term grants (EUR 5,000-12,000, 3-6 months) to CSOs and media outlets fighting disinformation in Southeast Europe.",
+      "seenAt": [
+        "open-information-partnership"
+      ],
+      "firstSeen": "2026-10-05",
+      "lastSeen": "2026-10-05",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Transitions Media (Building Resilient Journalism Program)",
+      "url": "https://transitionsmedia.org/",
+      "why": "Runs a programme combating disinformation in Southeast Europe through journalism training and direct support for news production debunking disinformation.",
+      "seenAt": [
+        "open-information-partnership"
+      ],
+      "firstSeen": "2026-10-05",
+      "lastSeen": "2026-10-05",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
