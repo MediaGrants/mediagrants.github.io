@@ -1,6 +1,6 @@
 SOURCE: Heinrich Böll Stiftung
 URL: https://www.boell.de/en
-FETCHED: 2026-10-04T05:28:58.478Z
+FETCHED: 2026-10-05T03:45:33.145Z
 TITLE: Heinrich Böll Stiftung
 
 === MAIN PAGE ===

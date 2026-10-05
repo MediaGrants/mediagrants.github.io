@@ -1,6 +1,6 @@
 SOURCE: IJNet — Opportunities
 URL: https://ijnet.org/en/rss.xml
-FETCHED: 2026-10-03T03:53:19.609Z
+FETCHED: 2026-10-05T03:45:26.930Z
 TITLE: (feed)
 
 === FEED ITEMS ===

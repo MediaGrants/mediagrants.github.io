@@ -1,6 +1,6 @@
 SOURCE: Hivos
 URL: https://hivos.org/
-FETCHED: 2026-10-04T05:28:58.589Z
+FETCHED: 2026-10-05T03:45:33.099Z
 TITLE: Hivos - People Unlimited
 
 === MAIN PAGE ===

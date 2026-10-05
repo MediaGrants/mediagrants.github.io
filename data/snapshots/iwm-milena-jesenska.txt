@@ -1,6 +1,6 @@
 SOURCE: IWM Vienna — Milena Jesenská Fellowships
 URL: https://www.iwm.at/
-FETCHED: 2026-10-04T05:28:58.867Z
+FETCHED: 2026-10-05T03:45:33.815Z
 TITLE: Main | IWM WEBSITE
 
 === MAIN PAGE ===
@@ -104,15 +104,16 @@ Previous Next
 
 Current Fellows' research
 
-Culture, Politics, and State: Ukraine's Post-Maidan Generation
+Confronting Death-Worlds: Knowing Violence Otherwise
 
-During her IWM residency, Daria Badior will be working on a collection of 10 essays devoted to the generation of Ukrainian culture makers, curators, and managers whose careers blossomed right after the Revolution of Dignity and the firs
+During her fellowship, Birgit Poopuu will focus on writing her ERC grant proposal, which is guided by the question: How should we think about violence today?
+
+Birgit Poopuu
+Tallinn University
+During her fellowship, Birgit Poopuu will focus on wri
 
 --- relevant lines ---
-t phase of the Russian war on Ukraine (2014–2022).
-During her IWM residency, Daria Badior will be working on a collection of 10 essays devoted to the generation of Ukrainian culture makers, curators, and managers whose careers blossomed right after the Revolution of Dignity and the first phase of the Russian war on Ukraine (2014–2022).
-The project focuses on geopolitical risk, a subject on which Thomas Gomart began publishing in 2016 with the ambition of helping companies improve their forecasting.
-The project focuses on geopolitical risk, a subject on which Thomas Gomart began publishing in 2016 with the ambition of helping companies improve their forecasting. Ten years later, geopolitical risk ranks among the top priorities for business leaders, creating a specific "market" within the marketplace of ideas.
+ting her ERC grant proposal, which is guided by the question: How should we think about violence today?
 04.09.2026
 Application Deadline: 16 October 2026
 01.10.2026
@@ -139,10 +140,8 @@ This month, 14 fellows are joining the Institute. Learn more about their fellows
 Pankaj Mishra's VHF Keynote on 24 September Moved to MuTh
 23.09.2026
 Due to the unfavorable weather forecast, the venue for Pankaj Mishra's September 24 keynote at the Vienna Humanities Festival—originally planned as an outdoor event—has been changed.
-During her IWM residency, Daria Badior will be working on a collection of 10 essays devoted to the generation of Ukrainian culture makers, curators, and managers whose careers blossomed right after the Revolution of Dignity and the first phase of the Russian war on Ukraine (2014–2022).
-During her IWM residency, Daria Badior will be working on a collection of 10 essays devoted to the generation of Ukrainian culture makers, curators, and managers whose careers blossomed right after the Revolution of Dignity and the first phase of the Russian war on Ukraine (2014–2022).
-The project focuses on geopolitical risk, a subject on which Thomas Gomart began publishing in 2016 with the ambition of helping companies improve their forecasting.
-The project focuses on geopolitical risk, a subject on which Thomas Gomart began publishing in 2016 with the ambition of helping companies improve their forecasting. Ten years later, geopolitical risk ranks among the top priorities for business leaders, creating a specific "market" within the marketplace of ideas.
+During her fellowship, Birgit Poopuu will focus on writing her ERC grant proposal, which is guided by the question: How should we think about violence today?
+During her fellowship, Birgit Poopuu will focus on writing her ERC grant proposal, which is guided by the question: How should we think about violence today?
 04.09.2026
 Application Deadline: 16 October 2026
 
@@ -262,7 +261,7 @@ Sign up to our Newsletter
 Subscribe to IWM post
 Contact
 
-=== https://www.iwm.at/fellow/jan-werner-muller ===
+=== https://www.iwm.at/fellow/birgit-poopuu ===
 Skip to main content
 
 Search
@@ -351,9 +350,125 @@ Open Calls
 
 DONATE
 
-Jan-Werner M ller
+Birgit Poopuu
 
-Princeton University
+Tallinn University
+
+Most recent fellowship dates
+
+01.10.2026
+- 31.10.2026
+
+Fellowships
+
+Fellowships
+
+Confronting Death-Worlds: Knowing Violence Otherwise
+
+01.10.2026
+- 31.10.2026
+
+Program
+
+Emma Goldman Fellowship
+
+During her fellowship, Birgit Poopuu will focus on writing her ERC grant proposal, which is guided by the question: How should we think about violence today? Poopuu argues that this question has acquired renewed urgency as contemporary political projects increasingly consolidate "death-worlds"—worlds in which the political rendering of certain people as killable, alongs
+
+--- relevant lines ---
+During her fellowship, Birgit Poopuu will focus on writing her ERC grant proposal, which is guided by the question: How should we think about violence today? Poopuu argues that this question has acquired renewed urgency as contemporary political projects increasingly consolidate "death-worlds"—worlds in which the political rendering of certain people as killable, alongside forms of slow destruction, have become normalized features of world politics. Rather than treating violence as an event or crisis, the project begins from the premise that our recurring reliance on the language of "crisis" reflects a deeper conceptual failure in how violence is understood within international relations and beyond. What forms of knowledge have been excluded from dominant accounts of violence? Whose experiences remain marginal to the production of knowledge about violence? And which connections between different forms of violence are routinely severed in mainstream analyses? By foregrounding these questions, the project develops an alternative analytical framework for understanding violence—one that confronts the death-worlds that contemporary political projects continue to cement.
+
+=== https://www.iwm.at/fellow/anna-wojciuk ===
+Skip to main content
+
+Search
+
+Main navigation
+
+Home
+
+About
+
+Toggle
+
+Mission and Vision
+
+Academic Staff
+
+Staff
+
+Careers
+
+Facilities
+
+Former Academic Staff
+
+Insights
+
+Toggle
+
+IWM Podcasts
+
+Made in IWM
+
+Chronicle from Belarus
+
+Focus
+
+Europe's Futures
+
+Programs
+
+Toggle
+
+Foci of the IWM
+
+Honoring the Legacy of
+
+For Journalists and Translators
+
+Fellows
+
+Toggle
+
+Become a Fellow
+
+Current
+
+Upcoming
+
+Alumni
+
+Events
+
+Toggle
+
+Upcoming events
+
+Past events
+
+Publications
+
+Toggle
+
+IWM Books
+
+Books by Fellows
+
+Celan Translations
+
+IWMpost
+
+JVF Conference Proceedings
+
+Transit (1990 – 2017)
+
+Open Calls
+
+DONATE
+
+Anna Wojciuk
+
+University of Warsaw
 
 Most recent fellowship dates
 
@@ -364,7 +479,7 @@ Fellowships
 
 Fellowships
 
-Free Academia, or What, If Anything, Do Universities Do for Liberal Democracy?
+New Institutional Designs
 
 01.09.2026
 - 30.06.2027
@@ -373,20 +488,12 @@ Program
 
 Facing the Future
 
-Academic freedom is under attack in many countries. The obvious explanation would seem to be that our times are characterized by what social scientists are now calling a global "democratic recession": aspiring autocrats are successfully undermining democracies, and universities are among their prime targets. But why exactly are they targets? Is
+Anna Wojciuk's current research focuses on the future of liberal democracy in the context of deep political polarization, democratic backsliding, and the growing challenge posed by contemporary radical rightwing movements: what happens when the traditional center right—historically one of the key stabilizing pillars of liberal-democratic orders—weakens, radicalizes, or loses its capacity to sustain co
 
 --- relevant lines ---
-01.09.2016
-- 31.08.2017
-Democracy Fellowship
-Passagen Verlag , 2019
-31.07.2020
-28 Sep 2026
-11 Dec 2025
-27 Apr 2025
-16 May 2023
-Time To Decide Europe Summit 2023
-2 Apr 2017
+During her fellowship, Wojciuk intends to comparatively and theoretically research the question of how democratic systems can remain stable and legitimate in societies characterized by durable ideological disagreement and increasingly incompatible visions of what constitutes good political order. Taking as its departure point the arguments laid out in the book Let's Agree on Poland: A Case Study in Strategic Constitutional Design (Oxford: Oxford University Press, 2026), which she co-edited with Maciej Kisilowski, the project explores whether the current crisis of liberal democracy should be understood not merely as democratic decline, but also as a broader transformation of democratic governance, legitimacy, representation, and constitutionalism amid cultural fragmentation and geopolitical uncertainty. In particular, it examines how different democratic systems respond to long-term polarization, how constitutional orders adapt to persistent ideological conflict, and whether new forms of institutional design can help democratic societies preserve both stability and political pluralism.
+During her fellowship, Wojciuk intends to comparatively and theoretically research the question of how democratic systems can remain stable and legitimate in societies characterized by durable ideological disagreement and increasingly incompatible visions of what constitutes good political order. Taking as its departure point the arguments laid out in the book Let's Agree on Poland: A Case Study in Strategic Constitutional Design (Oxford: Oxford University Press, 2026), which she co-edited with Maciej Kisilowski, the project explores whether the current crisis of liberal democracy should be understood not merely as democratic decline, but also as a broader transformation of democratic governance, legitimacy, representation, and constitutionalism amid cultural fragmentation and geopolitical uncertainty. In particular, it examines how different democratic systems respond to long-term polarization, how constitutional orders adapt to persistent ideological conflict, and whether new forms of institutional design can help democratic societies preserve both stability and political pluralism.
+23 Sep 2026
 
 === https://www.iwm.at/calls/erc-mentoring-initiative ===
 Skip to main content

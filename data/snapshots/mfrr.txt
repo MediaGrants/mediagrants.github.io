@@ -1,6 +1,6 @@
 SOURCE: Media Freedom Rapid Response
 URL: https://www.mfrr.eu/
-FETCHED: 2026-10-02T03:43:26.250Z
+FETCHED: 2026-10-05T03:45:31.327Z
 TITLE: Media Freedom Rapid Response
 
 === MAIN PAGE ===
@@ -27,6 +27,12 @@ Steadfast support for Massimo Moratti, MFRR researcher, as he is facing an expul
 
 Recent updates
 
+02 October 2026
+Statements
+
+Ukraine: One year after Antoni Lallican was killed in the field, MFRR partners demand justice
+One year after a targeted Russian drone strike killed French freelance photojournalist Antoni Lallican in Ukraine, MFRR partners mark the anniversary by renewing their call for effective cooperation between French…
+
 01 October 2026
 Statements
 
@@ -37,13 +43,7 @@ The Hon. Robert Abela Prime Minister of Malta CC: The Hon. Clifton Grima Ministe
 Statements
 
 Steadfast support for Massimo Moratti, MFRR researcher, as he is facing an expulsion order from Serbian authorities
-The Media Freedom Rapid Response (MFRR), press freedom and free expression partners express our firm support for our colleague Massimo Moratti, the Senior Research Affiliate for the Osservatorio Balcani Caucaso…
-
-07 September 2026
-Monitoring
-
-Monitoring Briefing 2026
-The first half of 2026 saw a wide variety of attacks on journalists, media out
+The Medi
 
 --- relevant lines ---
 Led by European Centre for Press and Media Freedom and implemented with ARTICLE 19 Europe , European Federation of Journalists , International Press Institute , Free Press Unlimited and Osservatorio Balcani e Caucaso Transeuropa , the consortium monitors violations, supports journalists at risk and drives coordinated advocacy.
