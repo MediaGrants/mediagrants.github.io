@@ -944,6 +944,90 @@
       "lastSeen": "2026-10-06",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Danida (Denmark)",
+      "url": "https://um.dk/en/danida",
+      "why": "Danish bilateral development cooperation. Media and civil society money is allocated country by country through embassies rather than through open calls, so a newsroom rarely applies directly.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "Irish Aid",
+      "url": "https://www.ireland.ie/en/irish-aid/what-we-do/strengthening-governance/",
+      "why": "Irish bilateral aid with a governance strand; country-level discretion rather than published calls.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "Austrian Development Agency (ADA)",
+      "url": "https://www.entwicklung.at/en/countries/western-balkans",
+      "why": "Austrian development agency with a standing Western Balkans programme, which makes it more relevant to this region than most bilateral donors.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "BMZ / develoPPP (Germany)",
+      "url": "https://www.developpp.de/en/application/",
+      "why": "German development ministry programme with a real application route, though aimed at private-sector partnerships rather than media.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "Polish Development Cooperation (Polska Pomoc)",
+      "url": "https://www.gov.pl/web/polishaid/department-of-development-cooperation",
+      "why": "Polish bilateral aid, active in the Eastern Partnership.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "RoAid (Romania)",
+      "url": "https://roaid.ro/en/about-us/",
+      "why": "Romanian development cooperation agency, active in the Western Balkans and the Eastern Partnership.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "Japan International Cooperation Agency (JICA)",
+      "url": "https://www.jica.go.jp/english/activities/schemes/grant_aid/index.html",
+      "why": "Japanese grant aid, allocated government to government.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "Korea International Cooperation Agency (KOICA)",
+      "url": "https://www.koica.go.kr/",
+      "why": "Korean development agency.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "LuxDev (Luxembourg)",
+      "url": "https://luxdev.lu/en/tenders/propositions",
+      "why": "Luxembourg development cooperation; publishes tenders rather than grant calls.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "New Zealand MFAT aid programme",
+      "url": "https://www.mfat.govt.nz/en/aid-and-development",
+      "why": "New Zealand development programme.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "KR Foundation",
+      "url": "https://krfnd.org/funding/",
+      "why": "Climate and sustainability funder. Its funding page did not answer an automated check, so the URL needs confirming by hand before this becomes a source.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+    },
+    {
+      "name": "EU Neighbours East",
+      "url": "https://euneighbourseast.eu/opportunities/",
+      "why": "EU opportunities portal for the Eastern Partnership, which would be directly useful. The page did not answer an automated check and needs confirming.",
+      "seenAt": ["oip-donor-database"],
+      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
     }
   ]
 }
