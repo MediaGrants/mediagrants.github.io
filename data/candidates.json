@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-05T04:43:43.294Z",
+  "generatedAt": "2026-10-06T04:39:54.656Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -20,11 +20,12 @@
       "url": "https://ipi.media/innovation/media-innovation-europe/",
       "why": "Funds European media organisations' audience-engagement and business-innovation projects.",
       "seenAt": [
-        "gfmd-fundings"
+        "gfmd-fundings",
+        "birn"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-01",
-      "timesSeen": 2,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -47,8 +48,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 9,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -60,8 +61,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 11,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 12,
       "status": "new"
     },
     {
@@ -73,8 +74,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 16,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 17,
       "status": "new"
     },
     {
@@ -87,8 +88,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 15,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 17,
       "status": "new"
     },
     {
@@ -99,8 +100,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 10,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -111,8 +112,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 10,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -295,8 +296,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 7,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -450,8 +451,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 12,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 14,
       "status": "new"
     },
     {
@@ -546,8 +547,8 @@
         "uk-embassy-belgrade"
       ],
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-27",
-      "timesSeen": 2,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -571,8 +572,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-01",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -744,8 +745,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-09-30",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -793,8 +794,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 2,
+      "lastSeen": "2026-10-06",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -929,6 +930,18 @@
       ],
       "firstSeen": "2026-10-05",
       "lastSeen": "2026-10-05",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Journalists Programme (IJP)",
+      "url": "https://ijp.org/en/programmes/",
+      "why": "Runs the recurring German-Northern European Journalists Fellowship 2027 (EUR 3,800 partial support).",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
       "timesSeen": 1,
       "status": "new"
     }
