@@ -1,6 +1,6 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-10-05T03:45:27.100Z
+FETCHED: 2026-10-06T03:43:51.216Z
 TITLE: (feed)
 
 === FEED ITEMS ===
@@ -49,15 +49,6 @@ The post German–Northern European Journalists Fellowship 2027 appeared first o
 ]]>
 https://gfmd.info/fundings/german-northern-european-journalists-fellowship-2027/
 
-MLADI Award 2026
-Wed, 16 Sep 2026 14:03:23 +0000
-The Media Diversity Institute – Western Balkans is once again launching a call for entries for the MLADI Award as part of the YOU(th) CARE for CHANGE project. The themes of this year s competition are: The gender perspective of climate change and artificial intelligence Women as drivers of environmental and social change The goal of [ ]
-
-The post MLADI Award 2026 appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/mladi-award-2026/
-
 Call for proposals on countering disinformation Poland
 Fri, 11 Sep 2026 12:22:52 +0000
 Eligibility: Polish fact-checkers and news organisations combatting disinformation Target Region: Poland Application Language: English The Civil Society Fund is announcing a call for proposals for civil society organisations in Poland to counter disinformation, support activities that strengthen democratic values and the rule of law, and protect human rights. The fund supports Polish civil society organisations [ ]
@@ -66,15 +57,6 @@ The post Call for proposals on countering disinformation Poland appeared first o
 
 ]]>
 https://gfmd.info/fundings/call-for-proposals-on-countering-disinformation-poland/
-
-SAFE Media capacity support fund opens for applications
-Fri, 04 Sep 2026 11:11:20 +0000
-Eligibility: independent media from the Eastern Partnership region (EaP), looking to provide training Target region: Armenia, Azerbaijan, Belarus, Georgia, the Republic of Moldova and Ukraine. Language: English The Support and Assistance for Free Expression (SAFE) project offers training grants to independent media from the Eastern Partnership region (EaP). These grants fund training programmes that enhance journalistic [ ]
-
-The post SAFE Media capacity support fund opens for applications appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/safe-media-capacity-support-fund-opens-for-applications/
 
 WCSJ2027 Travel Fellowship
 Fri, 04 Sep 2026 10:57:32 +0000
@@ -111,6 +93,24 @@ The post Audience-Engaged Journalism Grants appeared first on GFMD .
 
 ]]>
 https://gfmd.info/fundings/audience-engaged-journalism-grants-5/
+
+LMDIF Western Balkans Fund
+Fri, 03 Jul 2026 12:01:30 +0000
+Eligibility: Media located in or serving audiences in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. Target Region: Balkans Application Language: English MDIF Western Balkans Fund is a strategic initiative to foster growth and resilience in independent media in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It takes a holistic [ ]
+
+The post LMDIF Western Balkans Fund appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/lmdif-western-balkans-fund/
+
+Invisible Life Grant
+Fri, 19 Jun 2026 10:56:15 +0000
+Eligibility: cross-border teams of journalists/news outlets researching European animal welfare Target Region: Europe Application Language: English, Dutch, French The Invisible Life Grant supports cross-border teams of professional journalists and/or news outlets to conduct investigations into farm animal welfare and related European interests, both within and beyond Europe. The programme is open to teams investigating how [ ]
+
+The post Invisible Life Grant appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/invisible-life-grant-round-4-2026/
 
 === https://gfmd.info/fundings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/ ===
 Support journalism GFMD IMPACT
@@ -381,53 +381,6 @@ Find Funding Funding Opportunities
 Fundraising Guide
 Funder Profiles
 
-=== https://gfmd.info/fundings/mladi-award-2026/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings MLADI Award 2026
-Organisation: Media Diversity Institute (MDI)
-
-Status: Open
-Type: Awards and Prizes
-
-Theme: Gender equality in media
-
-Funding Size: 45,000 Dinars
-Deadline: 04/10/2026
-
-The Media Diversity Institute – Western Balkans is once again launching a call for entries for the MLADI Award as part of the YOU(th) CARE for CHANGE project. The themes of this year s competition are:
-The gender perspective of climate change and artificial intelligence
-Women as drivers of environmental and social change
-The goal of this competition is to encourage young people to think critically about the impact of climate change and artificial intelligence on society—with a particular focus on the gender perspective—and to recognize and highlight the importance of women in driving environmental and social change. We encourage participants to exp
-
---- relevant lines ---
-The winner will be notified via email on October 16, 2026. The results will also be published on our MLADI website and MLADI social media channels. Additionally, a symbolic award—a plaque—will be presented on October 30 at an event we are planning as part of Media and Information Literacy Week, which is observed annually from October 24 to 31.
-The application deadline is October 4, 2026, at 11:59 PM. You can submit your entries via email to aleksandar@media-diversity.org with the subject line MLADI nagrada (MLADI Award).
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
 === https://gfmd.info/fundings/call-for-proposals-on-countering-disinformation-poland/ ===
 Support journalism GFMD IMPACT
 Policy and Advocacy
@@ -476,63 +429,6 @@ Applications may be submitted in partnership with eligible entities; partnership
 How to apply
 Submit through the Online Application System only — applications sent by regular post or email will not be considered. Deadline is 6 October 2026 at 12:00 CEST (noon). Review the Guidelines for Applicants and Project Promoters and the formal/merit assessment cards before submitting.
 Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/safe-media-capacity-support-fund-opens-for-applications/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings SAFE Media capacity support fund opens for applications
-Organisation: European Centre for Press and Media Freedom (ECPMF)
-
-Status: Open
-Type: Grant
-
-Theme: Media support
-
-Funding Size: €5,000 per training programme
-Deadline: 04/10/2026
-
-Eligibility: independent media from the Eastern Partnership region (EaP), looking to provide training
-Target region: Armenia, Azerbaijan, Belarus, Georgia, the Republic of Moldova and Ukraine.
-Language: English
-The Support and Assistance for Free Expression (SAFE) project offers training grants to independent media from the Eastern Partnership region (EaP). These grants fund training programmes that enhance journalistic reporting and resilience, helping independent media outlets continue their work safely and sustainably under high-risk conditions.
-Requirements
-The training programmes must take pl
-
---- relevant lines ---
-ace before 30 December 2026.
-The training programmes must target primarily media workers affiliated with the applying media outlet.
-Eligible topics include, but are not limited to: Mental health, Physical safety, Digital security, Journalistic and editorial skills enhancement, Capacity building aimed at improving the outlet’s operational capacity
-A report detailing the training outcomes, financial expenditure, and impact must be submitted to ECPMF by 15 January 2027.
-Applicants must submit a proposal form outlining: Basic information about the applying outlet
-The purpose of the grant, including the training’s objectives and expected impact, The relevance of the proposed training. A budget, including a breakdown of costs for the proposed training.
-Eligibility
-Grants can also be used to fund training for individual members of the editorial team.
-How to apply
-To be considered for the grant, you would also need to download this template , fill it in, and attach it to your application form. Application form still notes deadline of 30 September, which you can disregard. Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide
@@ -640,6 +536,112 @@ A well-developed story pitch demonstrating investigative merit, originality, rea
 Grantees must publish in a U.S. outlet within one year of receiving a grant and must credit the IWMF.
 How to Apply
 Submit the application through the IWMF Submittable portal on a rolling basis; there is no fixed closing date for the current programme cycle. Larger awards are considered on a case-by-case basis. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/belgian-bridge-programme/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings Belgian Bridge Programme
+Organisation: Journalismfund Europe
+
+Status: Open
+Type: Grant
+
+Theme: Investigative journalism
+
+Funding Size: EUR 100,000 available in total
+Deadline: 15/10/2026
+
+Eligibility: Dutch-speaking and French-speaking journalists residing in Belgium
+Target Region: Belgium
+Application Language: Dutch, French
+The Belgian Bridge programme supports collaborative investigative projects led by Dutch-speaking and French-speaking journalists residing in Belgium who work together on local issues of national importance. The goal is to produce multilingual journalism that exposes how issues arise on both sides of Belgium s language border, thereby bringing communities closer together. The programme is in its pilot phase in 2026, with a total of €100,000 available, supported by the King Baudouin Foundation. Grants cover wor
+
+--- relevant lines ---
+Eligibility
+Administrative documents as specified in the grant rules.
+How to Apply
+Register with an email address on the Journalismfund Europe grants portal, then complete and submit the online application before 15 October 2026 at 1:00 p.m. CET (Brussels time). Pre-application advice is available via phone or a video-call appointment; contact details are on the funder s page. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/audience-engaged-journalism-grants-5/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings Audience-Engaged Journalism Grants
+Organisation: Balkan Investigative Reporting Network (BIRN)
+
+Status: Open
+Type: Grant
+
+Theme: Investigative journalism
+
+Funding Size: up to EUR 9,400
+Deadline: 12/10/2026
+
+Eligibility: Eastern European journalists with a story proposal
+Target Region: Eastern Europe, Caucasus, and Central Asia
+Application Language: English
+The Balkan Investigative Reporting Network (BIRN) is launching the first call for Audience-Engaged Journalism Grants as part of the third edition of the Media Innovation Europe (MIE) initiative, led by the International Press Institute. The programme offers grants, a four-day online training course, professional mentoring, and access to BIRN s BE Engaged digital crowdsourcing tool to media outlets from ten Balkan and Visegrad countries. It supports investigative and in-depth st
+
+--- relevant lines ---
+Eligibility
+Legally registered media organisations from Albania, Bosnia and Herzegovina, the Czech Republic, Hungary, Kosovo, Montenegro, North Macedonia, Poland, Serbia, and Slovakia may apply.
+Applicants must be registered as legal entities on or before January 1, 2024.
+Proposals that involve underrepresented communities — including women, young people, national and ethnic minorities, LGBTQ+ people and other marginalised or underreported groups — are particularly encouraged.
+A story proposal explaining the issue being investigated, why the topic is important, the affected community involved, how citizens will contribute to the reporting process, and the expected public impact of the story.
+A completed financial proposal using the budget template provided.
+Relevant financial and registration documents and certificates as specified in the full Call for Applications.
+Individual grants of up to EUR 4,700 are available for stories addressing national, regional, or local issues; cross-border grants of up to EUR 9,400 are available for at least two media organisations working together on a topic relevant to audiences across Balkan and Visegrad countries.
+Under this call, BIRN will award up to four individual grants and up to two cross-border grants; selected media outlets are expected to begin implementation on December 1, 2026, with projects lasting up to eight months and all activities completed by July 31, 2027.
+How to Apply
+Access and complete the online application form through the provided link. All required supporting documents must be submitted together with the application by October 12, 2026, at midnight CET. An online information session in English will be held on September 7, 2026, at 14:00 CET. Questions may be submitted to the BE Tool Coordinator by October 5, 2026.
+Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

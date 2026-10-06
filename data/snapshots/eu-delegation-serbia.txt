@@ -1,6 +1,6 @@
 SOURCE: EU Delegation to Serbia — calls for proposals
 URL: https://europa.rs/
-FETCHED: 2026-10-03T03:53:24.101Z
+FETCHED: 2026-10-06T03:43:53.719Z
 TITLE: Početna - EU u Srbiji
 
 === MAIN PAGE ===
@@ -100,12 +100,12 @@ Zajednička izjava izvr
 05/09/2026
 02/09/2026
 26/08/2026
-„Evropa moja priča!” Otvoren likovni konkurs za kalendar programa EU PRO Plus za 2027. godinu
+DiscoverEU: Putne karte za mlade rođene 2008. godine
+DiscoverEU: Putne karte za mlade rođene 2008. godine
+05/10/2026
 02/10/2026
 01/10/2026
 30/09/2026
-„Evropa moja priča!” Otvoren likovni konkurs za kalendar programa EU PRO Plus za 2027. godinu
-25/09/2026
 Copyright © EU Delegacija u Srbiji 2025. Sva prava zadržana.
 
 === https://europa.rs/eu-funding/wbif/ ===

@@ -1,6 +1,6 @@
 SOURCE: EU mogućnosti — donor calls in Serbia
 URL: https://eumogucnosti.rs/
-FETCHED: 2026-10-03T03:53:24.003Z
+FETCHED: 2026-10-06T03:43:54.012Z
 TITLE: EU mogućnosti
 
 === MAIN PAGE ===
@@ -17,7 +17,24 @@ Search for:
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ENM 2026
 ARHIVA ENM 2024
@@ -34,7 +51,24 @@ Evropska kuća
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ARHIVA ENM 2023
 
@@ -45,52 +79,26 @@ FOTO
 
 Search for:
 
-Delegacija EU u Republici Srbiji: Plaćena stručna praksa prijavite se do 16. oktobra!
+EYE2027: Poziv mladima da organizuju aktivnosti u Evropskom parlamentu
 
-EUDEL Otvoreni pozivi i tenderi
-
-YUCOM: EU grantovi do 20.000 evra za besplatnu pravnu pomoć u Srbiji
-
-Civilno društvo
-Kultura, mediji i civilno društvo
-Obrazovanje
-
-Nominacije za sedam najugroženijih lokaliteta kulturnog nasleđa u Evropi
-
-Civilno društvo
-Kultura
-Lokalni razvoj
-
-ERC grantovi do 25.000 evra za regionalne projekte na Zapadnom Balkanu
-
-Biznis
-Biznis i inovacije
-Civilno društvo
-Kultura
-Lokalni razvoj i teritorijalna saradnja
+Mladi
 Obrazovanje
 Obrazovanje, mladi i sport
 
-RESCALE: EU podrška malim i srednjim preduzećima iz južne i istočne Srbije
+Delegacija EU u Republici Srbiji: Plaćena stručna praksa prijavite se do 16. oktobra!
 
-Biznis
-Biznis i inovacije
-Lokalni razvoj
-
-GLAS(NO) O PRAVIMA: EU Grantovi za organizacije i medije
-
-Civilno društvo
-Kultura, mediji i civilno društvo
-Lokalni razvoj
-Mediji
-
-Perf
+EUDEL Otvoreni pozi
 
 --- relevant lines ---
-orm Europe 2026–2028: Otvoren poziv za međunarodne turneje u oblasti izvođačkih umetnosti U toku
+YUCOM: EU grantovi do 20.000 evra za besplatnu pravnu pomoć u Srbiji
+ERC grantovi do 25.000 evra za regionalne projekte na Zapadnom Balkanu
+Perform Europe 2026–2028: Otvoren poziv za međunarodne turneje u oblasti izvođačkih umetnosti U toku
 22/07/2026 - 22/10/2026
 22/09/2026 - 08/10/2026
-29/09/2026 - 02/10/2026
+ERC grantovi do 25.000 evra: Info-sesija 6. oktobra u Evropskoj kući
+06/10/2026
+08/10/2026
+05/10/2026
 23/09/2026
 11/09/2026
 06/08/2026
@@ -102,7 +110,6 @@ Evropska fondacija za mlade (EYF): Kako organizacije iz Srbije mogu do grantova 
 14/03/2026
 13/03/2026
 07/02/2026
-30/12/2025
 EU nedelja mogućnosti 2026: Mladi, obrazovanje i sport
 EU nedelja mogućnosti 2026: Lokalni razvoj i zelena tranzicija
 EU nedelja mogućnosti 2026: Kultura i civilno društvo
@@ -152,7 +159,24 @@ Search for:
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ENM 2026
 ARHIVA ENM 2024
@@ -169,7 +193,24 @@ Evropska kuća
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ARHIVA ENM 2023
 
@@ -188,15 +229,7 @@ Rok za prijavu: 6.11.2026. godine do 17:00 časova
 
 Finansijska podrška: od 10.000 do 20.000 evra po projektu
 
-Oblast: kultura, mediji i civilno društvo
-
-Konkurs je za: organizacije civilnog društva i univerzitetske pravne klinike
-
-Komitet pravnika za ljudska prava – YUCOM objavio je javni poziv za finansijsku podršku lokalnim organizacijama civilnog društva i univerzitetskim pravnim klinikama koje rade na unapređenju pristupa pravdi i dostupnosti besplatne pravne pomoći u Srbiji.
-
-Poziv je raspisan u okviru projekta „Pristup pravnoj pomoći za sve“ , koji finansira Evropska unija , a sprovodi YUCOM u partnerstvu sa Udruženjem Fenomena , organizacijom IZ KRUGA – VOJVODINA i Mrežom odbora za ljudska prava u Srbiji – CHRIS .
-
-Kr
+Oblast: kultura, mediji i 
 
 === https://eumogucnosti.rs/erc-grantovi-do-25-000-evra-za-regionalne-projekte-na-zapadnom-balkanu/ ===
 Skip to content
@@ -211,7 +244,24 @@ Search for:
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ENM 2026
 ARHIVA ENM 2024
@@ -228,7 +278,24 @@ Evropska kuća
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ARHIVA ENM 2023
 
@@ -247,17 +314,9 @@ Rok za prijavu: 26.10.2026. godine u 13:59
 
 Finansijska podrška: od 20.000 do 25.000 EUR po projektu
 
-Oblast: regionalna saradnja, kultura, obrazovanje i nauka, održivi razvoj
+Oblast: regionalna saradnja, kul
 
-Konkurs je za: neprofitne organizacije i udruženja u regionalnom partnerstvu
-
-Fond za Zapadni Balkan – Western Balkans Fund (WBF) otvorio je drugo izdanje poziva Empowering Regional Cooperation – ERC , namenjenog regionalnim projektima koje zajednički sprovode organizacije iz najmanje četiri ugovorne strane Fonda.
-
-Poziv podržava veće regionalne inicijative koje doprinose saradnji organizacija civilnog društva, procesu evropskih integracija, izgradnji poverenja, pomirenju i dobrosusedskim odnosima na Zapadnom Balkanu.
-
-ERC grant šema sufinansirana j
-
-=== https://eumogucnosti.rs/glasno-o-pravima-eu-grantovi-za-organizacije-i-medije/ ===
+=== https://eumogucnosti.rs/svi-dogadjaji/erc-grantovi-do-25-000-evra-info-sesija-6-oktobra-u-evropskoj-kuci/ ===
 Skip to content
 
 X Facebook YouTube Instagram
@@ -270,7 +329,24 @@ Search for:
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ENM 2026
 ARHIVA ENM 2024
@@ -287,7 +363,24 @@ Evropska kuća
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ARHIVA ENM 2023
 
@@ -298,21 +391,11 @@ FOTO
 
 Search for:
 
-GLAS(NO) O PRAVIMA: EU Grantovi za organizacije i medije
+ERC grantovi do 25.000 evra: Info-sesija 6. oktobra u Evropskoj kući
 
-Konkurs je: OTVOREN
+ERC grantovi do 25.000 evra: Info-sesija 6. oktobra u Evropskoj kući
 
-Rok za konkurisanje: 11.10.2026.
-
-Sredstva: 12.000 evra po projektu
-
-Oblast: mediji i civilno društvo
-
-Konkurs je za: organizacije civilnog društva i nezavisne medije
-
-U okviru projekta „Glas(no) o pravima“ otvoren je poziv za finansijsku podršku organizacijama civilnog društva i medijima koji žele da učestvuju u promeni načina na koji se govori o ljudskim pravima i kako se ona razumeju u lokalnim zajednicama.
-
-Rezultati istraživanja sprovedenog u okviru projekta „Glas(no) o pravima“ ukazuju da postoji jaz između toga kako organizacije civilnog društva komuniciraju o ljudskim pravima, a kako građani to razumeju. K roz ovaj Poziv biće podržane ideje i projekti koji mogu da doprinesu jasnijoj komunikaciji i boljem razumevanju ljudskih pra
+Kako se priprema prijava za ERC grantove, ko može da učestvuje, kako se formira regiona
 
 === https://eumogucnosti.rs/evropska-fondacija-za-mlade-eyf-kako-organizacije-iz-srbije-mogu-do-grantova-saveta-evrope/ ===
 Skip to content
@@ -327,7 +410,24 @@ Search for:
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ENM 2026
 ARHIVA ENM 2024
@@ -344,7 +444,24 @@ Evropska kuća
 POČETNA
 O NAMA
 SEKTORI
-MOGUĆNOSTI
+MOGUĆNOSTI Biznis i inovacije Biznis
+Inovacije
+
+Obrazovanje, mladi i sport Obrazovanje
+Mladi
+Sport
+
+Kultura, mediji i civilno društvo Kultura
+Mediji
+Civilno društvo
+
+Poljoprivreda
+Lokalni razvoj i teritorijalna saradnja Lokalni razvoj
+Teritorijalna saradnja
+
+Zelena tranzicija
+EUDEL Otvoreni pozivi i tenderi
+
 VESTI I PRIČE
 DOGAĐAJI ARHIVA ENM 2023
 
@@ -360,6 +477,4 @@ Sanja 2026-07-23T14:35:33+02:00 23/07/2026 | Categories: Vesti | Tags: sve na je
 
 View Larger Image
 
-European Youth Foundation – EYF , odnosno Evropska fondacija za mlade, već više od pola veka podržava projekte koje mladi osmišljavaju i sprovode zajedno. Fondacija je osnovana 1972. godine kao instrument Saveta Evrope za učešće mladih u demokratskim društvima, a danas raspolaže godišnjim budžetom od približno pet miliona evra. Podržava omladinske organizacije koje rade sa mladima od 15 do 30 godina u oblastima demokratije, ljudskih prava, mira, uključivanja i razvoja omladinskog rada.
-
-Za organizacije iz Srbije ovo nije udaljena evropska mogućnost rezervisana za velike međunarodne mreže. Srbija je članica Save
+European Youth Found
