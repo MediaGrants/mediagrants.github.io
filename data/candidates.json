@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-06T04:39:54.656Z",
+  "generatedAt": "2026-10-07T04:28:00.812Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -248,8 +248,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-01",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-07",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -260,8 +260,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-01",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-07",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -949,85 +949,217 @@
       "name": "Danida (Denmark)",
       "url": "https://um.dk/en/danida",
       "why": "Danish bilateral development cooperation. Media and civil society money is allocated country by country through embassies rather than through open calls, so a newsroom rarely applies directly.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "Irish Aid",
       "url": "https://www.ireland.ie/en/irish-aid/what-we-do/strengthening-governance/",
       "why": "Irish bilateral aid with a governance strand; country-level discretion rather than published calls.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "Austrian Development Agency (ADA)",
       "url": "https://www.entwicklung.at/en/countries/western-balkans",
       "why": "Austrian development agency with a standing Western Balkans programme, which makes it more relevant to this region than most bilateral donors.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "BMZ / develoPPP (Germany)",
       "url": "https://www.developpp.de/en/application/",
       "why": "German development ministry programme with a real application route, though aimed at private-sector partnerships rather than media.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "Polish Development Cooperation (Polska Pomoc)",
       "url": "https://www.gov.pl/web/polishaid/department-of-development-cooperation",
       "why": "Polish bilateral aid, active in the Eastern Partnership.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "RoAid (Romania)",
       "url": "https://roaid.ro/en/about-us/",
       "why": "Romanian development cooperation agency, active in the Western Balkans and the Eastern Partnership.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "Japan International Cooperation Agency (JICA)",
       "url": "https://www.jica.go.jp/english/activities/schemes/grant_aid/index.html",
       "why": "Japanese grant aid, allocated government to government.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "Korea International Cooperation Agency (KOICA)",
       "url": "https://www.koica.go.kr/",
       "why": "Korean development agency.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "LuxDev (Luxembourg)",
       "url": "https://luxdev.lu/en/tenders/propositions",
       "why": "Luxembourg development cooperation; publishes tenders rather than grant calls.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "New Zealand MFAT aid programme",
       "url": "https://www.mfat.govt.nz/en/aid-and-development",
       "why": "New Zealand development programme.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "KR Foundation",
       "url": "https://krfnd.org/funding/",
       "why": "Climate and sustainability funder. Its funding page did not answer an automated check, so the URL needs confirming by hand before this becomes a source.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
     },
     {
       "name": "EU Neighbours East",
       "url": "https://euneighbourseast.eu/opportunities/",
       "why": "EU opportunities portal for the Eastern Partnership, which would be directly useful. The page did not answer an automated check and needs confirming.",
-      "seenAt": ["oip-donor-database"],
-      "firstSeen": "2026-10-06", "lastSeen": "2026-10-06", "timesSeen": 1, "status": "new"
+      "seenAt": [
+        "oip-donor-database"
+      ],
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Media Forward Fund",
+      "url": "https://www.mediaforwardfund.org",
+      "why": "A transnational fund (launched July 2024, ~EUR 9m, backed by Allianz Foundation, ERSTE Foundation, Rudolf Augstein Stiftung and others) making grants up to EUR 400,000 to media organisations in Germany/Austria/Switzerland for public-interest journalism and sustainable business models.",
+      "seenAt": [
+        "allianz-foundation"
+      ],
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Springer Nature (Nature Middle East)",
+      "url": "https://www.springernature.com/",
+      "why": "Co-funds/partners with MIT's Knight Science Journalism Program on the Fellowship for Advancing Science Journalism in Africa and the Middle East, created in memory of its former Nature Middle East editor Mohammed Yahia.",
+      "seenAt": [
+        "ksj-mit"
+      ],
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Cyrus R. Vance Center for International Justice",
+      "url": "https://www.vancecenter.org/",
+      "why": "Co-founded Reporters Shield with OCCRP, providing the legal infrastructure behind the mutual-defense membership programme for investigative newsrooms.",
+      "seenAt": [
+        "reporters-shield"
+      ],
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Institute for Nonprofit News (INN)",
+      "url": "https://inn.org/",
+      "why": "Appears to administer or fiscally sponsor the Reporters Shield mutual-defense fund membership programme for nonprofit newsrooms, per third-party coverage.",
+      "seenAt": [
+        "reporters-shield"
+      ],
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Bard College Center for Ethics and Writing",
+      "url": "https://www.bard.edu/",
+      "why": "Co-runs, with Artists at Risk Connection (PEN America), a one-year non-residency fellowship providing direct support to writers and artists whose free expression is threatened.",
+      "seenAt": [
+        "artists-at-risk-connection"
+      ],
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Booth Ferris Foundation",
+      "url": null,
+      "why": "Named as the funder behind the Bard College/ARC Center for Ethics and Writing Program Fellowship; no public grants-application website found.",
+      "seenAt": [
+        "artists-at-risk-connection"
+      ],
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
