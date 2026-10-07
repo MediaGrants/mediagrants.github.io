@@ -1,6 +1,6 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-10-06T03:43:51.216Z
+FETCHED: 2026-10-07T03:44:25.694Z
 TITLE: (feed)
 
 === FEED ITEMS ===
@@ -48,15 +48,6 @@ The post German–Northern European Journalists Fellowship 2027 appeared first o
 
 ]]>
 https://gfmd.info/fundings/german-northern-european-journalists-fellowship-2027/
-
-Call for proposals on countering disinformation Poland
-Fri, 11 Sep 2026 12:22:52 +0000
-Eligibility: Polish fact-checkers and news organisations combatting disinformation Target Region: Poland Application Language: English The Civil Society Fund is announcing a call for proposals for civil society organisations in Poland to counter disinformation, support activities that strengthen democratic values and the rule of law, and protect human rights. The fund supports Polish civil society organisations [ ]
-
-The post Call for proposals on countering disinformation Poland appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/call-for-proposals-on-countering-disinformation-poland/
 
 WCSJ2027 Travel Fellowship
 Fri, 04 Sep 2026 10:57:32 +0000
@@ -111,6 +102,15 @@ The post Invisible Life Grant appeared first on GFMD .
 
 ]]>
 https://gfmd.info/fundings/invisible-life-grant-round-4-2026/
+
+SA AJP Investigative Journalism Grants (Southern Africa Accountability Journalism Project)
+Fri, 19 Jun 2026 10:45:52 +0000
+Eligibility: journalists and newsrooms in select Southern African Development Community (SADC) countries Target Region: Sub-Saharan Africa (SADC region) Application Language: English The Southern Africa Accountability Journalism Project (SA AJP) provides investigative journalism grants and comprehensive editorial support to journalists and newsrooms in select Southern African Development Community (SADC) countries. The project seeks stories that expose wrongdoing, [ ]
+
+The post SA|AJP Investigative Journalism Grants (Southern Africa Accountability Journalism Project) appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/saajp-investigative-journalism-grants-southern-africa-accountability-journalism-project/
 
 === https://gfmd.info/fundings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/ ===
 Support journalism GFMD IMPACT
@@ -381,59 +381,6 @@ Find Funding Funding Opportunities
 Fundraising Guide
 Funder Profiles
 
-=== https://gfmd.info/fundings/call-for-proposals-on-countering-disinformation-poland/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings Call for proposals on countering disinformation Poland
-Organisation: Civil Society Fund
-
-Status: Open
-Type: Grant
-
-Theme: Mis- and Disinformation
-
-Funding Size: EUR 25,000–80,000
-Deadline: 06/10/2026
-
-Eligibility: Polish fact-checkers and news organisations combatting disinformation
-Target Region: Poland
-Application Language: English
-The Civil Society Fund is announcing a call for proposals for civil society organisations in Poland to counter disinformation, support activities that strengthen democratic values and the rule of law, and protect human rights. The fund supports Polish civil society organisations working to counter disinformation, strengthen resilience to it, and help citizens navigate the information environment, as part of a wider effort to reinforce democratic values, the rule of law, and human rights. Projects mus
-
---- relevant lines ---
-t map to one of two outcome/output combinations set by the fund, and grants can also cover bilateral cooperation with Donor State partners and organisational capacity-building.
-Eligibility
-To apply for the base project implementation grant (EUR 25,001–80,000), the organisation must have been registered for at least 24 months at the time of application
-Further eligibility detail is set out in section 3.1 of the call text
-Applications may be submitted in partnership with eligible entities; partnerships with organisations from the Donor States (Iceland, Liechtenstein, Norway) are encouraged
-How to apply
-Submit through the Online Application System only — applications sent by regular post or email will not be considered. Deadline is 6 October 2026 at 12:00 CEST (noon). Review the Guidelines for Applicants and Project Promoters and the formal/merit assessment cards before submitting.
-Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
 === https://gfmd.info/fundings/wcsj2027-travel-fellowship/ ===
 Support journalism GFMD IMPACT
 Policy and Advocacy
@@ -642,6 +589,58 @@ Under this call, BIRN will award up to four individual grants and up to two cros
 How to Apply
 Access and complete the online application form through the provided link. All required supporting documents must be submitted together with the application by October 12, 2026, at midnight CET. An online information session in English will be held on September 7, 2026, at 14:00 CET. Questions may be submitted to the BE Tool Coordinator by October 5, 2026.
 Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/lmdif-western-balkans-fund/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings LMDIF Western Balkans Fund
+Organisation: Media Development Investment Fund (MDIF)
+
+Status: Open
+Type: Equity Investments
+
+Theme: Democracy and good governance
+
+Funding Size: N/A
+Deadline: Ongoing
+
+Eligibility: Media located in or serving audiences in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia.
+Target Region: Balkans
+Application Language: English
+MDIF Western Balkans Fund is a strategic initiative to foster growth and resilience in independent media in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It takes a holistic investment approach, utilizing a versatile strategy of loans, equity and quasi-equity supported by media business expertise. The Fund focuses investments on innovative start-ups, growth media undergoing digital transformation and protecting indepe
+
+--- relevant lines ---
+ndent media from capture. The Fund seeks to bridge the financing gap that often hinders growth, and supports the development of robust, financially and editorially independent media companies that are able to support the advancement of their societies.
+Eligibility
+The Fund catalyses capital, mobilizing financing to empower independent media enterprises in the region through no-strings-attached financing that drives growth and protects independen
+The amount MDIF invests in each company is dependent on many factors, including the stage of company development and the total round-size and location. When applying, please provide the total amount of money you are raising and how much of the round has already been raised (if any).
+MDIF s media expertise and more than two decades of working in the Western Balkans give the Fund a unique approach. MDIF s experience and networks ensure quality deal flow, and mission-screening by their Board of Directors ensures alignment with the fund’s mission objectives.
+How to apply
+You can send in your application to gro.fidm@fbw. If you have a question that isn’t answered on the website, please contact gro.fidm@fbw.
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

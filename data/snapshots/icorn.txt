@@ -1,6 +1,6 @@
 SOURCE: ICORN — International Cities of Refuge Network
 URL: https://www.icorn.org/
-FETCHED: 2026-10-04T05:29:04.083Z
+FETCHED: 2026-10-07T03:44:33.531Z
 TITLE: Home - ICORN - International Cities of Refuge Network
 
 === MAIN PAGE ===
@@ -70,18 +70,18 @@ Any donations go directly to our Emergency Fund which is used to help writers, a
 The Emergency Fund helps cover basic needs such as shelter, food, medicine, communication and transportation means.
 ‍
 Bank account details:
-Bank: SPAREBANK 1 SR-BANK
-Account IBAN: NO3832013065526
-(for Norwegians account # 32013065526)
-SWIFT/BIC : SPRONO22
-Please mark the donation: ICORN Emergency Fund 710018 .
+Bank : DNB BANK ASA
+Account IBAN : NO1315201307470
+(for Norwegians account # 15201307470)
+SWIFT/BIC : DNBANOKK
+Please mark the donation: ICORN Emergency Fund .
 ‍
 
 International Cities of Refuge Network
 icorn@icorn.org Donate to ICORN
 About Writers, Artists, Journalists Cities of Refuge Stories Resources Contact
 
-Th
+This website d
 
 === https://www.icorn.org/apply ===
 About Writers, Artists, Journalists Cities of Refuge Stories Resources Contact Support Us

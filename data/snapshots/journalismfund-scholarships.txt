@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe — Scholarships
 URL: https://www.journalismfund.eu/scholarships
-FETCHED: 2026-10-01T03:43:35.288Z
+FETCHED: 2026-10-07T03:44:28.143Z
 TITLE: Scholarships | Journalismfund Europe
 
 === MAIN PAGE ===
@@ -162,26 +162,6 @@ Grants
 
 Grants
 
-Pascal Decroos Fund
-
-The Pascal Decroos Fund is Journalismfund Europe's oldest grant programme. Since 1999 it strives to advance investigative journalism in Dutch-language ...
-
-Next application deadline (CET):
-
-1 October 2026, 13:00 CET
-
-Meer lezen
-
-European Cross-border Grants
-
-This grant aims to address the shortage of independent journalism by providing grants to investigative journalism projects in Europe and ...
-
-Next application deadline (CET):
-
-1 October 2026, 13:00 CET
-
-Meer lezen
-
 Belgian Bridge
 
 This grant supports collaborative investigative projects led by Dutch-speaking and French-speaking Belgian journalists who work together on local issues of ...
@@ -194,13 +174,34 @@ Meer lezen
 
 The Invisible Life Grant Programme
 
-This programme supports cross-border teams of professional journalists and/or news outlets investigating issues relate
+This programme supports cross-border teams of professional journalists and/or news outlets investigating issues related to farm animal welfare and European ...
+
+Next application deadline (CET):
+
+29 October 2026, 13:00 CET
+
+Meer lezen
+
+European Cross-border Grants
+
+This grant aims to address the shortage of independent journalism by providing grants to investigative journalism projects in Europe and ...
+
+Next application deadline (CET):
+
+7 January 2027, 13:00 CET
+
+Meer lezen
+
+Scholarships
+
+Journalismfund Europe provides support for its grantees t o present their investigation and share their experience and 
 
 --- relevant lines ---
 Next application deadline (CET):
-29 October 2026, 13:00 CET
-Journalismfund Europe provides support for its grantees t o present their investigation and share their experience and knowledge with colleagues ...
+Pascal Decroos Fund
+The Pascal Decroos Fund is Journalismfund Europe's oldest grant programme. Since 1999 it strives to advance investigative journalism in Dutch-language ...
 Next application deadline (CET):
+1 October 2026, 13:00 CET
 This grant programme supports cross-border teams of professional journalists and/or news outlets to conduct investigations into environmental affairs related to geographical ...
 Next application deadline (CET):
 This grant programme is open for organisations with project proposals for collective development and support services to build the capacities ...
@@ -324,11 +325,9 @@ Country
 Choose a country Afghanistan Åland Islands Albania Algeria American Samoa
 
 --- relevant lines ---
-1735 supported projects match your criteria. View the awarded projects
+1740 supported projects match your criteria. View the awarded projects
 BRUSSELS – This investigation shows that local opposition to new reception centres for asylum seekers is often not a spontaneous neighbourhood protest. In 23 of the 26 Flemish municipalities where a new reception centre has opened since 2016, Vlaams Belang actively organised or supported the protest ...
 GENEVA - The IPCC is one of the most respected scientific institutions in climate research. An investigation into its inner workings now reveals strong links to the Saudi government within its ranks, as well as apparent contradictions of the IPCC’s application of its conflict of interest rules.
-© European Union, 2016 (CC 4.0)
-BRUSSELS - The film Returnees follows migrants in Belgium who are preparing for voluntary return.
 Be the first to get informed about our grant deadlines.
 Journalismfund Europe vzw
 info@journalismfund.eu

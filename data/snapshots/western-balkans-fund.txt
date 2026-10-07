@@ -1,14 +1,12 @@
 SOURCE: Western Balkans Fund
 URL: https://westernbalkansfund.org/
-FETCHED: 2026-10-01T03:43:36.297Z
+FETCHED: 2026-10-07T03:44:29.097Z
 TITLE: Western Balkans Fund | Building Regional Cooperation
 
 === MAIN PAGE ===
 Skip to main content
 
 Apply for ERC
-
-Apply for MOVE
 
 Register for Info Sessions
 
@@ -32,26 +30,27 @@ Learn About WBF
 
 Open call
 
-MOVE Grants: Call 7 is open for applications
-
-For individuals
-Deadline 5 October 2026, 12:59 CET
-
-Open call
-
 ERC Grants: the new call is open for applications
 
 For non-profit organisations
 Deadline 26 October 2026, 13:59 CET
 
+MOVE Grants Call 7 closed
+5 Oct 2026
+
+0
+applications received from all six Contracting Parties
+
+See the breakdown by Contracting Party
+
 Funding & Opportunities
 
 Explore our programs
 
-From flagship regional grant schemes to fellowships, mobility funding, and capacity-building academies, find t
+From flagship regional grant schemes to fellowships, mobility funding, and capacity-building academ
 
 --- relevant lines ---
-he WBF programme that fits your organisation, institution, or individual work, and open its page to apply.
+ies, find the WBF programme that fits your organisation, institution, or individual work, and open its page to apply.
 Grant funding 6
 €15,000
 max grant
@@ -76,7 +75,7 @@ No deadline · rolling basis
 MOVE Grants
 Grant
 Short-term, people-to-people funding for researchers, students, professors, journalists, artists and activists to cross borders, connect with peers, and bring value back home.
-Deadline 5 October 12:59 CET
+Call 7 closed 5 October
 Fellowship
 mobility grant
 WB6-V4 Fellowship
@@ -117,7 +116,7 @@ Podgorica, 20 February 2026 – The Ministry of Foreign Affairs of Montenegro ho
 The event focused on the key priorities set by the Ministry for the year ahead, including further diversification of the grant portfolio, institutional strengthening, and enhancing the status and visibility of the WBF.
 Welcoming ambassadors, international donors, partners, and representatives of the media, Minister of Foreign Affairs H.E. Ervin Ibrahimović emphasized the importance of regional cooperation for Montenegro. “Assuming the Presidency of the Western Balkans Fund represents both an honor and a responsibility. The Fund is a unique regional initiative because it is truly ours. It belongs to the region, but above all to its people. It proves that regional cooperation is not merely declarative, but practical, connecting civil society, academia, cultural actors, and young people across borders” , Minister Ibrahimović underlined.
 Leading the WBF delegation, Executive Director Dr. Gjergj Murra expressed gratitude to the Ministries of Foreign Affairs of the region and key partners, including the European Union, the Swiss Government, the Government of Japan, and the International Visegrad Fund for their continued support. “Consider WBF as an example of what the WB6 can achieve when it puts needs before differences,” the Executive Director stated.
-During the event, the WBF signed two cooperation agreements. The first, with the Swiss Confederation, extends cooperation with the Fund until 2029 and secures approxima…
+During the event, the WBF signed two cooperation agreements. The first, with the Swiss Confederation, extends cooperation with the Fund until 2029 and secures app…
 
 === https://westernbalkansfund.org/erc/ ===
 Skip to main content
@@ -205,69 +204,6 @@ Eligible organisations
 Who cannot apply. Profit-making companies, political parties, organisations dealing mostly or only with political or religious activities, and central government entities are not eligible under this call, neither as Lead Applicant nor as Project Partner. The same applies to central and local government entities, units and directorates, and to government-funded organisations such as museums and universities, which may take part only as associated institutions. An application that does not meet all of these requirements will not be eligible.
 Every ERC project is delivered by a r…
 
-=== https://westernbalkansfund.org/move/ ===
-Skip to main content
-
-Home › Our Programmes › MOVE Grants
-
-Open call
-
-MOVE Grants Individual Mobility Across the Western Balkans
-
-Short-term mobility funding for individual artists, cultural professionals, scholars, journalists, youth workers, CSO activists, and other changemakers, to engage in regional cooperation, connect with peers, and knowledge sharing.
-
-Call 7 is open. Applications are submitted online through the WBF Online Grant Management System (OGMS).
-
-Apply here
-
-Meet past grantees
-
-PDF 15 pages
-
-Guidelines for applicants
-
-Deadline
-
-5 October 2026 12:59 CET
-
-Grant size
-
-EUR 500 – 3,000 up to 100% of eligible costs
-
-Implementation
-
-Dec 2026 – Apr 2027 final report by 30 April 2027
-
-Applicant Type
-
-Individuals only one application per call
-
-About the Programme
-
-People-to-people links at the heart of regional cooperation
-
-MOVE Grants is a dedicated grant-making mechanism designed to support mobility, exchange, and people-to-people cooperation across the region. The scheme is built on WBF's belief that direct, in-person interactions whether through academic exchange, artistic collaboration, and/or professional mobility are vital to building trust, understanding, and shared 
-
---- relevant lines ---
-Each MOVE grantee commits to an agreed structured mobility activity with a formal host institution/organisation in another Contracting Party of the Western Balkans Fund. After the visit, they share their experience within their networks, on social media and through WBF's platforms, becoming ambassadors for regional cooperation.
-The programme funds short-term, individual mobility within the WB6: Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia. Full eligibility rules, grant amounts and the submission deadline for Call 7 are set out in the Guidelines for Applicants and in the call package on OGMS.
-Behind every grant is an individual who used a short window of time to build a connection that would not otherwise have happened. Here are six MOVE grantees from past calls and what they did with their mobility.
-Browse the full archive of MOVE projects on the Our Grantees page.
-Before you apply
-MOVE funds an individual travelling to a host institution in another Contracting Party. A few structural rules decide whether an application is eligible at all, and they are checked before anything else is read.
-A MOVE application has to rest on a formal partnership with a host institution in another Contracting Party . The partnership is what confirms your mobility is grounded in a structured, mutually agreed framework rather than a self-organised trip.
-You prove it with an official invitation letter from the host institution , stating the dates, the programme and the reason you are being invited. A confirmed registration, acceptance or enrolment letter for a course, programme or workshop they organise works too. Without this document the application is rejected at the eligibility check.
-Activities should take place in the region. In exceptional, justified cases activities in the European Union are eligible where they promote the visibility of the Western Balkans internationally.
-Funding
-What the grant covers
-Grant size
-Minimum and maximum that can be requested per application.
-WBF can cover the full eligible cost of the action.
-Dec 2026 – Apr 2027
-All mobility activities run in this window. Final report due by 30 April 2027.
-These caps apply no matter what the market price is. Anything above them has to be covered from your own resources.
-Accomm…
-
 === https://westernbalkansfund.org/our-programs/ ===
 Skip to main content
 
@@ -308,6 +244,69 @@ WB6-V4 Fellowship
 The WB6-V4 Fellowship Programme supports short-term academic mobility between the Western Balkans and the Visegrad Group. It enables PhD candidates and doctoral holders to undertake research, teaching, or academic study at host institutions across the two regions, fostering knowledge exchange and regional cooperation.
 A flagship capacity-building programme of the Western Balkans Fund, delivered through online learning and a seven-day residential academy. Supported by the Open Society Foundation – Western Balkans, it equips junior professionals and emerging leaders with the knowledge, skills, and regional networks to advance dialogue, cooperation, and reconciliation across the Western Balkans. This year's edition is on Dialogue and Culture of Cooperation.
 A curated archive of the conferences, forums, dialogue sessions and networking moments the Fund has convened across the six Contracting Parties.
+
+=== https://westernbalkansfund.org/move/ ===
+Skip to main content
+
+Home › Our Programmes › MOVE Grants
+
+Call closed
+
+MOVE Grants Individual Mobility Across the Western Balkans
+
+Short-term mobility funding for individual artists, cultural professionals, scholars, journalists, youth workers, CSO activists, and other changemakers, to engage in regional cooperation, connect with peers, and knowledge sharing.
+
+Call 7 closed on 5 October 2026 and applications are no longer accepted. Follow our news for the next call.
+
+Call 7 Applications received
+
+0
+applications from across the WB6
+
+Hover or tap a Contracting Party
+
+Deadline
+
+Closed 5 October 2026, 12:59 CET
+
+Grant size
+
+EUR 500 – 3,000 up to 100% of eligible costs
+
+Implementation
+
+Dec 2026 – Apr 2027 final report by 30 April 2027
+
+Applicant Type
+
+Individuals only one application per call
+
+About the Programme
+
+People-to-people links at the heart of regional cooperation
+
+MOVE Grants is a dedicated grant-making mechanism designed to support mobility, exchange, and people-to-people cooperation across the region. The scheme is built on WBF's belief that direct, in-person interactions whether through academic exchange, artistic collaboration, and/or professional mobility are vital to bu
+
+--- relevant lines ---
+Each MOVE grantee commits to an agreed structured mobility activity with a formal host institution/organisation in another Contracting Party of the Western Balkans Fund. After the visit, they share their experience within their networks, on social media and through WBF's platforms, becoming ambassadors for regional cooperation.
+The programme funds short-term, individual mobility within the WB6: Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia and Serbia. Full eligibility rules, grant amounts and the submission deadline are published with each call.
+Behind every grant is an individual who used a short window of time to build a connection that would not otherwise have happened. Here are six MOVE grantees from past calls and what they did with their mobility.
+Browse the full archive of MOVE projects on the Our Grantees page.
+Before you apply
+MOVE funds an individual travelling to a host institution in another Contracting Party. A few structural rules decide whether an application is eligible at all, and they are checked before anything else is read.
+A MOVE application has to rest on a formal partnership with a host institution in another Contracting Party . The partnership is what confirms your mobility is grounded in a structured, mutually agreed framework rather than a self-organised trip.
+You prove it with an official invitation letter from the host institution , stating the dates, the programme and the reason you are being invited. A confirmed registration, acceptance or enrolment letter for a course, programme or workshop they organise works too. Without this document the application is rejected at the eligibility check.
+Activities should take place in the region. In exceptional, justified cases activities in the European Union are eligible where they promote the visibility of the Western Balkans internationally.
+Funding
+What the grant covers
+Grant size
+Minimum and maximum that can be requested per application.
+WBF can cover the full eligible cost of the action.
+Dec 2026 – Apr 2027
+All mobility activities run in this window. Final report due by 30 April 2027.
+These caps apply no matter what the market price is. Anything above them has to be covered from your own resources.
+Accommodation, inside the Western Balkans ≤ 65 EUR / night
+Accomm…
 
 === https://westernbalkansfund.org/ggi/ ===
 Skip to main content

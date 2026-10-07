@@ -1,0 +1,1069 @@
+SOURCE: Open Technology Fund
+URL: https://www.opentech.fund/funds/rapid-response-fund/
+FETCHED: 2026-10-07T03:44:22.700Z
+TITLE: Rapid Response Fund | OTF
+
+=== MAIN PAGE ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+Home > Get Support > Funds
+
+SHARE
+
+
+
+
+
+
+
+Rapid Response Fund
+
+The Rapid Response Fund aims to resolve threats in a timely manner for individuals, communities, and organizations facing digital attacks and emergencies. We offer both direct financial support and technical services to those at high-risk, such as activists, journalists, and human rights defenders.
+
+Apply Now
+
+What we do
+
+We provide both technical services and direct financial support to high-risk individuals facing acute digital security emergencies or 
+
+--- relevant lines ---
+Security audits of web applications and systems
+Web application and website vulnerability assessments
+Providing alternative applications for communications and internet access during shutdowns/censorship events
+Activities eligible for direct financial support include (but are not limited to):
+Activities the Rapid Response Fund is unable to support include (but are not limited to):
+Direct financial support awards are typically anywhere from $1 and $50,000 for a period of six months or less, although we can consider applications greater than this amount. Performance-based contracts are signed directly with you, and you’ll receive the funds upon completion of stated objectives, activities, and deliverables (per a schedule outlined in the contract). All payments are made in U.S. dollars.
+How to Apply
+Applying for the Rapid Response Fund (whether for technical services or direct financial support) is a simple, single-application form online .
+Application Review Process
+We carefully review the project to ensure it fits within the Rapid Response Fund mission.
+Questions we ask to evaluate applications include:
+We strive to review applications as they are received, and provide determinations as quickly as possible.
+Am I eligible for support?
+If you’re an activist, journalist, human rights defender or other high-risk individual or organization facing a clear and time-sensitive digital emergency, then please apply .
+The Rapid Response Fund can’t provide support for projects that are long-term in nature or that aim to build digital security capacity among groups or organizations. If you’re seeking longer term support, please consider applying for our Internet Freedom Fund .
+Individuals must be age 18 or older to be eligible to receive funding.
+Please also check out our Alternative Sources of Support , a list of other funding sources for efforts relevant to the fields of internet freedom, software development, journalism, and human rights.
+We’ll make every effort possible to avoid disclosure of sensitive information beyond the OTF team. If you have any questions or concerns about your application, please don’t hesitate to contact us immediately at [email protected] .
+Before applying, please review our Terms of Service. If you have any questions, please email us at [email protected] .
+The internet as a free and open space is under pressure every day. Greenhost regards the internet as a medium for accessible information, a platform for partnerships, and a forum to express and form opinions. As such, the distributed foundations of the internet and the data and privacy of individual users should be safeguarded. Greenhost actively participates in digital security and human rights projects by sharing knowledge, supporting partnerships, and developing open source applications in-house.
+Localization Lab is a technology nonprofit that translates free and open source software (FOSS) and resources to strengthen digital inclusion, safety, and free expression. Since 2012, we have made FOSS technology available in over 220 languages. Our work centers on collaborating with communities to understand their needs and to uplift these needs to developers. We work with digital rights organizations and our community of 7,000 language contributors to select tools, co-design resources, and distribute finished materials. We’re thrilled to support Rapid Response Fund applicants to ensure that they have tools in the languages that they need and prefer!
+Security Matters Asia was founded in December 2020 by experienced activists and security trainers to advance digital and physical security for at-risk communities across Southeast Asia. We focus on providing comprehensive security support and have built strong partnerships with human rights defenders and civil society organizations in Malaysia and Thailand. Our work aims to strengthen local capacities and foster a sustainable security ecosystem. Initiatives like digital security audits, crisis response planning, and digital security mentoring are pivotal in our efforts to develop robust protection mechanisms tailored to the needs of the internet freedom community.
+Tierra Común is a worker cooperative from Mexico City made up of a group of professionals and experts in free software, information security, and training. We promote a critical digital culture for organizations and communities. Since 2016 we’ve operated under the principles of collective work, transparency, horizontality, and continuous learning. Our team of six people has a voice and vote in our assembly. We’ve worked with independent journalists and organizations that defend human rights.
+
+=== https://www.opentech.fund/get-support/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+SHARE
+
+
+
+
+
+
+
+Get Support
+
+OTF supports technology-focused projects that advance internet freedom. This includes the development of innovative tools, information controls research, digital security efforts that improve technology, and convenings for internet freedom communities that cultivate knowledge sharing and collaboration. Please review our Applicant Guidebook before you submit.
+
+Apply for Support
+
+Yes
+
+Funds
+
+Direct funding support to researchers, technologists, and digital security experts developing solutio
+
+--- relevant lines ---
+Funds
+Fellowships
+Direct funding to support researchers analyzing online censorship and surveillance techniques, and exploring solutions to overcome these tactics
+Fellowships
+
+=== https://www.opentech.fund/funds/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+Home > Get Support
+
+SHARE
+
+
+
+
+
+
+
+Funds
+
+Two-thirds of the world s population—nearly 5.5 billion people—live in a country where the global internet is censored.
+
+And this number is only increasing as authoritarian governments around the world are harnessing technological advances to increase the scale, scope, and efficiency of digital repression.
+
+As a result, we see increasingly sophisticated challenges to protect internet freedom, and see evolving community needs:
+
+the constant evolution of repressive censorship a
+
+--- relevant lines ---
+under-funding and under-support for the FOSS ecosystem
+We fund technical solutions to address these and more.
+Check out the funding options below to learn more.
+Our Applicant Guidebook can help you with the application process.
+Rapid Response Fund
+Apply Now
+Free and Open Source Software Sustainability Fund
+Surge and Sustain Fund
+Internet Freedom Fund
+Apply Now
+
+=== https://www.opentech.fund/funds/internet-freedom-fund/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+Home > Get Support > Funds
+
+SHARE
+
+
+
+
+
+
+
+Internet Freedom Fund
+
+This fund supports innovative internet freedom projects, including technology development, research, digital security projects, and convenings.
+
+Apply Now
+
+About the Internet Freedom Fund
+
+The Internet Freedom Fund is the primary opportunity through which Open Technology Fund supports innovative global internet freedom projects. These projects are focused on technology development and implementation, but can also include applied research, convenings, a
+
+--- relevant lines ---
+OTF prioritizes projects coming from individuals or organizations who are applying for the first time, identify as under-represented within the field, and address areas that are underfunded.
+Application Process and Award Information
+Applications to the Fund go through a two-stage application process and are accepted on a rolling basis .
+Awards are between $10,000 and $900,000 for up to 24 months. Ideal applicants seek funding between $50,000 and $200,000 for efforts between 6 and 12 months.
+Funding awards are performance-based contracts signed directly with the applicant or applicants. Funding is dispersed upon completion of stated objectives, activities, and deliverables per a schedule outlined in the contract. All payments are made in U.S. dollars and will comply with local laws, regulations, and ethics rules.
+Successful applicants are paired with an OTF program manager who will oversee all project monitoring and evaluation for the duration of the contract. Monitoring and evaluation assessments are based on predetermined and agreed-upon metrics, deliverables, and goals as laid out by the applicant in the project proposal.
+Funding Categories
+Applications for this category can include, but are not limited to:
+OTF supports the applied research efforts of the internet freedom community through the Internet Freedom Fund. This includes research that identifies where and how censorship is occurring, studying the methods to counteract censorship, and advancing knowledge around what types of content is targeted to help assess threats to internet freedom.
+Applications for this category can include, but are not limited to:
+Applications in this category should include thoughtful consideration of existing and complementary efforts and a clear explanation of how the proposed effort will lead to positive change in the global and/or regional digital security ecosystem.
+Please be mindful that OTF does not support one-off training, training of trainers, or organizational capacity building as an effort’s primary outcome. Various other funders provide these types of direct support for digital security providers.
+Note: In some cases, our Rapid Response Fund can support emergency digital security training for at-risk individuals and organizations facing an active or imminent thre…
+
+=== https://www.opentech.fund/funds/surge-and-sustain-fund/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+Home > Get Support > Funds
+
+SHARE
+
+
+
+
+
+
+
+Surge and Sustain Fund
+
+The Surge and Sustain Fund supports the user carrying costs of established, large-scale circumvention technologies so that tens of millions of people in China, Cuba, Iran, Myanmar, Russia, and other authoritarian contexts can securely and reliably access the uncensored internet.
+
+Apply by October 15, 2026
+
+APPLY NOW
+
+About the Surge and Sustain Fund
+
+Today, nearly five billion people live in a country where the internet is censored . In these contexts
+
+--- relevant lines ---
+, demand for circumvention tools like VPNs have increased exponentially as these have become critical information lifelines. In response to this increasing demand, OTF established the Surge and Sustain Fund to provide leading, open source circumvention tool developers with the resources they need to connect millions of users in the most repressive environments to the global internet.
+The tools funded under the Surge and Sustain Fund are selected through a public application process, which ensures OTF selects tools that meet high security and privacy standards; and that they have a demonstrated ability to operate at scale in highly censored environments, with a track record of successfully staying ahead of increasingly sophisticated censorship techniques.
+Award Information
+Funds awarded are based on unique users served in specific countries, up to a maximum ceiling. OTF intends to re-compete this solicitation annually.
+OTF approves the verified number of unique users per month multiplied by the contractually established cost per user and reimburses contractors up to a maximum monthly ceiling established in the contract awarded.
+Priorities of the Surge and Sustain Fund
+Through the Surge and Sustain Fund, OTF provides resources on a competitive basis to large-scale, open source tools with a documented track record of successfully circumventing authoritarian censorship. See previously funded projects here .
+The Surge and Sustain Fund prioritizes supporting users living in China, Cuba, Iran, Myanmar, Russia , and other closed information environments.
+The Surge and Sustain Fund exclusively covers the server infrastructure costs of providing circumvention services to users in highly censored countries. Each applicant must calculate the average costs for supporting a monthly active user (MAU) during the application phase for OTF review. Successful applicants receive contracts from OTF with per-user costs for a set of approved countries. The Surge and Sustain Fund then reimburses tool developers only for the number of demonstrably served active users each month.
+The Surge and Sustain Fund will not cover any staff time or development efforts (please direct all applications for technology development to the Internet Freedom Fund ).
+OTF holds all circumvention tools we w…
+
+=== https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+Home > Get Support > Funds
+
+SHARE
+
+
+
+
+
+
+
+Free and Open Source Software Sustainability Fund
+
+The Free and Open Source Software (FOSS) Sustainability Fund is Open Technology Fund’s mechanism to support the maintenance, interoperability, reproducibility, and resilience of the internet freedom technology ecosystem. Not currently accepting applications.
+
+Not Currently Accepting Applications
+
+About the FOSS Sustainability Fund
+
+Ensuring a sustainable FOSS ecosystem is critical to the development, maintenance, and reliabi
+
+--- relevant lines ---
+The FOSS Sustainability Fund makes targeted investments in the long-term maintainability, interoperability, reproducibility, security, and resilience of the internet freedom technology ecosystem . This ecosystem includes amongst other technologies, circumvention tools (like VPNs), secure messaging apps, shutdown-resilient tools, anti-censorship and privacy-preserving technologies, as well as these tools’ foundational software infrastructure.
+Competitive applications will:
+OTF is grateful to GitHub for contributing to this round of the FOSS Sustainability Fund!
+Eligibility
+Eligible applicants must meet the following qualifying conditions:
+Individuals or organizations* (for-profit or nonprofit) ages 18 or older — irrespective of nationality, creed, or sex — are encouraged to apply.
+Funding
+We recognize potential applicants are diverse in size, scale, maturity, and scope of objectives. Applicants are welcome to apply in a funding range broad enough to encompass single maintainer software projects (e.g. 7,000 USD a month for 6-24 months) on the low end, and larger internet freedom multi-technology ecosystem resiliency impact initiatives (up to 400,000 USD for up to 24 months) on the high end.
+In addition to financial support, successful projects are eligible to receive in-kind coaching and direct support from OTF’s resource Labs depending on project needs at OTF’s discretion:
+All OTF-supported technology projects may receive free security audits from our Security Lab and/or may be required to undergo such security audits by OTF or a designated third-party . The funded project should include remediation time for any found vulnerabilities.
+How to Apply, Process, and Award Information
+Applications to the FOSS Sustainability Fund go through a two-stage application process during the open solicitation period.
+Application Process
+Stage 1: Submit a Concept Note through OTF’s online application system in which you tell us about your project idea through a short form.
+Stage 2: If your Concept Note is deemed to be highly competitive, we will invite you to submit a Proposal in which you expand upon your project idea.
+The FOSS Sustainability Fund Advisory Council, comprising subject matter experts who understand the fields and issues related to FOSS ecosystem sustainability, …
+
+=== https://www.opentech.fund/research-2/icrp/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+Home > Get Support > Fellowships
+
+SHARE
+
+
+
+
+
+
+
+Information Controls Research Program
+
+The Information Controls Research Program (ICRP) supports cutting-edge applied research on repressive internet censorship and surveillance.
+
+Not currently accepting applications.
+
+Not currently accepting applications
+
+About the Information Controls Research Program
+
+The Information Controls Research Program (ICRP), formerly known as the “Information Controls Fellowship Program,” supports applied research into how authoritarian gov
+
+--- relevant lines ---
+ICRP Award Information:
+Monthly stipend of $7,000 USD;
+Travel stipend up to $5,000 USD, depending on the project (disclaimers below);
+Equipment stipend up to $5,000 USD, depending on the project (disclaimers below).
+Given the cross-disciplinary nature of research supported by ICRP, applications are open to people from a variety of backgrounds and disciplines, including students at any level, and junior to mid-career practitioners who are unassociated with an academic institution. Typically, ICRP researchers have extensive experience in fields of computer science, engineering, information security research, software development, social sciences, and data visualization, among others. To get a better sense of the ICRP community, you can read about researchers here .
+When applying, applicants can specify a host organization of their choosing; however, the host organization must not be ineligible pursuant to the terms of this Solicitation. Applicants are encouraged to work with a host organization that they are not already affiliated with. In the application, each applicant must justify their choice(s) of host organization according to their proposed project and own expertise. Non-academic host organizations are welcome, as are those based outside the United States. You can find previous host organizations listed in the researcher descriptions .
+We encourage applicants to contact the proposed host organization prior to submitting their application to OTF, as this leads to stronger proposed projects. Applicants without a confirmed host organization may still apply. Should your application be reviewed favorably, we will work with you to identify a suitable host organization.
+The below is a non-exhaustive list of potential areas of research focus for ICRP projects. You can read about previously supported research projects before submitting an application.
+Investigating information controls, security, and privacy in popular applications such as search engines, social media platforms, instant messaging applications, and AI tools;
+Depending on university departmental requirements, doctoral students are also encouraged to consider applying for ICRP for a summer (three-month) period if the proposed project may be completed in that timeframe; and
+Full-time student applicant…
+
+=== https://www.opentech.fund/projects-we-support/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+SHARE
+
+
+
+
+
+
+
+Projects We Support
+
+OTF provides direct funding and expert support services to individuals and organizations around the world that are addressing threats to internet freedom, journalism, and human rights with technology-backed solutions.
+
+No
+
+Recently Added Projects
+
+OONI Anonymous Credentials F-Droid Sustainability
+
+Projects We Support
+
+Learn more about the projects we support and their impact.
+
+View
+
+Get the latest Internet freedom news
+
+By signing up for our newsletter, you acknowledge and agree to
+
+=== https://www.opentech.fund/projects-we-support/supported-projects/ ===
+MY OTF
+
+SELECT LANGUAGE
+
+Search
+
+Search for:
+
+Get Support
+
+Funds
+
+Internet Freedom Fund
+
+Rapid Response Fund
+
+Surge and Sustain Fund
+
+FOSS Sustainability Fund
+
+Labs
+
+Security Lab
+
+User Experience Discovery Lab
+
+Impact Engagement Lab
+
+Research
+
+Apply for ICRP
+
+Current Researchers
+
+Past Researchers
+
+Applicant Guidebook
+
+Projects We Support
+
+Supported Projects
+
+Project News and Updates
+
+Research
+
+Project Research
+
+Security Safety Audits
+
+Impact
+
+OTF Impact
+
+Annual Reports
+
+About
+
+Mission and Values
+
+About Our Funding
+
+Congressional Remit
+
+People Behind OTF
+
+Staff
+
+Advisory Council
+
+Board
+
+Career Opportunities
+
+Website Credits
+
+Terms of Service
+
+News
+
+OTF Updates
+
+News
+
+Home > Projects We Support
+
+SHARE
+
+
+
+
+
+
+
+OTF New Projects: Kindling Shared Bootstrapping Library
+Improving circumvention tool resiliency
+
+Find Out More
+
+OTF New Projects: RussiaMax: Full Stack Investigation of MAX as a Superapp Platform
+How MAX's unified structure provides a systemic mechanism for centralized censorship & comprehensive surveillance
+
+Find Out More
+
+OTF New Projects: Deep Packet Resistance with AI-driven Deflect & Ceno
+Enhancing Deflect’s and Ceno’s resilience against censors in highly repressive con
+
+--- relevant lines ---
+Community - Community Engagement - Community Events - Outreach Internet Freedom & IF Technologies - Circumvention - Communications - Community - Digital Security - Encryption - Funds - Human Rights - Internet Shutdowns - Labs - Maintenance - Measurement/Monitoring - News - Protocols/Standards - Research - Secure Access - Secure Storage/File Sharing - Technology Development - Technology Implementation News - Blog - General IF News - Research Open Technology Fund - About OTF - Application - Blog - Fellowships - Funds - Guidebook - Impact - Labs - Staff - What We Do OTF Projects/Projects We Support - Applicants - Existing Projects - Free Open Source Software Sustainability Fund - Internet Freedom Fund - Previous Projects - Rapid Response - Surge and Sustain Fund Region - Central Asia - China - East Africa - Globally Focused - Indonesia - Iran - MENA - Mexico - Nigeria - Russia - South America - Sub-Saharan Africa - Tibet - Ukraine Resources - Apps - Blog - Labs - News - Research - Security/Safety Audits

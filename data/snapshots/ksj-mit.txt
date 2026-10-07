@@ -1,6 +1,6 @@
 SOURCE: Knight Science Journalism Program, MIT
 URL: https://ksj.mit.edu/apply/
-FETCHED: 2026-10-06T03:43:58.327Z
+FETCHED: 2026-10-07T03:44:31.356Z
 TITLE: Apply to Attend Frontiers of Brain Science: The Kavli Science Journalism Workshop June 11-12 2015 - Knight Science Journalism @MIT
 
 === MAIN PAGE ===
