@@ -1,6 +1,6 @@
 SOURCE: ICNL — International Center for Not-for-Profit Law
 URL: https://www.icnl.org/work-with-us/grants-fellowships
-FETCHED: 2026-10-05T03:45:30.358Z
+FETCHED: 2026-10-08T03:45:00.278Z
 TITLE: Grants - ICNL
 
 === MAIN PAGE ===

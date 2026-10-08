@@ -1,6 +1,6 @@
 SOURCE: Media Freedom Rapid Response
 URL: https://www.mfrr.eu/
-FETCHED: 2026-10-05T03:45:31.327Z
+FETCHED: 2026-10-08T03:45:01.027Z
 TITLE: Media Freedom Rapid Response
 
 === MAIN PAGE ===
@@ -23,27 +23,28 @@ About
 MFRR Summit
 
 MFRR - Media Freedom Rapid Response
-Steadfast support for Massimo Moratti, MFRR researcher, as he is facing an expulsion order from Serbian authorities
+French mission report: Critical juncture for media freedom ahead of 2027 elections
 
 Recent updates
+
+06 October 2026
+Statements
+
+Slovenia: Authorities urged to refrain from adopting changes that would weaken public media
+On October 11, Slovenians will vote on a referendum on whether to abolish the licence fee that funds their public broadcaster. In addition, a draft law is moving forward that…
+
+05 October 2026
+Country reports
+
+France mission report: Media freedom at critical juncture ahead of the 2027 presidential election
+Although France enjoys a legal and regulatory framework which is generally supportive of media freedom, challenges are mounting ahead of the 2027 presidential election, Media Freedom Rapid Response (MFRR) concluded…
 
 02 October 2026
 Statements
 
 Ukraine: One year after Antoni Lallican was killed in the field, MFRR partners demand justice
-One year after a targeted Russian drone strike killed French freelance photojournalist Antoni Lallican in Ukraine, MFRR partners mark the anniversary by renewing their call for effective cooperation between French…
-
-01 October 2026
-Statements
-
-Malta: Call for a proper review process and international assessment of the media reform bill
-The Hon. Robert Abela Prime Minister of Malta CC: The Hon. Clifton Grima Minister for Justice, Research and Innovation Dear Prime Minister Abela, The undersigned international press freedom and…
-
-18 September 2026
-Statements
-
-Steadfast support for Massimo Moratti, MFRR researcher, as he is facing an expulsion order from Serbian authorities
-The Medi
+One year after a targeted Russian drone strike killed French freelance photo
 
 --- relevant lines ---
+journalist Antoni Lallican in Ukraine, MFRR partners mark the anniversary by renewing their call for effective cooperation between French…
 Led by European Centre for Press and Media Freedom and implemented with ARTICLE 19 Europe , European Federation of Journalists , International Press Institute , Free Press Unlimited and Osservatorio Balcani e Caucaso Transeuropa , the consortium monitors violations, supports journalists at risk and drives coordinated advocacy.

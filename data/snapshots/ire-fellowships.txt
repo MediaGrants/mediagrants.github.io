@@ -1,6 +1,6 @@
 SOURCE: IRE — fellowships and scholarships
 URL: https://www.ire.org/training/fellowships-and-scholarships/
-FETCHED: 2026-10-04T05:29:04.126Z
+FETCHED: 2026-10-08T03:45:02.239Z
 TITLE: Fellowships & Scholarships - Investigative Reporters and Editors
 
 === MAIN PAGE ===
@@ -55,17 +55,18 @@ IRE offers numerous fellowships and scholarships each year, thanks to the genero
 Note: Eligibility for IRE fellowships and scholarships renews every three years. For example, if you received a fellowship in 2024, you will be eligible again in 2027.
 
 Fellowship deadlines at a glance
-September 13 AccessFest26
+January 4, 2027 NICAR 2027
 
-AccessFest Conference fellowships
+NICAR Conference Fellowships
 
-Applications for fellowships to attend AccessFest26 are currently open! The deadline to apply is September 13, 2026 at 11:59 p.m. ET.
+Applications for fellowships to attend NICAR27are currently open! The deadline to apply is January 4, 2027 at 11:59 p.m. ET.
 These fellowships offer:
-Complimentary conference registration
-One-year IRE m
+Complimentary conference registration ($100-$350 value)
+Travel st
 
 --- relevant lines ---
-embership/renewal ($25-$75 value)
+ipend (up to $500)
+One-year IRE membership/renewal ($25-$75 value)
 Apply now!
 Support for attending IRE conferences is provided by the fellowships listed in the categories below.
 Eric B. Sager Scholarships — U.S. journalists and independent journalists are eligible. Journalists from trade publications and small outlets are encouraged to apply. These scholarships provide assistance to attend the IRE, NICAR or AccessFest Conference.
@@ -96,8 +97,7 @@ GET DETAILS AND APPLY
 David Dietz Fellowship
 This fellowship supports journalists and independent journalists with less than 10 years’ professional experience and a demonstrated interest in financial investigative journalism who have a financial need for assistance. It provides assistance to attend the IRE Conference. This application is currently closed.
 GET DETAILS AND APPLY
-R-CAR Fellowship
-This fellowship su…
+R-…
 
 === https://www.ire.org/ire-supporters/ ===
 Skip to content LinkedIn BlueSky Instagram Facebook
