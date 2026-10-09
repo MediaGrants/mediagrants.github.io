@@ -1,9 +1,18 @@
 SOURCE: GFMD — Fellowships archive
 URL: https://gfmd.info/type_fund/fellowship/feed/
-FETCHED: 2026-10-08T03:44:58.484Z
+FETCHED: 2026-10-09T03:45:07.170Z
 TITLE: (feed)
 
 === FEED ITEMS ===
+the Equality Fund Global Journalism Fellowship 2026
+Thu, 08 Oct 2026 10:16:04 +0000
+Eligibility: Journalists in ODA-recipient countries Target region: ODA countries (see here) Application language: English (reporting can be any language) The Equality Fund, a global fund investing in people with local solutions to global challenges, is launching its inaugural Equality Fund Journalism Fellowship. Journalists in ODA-recipient countries are invited to apply now through November 8, 2026 at [ ]
+
+The post the Equality Fund Global Journalism Fellowship 2026 appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/the-equality-fund-global-journalism-fellowship-2026/
+
 Equality Fund Global Journalism Fellowship 2026–2027
 Fri, 25 Sep 2026 12:56:13 +0000
 Eligibility: five journalists located in ODA-recipient countries Target Region: ODA-eligible countries Application Language: English The Equality Fund has launched its inaugural Global Journalism Fellowship, developed in partnership with Canadian Journalists for Free Expression (CJFE) and African Women in Media (AWiM). The fellowship seeks to surface stories of local solutions to global crises, with a particular [ ]
@@ -103,14 +112,46 @@ The post Critical Voices Fellowship 2026 appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/critical-voices-fellowship-2026/
 
-BIRN Journalistic Excellence Fellowship 2026
-Fri, 20 Feb 2026 11:02:28 +0000
-Eligibility Criteria: Journalists with professional experience from Albania, Bosnia-Herzegovina, Bulgaria, Croatia, Czech Republic, Greece, Hungary, Kosovo, North Macedonia, Montenegro, Poland, Romania, Serbia, and Slovakia. Applicants must hold citizenship or permanent residence in one of these countries. Type of Funding: Reporting Grant Region: Balkans Application Language: English Applications for the Balkan Investigative Reporting Network (BIRN) Journalistic [ ]
+=== https://gfmd.info/fundings/the-equality-fund-global-journalism-fellowship-2026/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
 
-The post BIRN Journalistic Excellence Fellowship 2026 appeared first on GFMD .
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
 
-]]>
-https://gfmd.info/fundings/birn-journalistic-excellence-fellowship-2026/
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings the Equality Fund Global Journalism Fellowship 2026
+Organisation: Equality Fund
+
+Status: Open
+Type: Fellowship
+
+Theme: Media support
+
+Funding Size: $4,000
+Deadline: 08/11/2026
+
+Eligibility: Journalists in ODA-recipient countries
+Target region: ODA countries ( see here )
+Application language: English (reporting can be any language)
+The Equality Fund, a global fund investing in people with local solutions to global challenges, is launching its inaugural Equality Fund Journalism Fellowship. Journalists in ODA-recipient countries are invited to apply now through November 8, 2026 at 11pm, Eastern Standard Time.
+Requirements
+The Equality Fund welcomes journalism across a range of formats, including written articles, audio, video, and other digital storytelling formats, as long as the project is grounded in fact-based reporting with a c
 
 === https://gfmd.info/fundings/equality-fund-global-journalism-fellowship-2026-2027/ ===
 Support journalism GFMD IMPACT
@@ -553,43 +594,3 @@ Type of Funding : Fellowship (stipend)
 Region : Asia
 Application Language : English, Burmese
 Exile Hub and Media in Cooperation and Transition (MiCT) are together offering the Critical Voices Fellowship 2026. This call is inteded for exiled Myanmar media professionals who face threats for voicing critique and producing well
-
-=== https://gfmd.info/fundings/birn-journalistic-excellence-fellowship-2026/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings BIRN Journalistic Excellence Fellowship 2026
-Organisation: Balkan Investigative Reporting Network (BIRN)
-
-Status: Closed
-Type: Fellowship
-
-Theme: Environmental journalism
-
-Funding Size: €3,000
-Deadline: 10/03/2026
-
-Eligibility Criteria : Journalists with professional experience from Albania, Bosnia-Herzegovina, Bulgaria, Croatia, Czech Republic, Greece, Hungary, Kosovo, North Macedonia, Montenegro, Poland, Romania, Serbia, and Slovakia. Applicants must hold citizenship or permanent residence in one of these countries.
-Type of Funding : Reporting Grant
-Region : Balkans
-Application Language : English
-Applications for the Balkan Investigative Reporting Network (BIRN) Journalistic Excellence Fellowship 2026 are now open. BIRN is offering 8 to 10 fellowships to journalists from Central and South Eastern Europe with compelling story id

@@ -1,6 +1,6 @@
 SOURCE: RIAS Berlin Kommission — journalist exchange
 URL: https://www.riasberlin.org/
-FETCHED: 2026-10-08T03:45:06.503Z
+FETCHED: 2026-10-09T03:45:14.201Z
 TITLE: RIAS Berlin Commission - Connecting Journalists
 
 === MAIN PAGE ===
@@ -185,7 +185,7 @@ The RIAS Berlin Commission program was established in 1992 and has been promotin
 --- relevant lines ---
 Please send your completed application forms and required materials (CV, Letter of Recommendation, Essay) in one PDF (max size 5MB) to apply@riasberlin.org.
 Application deadline: October 25, 2026
-RIAS Application 526 kB
+RIAS Application 526 KB
 🌼 Frühling: 07. bis 20. März 2027
 🍃 Herbst: 10. bis 23. Oktober 2027
 Bewerbungsfrist: 25. Oktober 2026
@@ -268,7 +268,7 @@ The RIAS Berlin Commission program was established in 1992 and has been promotin
 --- relevant lines ---
 Please send your completed application forms and required materials (CV, Letter of Recommendation, Essay) in one PDF (max size 5MB) to apply@riasberlin.org.
 Application deadline: October 25, 2026
-RIAS Application 526 kB
+RIAS Application 526 KB
 🌼 Frühling: 07. bis 20. März 2027
 🍃 Herbst: 10. bis 23. Oktober 2027
 Bewerbungsfrist: 25. Oktober 2026
@@ -358,7 +358,7 @@ The RIAS Berlin Commission program was established in 1992 and has been promotin
 --- relevant lines ---
 Please send your completed application forms and required materials (CV, Letter of Recommendation, Essay) in one PDF (max size 5MB) to apply@riasberlin.org.
 Application deadline: October 25, 2026
-RIAS Application 526 kB
+RIAS Application 526 KB
 🌼 Frühling: 07. bis 20. März 2027
 🍃 Herbst: 10. bis 23. Oktober 2027
 Bewerbungsfrist: 25. Oktober 2026

@@ -1,6 +1,6 @@
 SOURCE: USC Annenberg Center for Health Journalism
 URL: https://centerforhealthjournalism.org/
-FETCHED: 2026-10-04T05:29:05.113Z
+FETCHED: 2026-10-09T03:45:12.421Z
 TITLE: USC Center for Health Journalism
 
 === MAIN PAGE ===
@@ -122,11 +122,12 @@ Connecting with other journalists also pursuing ambitious projects helped motiva
 Coming into this project, I had never tackled a systemic issue on a large scale like this before. It's something that can be intimidating at times, especially coming from an under-resourced newsroom. Moving forward, I'm excited to apply many of the lessons I learned during my project.
 The Fellowship helped me feel part of a larger endeavor and reminded me that no matter the size of your newsroom or scope of your coverage, issues that you hear about on the national news are felt locally, and reporting on them with a deep respect for people and place makes the greatest impact.
 San Antonio native Laura Garcia had a keen sense of the health inequities dividing her hometown. The National Fellowship helped her tell that story in a way that led to major changes in the city s health care landscape.
-September 28, 2026
-September 21, 2026
-September 15, 2026
+October 8, 2026
+Speaking at the 2026 Data Fellowship, The Baltimore Banner s Greg Morton shared how his team corralled the data that proved Baltimore’s transit system was failing students.
+October 5, 2026
+October 5, 2026
 
-=== https://centerforhealthjournalism.org/index%2Ephp/about/our-leadership-funders ===
+=== https://centerforhealthjournalism.org/about/our-leadership-funders ===
 Skip to main content
 
 USC Center for Health Journalism
@@ -240,7 +241,7 @@ Leadership and Funders
 Teena Apeles is the national engagement editor at the Center for Health Journalism at the University of Southern California’s Annenberg School of Journalism. A native Angeleno, prior to joining the Center, she spent two decades covering art, culture, activism, history, and beyond for print and online media, including the Los Angeles Times, KCET, PBS SoCal, National Geographic, LAist and Stacker. Apeles has authored two nonfiction books and contributed to and edited books on a wide range of topics, from public parks and urban wildlife to pop culture and social justice. In 2016, Teena founded the creative collective Narrated Objects, which produces community-generated books and interactive, intergenerational experiences to showcase the diverse voices of the region. Collaborators have included Homeboy Industries, USC Pacific Asia Museum, Mayo Clinic, the Natural History Museum of Los Angeles County, the Autry Museum of the American West, the National Wildlife Federation, the Los Angeles Neighborhood Land Trust, and the Mayor's Fund for Los Angeles initiative LA Original.
 Michelle Levander is the founding director of the USC Annenberg Center for Health Journalism and editor-in-chief of its online community. Since she launched the Center in 2004, its journalism fellows have published more than 2,500 articles in partnership with the Center. Fellows’ stories have won distinction and changed laws, reinvigorated policy discussions and provoked new community discussions nationwide. Michelle launched the Center after more than 15 years as a staff reporter and editor in New York, California, Hong Kong and Mexico, working for Time Magazine Asia, the Asian Wall Street Journal and the San Jose Mercury News. She has received journalism awards from the Overseas Press Club of America (Best Reporting in Latin America), the Inter American Press Association, the Society of Professional Journalists L.A. (Distinguished Work in New Media) as well as a Northern California Co-Producer Emmy Award (Spanish-language Outstanding Achievement Health Journalism). A former Inter American Press Association fellow, she spent a year in Mexico, at Mexico City's El Colegio de México and at El Colegio de Michoacán and researched migrant culture from rural Mexico. She has a bac…
 
-=== https://centerforhealthjournalism.org/index%2Ephp/fellowships-grants/our-fellowships-grants ===
+=== https://centerforhealthjournalism.org/fellowships-grants/our-fellowships-grants ===
 Skip to main content
 
 USC Center for Health Journalism
@@ -365,7 +366,7 @@ The Health and Climate Change Reporting Fellowship supports ambitious investigat
 Our Grants
 Our Impact Funds provide up to five months of professional mentorship and generous reporting stipends to journalists advancing public…
 
-=== https://centerforhealthjournalism.org/index%2Ephp/fellowships-grants/national-fellowship ===
+=== https://centerforhealthjournalism.org/fellowships-grants/national-fellowship ===
 Skip to main content
 
 USC Center for Health Journalism
@@ -485,7 +486,7 @@ How to Apply
 Sign-up for our newsletter as well for updates and deadlines for future opportunities to apply.
 San Antonio native Laura Garcia had a keen sense of the health inequities dividing her hometown. The National Fellowship helped her tell that story in a way that led to major changes in the city s health care landscape.
 
-=== https://centerforhealthjournalism.org/index%2Ephp/fellowships-grants/california-fellowship ===
+=== https://centerforhealthjournalism.org/fellowships-grants/california-fellowship ===
 Skip to main content
 
 USC Center for Health Journalism
@@ -608,7 +609,7 @@ APPLY NOW
 Sign-up for our newsletter as well for updates and deadlines for future opportunities to apply.
 Arcenio López, a former farmworker turned nonprofit leader, turned to journalism to raise the profile and needs of Indigenous migrant farmworkers in California during COVID. The Center s Fellowship program helped him get those urgent stories published.
 
-=== https://centerforhealthjournalism.org/index%2Ephp/fellowships-grants/data-fellowship ===
+=== https://centerforhealthjournalism.org/fellowships-grants/data-fellowship ===
 Skip to main content
 
 USC Center for Health Journalism
@@ -730,7 +731,7 @@ The Center for Health Journalism seeks Data Fellowship project ideas for our Cal
 Immigrant health and well-being in an era of mass deportations
 Interested in applying? The deadline for the 2026 Data Fellows…
 
-=== https://centerforhealthjournalism.org/index%2Ephp/fellowships-grants/impact-fund-reporting-health-equity-health-systems ===
+=== https://centerforhealthjournalism.org/fellowships-grants/impact-fund-reporting-health-equity-health-systems ===
 Skip to main content
 
 USC Center for Health Journalism
@@ -971,7 +972,7 @@ Interested in applying? If you would like to discuss a project proposal, please 
 How to Apply
 Sign-up for our newsletter as well for updates and deadlines for future opportunities to apply.
 
-=== https://centerforhealthjournalism.org/index%2Ephp/domestic-violence-symposium-and-impact-reporting-fund ===
+=== https://centerforhealthjournalism.org/domestic-violence-symposium-and-impact-reporting-fund ===
 Skip to main content
 
 USC Center for Health Journalism

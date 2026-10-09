@@ -1,9 +1,36 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-10-08T03:44:57.216Z
+FETCHED: 2026-10-09T03:45:05.436Z
 TITLE: (feed)
 
 === FEED ITEMS ===
+Call for organizational grants
+Thu, 08 Oct 2026 11:03:30 +0000
+Eligibility: Slovenian NGO s Target Region: Slovenia Application Language: Slovenian Civil Society Fund has launched a Call for organisational grants for organisations working in the fields of democracy, the rule of law, human rights, media literacy, gender equality, and environmental protection. A total of €1,200,000 is available under this call. The main objective of the Call for organisational [ ]
+
+The post Call for organizational grants appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/call-for-organizational-grants/
+
+CALL FOR PROJECTS – Strengthening independent journalism and countering disinformation in Moldova
+Thu, 08 Oct 2026 10:35:22 +0000
+Eligibility: Outlets working with public-interest media in Moldova Target Region: Republic of Moldova Application Language: English The Call for Projects is launched within the framework of the Strengthening Democratic Media in the Black Sea Region project, implemented by CFI and funded from the French Ministry for Europe and Foreign Affairs. The Project aims to enhance the [ ]
+
+The post CALL FOR PROJECTS – Strengthening independent journalism and countering disinformation in Moldova appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/call-for-projects-strengthening-independent-journalism-and-countering-disinformation-in-moldova/
+
+the Equality Fund Global Journalism Fellowship 2026
+Thu, 08 Oct 2026 10:16:04 +0000
+Eligibility: Journalists in ODA-recipient countries Target region: ODA countries (see here) Application language: English (reporting can be any language) The Equality Fund, a global fund investing in people with local solutions to global challenges, is launching its inaugural Equality Fund Journalism Fellowship. Journalists in ODA-recipient countries are invited to apply now through November 8, 2026 at [ ]
+
+The post the Equality Fund Global Journalism Fellowship 2026 appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/the-equality-fund-global-journalism-fellowship-2026/
+
 CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova
 Fri, 02 Oct 2026 13:23:13 +0000
 Eligibility: Applicants countering disinformation in Moldova Target region: Republic of Moldova Language: English Canal France International (CFI) is inviting applications for a call for projects to strengthen independent journalism and counter disinformation in the Republic of Moldova. Three selected media outlets can receive grants of up to €30,000, with an indicative total call budget of [ ]
@@ -85,32 +112,174 @@ The post Audience-Engaged Journalism Grants appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/audience-engaged-journalism-grants-5/
 
-LMDIF Western Balkans Fund
-Fri, 03 Jul 2026 12:01:30 +0000
-Eligibility: Media located in or serving audiences in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. Target Region: Balkans Application Language: English MDIF Western Balkans Fund is a strategic initiative to foster growth and resilience in independent media in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It takes a holistic [ ]
+=== https://gfmd.info/fundings/call-for-organizational-grants/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
 
-The post LMDIF Western Balkans Fund appeared first on GFMD .
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
 
-]]>
-https://gfmd.info/fundings/lmdif-western-balkans-fund/
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
 
-Invisible Life Grant
-Fri, 19 Jun 2026 10:56:15 +0000
-Eligibility: cross-border teams of journalists/news outlets researching European animal welfare Target Region: Europe Application Language: English, Dutch, French The Invisible Life Grant supports cross-border teams of professional journalists and/or news outlets to conduct investigations into farm animal welfare and related European interests, both within and beyond Europe. The programme is open to teams investigating how [ ]
+News
+About How to Join GFMD
+Who is Who
+Partner with us
 
-The post Invisible Life Grant appeared first on GFMD .
+Subscribe
 
-]]>
-https://gfmd.info/fundings/invisible-life-grant-round-4-2026/
+« Back to all Fundings Call for organizational grants
+Organisation: Civil Society Fund
 
-SA AJP Investigative Journalism Grants (Southern Africa Accountability Journalism Project)
-Fri, 19 Jun 2026 10:45:52 +0000
-Eligibility: journalists and newsrooms in select Southern African Development Community (SADC) countries Target Region: Sub-Saharan Africa (SADC region) Application Language: English The Southern Africa Accountability Journalism Project (SA AJP) provides investigative journalism grants and comprehensive editorial support to journalists and newsrooms in select Southern African Development Community (SADC) countries. The project seeks stories that expose wrongdoing, [ ]
+Status: Open
+Type: Grant
 
-The post SA|AJP Investigative Journalism Grants (Southern Africa Accountability Journalism Project) appeared first on GFMD .
+Theme: Media support
 
-]]>
-https://gfmd.info/fundings/saajp-investigative-journalism-grants-southern-africa-accountability-journalism-project/
+Funding Size: €120,000 - €180,000
+Deadline: 15/10/2026
+
+Eligibility: Slovenian NGO s
+Target Region: Slovenia
+Application Language: Slovenian
+Civil Society Fund has launched a Call for organisational grants for organisations working in the fields of democracy, the rule of law, human rights, media literacy, gender equality, and environmental protection. A total of €1,200,000 is available under this call.
+The main objective of the Call for organisational grants is to strengthen organisations that are active in the priority areas of Civil Society Fund for several years by supporting the achievement of their long-term strategic goals and enhancing their organizational capacities.
+Requirements
+Applicants must submit a multi-
+
+--- relevant lines ---
+year organizational work plan or strategy covering strategic objectives for both their programme activities (e.g. work with minority communities, advocacy for vulnerable groups, etc.) and organizational development (e.g. human resources management and development, fundraising, communications, etc.).
+Eligibility
+Eligible applicants are non-governmental organizations (NGOs) that, on the date of application submission, meet the criteria set out in Article 2 of the Slovenian Non-Governmental Organisations Act (Official Gazette of the Republic of Slovenia, No. 21/18), comply with the requirements specified in the Civil Society Fund Programme Agreement.
+NGOs that have been legally registered for at least 36 months before the application deadline, with an average annual income of at least €70,000 and no more than €200,000 over the last three completed financial years, and that have a multi-year organizational work plan or strategy, or NGOs that have been legally registered for at least 36 months before the application deadline, with an average annual income exceeding €200,000 over the last three completed financial years, and that have a multi-year organizational work plan or strategy.
+The annualized value of the requested grant may not exceed 50% of the applicant’s average annual turnover. Applicants with a lower average annual income must therefore choose a longer project duration (48 months). This option is recommended for all organizations with an annual budget below €100,000.
+The applicant must currently implement, or have implemented since 1 January 2020, at least five different projects within the priority areas of the Civil Society Fund Slovenia.
+How to apply
+Apply via the online form before the noted deadline. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/call-for-projects-strengthening-independent-journalism-and-countering-disinformation-in-moldova/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings CALL FOR PROJECTS – Strengthening independent journalism and countering disinformation in Moldova
+Organisation: Canal France International (CFI)
+
+Status: Open
+Type: Grant
+
+Theme: Media support
+
+Funding Size: EUR 22,000 - 30,000
+Deadline: 17/10/2026
+
+Eligibility: Outlets working with public-interest media in Moldova
+Target Region: Republic of Moldova
+Application Language: English
+The Call for Projects is launched within the framework of the Strengthening Democratic Media in the Black Sea Region project, implemented by CFI and funded from the French Ministry for Europe and Foreign Affairs. The Project aims to enhance the capacity of independent media to provide accurate, accessible and public-interest information to citizens in Moldova.
+This Call for Projects aims to reinforce independent journalism by supporting content production
+
+--- relevant lines ---
+The selected projects must start no earlier than 1st November 2026 and end no later than 30th June 2027.
+Only “Eligible Costs” shall be covered by the grant awarded.
+The budget is both an estimate of costs and an overall ceiling for “Eligible Costs”.
+Eligibility
+Be directly responsible for the preparation and management of the project proposed under this Call for Projects;
+How to apply
+Each applicant must produce an application including all the documents and information listed below, failing which they will be eliminated from the CFI selection process:
+Appendix 2: Provisional project budget : the provisional budget must be presented in accordance with the document and must be drawn up in accordance with the provisions of Article 3.3. Eligibility criteria for coasts.;
+Appendix 3: Application form : it must be dated and signed and contain the Applicant’s legal registration document and bank details, failing which it will be incomplete.
+Apply via the portal. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/the-equality-fund-global-journalism-fellowship-2026/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings the Equality Fund Global Journalism Fellowship 2026
+Organisation: Equality Fund
+
+Status: Open
+Type: Fellowship
+
+Theme: Media support
+
+Funding Size: $4,000
+Deadline: 08/11/2026
+
+Eligibility: Journalists in ODA-recipient countries
+Target region: ODA countries ( see here )
+Application language: English (reporting can be any language)
+The Equality Fund, a global fund investing in people with local solutions to global challenges, is launching its inaugural Equality Fund Journalism Fellowship. Journalists in ODA-recipient countries are invited to apply now through November 8, 2026 at 11pm, Eastern Standard Time.
+Requirements
+The Equality Fund welcomes journalism across a range of formats, including written articles, audio, video, and other digital storytelling formats, as long as the project is grounded in fact-based reporting with a c
+
+--- relevant lines ---
+Podcast episodes or audio projects are eligible if they include original reporting and interviews. Informal conversations are not a fit, but long-form interviews, reported audio features, and documentary-style episodes are eligible.
+Social media storytelling is eligible if the format is used to tell a reported, journalistic story. The Equality Fund is open to digital-first and non-traditional formats, including video and social media storytelling, as long as the work is grounded in reporting and verification.
+Your story should not be finished. It should be in a proposal state. If you have already reported
+The Equality Fund uses journalism to mean work that involves original reporting, fact-checking, and publication through a recognized outlet or platform involving more than one person. They recognize that some applicants may not describe themselves as journalists, especially freelancers or independent creators, but may still be doing journalistic work.
+Eligibility
+Fluent in English, Equality Fund’s working language
+Have a strong affinity for Equality Fund s mission, and align with their values – equality and diversity of race, gender, sexual orientation, religion, ethnicity, national origin, and disability
+Women, non-binary, and trans people are encouraged to apply
+How to apply
+Closing Date for applications is November 8, 2026 at midnight, Eastern Standard Time. Applications sent outside of the form will not be considered. Incomplete applications (applications not containing a sample of work, letter of motivation, and CV) will not be considered. Successful applicants will be contacted by January 15, 2027. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
 
 === https://gfmd.info/fundings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/ ===
 Support journalism GFMD IMPACT
@@ -483,164 +652,6 @@ A well-developed story pitch demonstrating investigative merit, originality, rea
 Grantees must publish in a U.S. outlet within one year of receiving a grant and must credit the IWMF.
 How to Apply
 Submit the application through the IWMF Submittable portal on a rolling basis; there is no fixed closing date for the current programme cycle. Larger awards are considered on a case-by-case basis. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/belgian-bridge-programme/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings Belgian Bridge Programme
-Organisation: Journalismfund Europe
-
-Status: Open
-Type: Grant
-
-Theme: Investigative journalism
-
-Funding Size: EUR 100,000 available in total
-Deadline: 15/10/2026
-
-Eligibility: Dutch-speaking and French-speaking journalists residing in Belgium
-Target Region: Belgium
-Application Language: Dutch, French
-The Belgian Bridge programme supports collaborative investigative projects led by Dutch-speaking and French-speaking journalists residing in Belgium who work together on local issues of national importance. The goal is to produce multilingual journalism that exposes how issues arise on both sides of Belgium s language border, thereby bringing communities closer together. The programme is in its pilot phase in 2026, with a total of €100,000 available, supported by the King Baudouin Foundation. Grants cover wor
-
---- relevant lines ---
-Eligibility
-Administrative documents as specified in the grant rules.
-How to Apply
-Register with an email address on the Journalismfund Europe grants portal, then complete and submit the online application before 15 October 2026 at 1:00 p.m. CET (Brussels time). Pre-application advice is available via phone or a video-call appointment; contact details are on the funder s page. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/audience-engaged-journalism-grants-5/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings Audience-Engaged Journalism Grants
-Organisation: Balkan Investigative Reporting Network (BIRN)
-
-Status: Open
-Type: Grant
-
-Theme: Investigative journalism
-
-Funding Size: up to EUR 9,400
-Deadline: 12/10/2026
-
-Eligibility: Eastern European journalists with a story proposal
-Target Region: Eastern Europe, Caucasus, and Central Asia
-Application Language: English
-The Balkan Investigative Reporting Network (BIRN) is launching the first call for Audience-Engaged Journalism Grants as part of the third edition of the Media Innovation Europe (MIE) initiative, led by the International Press Institute. The programme offers grants, a four-day online training course, professional mentoring, and access to BIRN s BE Engaged digital crowdsourcing tool to media outlets from ten Balkan and Visegrad countries. It supports investigative and in-depth st
-
---- relevant lines ---
-Eligibility
-Legally registered media organisations from Albania, Bosnia and Herzegovina, the Czech Republic, Hungary, Kosovo, Montenegro, North Macedonia, Poland, Serbia, and Slovakia may apply.
-Applicants must be registered as legal entities on or before January 1, 2024.
-Proposals that involve underrepresented communities — including women, young people, national and ethnic minorities, LGBTQ+ people and other marginalised or underreported groups — are particularly encouraged.
-A story proposal explaining the issue being investigated, why the topic is important, the affected community involved, how citizens will contribute to the reporting process, and the expected public impact of the story.
-A completed financial proposal using the budget template provided.
-Relevant financial and registration documents and certificates as specified in the full Call for Applications.
-Individual grants of up to EUR 4,700 are available for stories addressing national, regional, or local issues; cross-border grants of up to EUR 9,400 are available for at least two media organisations working together on a topic relevant to audiences across Balkan and Visegrad countries.
-Under this call, BIRN will award up to four individual grants and up to two cross-border grants; selected media outlets are expected to begin implementation on December 1, 2026, with projects lasting up to eight months and all activities completed by July 31, 2027.
-How to Apply
-Access and complete the online application form through the provided link. All required supporting documents must be submitted together with the application by October 12, 2026, at midnight CET. An online information session in English will be held on September 7, 2026, at 14:00 CET. Questions may be submitted to the BE Tool Coordinator by October 5, 2026.
-Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/lmdif-western-balkans-fund/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings LMDIF Western Balkans Fund
-Organisation: Media Development Investment Fund (MDIF)
-
-Status: Open
-Type: Equity Investments
-
-Theme: Democracy and good governance
-
-Funding Size: N/A
-Deadline: Ongoing
-
-Eligibility: Media located in or serving audiences in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia.
-Target Region: Balkans
-Application Language: English
-MDIF Western Balkans Fund is a strategic initiative to foster growth and resilience in independent media in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It takes a holistic investment approach, utilizing a versatile strategy of loans, equity and quasi-equity supported by media business expertise. The Fund focuses investments on innovative start-ups, growth media undergoing digital transformation and protecting indepe
-
---- relevant lines ---
-ndent media from capture. The Fund seeks to bridge the financing gap that often hinders growth, and supports the development of robust, financially and editorially independent media companies that are able to support the advancement of their societies.
-Eligibility
-The Fund catalyses capital, mobilizing financing to empower independent media enterprises in the region through no-strings-attached financing that drives growth and protects independen
-The amount MDIF invests in each company is dependent on many factors, including the stage of company development and the total round-size and location. When applying, please provide the total amount of money you are raising and how much of the round has already been raised (if any).
-MDIF s media expertise and more than two decades of working in the Western Balkans give the Fund a unique approach. MDIF s experience and networks ensure quality deal flow, and mission-screening by their Board of Directors ensures alignment with the fund’s mission objectives.
-How to apply
-You can send in your application to gro.fidm@fbw. If you have a question that isn’t answered on the website, please contact gro.fidm@fbw.
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

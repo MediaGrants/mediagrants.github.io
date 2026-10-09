@@ -1,6 +1,6 @@
 SOURCE: IRE — fellowships and scholarships
 URL: https://www.ire.org/training/fellowships-and-scholarships/
-FETCHED: 2026-10-08T03:45:02.239Z
+FETCHED: 2026-10-09T03:45:10.998Z
 TITLE: Fellowships & Scholarships - Investigative Reporters and Editors
 
 === MAIN PAGE ===
@@ -223,15 +223,16 @@ Registration
 Apply for a fellowship
 Sponsors
 Schedule
+Tipsheets
 
 October 8-10, 2026
 Join Investigative Reporters and Editors for our fifth-annual, virtual-by-design conference. The conference will provide professional development opportunities that focus on diversity, belonging, equity and inclusion issues within the newsroom and in news coverage. AccessFest will also feature some of the best sessions from past NICAR and IRE Conferences, including tried-and-true data skills and investigative techniques.
 
 Remember: You must be a current IRE member through October 31, 2026, to attend the conference.
-Expired members must renew their membership before registering for the conference. Not an IR
+Expired members must renew their membership before registering for the conference.
 
 --- relevant lines ---
-E member? You can apply online .
+ Not an IRE member? You can apply online .
 Fellowships
 Looking to get a fellowship? Apply here !
 Thursday, October 8

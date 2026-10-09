@@ -1,6 +1,6 @@
 SOURCE: EU Delegation to Serbia — calls for proposals
 URL: https://europa.rs/
-FETCHED: 2026-10-06T03:43:53.719Z
+FETCHED: 2026-10-09T03:45:09.435Z
 TITLE: Početna - EU u Srbiji
 
 === MAIN PAGE ===
@@ -77,36 +77,35 @@ EVROPSKA KUĆA
 
 Search for:
 
-Početna EUinfo Admin 2026-09-30T14:46:52+02:00
-Vesti
+Početna EUinfo Admin 2026-10-07T09:38:28+02:00
+Aktuelno Vesti
 
-Poznati dobitnici nagrada „Ekoopština“ 2026
+EU ambasador Andreas fon Bekerat: Odgovornost javnih servisa je da obezbede nezavisno izveštavanje
 
-24/09/2026
+08/10/2026
 
-Vesti
+Vesti Vesti iz Brisela
 
-Podrška EU prekograničnoj saradnji: 22 godine, više od 1.400 projekata, trajni rezultati
+Priprema za širu Uniju
 
-24/09/2026
+06/10/2026
 
-Aktuelno Vesti Vesti iz Brisela
+Aktuelno Vesti
 
-Zajednička izjava izvr
+Aktivistkinje udruženja 
 
 --- relevant lines ---
+Kulturni Cerak – „Heroine nasleđa“ za 2026. godinu
+06/10/2026
+Poznati dobitnici nagrada „Ekoopština“ 2026
+24/09/2026
 15/09/2026
-07/09/2026
-05/09/2026
 02/09/2026
-26/08/2026
-DiscoverEU: Putne karte za mlade rođene 2008. godine
-DiscoverEU: Putne karte za mlade rođene 2008. godine
-05/10/2026
-02/10/2026
-01/10/2026
-30/09/2026
-Copyright © EU Delegacija u Srbiji 2025. Sva prava zadržana.
+24/08/2026
+08/10/2026
+07/10/2026
+07/10/2026
+06/10/2026
 
 === https://europa.rs/eu-funding/wbif/ ===
 Skip to content

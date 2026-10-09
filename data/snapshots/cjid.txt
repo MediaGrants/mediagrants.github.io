@@ -1,6 +1,6 @@
 SOURCE: Centre for Journalism Innovation and Development (Africa)
 URL: https://thecjid.org/
-FETCHED: 2026-09-21T03:41:48.933Z
+FETCHED: 2026-10-09T03:45:15.684Z
 TITLE: homepage - CJID
 
 === MAIN PAGE ===
@@ -146,9 +146,9 @@ Reports and
 
 --- relevant lines ---
 Grant Making
+October 8, 2026
 IReV Performance in the 2026 Osun Governorship Election: Progress, Gaps, and Lessons for 2027
 September 8, 2026
 Osun 2026: Mapping the Digital Information Landscape Ahead of the Poll
 August 14, 2026
 July 16, 2026
-July 2, 2026
