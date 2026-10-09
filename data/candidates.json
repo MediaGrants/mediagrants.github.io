@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-08T04:23:52.225Z",
+  "generatedAt": "2026-10-09T04:26:56.044Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -118,14 +118,14 @@
     },
     {
       "name": "Nova Institute for Health",
-      "url": "https://novainstituteforhealth.org/our-communities/media-fellows/",
-      "why": "Funds a $60,000 one-year health-journalism fellowship for US journalists.",
+      "url": "https://novainstituteforhealth.org",
+      "why": "Funds a $60,000 annual Nova Media Fellowship for health journalism; grants.json previously recorded the funder under the shorthand name \"Nova Media\", now corrected.",
       "seenAt": [
         "gfmd-fellowships"
       ],
-      "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-02",
-      "timesSeen": 9,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-10-06",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -451,8 +451,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 15,
+      "lastSeen": "2026-10-09",
+      "timesSeen": 16,
       "status": "new"
     },
     {
@@ -738,18 +738,6 @@
       "status": "new"
     },
     {
-      "name": "Nova Institute for Health",
-      "url": "https://novainstituteforhealth.org",
-      "why": "Funds a $60,000 annual Nova Media Fellowship for health journalism; grants.json previously recorded the funder under the shorthand name \"Nova Media\", now corrected.",
-      "seenAt": [
-        "gfmd-fellowships"
-      ],
-      "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-06",
-      "timesSeen": 2,
-      "status": "new"
-    },
-    {
       "name": "Stanley Center for Peace and Security",
       "url": "https://stanleycenter.org/",
       "why": "Co-runs the COP31 Climate Change Media Partnership Reporting Fellowship jointly with Internews Earth Journalism Network.",
@@ -794,8 +782,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-09",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -1182,6 +1170,140 @@
       ],
       "firstSeen": "2026-10-08",
       "lastSeen": "2026-10-08",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "World Federation of Science Journalists (WFSJ) / WCSJ2027",
+      "url": "https://wfsj.org/events/world-conference-on-science-journalists/",
+      "why": "Organiser of the WCSJ2027 Travel Fellowship tracked via gfmd-fundings; not itself one of the eight tracked sources.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Journalists Programme (IJP e.V.)",
+      "url": "https://www.ijp.org/en/",
+      "why": "Runs the German-Northern European Journalists Fellowship tracked via gfmd-fundings; not itself one of the eight tracked sources.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Free Press Unlimited (FPU)",
+      "url": "https://www.freepressunlimited.org/",
+      "why": "Runs the Free Press Awards (seen today via gfmd-fundings) and other press-freedom support work; the Awards themselves are prizes and excluded, but FPU is a distinct funder/organisation not yet tracked.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Civil Society Fund (Slovenia)",
+      "url": "https://eeagrants.org/en/fmo/countries/slovenia",
+      "why": "EEA/Norway Grants-backed Slovenian NGO fund (organisational grants call, deadline 15 Oct 2026) seen today via gfmd-fundings; broader than journalism specifically (media literacy is one of several themes) so not recorded as a grant, but logged as a candidate funder to watch.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "DFRLab (Digital Forensic Research Lab, Atlantic Council)",
+      "url": "https://dfrlab.org/",
+      "why": "Runs Digital Sherlocks, the only genuine opportunity found in today's stale ijnet-opportunities feed; DFRLab is not itself one of the eight tracked sources.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Goethe-Institut — Innovation. Media. Minds. (EU-funded Western Balkans media grants)",
+      "url": "https://www.goethe.de/",
+      "why": "EU-funded media grants (up to EUR 30,000, projects up to 8 months) for independent media across Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia, run by Goethe-Institut with DW Akademie; the current round closed 18 September 2025, found while searching for a successor to eu-delegation-serbia's closed media call.",
+      "seenAt": [
+        "eu-delegation-serbia",
+        "eidhr-ncidi"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "GIZ / DW Akademie — Sustain Media (EU & BMZ-funded Western Balkans media grants)",
+      "url": "https://www.giz.de/en/html/index.html",
+      "why": "EU and German BMZ-funded grants (EUR 10,000-80,000) to establish Media Resource Centers supporting small/local media outlets in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia; the most recent round's deadline (15 March 2026) has passed, found while searching for a successor to eu-delegation-serbia's closed media call.",
+      "seenAt": [
+        "eu-delegation-serbia",
+        "eidhr-ncidi"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU Civil Society Facility and Media Programme (Western Balkans & Türkiye, 2025-2027 multiannual action plan)",
+      "url": "https://enlargement.ec.europa.eu/",
+      "why": "A regional EU multi-country mechanism for civil-society and media grants covering the Western Balkans (including Serbia) and Türkiye under a financing decision adopted June 2025 for 2025-2027; no confirmed Serbia-specific call date found yet, so worth re-checking in future sweeps.",
+      "seenAt": [
+        "eu-delegation-serbia"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "European Fund for the Balkans (EFB) — Engaged Democracy Initiative / Opportunity & Innovation Grants",
+      "url": "https://balkanfund.org/",
+      "why": "Independent regional grantmaker covering the Western Balkans (including Serbia); its listings include small regional investigative-journalism grants (deadline already passed) and 'Opportunity & Innovation Grants' tagged for media & journalism with an aggregator-reported but unverified deadline of 2 November 2026 — worth checking directly on the funder's own site.",
+      "seenAt": [
+        "eu-delegation-serbia"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "NIAS Safe Haven Fellowship (Netherlands Institute for Advanced Study)",
+      "url": "https://nias.knaw.nl/fellowships/safe-haven-fellowship/",
+      "why": "A fellowship explicitly open to journalists (alongside scholars, artists and writers) unable to work in their current location due to conflict or war, with relocation, stipend and travel support, surfaced while researching Scholars at Risk's journalist-placement options.",
+      "seenAt": [
+        "scholars-at-risk"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Massey College Journalism Fellowships (William Southam Fellowship / Gordon N. Fisher-JHR Fellowship)",
+      "url": "https://masseycollege.ca/",
+      "why": "A Canadian journalism fellowship programme, including one specifically for journalists from Sub-Saharan Africa or the Middle East, surfaced while researching Scholars at Risk's academic/journalist placement pathways.",
+      "seenAt": [
+        "scholars-at-risk"
+      ],
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
       "timesSeen": 1,
       "status": "new"
     }
