@@ -1,6 +1,6 @@
 SOURCE: Digital Freedom Fund
 URL: https://digitalfreedomfund.org/
-FETCHED: 2026-09-22T03:40:13.569Z
+FETCHED: 2026-10-10T03:44:29.753Z
 TITLE: Digital Freedom Fund Advancing digital rights through strategic litigation
 
 === MAIN PAGE ===
@@ -120,13 +120,17 @@ Commun
 
 --- relevant lines ---
 Our Grantmaking Case Studies
+Surveillance towers used to prosecute migrants and deny asylum
+Since 2022, the United Kingdom has contracted with Anduril Industries, a defence company, and Sirius Insight for the provision of autonomous surveillance towers (AST)s along Channel coastline, with almost zero...
+In 2025, investigative journalists uncovered that during and following the Myanmar military coup starting in 2021, Telenor had shared data linked to specific phone numbers with the military upon request,...
 In Slovenia, the Act on Urgent Measures to Ensure Public Security (“Sutar Law”) was adopted in November 2025 and entered into force in January 2026. According to the Roma Feminist...
 Model Ethical Funding and Impact Measurement Framework
 Get the latest news from the Digital Freedom Fund,
+30th September 2026
+Since we launched the AI and Digital Infrastructure Hub (AI Hub) in June 2025, AI tools have increasingly become household names and a polarising issue on many fronts. Every industry and sector is actively planning how to implement them in
 7th September 2026
 In Hungary in 2025, parliament banned Pride events and authorised facial recognition to identify attendees. In Uganda in 2024, the courts upheld the country’s Anti-Homosexuality Act, imposing penalties of life imprisonment or death. In Argentina in 2025, President Javier Milei
 3rd September 2026
-2nd September 2026
 Digital Freedom Fund
 
 === https://digitalfreedomfund.org/about/funding/ ===
@@ -236,10 +240,12 @@ Funding
 
 Our funders
 
-DFF is currently supported by Open Society Foundations, Luminate, Luminate Projects, Oak Foundation, Ford Foundation, and the Limelight Foundation. Previously, DFF received support from Robert Bosch Stiftung, Mercator Stiftung, Renewable Freedom Foundation and the Sigrid Ra
+DFF is currently supported by Open Society Foundations, Luminate, Luminate Projects, Oak Foundation, Ford Foundation, the Limelight Foundation, and Media and Democracy Fund. Previously, DFF received support from Robert Bosch Stiftung, Mercator Stiftung, Renewable Freedom Fo
 
 --- relevant lines ---
-using Trust, and project funding from the Citizens, Equality, Rights and Values (CERV) programme of the European Union and the Democracy and Media Foundation (Stichting Democratie en Media).
+undation and the Sigrid Rausing Trust, and project funding from the Citizens, Equality, Rights and Values (CERV) programme of the European Union and the Democracy and Media Foundation (Stichting Democratie en Media).
+Do you want to help protect human rights in online spaces by making a financial contribution to DFF? Your donation will support organisations to build legal strategies to tackle digital rights abuse. Digital Freedom Fund is a register ANBI charity in the Netherlands and all donations within the Netherlands are tax deductible.
+Account Holder: Stichting Digital Freedom Fund
 Ethical funding policy
 DFF fundraises under the guidance of its Ethical Funding Policy, which outlines the type of funding DFF accepts and the types of activities donations and other funding are used for. DFF’s Ethical Funding Policy seeks to ensure that DFF can properly manage its priorities and projects with appropriate independence from its funders.
 A summary of the DFF Ethical Funding Policy can be accessed here .
@@ -625,14 +631,13 @@ The case studies below illustrate the important digital rights work of our grant
 ver time as new grants are approved and projects progress.
 Highlighting Litigation Success in the Digital Rights Community : a report documenting some of the impact from the more than 100 grants we made between 2018 and 2024.
 Litigation Impact Stories : stories from grantee partners highlighting notable outcomes and successes from their litigation and pre-litigation research.
+In September 2025, Spain's Supreme Court ruled in Civio's favour after a seven-year legal battle, ordering the government to release the source code of BOSCO, an algorithm determining eligibility for
+In Sweden, the so-called new "Snitch Law", likely to enter into law in 2026, would force public employees to contact the Police Authority if they have reason to assume that
+In December 2021, the Norwegian Data Protection Authority (DPA) issued an administrative fine of NOK 65 million (around EUR 6.5 million) against dating app Grindr for disclosing personal information about
+Háttér Society are preparing for litigation challenging the blocking of access to online LGBTI content in Hungary. This relates to the adoption in 2021 of legislation that bans access of
 In 2024, PILP took litigation challenging automated decision making through the use of an algorithm by banks in the Netherlands, resulting in discrimination against people with "exotic" sounding names, whose
-Digital Rights Ireland are taking a “mass action” lawsuit against Facebook. They will represent users who have been affected by the 3 April 2021 release of computer files containing personal
-In October 2024, IuRe filed a lawsuit with the Municipal Court in Prague to challenge the processing and use of sensitive personal medical data by the Czech Institute of Health
-In March 2020, France introduced an emergency law imposing a strict lockdown on the whole country. People who did not comply were subject to fines and even jail time. Authorities
-In October 2024, La Quadrature du Net (LQDN) along with 14 other organisations began litigation against a risk-scoring algorithm used by the CNAF (Caisse nationale d’allocations familiales), the family branch
+With the support of the 5Rights Foundation, Good Law Project made a submission in May 2025 to the UK Competition and Markets Authority (CMA) against Apple and Google app stores
+Liberty are challenging the UK government’s regime to issue a Technical Capability Notice (“TCN”) under the Investigatory Powers Act 2016.In February 2025, it was reported that the UK Secretary of
 In 2019, the Bulgaria National Revenue Agency servers were hacked, compromising personal data of approximately six million people. KDBM believes the hack was partly due to deficient security practices and
-Liberty are challenging the UK government’s regime to issue a Technical Capability Notice (“TCN”) under the Investigatory Powers Act 2016. In February 2025, it was reported that the UK Secretary
-In Slovenia, the Act on Urgent Measures to Ensure Public Security (“Sutar Law”) was adopted in November 2025 and entered into force in January 2026. According to the Roma Feminist
-On 18 June 2021, Quad9, a non-profit Domain Name Server (DNS) resolver, received an interim injunction from the District Court of Hamburg, pursuant to an application made by Sony Music.
-The German Asylum Act grants the Federal Ministry for Migration and Refugees the power to access the mobile devices of migrants and asylum seekers, without a warrant, in order to
-This grant s…
+In 2025, investigative journalists uncovered that during and following the Myanmar military coup starting in 2021, Telenor had shared data linked to specific phone numbers with the military upon request,
+Based on research carried out by Tracking Exposed (now rebranded into Reversing Works), privacy activists lodged a complaint before the data protection authority (DP…

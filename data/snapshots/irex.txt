@@ -1,6 +1,6 @@
 SOURCE: IREX
 URL: https://www.irex.org/participate-projects-0
-FETCHED: 2026-10-07T03:44:22.293Z
+FETCHED: 2026-10-10T03:44:24.608Z
 TITLE: Participate in Programs | IREX
 
 === MAIN PAGE ===
@@ -116,12 +116,15 @@ Community Solutions
 
 Host Community Solutions Participants
 
-Fulbright Teaching Excellence and Achieve
+Early Grade Education Activity (ASAS)
+
+RE
 
 --- relevant lines ---
+QUEST FOR PROPOSALS (RFP) for Arabic and Mathematics Professional Development Services
 REQUEST FOR PROPOSALS (RFP) for Online Course Video Production and Post-Production
-Seeking Applications for 2027 Young Leaders of the Americas Initiative City Partners
 Apply Now
+Seeking Applications for 2027 Young Leaders of the Americas Initiative City Partners
 2026 IREX
 
 === https://www.irex.org/impact-fellowships-network ===

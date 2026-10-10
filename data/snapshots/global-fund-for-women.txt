@@ -1,6 +1,6 @@
 SOURCE: Global Fund for Women
 URL: https://www.globalfundforwomen.org/apply-for-a-grant/
-FETCHED: 2026-09-22T03:40:19.548Z
+FETCHED: 2026-10-10T03:44:30.634Z
 TITLE: Funding for Gender Equality Nonprofits | Gender Equality Grants - Global Fund for Women
 
 === MAIN PAGE ===

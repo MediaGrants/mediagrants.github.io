@@ -1,6 +1,6 @@
 SOURCE: Open Technology Fund
 URL: https://www.opentech.fund/funds/rapid-response-fund/
-FETCHED: 2026-10-07T03:44:22.700Z
+FETCHED: 2026-10-10T03:44:25.717Z
 TITLE: Rapid Response Fund | OTF
 
 === MAIN PAGE ===
@@ -82,6 +82,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -106,7 +108,7 @@ Apply Now
 
 What we do
 
-We provide both technical services and direct financial support to high-risk individuals facing acute digital security emergencies or 
+We provide both technical services and direct financial support to high-risk individuals facing acute digital security
 
 --- relevant lines ---
 Security audits of web applications and systems
@@ -212,6 +214,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -236,7 +240,7 @@ Yes
 
 Funds
 
-Direct funding support to researchers, technologists, and digital security experts developing solutio
+Direct funding support to researchers, technologists, and digital security experts de
 
 --- relevant lines ---
 Funds
@@ -323,6 +327,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -347,7 +353,7 @@ And this number is only increasing as authoritarian governments around the world
 
 As a result, we see increasingly sophisticated challenges to protect internet freedom, and see evolving community needs:
 
-the constant evolution of repressive censorship a
+the constant evolution of repress
 
 --- relevant lines ---
 under-funding and under-support for the FOSS ecosystem
@@ -440,6 +446,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -464,7 +472,7 @@ Apply Now
 
 About the Internet Freedom Fund
 
-The Internet Freedom Fund is the primary opportunity through which Open Technology Fund supports innovative global internet freedom projects. These projects are focused on technology development and implementation, but can also include applied research, convenings, a
+The Internet Freedom Fund is the primary opportunity through which Open Technology Fund supports innovative global internet freedom projects. These projects are focused on technology development and implementation, but can also include applied researc
 
 --- relevant lines ---
 OTF prioritizes projects coming from individuals or organizations who are applying for the first time, identify as under-represented within the field, and address areas that are underfunded.
@@ -560,6 +568,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -586,10 +596,10 @@ APPLY NOW
 
 About the Surge and Sustain Fund
 
-Today, nearly five billion people live in a country where the internet is censored . In these contexts
+Today, nearly five billion people live in a country where the internet is censored . I
 
 --- relevant lines ---
-, demand for circumvention tools like VPNs have increased exponentially as these have become critical information lifelines. In response to this increasing demand, OTF established the Surge and Sustain Fund to provide leading, open source circumvention tool developers with the resources they need to connect millions of users in the most repressive environments to the global internet.
+n these contexts, demand for circumvention tools like VPNs have increased exponentially as these have become critical information lifelines. In response to this increasing demand, OTF established the Surge and Sustain Fund to provide leading, open source circumvention tool developers with the resources they need to connect millions of users in the most repressive environments to the global internet.
 The tools funded under the Surge and Sustain Fund are selected through a public application process, which ensures OTF selects tools that meet high security and privacy standards; and that they have a demonstrated ability to operate at scale in highly censored environments, with a track record of successfully staying ahead of increasingly sophisticated censorship techniques.
 Award Information
 Funds awarded are based on unique users served in specific countries, up to a maximum ceiling. OTF intends to re-compete this solicitation annually.
@@ -599,7 +609,7 @@ Through the Surge and Sustain Fund, OTF provides resources on a competitive basi
 The Surge and Sustain Fund prioritizes supporting users living in China, Cuba, Iran, Myanmar, Russia , and other closed information environments.
 The Surge and Sustain Fund exclusively covers the server infrastructure costs of providing circumvention services to users in highly censored countries. Each applicant must calculate the average costs for supporting a monthly active user (MAU) during the application phase for OTF review. Successful applicants receive contracts from OTF with per-user costs for a set of approved countries. The Surge and Sustain Fund then reimburses tool developers only for the number of demonstrably served active users each month.
 The Surge and Sustain Fund will not cover any staff time or development efforts (please direct all applications for technology development to the Internet Freedom Fund ).
-OTF holds all circumvention tools we w…
+OTF holds all circumve…
 
 === https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/ ===
 MY OTF
@@ -680,6 +690,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -704,7 +716,7 @@ Not Currently Accepting Applications
 
 About the FOSS Sustainability Fund
 
-Ensuring a sustainable FOSS ecosystem is critical to the development, maintenance, and reliabi
+Ensuring a sustainable FOSS ecosystem is critical to the development, maintena
 
 --- relevant lines ---
 The FOSS Sustainability Fund makes targeted investments in the long-term maintainability, interoperability, reproducibility, security, and resilience of the internet freedom technology ecosystem . This ecosystem includes amongst other technologies, circumvention tools (like VPNs), secure messaging apps, shutdown-resilient tools, anti-censorship and privacy-preserving technologies, as well as these tools’ foundational software infrastructure.
@@ -803,6 +815,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -829,7 +843,7 @@ Not currently accepting applications
 
 About the Information Controls Research Program
 
-The Information Controls Research Program (ICRP), formerly known as the “Information Controls Fellowship Program,” supports applied research into how authoritarian gov
+The Information Controls Research Program (ICRP), formerly known as the “Information Controls Fellowship Program,” supports applied research into how a
 
 --- relevant lines ---
 ICRP Award Information:
@@ -923,6 +937,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -955,7 +971,7 @@ View
 
 Get the latest Internet freedom news
 
-By signing up for our newsletter, you acknowledge and agree to
+By signing up for our newsletter, you acknowle
 
 === https://www.opentech.fund/projects-we-support/supported-projects/ ===
 MY OTF
@@ -1036,6 +1052,8 @@ Website Credits
 
 Terms of Service
 
+Privacy Policy
+
 News
 
 OTF Updates
@@ -1063,7 +1081,7 @@ How MAX's unified structure provides a systemic mechanism for centralized censor
 Find Out More
 
 OTF New Projects: Deep Packet Resistance with AI-driven Deflect & Ceno
-Enhancing Deflect’s and Ceno’s resilience against censors in highly repressive con
+Enhancing Deflect’s and Ceno’s resilience against censors in highl
 
 --- relevant lines ---
 Community - Community Engagement - Community Events - Outreach Internet Freedom & IF Technologies - Circumvention - Communications - Community - Digital Security - Encryption - Funds - Human Rights - Internet Shutdowns - Labs - Maintenance - Measurement/Monitoring - News - Protocols/Standards - Research - Secure Access - Secure Storage/File Sharing - Technology Development - Technology Implementation News - Blog - General IF News - Research Open Technology Fund - About OTF - Application - Blog - Fellowships - Funds - Guidebook - Impact - Labs - Staff - What We Do OTF Projects/Projects We Support - Applicants - Existing Projects - Free Open Source Software Sustainability Fund - Internet Freedom Fund - Previous Projects - Rapid Response - Surge and Sustain Fund Region - Central Asia - China - East Africa - Globally Focused - Indonesia - Iran - MENA - Mexico - Nigeria - Russia - South America - Sub-Saharan Africa - Tibet - Ukraine Resources - Apps - Blog - Labs - News - Research - Security/Safety Audits

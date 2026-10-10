@@ -1,6 +1,6 @@
 SOURCE: European Climate Foundation
 URL: https://europeanclimate.org/
-FETCHED: 2026-09-22T03:40:13.592Z
+FETCHED: 2026-10-10T03:44:29.515Z
 TITLE: Homepage | European Climate Foundation
 
 === MAIN PAGE ===
@@ -33,7 +33,7 @@ Our Impact
 Our Partners
 
 Our Partners
-We work with philanthropic funders who support our mission, and with 700+ grantee partners across Europe and beyond to catalyse climate action. Find out how to work with us.
+We work with philanthropic funders who support our mission, and with 600+ grantee partners across Europe and beyond to catalyse climate action. Find out how to work with us.
 
 Our Funding Partners
 
@@ -50,15 +50,15 @@ Resources
 
 ECF Academy
 
-28/06/2025
+06/10/2026
 
-Resilience through innovation: Europe's clean tech ecosystem gains ground
+Jochen Flasbarth appointed as next CEO of the European Climate Foundation
 
 Empowering people across society to create a net-zero world
 
 We are Europe’s largest grant-making foundation for climate. We work with hundreds of partners to catalyse climate action and build a secure, resilient and democratic Europe.
 
-700+
+600+
 
 grantee partners
 
@@ -66,7 +66,7 @@ grantee partners
 
 countries
 
-1,100+
+900+
 
 grants
 
@@ -74,11 +74,11 @@ grants
 
 European national and regional teams
 
-15+
+18
 
 years of proven impact
 
-The c
+The clim
 
 --- relevant lines ---
 We work to achieve the goals of the Paris Agreement through strategic grant-giving, strengthening Europe’s network of organisations working towards net zero, shaping narratives to show the wide-ranging impact of climate action on health, affordability and equity, and thought leadership that unites civil society, businesses, and policymakers behind shared strategies for progress.
@@ -88,9 +88,10 @@ Our Grantee Network
 23.06.2026
 Annual Report 2025: Keeping the Spirit of the Paris Agreement Alive
 Our 2025 Annual Report reflects on a year that tested the resilience of climate action while still reaffirming its direction. Marking ten years since the Paris Agreement, this edition highlights how progress continues in a more complex and contested political…
-21.04.2026
+06.10.2026
+6 October 2026 | The Supervisory Board has appointed Jochen Flasbarth as the European Climate Foundation’s next Chief Executive Officer. Jochen has accepted the role, and the necessary arrangements relating to his transition from German public service are now being…
+28.05.2026
 24.02.2026
-28.08.2025
 2026 European Climate Foundation
 
 === https://europeanclimate.org/our-funding-partners/ ===
@@ -123,7 +124,7 @@ Our Impact
 Our Partners
 
 Our Partners
-We work with philanthropic funders who support our mission, and with 700+ grantee partners across Europe and beyond to catalyse climate action. Find out how to work with us.
+We work with philanthropic funders who support our mission, and with 600+ grantee partners across Europe and beyond to catalyse climate action. Find out how to work with us.
 
 Our Funding Partners
 
@@ -140,9 +141,9 @@ Resources
 
 ECF Academy
 
-28/06/2025
+06/10/2026
 
-Resilience through innovation: Europe's clean tech ecosystem gains ground
+Jochen Flasbarth appointed as next CEO of the European Climate Foundation
 
 Our Funding Partners
 
@@ -191,7 +192,7 @@ Our Impact
 Our Partners
 
 Our Partners
-We work with philanthropic funders who support our mission, and with 700+ grantee partners across Europe and beyond to catalyse climate action. Find out how to work with us.
+We work with philanthropic funders who support our mission, and with 600+ grantee partners across Europe and beyond to catalyse climate action. Find out how to work with us.
 
 Our Funding Partners
 
@@ -208,9 +209,9 @@ Resources
 
 ECF Academy
 
-28/06/2025
+06/10/2026
 
-Resilience through innovation: Europe's clean tech ecosystem gains ground
+Jochen Flasbarth appointed as next CEO of the European Climate Foundation
 
 Our Grantmaking
 

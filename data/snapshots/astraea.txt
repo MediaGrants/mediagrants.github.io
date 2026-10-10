@@ -1,9 +1,11 @@
 SOURCE: Astraea Lesbian Foundation for Justice
 URL: https://astraeafoundation.org/grants/
-FETCHED: 2026-09-22T03:40:11.650Z
+FETCHED: 2026-10-10T03:44:27.045Z
 TITLE: Astraea Foundation
 
 === MAIN PAGE ===
+GDPR Cookie Banner
+
 We are using cookies to give you the best experience on our website.
 
 You can find out more about which cookies we are using or switch them off in settings .
@@ -23,8 +25,6 @@ This website uses cookies so that we can provide you with the best user experien
 Strictly Necessary Cookies
 
 Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
-
-Enable or Disable Cookies
 
 Enabled
 Disabled
