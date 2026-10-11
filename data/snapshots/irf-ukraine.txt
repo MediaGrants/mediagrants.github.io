@@ -1,6 +1,6 @@
 SOURCE: International Renaissance Foundation (Ukraine)
 URL: https://www.irf.ua/en/contest/
-FETCHED: 2026-10-10T03:44:26.895Z
+FETCHED: 2026-10-11T03:44:52.006Z
 TITLE: Contests - International Renaissance Foundation
 
 === MAIN PAGE ===

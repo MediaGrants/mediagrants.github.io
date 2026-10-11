@@ -1,6 +1,6 @@
 SOURCE: JX Fund — European Fund for Journalism in Exile
 URL: https://jx-fund.org/
-FETCHED: 2026-10-08T03:45:01.312Z
+FETCHED: 2026-10-11T03:44:56.573Z
 TITLE: JX Fund – European Fund for Journalism in Exile
 
 === MAIN PAGE ===

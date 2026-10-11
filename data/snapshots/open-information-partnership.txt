@@ -1,6 +1,6 @@
 SOURCE: Open Information Partnership
 URL: https://openinformationpartnership.org/
-FETCHED: 2026-10-08T03:45:01.431Z
+FETCHED: 2026-10-11T03:44:56.517Z
 TITLE: Homepage - Open Information Partnership
 
 === MAIN PAGE ===
