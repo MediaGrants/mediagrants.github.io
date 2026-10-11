@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-09T04:26:56.044Z",
+  "generatedAt": "2026-10-11T04:24:49.000Z",
   "candidates": [
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
@@ -451,8 +451,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 16,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 17,
       "status": "new"
     },
     {
@@ -572,8 +572,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-06",
-      "timesSeen": 6,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -782,8 +782,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -1178,11 +1178,12 @@
       "url": "https://wfsj.org/events/world-conference-on-science-journalists/",
       "why": "Organiser of the WCSJ2027 Travel Fellowship tracked via gfmd-fundings; not itself one of the eight tracked sources.",
       "seenAt": [
-        "gfmd-fundings"
+        "gfmd-fundings",
+        "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1190,23 +1191,12 @@
       "url": "https://www.ijp.org/en/",
       "why": "Runs the German-Northern European Journalists Fellowship tracked via gfmd-fundings; not itself one of the eight tracked sources.",
       "seenAt": [
-        "gfmd-fundings"
+        "gfmd-fundings",
+        "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
-      "status": "new"
-    },
-    {
-      "name": "Free Press Unlimited (FPU)",
-      "url": "https://www.freepressunlimited.org/",
-      "why": "Runs the Free Press Awards (seen today via gfmd-fundings) and other press-freedom support work; the Awards themselves are prizes and excluded, but FPU is a distinct funder/organisation not yet tracked.",
-      "seenAt": [
-        "gfmd-fundings"
-      ],
-      "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1217,8 +1207,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1252,11 +1242,12 @@
       "why": "EU and German BMZ-funded grants (EUR 10,000-80,000) to establish Media Resource Centers supporting small/local media outlets in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia; the most recent round's deadline (15 March 2026) has passed, found while searching for a successor to eu-delegation-serbia's closed media call.",
       "seenAt": [
         "eu-delegation-serbia",
-        "eidhr-ncidi"
+        "eidhr-ncidi",
+        "eu-civil-society-facility"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1264,11 +1255,12 @@
       "url": "https://enlargement.ec.europa.eu/",
       "why": "A regional EU multi-country mechanism for civil-society and media grants covering the Western Balkans (including Serbia) and Türkiye under a financing decision adopted June 2025 for 2025-2027; no confirmed Serbia-specific call date found yet, so worth re-checking in future sweeps.",
       "seenAt": [
-        "eu-delegation-serbia"
+        "eu-delegation-serbia",
+        "eu-civil-society-facility"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-11",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1304,6 +1296,66 @@
       ],
       "firstSeen": "2026-10-09",
       "lastSeen": "2026-10-09",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "MEdIA-Lit",
+      "url": "https://media.cgo-cce.org/",
+      "why": "Media-literacy and local-media grant programme for Western Balkans CSOs and outlets, run by the Center for Civic Cooperation (CGO), surfaced while researching the EU's Western Balkans/Türkiye Civil Society Facility and Media Programme.",
+      "seenAt": [
+        "eu-civil-society-facility"
+      ],
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EaP Civil Society Facility (fellowships)",
+      "url": "https://eapcivilsociety.eu/",
+      "why": "A separate, Eastern Partnership-specific civil society facility (distinct from the Western Balkans one) running its own fellowship/regrant cycles, e.g. a 'Civil Society Resilience' cohort.",
+      "seenAt": [
+        "eu-civil-society-facility"
+      ],
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "OGP Civil Society Innovations for Open Government / EU4Integrity",
+      "url": "https://www.opengovpartnership.org/",
+      "why": "EU-funded grants specifically for Eastern Partnership CSOs (Armenia, Georgia, Moldova, Ukraine) for public-engagement/open-government tools, with a possible public-information/documentation angle worth separate evaluation.",
+      "seenAt": [
+        "eu-civil-society-facility"
+      ],
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Global Strategic Communications Council",
+      "url": "https://www.hewlett.org/",
+      "why": "A dedicated climate-communications funding vehicle co-funded by the European Climate Foundation and the Hewlett Foundation; potentially closer to a journalism/media-communications fit than ECF's core, invite-only grantmaking.",
+      "seenAt": [
+        "european-climate-foundation"
+      ],
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Heartefact / Culture for Democracy Serbia",
+      "url": "https://heartefact.org/",
+      "why": "Swiss-embassy-funded cultural job-shadowing fund in Serbia (all cultural/artistic sectors); weak fit for journalism specifically but borderline-relevant if it ever covers media-arts documentation.",
+      "seenAt": [
+        "ch-embassy-serbia"
+      ],
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
       "timesSeen": 1,
       "status": "new"
     }
