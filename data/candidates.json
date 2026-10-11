@@ -1,7 +1,33 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-11T04:24:49.000Z",
+  "generatedAt": "2026-10-11T12:00:00.000Z",
   "candidates": [
+    {
+      "name": "California Civic Media Program",
+      "url": "https://business.ca.gov/california-civic-media-program/",
+      "why": "Public-private fund (State of California matched by Google, $20M total) making one-time grants of up to $250,000 to California news organizations for original reporting and civic engagement, with an emphasis on underserved local communities.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "Governor's office announcement, gov.ca.gov, 14 Jul 2026, and the program's own page at business.ca.gov/california-civic-media-program/; application window closed 21 Aug 2026, with Journalism Funding Partners and the James B. McClatchy Foundation administering the two halves. Read October 2026."
+    },
+    {
+      "name": "Stimuleringsfonds voor de Journalistiek (SVDJ / Dutch Journalism Fund)",
+      "url": "https://www.svdj.nl/",
+      "why": "Dutch government-backed independent fund running recurring grant schemes (the SVDJ Accelerator, investigative-journalism collaborations, local-journalism innovation and professionalization) open to journalists and newsrooms in the Netherlands.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "svdj.nl's own programme pages and business.gov.nl's 'Dutch journalism subsidies' overview, describing active 2026 grant rounds; financed by the Ministry of Education, Culture and Science. Read October 2026."
+    },
     {
       "name": "National Institute for Health Care Management (NIHCM) Foundation",
       "url": "https://nihcm.org/",
