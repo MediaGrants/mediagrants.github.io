@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-11T12:00:00.000Z",
+  "generatedAt": "2026-10-12T04:28:00.000Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -87,8 +87,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 13,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 14,
       "status": "new"
     },
     {
@@ -100,8 +100,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 18,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 20,
       "status": "new"
     },
     {
@@ -114,8 +114,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 18,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 20,
       "status": "new"
     },
     {
@@ -126,8 +126,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 12,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 13,
       "status": "new"
     },
     {
@@ -138,8 +138,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-06",
-      "timesSeen": 11,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 12,
       "status": "new"
     },
     {
@@ -150,8 +150,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-06",
-      "timesSeen": 2,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -247,11 +247,12 @@
       "seenAt": [
         "gfmd-fundings",
         "weekly-discovery",
-        "hivos"
+        "hivos",
+        "osf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -274,8 +275,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-07",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -286,8 +287,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-07",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -477,8 +478,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-11",
-      "timesSeen": 17,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 19,
       "status": "new"
     },
     {
@@ -808,8 +809,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11",
-      "timesSeen": 6,
+      "lastSeen": "2026-10-12",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -1382,6 +1383,42 @@
       ],
       "firstSeen": "2026-10-11",
       "lastSeen": "2026-10-11",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "ARTICLE 19 Europe",
+      "url": "https://www.article19.org/",
+      "why": "Named today as an implementing partner of the Media Freedom Rapid Response consortium providing legal/advocacy support to journalists in danger; worth checking whether it runs its own dedicated grants or emergency-support scheme.",
+      "seenAt": [
+        "mfrr"
+      ],
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "European Federation of Journalists (EFJ)",
+      "url": "https://europeanjournalists.org/",
+      "why": "Named today as the MFRR consortium partner that coordinates safety and digital-security training offers for journalists; a WebSearch today found past one-off trainings and a current EC-funded master-class project but no standing fund, so it is flagged as a candidate rather than given its own grant entry.",
+      "seenAt": [
+        "mfrr"
+      ],
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Prague Civil Society Centre",
+      "url": "https://www.praguecivilsociety.org/",
+      "why": "Leads the EU-funded Free Media Hub EAST / Media Freedom Hub re-granting consortium and runs its own direct media grants (average ~€64,000) for independent outlets across Eastern Europe, the South Caucasus and Central Asia.",
+      "seenAt": [
+        "ec-journalism-partnerships"
+      ],
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
       "timesSeen": 1,
       "status": "new"
     }
