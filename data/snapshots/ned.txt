@@ -1,6 +1,6 @@
 SOURCE: National Endowment for Democracy
 URL: https://www.ned.org/apply-for-grant/
-FETCHED: 2026-10-11T03:44:56.276Z
+FETCHED: 2026-10-12T03:49:12.870Z
 TITLE: English - NATIONAL ENDOWMENT FOR DEMOCRACY
 
 === MAIN PAGE ===

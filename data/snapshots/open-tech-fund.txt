@@ -1,6 +1,6 @@
 SOURCE: Open Technology Fund
 URL: https://www.opentech.fund/funds/rapid-response-fund/
-FETCHED: 2026-10-11T03:44:51.961Z
+FETCHED: 2026-10-12T03:49:09.654Z
 TITLE: Rapid Response Fund | OTF
 
 === MAIN PAGE ===

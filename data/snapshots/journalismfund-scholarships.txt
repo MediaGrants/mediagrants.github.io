@@ -1,6 +1,6 @@
 SOURCE: Journalismfund Europe — Scholarships
 URL: https://www.journalismfund.eu/scholarships
-FETCHED: 2026-10-11T03:44:51.615Z
+FETCHED: 2026-10-12T03:49:07.626Z
 TITLE: Scholarships | Journalismfund Europe
 
 === MAIN PAGE ===

@@ -1,6 +1,6 @@
 SOURCE: Media Freedom Rapid Response
 URL: https://www.mfrr.eu/
-FETCHED: 2026-10-11T03:44:55.817Z
+FETCHED: 2026-10-12T03:49:13.114Z
 TITLE: Media Freedom Rapid Response
 
 === MAIN PAGE ===
