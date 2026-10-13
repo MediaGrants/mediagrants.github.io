@@ -1,6 +1,6 @@
 SOURCE: EU mogućnosti — donor calls in Serbia
 URL: https://eumogucnosti.rs/
-FETCHED: 2026-10-09T03:45:10.896Z
+FETCHED: 2026-10-13T03:48:27.895Z
 TITLE: EU mogućnosti
 
 === MAIN PAGE ===
@@ -62,36 +62,34 @@ FOTO
 
 Search for:
 
+COST poziv 2026: Podrška za nove evropske mreže istraživača i inovatora
+
+Biznis i inovacije
+Inovacije
+Obrazovanje
+
+GOTOTWIN poziv: Testiranje digitalnih rešenja za obnovljive izvore energije
+
+Biznis i inovacije
+Inovacije
+Lokalni razvoj i teritorijalna saradnja
+Zelena tranzicija
+
+Otvoren poziv Programa finansijske podrške ŠTIT u zajednici
+
+Civilno društvo
+Kultura, mediji i civilno društvo
+
 HORIZON Europe Excellence Hubs 2027: Podrška regionalnim inovacionim ekosistemima
 
 Biznis
 Biznis i inovacije
 Inovacije
 
-Kultura pokreće Evropu: Individualna mobilnost
-
-Kultura
-Kultura, mediji i civilno društvo
-Mediji
-
-Kreativna Evropa 2027: Razvoj video-igara i imerzivnog sadržaja
-
-Kultura
-Kultura, mediji i civilno društvo
-Mediji
-
-Filmovi u pokretu 2027: EU podrška distribuciji evropskih filmova
-
-Kultura
-Kultura, mediji i civilno društvo
-Mediji
-
-Konkurs za predloge projekata i manifestacija vezanih za zaštitu ljudskih
+Kultura pok
 
 --- relevant lines ---
- prava za 2027. godinu
-22/09/2026 - 08/10/2026
-08/10/2026
+Kreativna Evropa 2027: Razvoj video-igara i imerzivnog sadržaja
 13 - 16/10/2026
 28/10/2026
 07/10/2026

@@ -1,6 +1,6 @@
 SOURCE: European Journalism Centre — Funding
 URL: https://ejc.net/funding
-FETCHED: 2026-10-12T03:49:05.519Z
+FETCHED: 2026-10-13T03:48:18.646Z
 TITLE: Funding | EJC.net
 
 === MAIN PAGE ===

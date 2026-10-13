@@ -1,6 +1,6 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-10-12T03:49:05.645Z
+FETCHED: 2026-10-13T03:48:16.418Z
 TITLE: (feed)
 
 === FEED ITEMS ===
@@ -103,14 +103,14 @@ The post Belgian Bridge Programme appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/belgian-bridge-programme/
 
-Audience-Engaged Journalism Grants
-Fri, 14 Aug 2026 13:27:29 +0000
-Eligibility: Eastern European journalists with a story proposal Target Region: Eastern Europe, Caucasus, and Central Asia Application Language: English The Balkan Investigative Reporting Network (BIRN) is launching the first call for Audience-Engaged Journalism Grants as part of the third edition of the Media Innovation Europe (MIE) initiative, led by the International Press Institute. The programme [ ]
+LMDIF Western Balkans Fund
+Fri, 03 Jul 2026 12:01:30 +0000
+Eligibility: Media located in or serving audiences in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. Target Region: Balkans Application Language: English MDIF Western Balkans Fund is a strategic initiative to foster growth and resilience in independent media in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It takes a holistic [ ]
 
-The post Audience-Engaged Journalism Grants appeared first on GFMD .
+The post LMDIF Western Balkans Fund appeared first on GFMD .
 
 ]]>
-https://gfmd.info/fundings/audience-engaged-journalism-grants-5/
+https://gfmd.info/fundings/lmdif-western-balkans-fund/
 
 === https://gfmd.info/fundings/call-for-organizational-grants/ ===
 Support journalism GFMD IMPACT

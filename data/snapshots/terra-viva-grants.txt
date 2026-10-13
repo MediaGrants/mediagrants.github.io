@@ -1,6 +1,6 @@
 SOURCE: Terra Viva Grants — environment & rural development
 URL: https://www.terravivagrants.org/
-FETCHED: 2026-10-09T03:45:11.342Z
+FETCHED: 2026-10-13T03:48:27.517Z
 TITLE: Home - Terra Viva Grants
 
 === MAIN PAGE ===
@@ -278,18 +278,16 @@ View Grant Makers
 Funding Alerts
 Grants Database
 Funding News
-Farm Radio International — Farm Radio Awards
-October 4, 2026
-The George Atkins Communication Award recognizes individual radio broadcasters for their outstanding commitment and contribution to food security and poverty reduction in low-income countries. The winners will receive a certificate and C$500. Farm Radio International broadcasting partners in Africa can apply. The deadline to apply is 09 October 2026. Farm Radio Awards
-Africa , agriculture , awards/prizes , individuals , media/journalism , october2026
-October 4, 2026
-Halcyon invites early-stage, revenue-generating ventures across Sub-Saharan Africa working on climate-resilient agriculture, food security, and smallholder farmer livelihoods to apply for its accelerator program. Selected founders receive a $10,000 equity-free stipend, $10,000 in AWS credits, professional advisors, and access to Halcyon s global founder network. The initial eligibility deadline is 23 October 2026. Link to Halcyon
-Africa , agriculture , business/enterprise , climate , fellowships/scholarships , MENA , october2026 , partnerships/collaboration
-October 4, 2026
-Hatch Blue invites women-led blue economy startups to apply for an equity-free business support programme focused on Latin America and the Caribbean. Topics include sustainable and regenerative aquaculture, marine biotech, seafood value chains, seafood waste reuse and blue carbon. The programme pays all travel, accommodation and food for two participants per team, but gives no cash or equity investment. Teams must be led or founded by women, or have women as real decision-makers, and have at least one participant, ideally two co-founders. Applications close on 07 November 2026. Women in Ocean Food
-Mohamed bin Zayed Species Conservation Fund — Grants for Endangered Species Conservation
-October 4, 2026
-The Mohamed bin Zayed Species Conservation Fund invites applications for grants supporting the conservation of individual threatened plant, animal and fungi species anywhere in the world. Grants are up to US$25 thousand, and the F…
+October 11, 2026
+GIZ’s MOVE-ComCashew project invites young and emerging cashew entrepreneurs to turn a business idea into an investment-ready, climate-smart plan and submit it for a kickstart prize. Winners receive either €2,000 in direct funding or a laptop, tablet or software. The page doesn’t say how many prizes there are. Applicants must be at least 18, based in a member state of the Organisation of African, Caribbean and Pacific States (OACPS), and have an idea anywhere in the cashew value chain. The deadline is 30 October 2026. Cashew Business Idea Competition
+Africa , agriculture , Asia-Pacific , awards/prizes , business/enterprise , individuals , LAC , october2026
+GIZ Agri-Business Facility for Africa — Business Growth Awards for Young Agripreneurs
+October 11, 2026
+GIZ’s Agri-Business Facility for Africa invites young and emerging agripreneurs to turn a business idea into a funded plan through its Agribusiness Growth Challenge. Ideas must fall in maize, livestock (cattle, sheep or goats), cashew or cocoa. The Business Growth Awards are listed as €6,000 in funding, a Dell Pro 14 Essential laptop and a place in a six-month agribusiness mentoring programme. Applicants must be at least 18 and based in a member state of the Organisation of African, Caribbean and Pacific States (OACPS). Submissions close on 30 October 2026. Business Growth Awards for Young Agripreneurs
+Africa , agriculture , Asia-Pacific , awards/prizes , business/enterprise , early-career , individuals , LAC , october2026 , youth
+Technische Universität Dresden — Masters in Tropical Forestry 2027
+October 11, 2026
+The MSc Course in Tropical Forestry taught at Technische Universität Dresden (TDU) in Germany qualifies students to develop sustainable forest management strategies and implement development-relevant interventions in rural and peri-urban areas. Germany s DAAD (the German Academic Exchange Service) will fund a limited number of scholarships for applicants from developing countries to enroll in TDU’s 2-year master s program. Applicants must…
 
 === https://www.terravivagrants.org/subscribe-to-funding-alerts/ ===
 Skip to content
