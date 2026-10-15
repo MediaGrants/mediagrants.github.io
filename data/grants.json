@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:23:19.207Z",
+  "generatedAt": "2026-10-15T04:20:18.843Z",
   "grants": [
     {
       "id": "access-now-digital-security-helpline",
@@ -340,10 +340,10 @@
         "HR"
       ],
       "sourceId": "civitates",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "This was Civitates' second-ever media open call, launched 31 January 2025; the concept-note deadline was 2 March 2025 23:59 CET (now long closed), open only to media organisations registered in Hungary, Poland, Italy, Spain, Bulgaria, Slovakia and Croatia. A fresh search today (2026-10-12) again found only this same call (via European Cultural Foundation, triple-funds.com, GFMD), plus unrelated Civitates news (a March 2026 'Civitates Forum' in Bruges and blog posts on grant-making lessons/'our approach for the next five years') with no newer journalism-specific round announced. civitates-eu.org again failed to fetch (HTTP 404) today, and a direct WebFetch attempt also failed (DNS resolution error in this environment). Not confirmed on the funder's own page."
+      "notes": "This was Civitates' second-ever media open call, launched 31 January 2025; the concept-note deadline was 2 March 2025 23:59 CET (now long closed), open only to media organisations registered in Hungary, Poland, Italy, Spain, Bulgaria, Slovakia and Croatia. A fresh search today (2026-10-12) again found only this same call (via European Cultural Foundation, triple-funds.com, GFMD), plus unrelated Civitates news (a March 2026 'Civitates Forum' in Bruges and blog posts on grant-making lessons/'our approach for the next five years') with no newer journalism-specific round announced. civitates-eu.org again failed to fetch (HTTP 404) today, and a direct WebFetch attempt also failed (DNS resolution error in this environment). Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; civitates-eu.org again unreachable (HTTP 404 on snapshot). Still no 2026 journalism-specific call found; only the same early-2025 call and unrelated news/blog items turn up. Not confirmed on the funder's own page."
     },
     {
       "id": "cjid-peace-public-safety-call-for-pitches-2026",
@@ -911,10 +911,10 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ec-journalism-partnerships",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "DISCREPANCY: the Commission's own funding-news-media-sector page, fetched again today (2026-10-12, 3022 words), still lists 'Call for Proposals: Journalism Partnerships - Collaborations (2026)' with 'EU funding: €6.9 million' under its 'Open calls for proposals' heading, with no deadline stated. However, multiple independent sources today (digital-strategy.ec.europa.eu's own per-call page, pact-for-skills.ec.europa.eu, EU national funding portals in Cyprus/Belgium, welcomeurope.com) consistently give a submission deadline of 4 February 2026 17:00 Brussels time for call CREA-CROSS-2026-JOURPART, now well in the past; results were expected summer 2026. The news-media-sector overview page appears to list calls under a static 'open' heading without removing them once their deadline passes (the page's own text says beneficiaries are removed only once the funding period/project ends, not at the application deadline). Status set to closed per the archive rule given the corroborated passed deadline; flagged for human review given the conflict with the funder's own page wording. A new 2027 edition may appear around late October 2026 (the 2024/2025/2026 editions were each published in late October of the prior year) but none was found today. Not confirmed on the funder's own page (for the deadline specifically)."
+      "notes": "DISCREPANCY (unchanged today): the Commission's own funding-news-media-sector page, fetched again today (2026-10-15, 3022 words), still lists 'Call for Proposals: Journalism Partnerships - Collaborations (2026)' with 'EU funding: €6.9 million' under its open-calls heading, with no deadline stated. The corroborated 4 February 2026 deadline for call CREA-CROSS-2026-JOURPART (from the call's own sub-page and EU national funding portals) is now well past; status kept closed per the archive rule. No 2027 edition found yet today. Not confirmed on the funder's own page (for the deadline specifically). Reconfirmed via today's (2026-10-15) snapshot; unchanged."
     },
     {
       "id": "ec-journalism-partnerships-horizon-media-freedom-2027",
@@ -940,7 +940,7 @@
         "min": 3500000,
         "max": 4000000,
         "currency": "EUR",
-        "note": "Reported EU contribution of roughly €3.5-4 million per project, in line with the pattern of the related 2026 media-viability call under the same cluster; exact 2027 call total budget not separately confirmed."
+        "note": "Reported EU contribution of roughly €3.5-4 million per project, in line with the related 2026 media-viability call; exact 2027 call total budget not confirmed on the funder's own page."
       },
       "deadline": "2027-09-23",
       "deadlineType": "fixed",
@@ -951,10 +951,10 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ec-journalism-partnerships",
-      "lastVerified": "2026-10-12",
-      "confidence": "medium",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
       "provenance": "auto",
-      "notes": "Deadline (23 September 2027) is stated verbatim on the Commission's own funding-news-media-sector page, fetched again today (2026-10-12), listed under 'Open calls for proposals' as call HORIZON-CL2-2027-01-DEMOCRACY-06. Like the related 2026 media-viability call, this is a Horizon Europe collaborative research action requiring a multi-country consortium, not a grant a single newsroom or freelancer can apply for alone; per the Commission's own text it covers 'identifying user-focused solutions to support news media freedom,' including small-scale user-centric business models for citizen involvement in the news. Budget figures come from secondary trackers, not confirmed on the Commission's own page itself. Not confirmed on the funder's own page (for the budget specifically)."
+      "notes": "Deadline (23 September 2027) confirmed verbatim again on today's (2026-10-15) own-page snapshot: 'Horizon Europe call for proposals on identifying user-focused solutions to support news media freedom (deadline 23 September 2027)'. Upgraded to high confidence since the deadline itself is now directly sourced from the funder's own page; the budget figure remains a secondary-source estimate, not stated on this page. Like the related 2026 media-viability call, this is a Horizon Europe collaborative research action requiring a multi-country consortium, not a grant a single newsroom or freelancer can apply for alone. Not confirmed on the funder's own page (for the budget specifically)."
     },
     {
       "id": "ec-journalism-partnerships-horizon-media-viability-2026",
@@ -980,7 +980,7 @@
         "min": 3500000,
         "max": 4000000,
         "currency": "EUR",
-        "note": "Call budget reported at €12 million in total, with an estimated EU contribution of €3.5-4 million per funded project (funding rate 70%, 100% for non-profit organisations); up to three projects expected to be funded."
+        "note": "Call budget reported at €12 million in total, with an estimated EU contribution of €3.5-4 million per funded project; up to three projects expected to be funded. Not confirmed on the funder's own page."
       },
       "deadline": "2026-09-23",
       "deadlineType": "fixed",
@@ -991,10 +991,10 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ec-journalism-partnerships",
-      "lastVerified": "2026-10-12",
-      "confidence": "medium",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
       "provenance": "auto",
-      "notes": "Deadline (23 September 2026, now passed) is stated verbatim on the Commission's own funding-news-media-sector page, fetched again today (2026-10-12), under 'Open calls for proposals'. Budget and consortium-composition details (consortium of at least 3 independent legal entities across different countries, including at least one Member State entity and at least one beneficiary/affiliated news media organisation) come from the EU Funding & Tenders Portal topic page and corroborating trackers, not from the Commission's news-media page itself. A standalone newsroom or freelancer cannot apply alone; it would need to join a cross-border research consortium as the required media-organisation partner. Not confirmed on the funder's own page (for the budget specifically)."
+      "notes": "Deadline (23 September 2026, now passed) confirmed verbatim again on today's (2026-10-15) own-page snapshot. Upgraded to high confidence since the deadline is directly sourced from the funder's own page. A standalone newsroom or freelancer cannot apply alone; it would need to join a cross-border research consortium as the required media-organisation partner. Budget/consortium-composition details remain from secondary trackers. Not confirmed on the funder's own page (for the budget specifically)."
     },
     {
       "id": "ec-journalism-partnerships-pluralism-2026",
@@ -1029,10 +1029,10 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ec-journalism-partnerships",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "DISCREPANCY: as with the Collaborations 2026 call, the Commission's own funding-news-media-sector page (fetched today, 2026-10-12) still lists this call under 'Open calls for proposals' with 'EU funding: €6.9 million' but no deadline. Multiple independent sources today (the call's own digital-strategy.ec.europa.eu sub-page, EU national funding portals, euro-access.eu, foerdermittelkompass) consistently give a 4 February 2026 deadline for call CREA-CROSS-2026-JOURPART-PLURALISM, published 23 October 2025, now well past. The news-media-sector overview page appears not to remove calls from its 'open' heading once their deadline passes. Status set to closed per the archive rule given the corroborated passed deadline; flagged for human review given the conflict with the funder's own page wording. The same overview page again carries an adjacent, now-resolved line about a €3 million call for 'core funding to media in exile... from Ukraine, Russia and Belarus' (recorded separately today as ec-journalism-partnerships-media-freedom-hub-2026) and two Horizon Europe research calls (recorded separately). A new 2027 Pluralism edition may appear around late October 2026 (the pattern is late-October publication each year) but none was found today. Not confirmed on the funder's own page (for the deadline specifically). Applicants are intermediary organisations, not individual freelance journalists."
+      "notes": "DISCREPANCY (unchanged today): the Commission's own page, fetched again today (2026-10-15), still lists this call under open calls with 'EU funding: €6.9 million' but no deadline. The corroborated 4 February 2026 deadline for CREA-CROSS-2026-JOURPART-PLURALISM is now well past; status kept closed per the archive rule. Applicants are intermediary organisations, not individual freelance journalists. Not confirmed on the funder's own page (for the deadline specifically). Reconfirmed via today's (2026-10-15) snapshot; unchanged."
     },
     {
       "id": "ecpmf-journalists-in-exile",
@@ -1067,16 +1067,16 @@
         "europe"
       ],
       "sourceId": "ecpmf",
-      "lastVerified": "2026-10-12",
-      "confidence": "medium",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed and refined today via WebSearch: the programme is run under ECPMF's 'Opportunities in Exile' project with a particular focus on journalists in exile in Germany (contact support@ecpmf.eu); funding is limited and not all requests can be supported. Not confirmed on the funder's own page (this source has no working snapshot). Reconfirmed via today's (2026-10-12) snapshot; unchanged."
+      "notes": "Confirmed on today's (2026-10-15) own-page snapshot of ecpmf.eu/support/journalists-in-exile-programme/, which states: 'Please note that ECPMF underlies strict funding criteria and is tied to limited project funds. Therefore we cannot support all incoming requests.' This is the first working snapshot directly of this page, so confidence upgraded from medium to high. Focus on journalists in exile in Germany and rolling/no-fixed-deadline handling carried over from a prior WebSearch pass, not independently re-confirmed in this snapshot's captured text."
     },
     {
       "id": "ecpmf-journalists-in-residence",
       "funder": "European Centre for Press and Media Freedom (ECPMF)",
       "programme": "Journalists-in-Residence (JiR) Programme",
-      "summary": "Relocation fellowship in Leipzig, Germany for journalists and media workers facing harassment or intimidation as a direct result of their work, providing a rent-free furnished apartment, health insurance, psychological support and a monthly stipend of EUR 1,000 for three to six months, plus travel costs and access to training/networking. Eligible applicants are from EU Member States, EU Candidate Countries, and Council of Europe Member States.",
+      "summary": "Relocation fellowship in Leipzig, Germany for journalists and media workers facing harassment or intimidation as a direct result of their work, providing a rent-free furnished apartment, health insurance, psychological support and a monthly stipend of EUR 1,000 for three to six months, plus travel costs and access to training/networking. Eligible applicants are from EU Member States, EU Candidate Countries, and Council of Europe Member States. A separate Ukraine-focused track under the same programme offers different, smaller benefits.",
       "url": "https://www.ecpmf.eu/support/journalists-in-residence/",
       "applyUrl": "https://www.ecpmf.eu/support/journalists-in-residence/",
       "applicantTypes": [
@@ -1096,7 +1096,7 @@
         "min": 1000,
         "max": 1000,
         "currency": "EUR",
-        "note": "Monthly stipend of EUR 1,000 for 3-6 months, plus rent-free apartment, health insurance and travel costs."
+        "note": "Monthly stipend of EUR 1,000 for 3-6 months, plus rent-free apartment, health insurance and travel costs (general JiR track). A separate Ukraine-focused track offers EUR 1,000 one-off relocation support, a EUR 500/month stipend, and EUR 300/month toward rent, plus office space, health insurance, and language/integration courses."
       },
       "deadline": null,
       "deadlineType": "rolling",
@@ -1108,10 +1108,10 @@
         "europe"
       ],
       "sourceId": "ecpmf",
-      "lastVerified": "2026-10-12",
-      "confidence": "medium",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed today via WebSearch (support details match prior record: rent-free Leipzig apartment, health insurance, psychological support, EUR 1,000/month, travel to/from Leipzig, plus training/networking). Not confirmed on the funder's own page (this source has no working snapshot). Reconfirmed via today's (2026-10-12) snapshot; unchanged."
+      "notes": "Core terms (monthly stipend EUR 1,000, 3-6 month duration, eligibility across EU Member States/Candidate Countries/Council of Europe Member States) confirmed verbatim on today's (2026-10-15) own-page snapshot. The same snapshot also describes a distinct Ukraine-focused JiR track with narrower eligibility (lived in Ukraine in 2022, valid Ukrainian passport, 3+ years as a professional journalist, at least basic English) and a different benefits package (EUR 1,000 relocation, EUR 500/month stipend, EUR 300/month toward rent, office space, health insurance, language/integration courses, psychological support on request). The snapshot also notes a 'Journalists-in-Residence Kosovo Programme' that 'does not accept new applications at the moment' — not recorded separately as it is explicitly closed to new applicants."
     },
     {
       "id": "ecpmf-legal-support",
@@ -1146,10 +1146,10 @@
         "europe"
       ],
       "sourceId": "ecpmf",
-      "lastVerified": "2026-10-12",
-      "confidence": "medium",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed today via WebSearch, details unchanged. Not confirmed on the funder's own page (this source has no working snapshot). Reconfirmed via today's (2026-10-12) snapshot; unchanged."
+      "notes": "Confirmed on today's (2026-10-15) own-page snapshot: applications go to the Legal Affairs Committee (LAC), which offers non-binding advice/guidance, with the final decision resting with the ECPMF office, not the LAC. Application process (fill in template, send to ECPMF) matches prior recording. Upgraded from medium to high confidence now that this page has a working snapshot."
     },
     {
       "id": "ecpmf-safe-capacity-support-fund",
@@ -1184,51 +1184,13 @@
         "UA"
       ],
       "sourceId": "ecpmf",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed on today's own-page snapshot (3431 words), the first working snapshot this fund has had — upgraded from medium to high confidence. Terms unchanged from prior recording: training grants up to EUR 5,000, rolling, Eastern Partnership scope. Reconfirmed via today's (2026-10-12) snapshot; unchanged.",
+      "notes": "Reconfirmed on today's (2026-10-15) own-page snapshot: 'Capacity support fund... covers the cost of training you identify as a priority, tailored to your safety, security, or professional needs.' Terms unchanged from prior recording.",
       "topics": [
         "safety",
         "digital-security",
-        "eastern-partnership"
-      ]
-    },
-    {
-      "id": "ecpmf-safe-emergency-psychological-support",
-      "funder": "European Centre for Press and Media Freedom (ECPMF) - SAFE Project",
-      "programme": "SAFE Project - Emergency and Psychological Support Funds",
-      "summary": "Two planned SAFE project funds - an emergency support fund (for crises such as loss/destruction of professional equipment, medical emergencies, or direct safety threats) and a psychological support fund (covering mental-health care costs with a provider of the journalist's choosing) - for journalists and media workers. Both are explicitly labelled 'not open yet' on ECPMF's own page today.",
-      "url": "https://www.ecpmf.eu/support/safe-project/",
-      "applyUrl": "https://www.ecpmf.eu/support/safe-project/",
-      "applicantTypes": [
-        "freelancer"
-      ],
-      "supportTypes": [
-        "emergency"
-      ],
-      "track": "media",
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "note": null
-      },
-      "deadline": null,
-      "deadlineType": "unknown",
-      "opensAt": null,
-      "status": "upcoming",
-      "geoScope": [
-        "europe-eastern-partnership"
-      ],
-      "sourceId": "ecpmf",
-      "lastVerified": "2026-10-12",
-      "confidence": "high",
-      "provenance": "auto",
-      "notes": "Reconfirmed on today's own-page snapshot (3431 words) — the first working snapshot for this fund, upgraded from medium to high confidence. Both the emergency fund and the psychological support fund are explicitly labelled '(not open yet)' with no opening date given. Reconfirmed via today's (2026-10-12) snapshot; unchanged.",
-      "topics": [
-        "safety",
-        "mental-health",
         "eastern-partnership"
       ]
     },
@@ -1391,10 +1353,10 @@
         "asia-central"
       ],
       "sourceId": "eed",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "sources.json lists this source's URL as https://www.democracyendowment.eu/en/support.html, which again returned a fetch failure (HTTP 404) in today's snapshot attempt, and a direct WebFetch attempt today also failed (DNS resolution error in this environment); the working URL confirmed via search remains https://democracyendowment.eu/support. Reconfirmed via search today: applications accepted on a rolling basis, funding decisions made every two months by the EED Executive Committee via the apply.democracyendowment.eu portal (or email/hard copy), with a budget template required. Eligible beneficiaries include newly created or non-registered organisations, informal platforms, youth groups, individuals, civic/political activists and independent media/journalists, primarily in the European Neighbourhood (Eastern Partnership, MENA), Western Balkans and beyond, especially those who cannot be supported by other donors or existing EU instruments; official registration is not required. Not confirmed on the funder's own page."
+      "notes": "sources.json lists this source's URL as https://www.democracyendowment.eu/en/support.html, which again returned a fetch failure (HTTP 404) in today's snapshot attempt, and a direct WebFetch attempt today also failed (DNS resolution error in this environment); the working URL confirmed via search remains https://democracyendowment.eu/support. Reconfirmed via search today: applications accepted on a rolling basis, funding decisions made every two months by the EED Executive Committee via the apply.democracyendowment.eu portal (or email/hard copy), with a budget template required. Eligible beneficiaries include newly created or non-registered organisations, informal platforms, youth groups, individuals, civic/political activists and independent media/journalists, primarily in the European Neighbourhood (Eastern Partnership, MENA), Western Balkans and beyond, especially those who cannot be supported by other donors or existing EU instruments; official registration is not required. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; democracyendowment.eu/www.democracyendowment.eu again unreachable to automated fetch (HTTP 404 on snapshot). Secondary sources still disagree on the exact funding range (figures of EUR 10,000-150,000 with an average of EUR 40,000-60,000 also seen today); range kept at EUR 10,000-60,000 pending confirmation on the funder's own page. Not confirmed on the funder's own page."
     },
     {
       "id": "erasmus-plus-participation-democratic-life-partnerships",
@@ -1589,10 +1551,10 @@
         "europe-eu"
       ],
       "sourceId": "free-press-unlimited",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Open to independent European media organisations and freelance/staff journalists resident in the EU, including Ukrainian, Belarusian, or Russian journalists legally resident in the EU. Deadline (22 July 2026, 23:59 CEST) has passed; today's captured snapshot (629 words, 2 pages — the 'What we do' overview and 'Reporters Respond' project page) again contained no mention of this specific programme, and a fresh WebSearch today found only the same already-closed listings (22 Jul / 9 Sep 2024-26 deadlines on various aggregators), so no new round was found. Kept for reference in case a future round reopens. Not confirmed on the funder's own page."
+      "notes": "Open to independent European media organisations and freelance/staff journalists resident in the EU, including Ukrainian, Belarusian, or Russian journalists legally resident in the EU. Deadline (22 July 2026) has passed; today's much smaller captured snapshot (1039 words, 3 pages: 'What we do', 'Reporters Respond' x2) again contained no mention of this specific programme or a new round. Kept for reference in case a future round reopens. Not confirmed on the funder's own page."
     },
     {
       "id": "free-press-unlimited-postcode-lottery-fund-for-journalists",
@@ -1626,10 +1588,10 @@
         "BE"
       ],
       "sourceId": "free-press-unlimited",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Not mentioned in today's captured freepressunlimited.org snapshot (629 words; covered only the 'what we do' and 'Reporters Respond' pages). Eligibility is for professional journalists who have published in Dutch within the past year, whose employer/client contributes part of the project cost, and who have not already received this grant in the same calendar year; geoScope recorded as NL/BE (Dutch-speaking) as a proxy since eligibility is language- not nationality-based and no explicit country restriction was found. Applications are reviewed quarterly (deadlineType recurring); the round with a (2026-08-07) deadline has passed and a fresh WebSearch today found no newer round announced. Not confirmed on the funder's own page."
+      "notes": "Not mentioned in today's captured freepressunlimited.org snapshot (1039 words). Eligibility is for professional journalists who have published in Dutch within the past year; geoScope recorded as NL/BE (Dutch-speaking) as a proxy since eligibility is language- not nationality-based. Applications are reviewed quarterly (deadlineType recurring); the round with a (2026-08-07) deadline has passed and no newer round was found today. Not confirmed on the funder's own page."
     },
     {
       "id": "fritt-ord-norwegian-journalism-programme",
@@ -1665,10 +1627,10 @@
         "NO"
       ],
       "sourceId": "fritt-ord",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Open to independent, editor-controlled publications, editorial offices, journalists, editors and editorial teams; projects must contribute to public debate reaching a broad audience, with no restriction on topic, editorial approach or format; funding is for specific journalism projects rather than unrestricted organisational support. The 23 October 2026 deadline (11 days from today) was reconfirmed again today (2026-10-12) via search, including on Fritt Ord's own 'Application Deadlines' page per search summary (frittord.no/en/application-2/deadlines-for-applications), though direct fetch of frittord.no again failed (HTTP 404) and a WebFetch attempt also failed (DNS resolution error). Fritt Ord runs multiple 'Norsk journalistikk' deadlines per year (prior 2026 rounds included 24 April and 14 August). Not confirmed on the funder's own page (snapshot unavailable)."
+      "notes": "Open to independent, editor-controlled publications, editorial offices, journalists, editors and editorial teams; projects must contribute to public debate reaching a broad audience, with no restriction on topic, editorial approach or format; funding is for specific journalism projects rather than unrestricted organisational support. The 23 October 2026 deadline (8 days from today) was reconfirmed again today (2026-10-15) via WebSearch, including on Fritt Ord's own 'Application Deadlines' page per the search summary (frittord.no/en/application-2/deadlines-for-applications: four 2026 deadlines at 3:00 PM -- 9 Jan, 24 Apr, 14 Aug, 23 Oct). Direct fetch of frittord.no again failed (HTTP 404) in today's snapshot run, so this rests on WebSearch corroboration of the funder's own page content, not a direct read. Fritt Ord runs multiple 'Norsk journalistikk' deadlines per year. Not confirmed on the funder's own page."
     },
     {
       "id": "fritt-ord-oxford-journalism-fellowship",
@@ -1703,10 +1665,10 @@
         "NO"
       ],
       "sourceId": "fritt-ord",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Open to Norwegian journalists only, with a minimum of five years' journalistic work experience; fellowship hosted at the Reuters Institute, Oxford, UK, starting each January; applicants must submit an outline of a proposed specialisation/research topic related to journalism, media, or media development. This round's deadline (1 September 2026, for the fellowship starting January 2027) has passed and was reconfirmed again via search today (2026-10-12); no newer round announced and frittord.no again failed to fetch (HTTP 404) directly. Not confirmed on the funder's own page."
+      "notes": "Open to Norwegian journalists only, with a minimum of five years' journalistic work experience; fellowship hosted at the Reuters Institute, Oxford, UK, starting each January; applicants must submit an outline of a proposed specialisation/research topic related to journalism, media, or media development. This round's deadline (1 September 2026, for the fellowship starting January 2027) has passed and was reconfirmed again via search today (2026-10-15); no newer round announced and frittord.no again failed to fetch (HTTP 404) in today's snapshot run. Not confirmed on the funder's own page."
     },
     {
       "id": "frontline-defenders-protection-grants",
@@ -2130,10 +2092,10 @@
         "global"
       ],
       "sourceId": "icfj",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Inaugural call's deadline was reported only as 'Friday, November 1' (2024), with winners already announced and projects completed. No evidence of a second/current call found again today (2026-10-12) -- journalists interested should watch ICFJ's programme page for a future themed call. Not confirmed on the funder's own page (icfj.org again failed to fetch, HTTP 404, and a direct WebFetch attempt failed with a DNS resolution error)."
+      "notes": "Inaugural call's deadline was reported only as 'Friday, November 1' (2024), with winners already announced and projects completed. No evidence of a second/current call found again today (2026-10-15) -- journalists interested should watch ICFJ's programme page for a future themed call. Not confirmed on the funder's own page (icfj.org again failed to fetch, HTTP 404, per today's snapshot run)."
     },
     {
       "id": "icfj-burns-fellowship",
@@ -2172,10 +2134,10 @@
         "DE"
       ],
       "sourceId": "icfj",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "For US/Canadian journalists, or German journalists, applying for a reciprocal exchange, aged 21-40, employed by or freelancing for a newspaper/news magazine/broadcaster/news agency. Recurring cycle's 2026 deadlines reconfirmed today as Feb 1 (German applicants) and March 1 (North American applicants), with the 2026 cohort's placements already underway/complete, consistent with this entry's closed status; no 2027 deadline announced yet. Not confirmed on the funder's own page."
+      "notes": "For US/Canadian journalists, or German journalists, applying for a reciprocal exchange, aged 21-40, employed by or freelancing for a newspaper/news magazine/broadcaster/news agency. Recurring cycle's 2026 deadlines (Feb 1 German applicants, March 1 North American applicants) have passed, with the 2026 cohort's placements already underway/complete, consistent with this entry's closed status; no 2027 deadline announced yet as of today's recheck (2026-10-15). Not confirmed on the funder's own page (icfj.org again failed to fetch, HTTP 404)."
     },
     {
       "id": "icfj-foundational-learning-fellowship-2026",
@@ -2213,10 +2175,10 @@
         "ZA"
       ],
       "sourceId": "icfj",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Found via secondary aggregators (afterschoolafrica.com, opportunitiesforafricans.com, scholarshipunion.com), not ICFJ's own page (unreachable). The 2026 round's application deadline (May 10, 2026, 11:59pm EST) has passed; today's search (2026-10-12) reconfirmed the same programme details, including that the programme is now run under ICFJ's 'Plus alliance' (formerly ICFJ+, with Code for Africa, PROTO and the European Journalism Centre), with no next-round deadline announced yet. Not confirmed on the funder's own page."
+      "notes": "Found via secondary aggregators (afterschoolafrica.com, opportunitiesforafricans.com, scholarshipunion.com), not ICFJ's own page (unreachable, HTTP 404 again today). The 2026 round's application deadline (May 10, 2026, 11:59pm EST) has passed; programme is run under ICFJ's 'Plus alliance' (formerly ICFJ+, with Code for Africa, PROTO and the European Journalism Centre); no next-round deadline announced as of today's recheck (2026-10-15). Not confirmed on the funder's own page."
     },
     {
       "id": "icfj-knight-fellowship",
@@ -2249,10 +2211,10 @@
         "global"
       ],
       "sourceId": "icfj",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "sources.json's URL (icfj.org/our-work/programs) still 404s this morning; ICFJ's own page remains unreachable (and a direct WebFetch attempt also failed with a DNS resolution error), so this rests on WebSearch corroboration only. Evidence is mixed: the most recent fully-dated cycle found (2024) was a fixed annual deadline (29 February), which sits in tension with the 'propose-your-own-idea, rolling' framing reported elsewhere; today's search (2026-10-12) found an undated 'ICFJ Knight Fellowships 2026' aggregator listing but no confirmed 2025 or 2026 cohort announcement or deadline, so deadlineType is kept as rolling per the prevailing secondary description but should be treated cautiously. Suggested themes previously reported: AI serving journalism, communities/resources for journalists in exile, and information needs of diaspora communities in the US. Not confirmed on the funder's own page."
+      "notes": "sources.json's URL (icfj.org/our-work/programs) still 404s today (2026-10-15); ICFJ's own page remains unreachable, so this rests on WebSearch corroboration only. Evidence is mixed: the most recent fully-dated cycle found (2024) was a fixed annual deadline (29 February), which sits in tension with the 'propose-your-own-idea, rolling' framing reported elsewhere; no confirmed 2025 or 2026 cohort announcement or deadline found again today. deadlineType kept as rolling per the prevailing secondary description but should be treated cautiously. Suggested themes previously reported: AI serving journalism, communities/resources for journalists in exile, and information needs of diaspora communities in the US. Not confirmed on the funder's own page."
     },
     {
       "id": "icfj-professional-fellows-emerging-media-leaders",
@@ -2292,10 +2254,10 @@
         "caribbean"
       ],
       "sourceId": "icfj",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "ICFJ's own 'Emerging Media Leaders' materials indicate a recent cohort has already been selected, so this cycle is closed; the next cycle's deadline was not found again today (2026-10-12) either. Applicants must be citizens/nationals/permanent residents living and working in their home country, with 2+ years' professional experience and English proficiency. Not confirmed on the funder's own page."
+      "notes": "ICFJ's own 'Emerging Media Leaders' materials indicate a recent cohort has already been selected, so this cycle is closed; the next cycle's deadline was not found again today (2026-10-15) either (icfj.org again failed to fetch, HTTP 404). Applicants must be citizens/nationals/permanent residents living and working in their home country, with 2+ years' professional experience and English proficiency. Not confirmed on the funder's own page."
     },
     {
       "id": "icorn-residency-programme",
@@ -2784,54 +2746,15 @@
         "europe"
       ],
       "sourceId": "journalismfund-scholarships",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed on today's own-page snapshot (1861 words) — upgraded from medium to high confidence, the first working snapshot for this source. Restricted to existing grantees of Journalismfund Europe's ECB, CBLocal or Earth Investigations programmes who have already published their investigation with the fund's support and been invited to present it; reviewed on a rolling basis, decision within about two weeks; apply by emailing scholarships@journalismfund.eu directly, no separate portal. Reconfirmed via today's (2026-10-12) snapshot; unchanged.",
+      "notes": "Reconfirmed verbatim on today's own-page snapshot (1897 words): restricted to existing grantees of the ECB or Earth programmes who already published their investigation with the fund's support and have been invited to present it; reviewed on a rolling basis with a decision within about two weeks; apply by emailing scholarships@journalismfund.eu, no separate portal. Unchanged from the prior sweep.",
       "topics": [
         "travel",
         "conference",
         "investigative-journalism"
       ]
-    },
-    {
-      "id": "journalismgrants-oda-germany-grants-round-2",
-      "funder": "European Journalism Centre (EJC)",
-      "programme": "Official Development Assistance (ODA) Germany Grants — Round 2 (Maternal and Child Health)",
-      "summary": "A second 2026 round of EJC's ODA Germany Grants programme, open for applications, funding journalism on how shifts in German Official Development Assistance affect maternal and child health outcomes and communities. Continues the programme's broader aim of supporting deep-dive reporting on German foreign aid for development.",
-      "url": "https://ejc.net/funding/official-development-assistance-oda-germany-grants",
-      "applyUrl": "https://ejc.net/funding/official-development-assistance-oda-germany-grants",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "project"
-      ],
-      "topics": [
-        "health",
-        "maternal-health",
-        "development"
-      ],
-      "track": "media",
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "note": "Not stated for this round on EJC's own page. The programme's first round (separate, already-closed call) was reported by third parties (fundsforngos.org) as offering EUR 5,000-15,000 per grant; not confirmed for this round on the funder's own page."
-      },
-      "deadline": "2026-10-23",
-      "deadlineType": "fixed",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "DE"
-      ],
-      "sourceId": "journalismgrants",
-      "lastVerified": "2026-10-12",
-      "confidence": "high",
-      "provenance": "auto",
-      "notes": "Reconfirmed verbatim again in today's journalismgrants.org/ejc.net snapshot (2126 words): 'Applications open: ODA Germany Grants for reporting on maternal and child health / Official Development Assistance (ODA) Germany Grants - Round 2 / Application deadline 23 Oct 2026, 23:59 (CEST)' — directly from today's own-page snapshot (high confidence), unchanged from the prior check. Eligibility (geoScope DE) and amount note are carried over from the programme's general ODA Germany Grants eligibility description, found via WebSearch for the separate first-round call rather than confirmed for this specific round on EJC's own page. The same snapshot again shows 'Journalism Science Alliance 2026 call' and 'IJ4EU Freelancer Support Scheme 2026' as 'Applications closed' — both already tracked via their own dedicated sources (ejc-funding / ij4eu) — plus a completed 2024-25 'European media leaders climate solutions fellowship' cohort with no new round announced, so neither is duplicated here. No other distinct open-or-upcoming call was found on this aggregator today."
     },
     {
       "id": "jsk-stanford-journalism-fellowship",
@@ -2969,10 +2892,10 @@
         "global"
       ],
       "sourceId": "jx-fund",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "JX Fund's own homepage was captured again today (757 words, 1 page) and reconfirms verbatim that JX Fund 'holds regular funding rounds ... including quick-response grants for emergency support as well as long-term structural support,' the 119 outlets / 198 grants / 58 projects since April 2022 figures, and the four running regional programmes (Afghanistan, Belarus, Russia, Ukraine). Only the homepage was captured, not a dedicated call-specific subpage, and no specific currently-open call with a deadline is stated on it. WebSearch today reconfirms both the 'Promoting Entrepreneurship' round (up to EUR 35,000, deadline 14 June 2026, projects August-November 2026) and the earlier Belarus/Russia round (deadline 19 April 2026) now have deadlines in the past, with GFMD listing both as closed; no newer round was found. Both required the outlet to have produced content continuously for at least one year and comply with the Munich Declaration; for-profit/private-person applicants are excluded. No explicit still-open application deadline was found, so deadline stays null/unknown pending the next themed call. Not confirmed on the funder's own page."
+      "notes": "JX Fund's own homepage failed to fetch again today (2026-10-15, 'fetch failed'), so this rests on the fuller capture from two days prior plus today's WebSearch recheck. WebSearch today reconfirms both the 'Promoting Entrepreneurship' round (up to EUR 35,000; sources disagree on the exact deadline -- GFMD gives 14 June 2026, fundsforngos/ScholarshipBob give 21 June 2026 -- either way now past, for projects August-November 2026) and the earlier Belarus/Russia round (deadline 19 April 2026, for projects June-September 2026) are both closed per GFMD. No newer open call was found today. Both required the outlet to have produced content continuously for at least one year and comply with the Munich Declaration; for-profit/private-person applicants are excluded. No explicit still-open application deadline found, so deadline stays null/unknown pending the next themed call. Not confirmed on the funder's own page."
     },
     {
       "id": "knight-wallace-fellowship",
@@ -3279,7 +3202,7 @@
         "min": null,
         "max": null,
         "currency": null,
-        "note": "No fixed amount stated; support is need-based (medical, subsistence, psychological, legal costs)."
+        "note": "No fixed per-applicant amount stated; support is need-based (medical, subsistence, psychological, legal costs). A separate EU Funding & Tenders Portal listing for a 'Rapid Response Mechanism' names an allocated budget of EUR 3,100,000, but that figure is the EU's operating grant to the consortium, not a stated per-applicant award, and its current status could not be verified today."
       },
       "deadline": null,
       "deadlineType": "rolling",
@@ -3290,50 +3213,10 @@
         "europe-eu-candidate"
       ],
       "sourceId": "mfrr",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "MFRR's own homepage (fetched again today) again names 'Support > Practical Support' and 'Legal Support' as nav items and names the consortium partners (European Centre for Press and Media Freedom, ARTICLE 19 Europe, European Federation of Journalists, International Press Institute, Free Press Unlimited, Osservatorio Balcani e Caucaso Transeuropa), but today's snapshot is again homepage/news-only (256 words, 1 page, below a useful substance threshold for programme detail) — so WebSearch was used as instructed and found no update since the prior sweep. Eligibility requires being a media organisation or practising media professional in an EU member state or candidate country, an emergency that is a direct result of the applicant's media work, and the situation confirmed by at least two trusted sources outside the applicant. Application channel via Free Press Unlimited as before. Not confirmed on the funder's own page."
-    },
-    {
-      "id": "mfrr-relocation-programme",
-      "funder": "Media Freedom Rapid Response (MFRR)",
-      "programme": "Relocation Programmes — Journalists-in-Residence",
-      "summary": "Through the Journalists-in-Residence programme, MFRR partner the European Centre for Press and Media Freedom (ECPMF) offers temporary relocation in Leipzig, Germany, for media professionals under threat, including a rent-free furnished apartment, a monthly stipend, health insurance and visa support. Residencies typically last three to six months. Depending on need, participants may also receive psychological counselling, digital-security training, professional workshops and networking support.",
-      "url": "https://www.mfrr.eu/relocation-programmes/",
-      "applyUrl": "https://www.ecpmf.eu/support/journalists-in-residence/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "emergency",
-        "travel"
-      ],
-      "topics": [
-        "relocation",
-        "safety",
-        "exile"
-      ],
-      "track": "media",
-      "amount": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "note": "In-kind support (housing, monthly stipend of EUR 1,000, health insurance, visa assistance) rather than a stated cash-grant amount."
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "europe"
-      ],
-      "sourceId": "mfrr",
-      "lastVerified": "2026-10-12",
-      "confidence": "medium",
-      "provenance": "auto",
-      "notes": "'Relocation Programmes' again appears as a named nav item on MFRR's own homepage snapshot fetched today, but that snapshot is again homepage-only (256 words) so operational detail again comes from ECPMF's own site and WebSearch: residencies last 3-6 months in Leipzig with a EUR 1,000/month stipend; eligibility requires legal residence in an EU member state or candidate country (valid passport), documented journalistic work and references, documentation of the threat/lack of local support, and verifiable English or German at B1 level or above. A parallel ECPMF-run Milan residency (6 months) also surfaced in prior sweeps but is described as an ECPMF programme rather than explicitly MFRR-branded, so is not recorded as a separate entry. geoScope 'europe' per data/geo.json (already includes BY and RU, matching the Trust's EU/candidate/Council-of-Europe/Belarus/Russia eligibility). Apply via journalistsinresidence@ecpmf.eu. Not confirmed on the funder's own page."
+      "notes": "MFRR's own homepage (fetched again today) again names 'Support > Practical Support' and 'Legal Support' as nav items and names the consortium partners (ECPMF, ARTICLE 19 Europe, EFJ, IPI, Free Press Unlimited, OBCT), but today's snapshot is again homepage/news-only (255 words, 1 page, below a useful substance threshold for programme detail), so WebSearch was used as instructed. Today's search surfaced only an older MFRR 'Legal Support Overview' PDF and third-party aggregator listings, no newer official detail: eligibility requires being a media organisation or practising media professional (incl. freelancers, bloggers, whistleblowers who spoke to media) based in an EU member state or EU candidate country, with the emergency a direct result of the applicant's media work and confirmed by at least two outside sources. Application channel via Free Press Unlimited as before. Not confirmed on the funder's own page."
     },
     {
       "id": "mfrr-training-support",
@@ -3370,10 +3253,10 @@
         "europe-eu-candidate"
       ],
       "sourceId": "mfrr",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "'Training Offers' again appears as a named nav item on MFRR's own homepage snapshot fetched today. Course/workshop detail (1-3 day EFJ safety workshops, 8-week digital-security course with live sessions and a safety handbook, help paying for digital-safety tools) comes from WebSearch of mfrr.eu subpages, not from today's thin (256-word) homepage-only snapshot. A WebSearch today for an EFJ 'digital security training fund' found only one-off past workshops (2015/2016) and a current Brussels master-class project on digital journalism/media councils, not a standing fund, so EFJ is recorded as a candidate funder rather than given its own grant entry. Not confirmed on the funder's own page."
+      "notes": "'Training Offers' again appears as a named nav item on MFRR's own homepage snapshot fetched today (255 words, homepage-only), so course/workshop detail again relies on prior research: 1-3 day EFJ safety workshops, an 8-week digital-security course with live sessions and a safety handbook, and help paying for digital-safety tools. No standing EFJ 'digital security training fund' distinct from MFRR was found; EFJ is tracked only as a candidate funder. No change found via today's search. Not confirmed on the funder's own page."
     },
     {
       "id": "n-ost-pulse-thematic-networks-2026",
@@ -3680,10 +3563,10 @@
         "global"
       ],
       "sourceId": "ned",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed on NED's own apply-for-grant page, fetched today (2026-10-12, 2261 words, 5 pages). The September 21, 2026 proposal-submission deadline has passed; the next upcoming deadlines stated verbatim on the page are January 27, 2027 and June 28, 2027 (paired board meetings: January 22, 2027; May 7, 2027; September 10, 2027). Late proposals roll to the following board meeting, and the online portal accepts applications on an ongoing basis. Eligible applicants are nongovernmental organisations only (civic organisations, associations, independent media) — not individuals, government bodies, or state-supported institutions such as public universities. NED funds work in nascent democracies, countries in democratic transition, semi-authoritarian states and highly repressive societies; it does not fund projects implemented inside established democracies (including the U.S.), though organisations based there working on eligible countries/regions can apply."
+      "notes": "Reconfirmed verbatim on NED's own apply-for-grant page, fetched today (2261 words, 5 pages). The September 21, 2026 proposal-submission deadline has passed; the next upcoming deadlines stated verbatim on the page are January 27, 2027 and June 28, 2027 (paired board meetings: January 22, 2027 and May 7, 2027). Late proposals roll to the following board meeting; the online portal accepts applications on an ongoing basis. Eligible applicants are nongovernmental organisations only (civic organisations, associations, independent media) — not individuals, government bodies, or state-supported institutions. NED funds work in nascent democracies, transitional, semi-authoritarian and highly repressive societies; it does not fund projects implemented inside established democracies (including the U.S.), though organisations based there working on eligible countries/regions can apply."
     },
     {
       "id": "netherlands-mfa-human-rights-fund",
@@ -4021,10 +3904,10 @@
         "global"
       ],
       "sourceId": "one-world-media",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "oneworldmedia.org.uk's snapshot attempt failed again today (HTTP 403). No next round found via WebSearch either; the previously-recorded most recent round (six Nigerian journalists, deadline 20 Aug 2025) is still the latest activity found. Kept open-for-reference as closed rather than deleted, consistent with prior passes. Not confirmed on the funder's own page."
+      "notes": "oneworldmedia.org.uk's snapshot attempt failed again today (HTTP 403). WebSearch today found no newer round or 2026/2027 announcement beyond the already-recorded most recent round (six Nigerian journalists, deadline 20 Aug 2025). Kept open-for-reference as closed rather than deleted. Not confirmed on the funder's own page."
     },
     {
       "id": "one-world-media-fellowship",
@@ -4059,10 +3942,10 @@
         "global"
       ],
       "sourceId": "one-world-media",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "oneworldmedia.org.uk's snapshot attempt failed again today (HTTP 403); re-checked via WebSearch, which found only third-party coverage of the 2025 cycle (year-long programme, 10 fellows, £1-3k reporting grant each, applications opened 26 June 2025, deadline 20 August 2025, fellows announced November 2025). No 2027 (or later-2026) window has opened yet, consistent with the prior sweep. One World Media also runs several narrower one-off documentary/film grants (e.g. a Global Health Film Grant with the FT/Pulitzer Center, up to £20,000, deadline 20 Aug 2025) not tracked separately here, as these had already-passed 2025 rounds with no confirmed next cycle. Not confirmed on the funder's own page."
+      "notes": "oneworldmedia.org.uk's snapshot attempt failed again today (HTTP 403); re-checked via WebSearch today, which again found only 2025-cycle coverage (year-long programme, 10 fellows, £1-3k reporting grant each, deadline 20 August 2025, fellows announced November 2025). No 2027 (or later-2026) window has opened yet. One World Media also runs several narrower one-off documentary/film grants (e.g. a Climate & Labour Film Grant with the FT/Pulitzer Center, up to £20,000) not tracked separately here, as these had already-passed rounds with no confirmed next cycle. Not confirmed on the funder's own page."
     },
     {
       "id": "osf-independent-journalism-innovation-grant",
@@ -4098,10 +3981,10 @@
         "global"
       ],
       "sourceId": "osf",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Eligible applicants include local and international organisations, networks, informal groups and collectives involved in producing journalism under difficult circumstances, investigative reporting, or defending freedom of expression and protecting journalists. Reconfirmed again via search today (2026-10-12): deadline described as 'ongoing' (rolling); applicants complete a grant enquiry form. The programme explicitly does NOT support individual journalism projects such as documentaries, books, self-study lessons, special story offers, or training for journalists -- it funds journalism organisations/enterprises and collectives rather than a single stand-alone story piece. One secondary listing (GrantedAI) flagged that its link for this programme now points to a previous cycle, so current application mechanics should be checked directly. OSF's own open-calls page again failed to fetch (HTTP 404) today, and a direct WebFetch attempt also failed (DNS resolution error in this environment). Status kept as open. Not confirmed on the funder's own page."
+      "notes": "Eligible applicants include local and international organisations, networks, informal groups and collectives involved in producing journalism under difficult circumstances, investigative reporting, or defending freedom of expression and protecting journalists; the programme explicitly does NOT support individual journalism projects such as documentaries, books, self-study lessons, or training. Reconfirmed again via WebSearch today (2026-10-15): deadline still described as 'ongoing' (rolling) on secondary aggregator listings; one listing (GrantedAI) again flagged that its link for this programme now points to a previous cycle. OSF's own open-calls page again failed to fetch (HTTP 404) today. Status kept as open. Not confirmed on the funder's own page."
     },
     {
       "id": "reporters-shield-membership",
@@ -4364,10 +4247,10 @@
         "global"
       ],
       "sourceId": "rory-peck",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); reconfirmed via WebSearch only. This round's evidence again leans toward open: a GFMD funding listing shows the Crisis Fund open with an ongoing/rolling deadline and describes RPT as 'accepting applications for the Crisis Fund,' and no 2026-specific reporting of the fund being exhausted was found. Eligibility as before: professional freelance journalist in news/current affairs whose sole income is journalism, minimum 12 months' active freelance work with editor reference letters, no other financial support/contractual benefits, crisis within the last six months, last published work no later than six months before the crisis, and not eligible if supported by the Trust in the last 3 years. A maintainer should re-check rorypecktrust.org directly once it renders for an automated fetch. Not confirmed on the funder's own page."
+      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); reconfirmed via WebSearch only. A GFMD funding listing again shows the Crisis Fund open with an ongoing/rolling deadline, offering grants to active freelance news journalists whose work or livelihood is at risk (physical attacks, urgent medical/equipment costs, forced relocation; family support after injury, imprisonment, kidnapping or death). One 2024-era source described a UK/NUJ-specific Therapy/Crisis Fund variant, narrower than the worldwide scope described elsewhere — eligibility may differ by sub-fund; not resolved today. Not confirmed on the funder's own page."
     },
     {
       "id": "rory-peck-hefat-training-fund-bursaries-2026",
@@ -4402,10 +4285,10 @@
         "global"
       ],
       "sourceId": "rory-peck",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); no new contradicting evidence found via WebSearch this round, so the prior sweep's findings are carried forward unchanged: requires at least 18 months' work as a freelancer in newsgathering/current affairs; priority to those whose work frequently takes them into hostile environments or who have a confirmed assignment; applicant selects training provider/dates before applying and has a maximum of three months from receiving the grant to undertake the training; processing extended up to six weeks due to demand. Not confirmed on the funder's own page."
+      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); no new contradicting evidence found via WebSearch this round, so prior findings carried forward unchanged: requires at least 18 months' freelance work in newsgathering/current affairs; priority to those whose work takes them into hostile environments or who have a confirmed assignment; applicant selects training provider/dates before applying with a maximum of three months to undertake the training. Not confirmed on the funder's own page."
     },
     {
       "id": "rory-peck-recovery-fund",
@@ -4440,10 +4323,10 @@
         "global"
       ],
       "sourceId": "rory-peck",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); reconfirmed via WebSearch. No change found from the prior sweep's description of an 'Assistance Grants' programme covering freelance journalists' and family members' medical/rehabilitation costs, emergency subsistence, legal advice and relocation costs — the current name for the previously-tracked 'Recovery Fund'. Not confirmed on the funder's own page."
+      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); reconfirmed via WebSearch. The Trust's own public description (via a secondary listing quoting it) still covers medical/rehabilitation costs, emergency subsistence, legal advice and relocation costs for freelancers and family members. A 2024 announcement cited roughly 140 grants a year across RPT's funds, and a 2025 fundraising note said the Crisis Fund specifically was under strain — demand signal, not a change to this fund's terms. Not confirmed on the funder's own page."
     },
     {
       "id": "rory-peck-therapy-fund",
@@ -4478,10 +4361,10 @@
         "global"
       ],
       "sourceId": "rory-peck",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); no new contradicting evidence found via WebSearch this round. Eligibility as before matches the Trust's standard freelance criteria: no regular salary/retainer, at least 12 months' active freelance work in news/current affairs, no other financial support/contractual benefits, and not supported by the Trust in the last 3 years. Not confirmed on the funder's own page."
+      "notes": "rorypecktrust.org's snapshot attempt failed again today (HTTP 403); no new contradicting evidence found via WebSearch this round. Eligibility as before matches the Trust's standard freelance criteria (no regular salary/retainer, at least 12 months' active freelance work, not supported by the Trust in the last 3 years). Not confirmed on the funder's own page."
     },
     {
       "id": "rsf-assistance",
@@ -4908,10 +4791,10 @@
         "global"
       ],
       "sourceId": "unesco-gmdf",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "UNESCO's GMDF page has no snapshot entry (not fetched by the daily job); re-checked via WebSearch. Reconfirmed: the 6th Call for Partnerships ran 4 November 2025 - 2 January 2026 (closed), seeking projects on rapid legal assistance, investigative journalism to reduce impunity, or strategic litigation for media freedom; grant amounts USD 15,000-50,000; applicants are not-for-profit organisations (local, regional or global), proposals submitted by email to gmdf@unesco.org. No 7th call found as of today (2026-10-12); historical cadence (calls roughly annually, prior launch in November) suggests a next call could open around November 2026. Kept as a closed/archival entry rather than deleted, since the deadline is well within the last 3 years and the fund itself continues to run periodic calls. Not confirmed on the funder's own page."
+      "notes": "UNESCO's GMDF page again failed to snapshot today (HTTP 404, expected/known), so re-checked via WebSearch. Reconfirmed: the 6th Call for Partnerships ran 4 November 2025 - 2 January 2026 (closed), seeking projects on rapid legal assistance, investigative journalism to reduce impunity, or strategic litigation for media freedom; grant amounts USD 15,000-50,000; applicants are not-for-profit organisations (local, regional or global), proposals submitted by email to gmdf@unesco.org. No 7th call found as of today (2026-10-15); historical cadence (calls roughly annually, prior launch in November) suggests a next call could open around November 2026, but that is not confirmed anywhere. Kept as a closed/archival entry rather than deleted, since the deadline is well within the last 3 years and the fund itself continues to run periodic calls. Not confirmed on the funder's own page."
     },
     {
       "id": "unesco-ipdc-call-for-proposals-2026",
@@ -4937,7 +4820,7 @@
         "min": 10000,
         "max": 35000,
         "currency": "USD",
-        "note": "Per-project range (at least US$10,000, up to US$35,000) reported by third-party sources describing IPDC's grant mechanism; not itself stated in the available own-page material."
+        "note": "Per-project range (at least US$10,000, up to US$35,000) reported by third-party sources describing IPDC's grant mechanism and a prior (2024) call; not itself stated on the own-page material read today."
       },
       "deadline": "2026-02-08",
       "deadlineType": "recurring",
@@ -4947,10 +4830,10 @@
         "global"
       ],
       "sourceId": "unesco-ipdc",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "No snapshot was captured for unesco-ipdc today (not fetched by the morning job), so this sweep relied entirely on WebSearch. A fresh search today found no 2027 call announced yet; UNESCO's IPDC call is typically issued around year-end (a 2027 call would likely surface around December 2026). A June 2026 IPDC Bureau announcement (found via search) says the Bureau approved a new set of grassroots projects with more than US$1 million confirmed, and that upcoming efforts will focus on media viability, journalism education/training, and support for journalists forced to leave their countries — consistent with, but not newly confirming, the programme description already on file. The prior sweep's own-page detail (eligibility: non-profit independent organisation seeking to expand free/independent/pluralistic media, no predefined size/budget profile, priority to least developed/landlocked/small-island countries and conflict/post-conflict settings; prior 2025 call closed 10 Feb 2025 with 89 proposals) is carried forward since no newer own-page fetch was available today. The USD 10,000-35,000 amount range remains unconfirmed on the funder's own page. Not confirmed on the funder's own page."
+      "notes": "Today's own-page snapshot (1653 words) verbatim states 'The IPDC Call for proposals 2026 is currently open and will close on 8 February 2026' — this is stale/uncorrected copy on UNESCO's own page (8 February 2026 is eight months in the past as of today, 2026-10-15), flagged here for the human sweep-runner rather than treated as evidence of a still-open call. Deadline and closed status kept as previously recorded. Today's WebSearch again found no 2027 call announced; UNESCO's IPDC call is typically issued around year-end, so a 2027 call might surface around December 2026, which is not itself a confirmed date. Eligibility (non-profit independent organisation seeking to expand free/independent/pluralistic media, no predefined size/budget profile, priority to least developed/landlocked/small-island countries and conflict/post-conflict settings) and the 2025 call's stats (closed 10 Feb 2025, 89 proposals) are carried forward from the funder's own site as previously confirmed. The USD 10,000-35,000 amount range remains unconfirmed on the funder's own page. Not confirmed on the funder's own page."
     },
     {
       "id": "usc-health-journalism-california-health-equity",
@@ -5090,7 +4973,7 @@
         "min": 20000,
         "max": 25000,
         "currency": "EUR",
-        "note": "WBF covers up to 80% of total eligible costs; minimum 20% co-financing required. Project duration 6–10 months."
+        "note": "WBF covers up to 80% of total eligible costs; minimum 20% co-financing required. Project duration 6-10 months."
       },
       "deadline": "2026-10-26",
       "deadlineType": "fixed",
@@ -5100,10 +4983,10 @@
         "europe-western-balkans"
       ],
       "sourceId": "western-balkans-fund",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "CORRECTED again: today's own-page snapshot (4622 words, high confidence) shows the 2nd Edition call is open with a 26 October 2026 deadline, EUR 20,000-25,000 per project and 80% cost coverage — reversing the 2026-10-04 correction (based on WebSearch only) that had this scheme closed since March 2026. Treat today's own-page snapshot as authoritative per the evidence rules. Individuals are not eligible; requires a non-profit legal entity as Lead Applicant with experience in donor-funded regional projects in the last 3 years, plus at least 3 partners from 4 different Contracting Parties. Reconfirmed via today's (2026-10-12) snapshot; unchanged.",
+      "notes": "Reconfirmed verbatim on today's own-page snapshot (4622 words): 2nd Edition call open with a 26 October 2026 deadline (13:59 CET), EUR 20,000-25,000 per project and 80% cost coverage. Individuals are not eligible; requires a non-profit legal entity as Lead Applicant with experience in donor-funded regional projects in the last 3 years, plus at least 3 partners from 4 different Contracting Parties. Unchanged from the prior sweep.",
       "topics": [
         "regional-cooperation",
         "civil-society",
@@ -5130,7 +5013,7 @@
         "min": 500,
         "max": 3000,
         "currency": "EUR",
-        "note": "EUR 500–3,000 per grant, up to 100% of eligible costs. Call 7 implementation window Dec 2026–Apr 2027, final report due 30 April 2027."
+        "note": "EUR 500-3,000 per grant, up to 100% of eligible costs. Call 7 implementation window Dec 2026-Apr 2027, final report due 30 April 2027."
       },
       "deadline": "2026-10-05",
       "deadlineType": "fixed",
@@ -5140,10 +5023,10 @@
         "europe-western-balkans"
       ],
       "sourceId": "western-balkans-fund",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Funder's own page today (4622-word snapshot, high confidence) states verbatim: 'Call 7 closed on 5 October 2026 and applications are no longer accepted. Follow our news for the next call.' Status moved from open to closed accordingly. No next-round deadline has been announced as of this snapshot — not guessing at a reopening date. Reconfirmed via today's (2026-10-12) snapshot; unchanged.",
+      "notes": "Funder's own page today (4622-word snapshot, high confidence) again states verbatim: 'Call 7 closed on 5 October 2026 and applications are no longer accepted. Follow our news for the next call.' No next-round deadline has been announced as of this snapshot. Unchanged from the prior sweep.",
       "topics": [
         "mobility",
         "travel",
@@ -5252,7 +5135,7 @@
         "min": 1,
         "max": 50000,
         "currency": "USD",
-        "note": "Typically $1–$50,000 for a period of six months or less; OTF states it 'can consider applications greater than this amount.' Performance-based contracts, paid in USD on completion of agreed deliverables."
+        "note": "Typically $1-$50,000 for a period of six months or less; OTF states it 'can consider applications greater than this amount.' Performance-based contracts, paid in USD on completion of agreed deliverables."
       },
       "deadline": null,
       "deadlineType": "rolling",
@@ -5262,10 +5145,10 @@
         "global"
       ],
       "sourceId": "open-tech-fund",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim in today's own-page snapshot (3851 words, 9 pages): explicitly names journalists among eligible high-risk individuals/organizations facing a 'clear and time-sensitive digital emergency,' and restates the $1–$50,000/six-months award terms and single-form rolling application process. OTF's other funds (Internet Freedom Fund, Surge and Sustain Fund, FOSS Sustainability Fund, ICRP research fellowships) were excluded: they fund internet-freedom technology/research rather than journalism itself, and several are 'not currently accepting applications.'"
+      "notes": "Reconfirmed verbatim in today's own-page snapshot (3851 words, 9 pages): explicitly names journalists among eligible high-risk individuals/organizations facing a 'clear and time-sensitive digital emergency,' and restates the $1-$50,000/six-months award terms and single-form rolling application process. OTF's other funds (Internet Freedom Fund, Surge and Sustain Fund, FOSS Sustainability Fund, ICRP research fellowships) remain excluded: they fund internet-freedom technology/research rather than journalism itself, and several (FOSS Sustainability Fund, ICRP) are 'not currently accepting applications.' Unchanged from the prior sweep."
     },
     {
       "id": "allianz-foundation-trustworthy-information-grants",
@@ -5605,10 +5488,10 @@
         "UA"
       ],
       "sourceId": "ecpmf",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Distinct funder (Public Interest Journalism Lab) found listed as a partner fund on ECPMF's own SAFE page (3431-word snapshot, fetched today). PIJL is already tracked in data/candidates.json; no separate apply link was captured from the SAFE page. Reconfirmed via today's (2026-10-12) snapshot; unchanged.",
+      "notes": "Reconfirmed via today's (2026-10-15) snapshot; unchanged. PIJL is already tracked in data/candidates.json; no separate apply link was captured from the SAFE page.",
       "topics": [
         "ukraine",
         "emergency-funding",
@@ -5644,10 +5527,10 @@
         "UA"
       ],
       "sourceId": "ecpmf",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Distinct funder (The Fix Media Foundation) already tracked in data/candidates.json, under a different URL (thefix.foundation vs. the already-tracked thefix.media source) — worth reconciling by hand. 'Frontline or high-risk areas' is not explicitly pinned to Ukraine in the snapshot text; UA is inferred from the surrounding SAFE-page context (Ukraine war focus), not stated outright for this fund specifically. Reconfirmed via today's (2026-10-12) snapshot; unchanged.",
+      "notes": "Reconfirmed via today's (2026-10-15) snapshot; unchanged. Already tracked as a candidate under a different URL (thefix.foundation vs. thefix.media) — worth reconciling by hand. 'Frontline or high-risk areas' is not explicitly pinned to Ukraine in the snapshot text; UA is inferred from the surrounding SAFE-page context.",
       "topics": [
         "equipment",
         "safety",
@@ -6166,10 +6049,10 @@
         "global"
       ],
       "sourceId": "ned",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Fellowship (not previously tracked) found via WebSearch; listed only as a nav link ('Reagan-Fascell Democracy Fellows') on NED's apply-for-grant page fetched today, with no application details there. Five-month residential fellowship at NED in Washington, D.C. (mobility windows roughly October-February or March-July), for practitioners -- explicitly including journalists, lawyers and civil society professionals with substantial experience and English proficiency -- primarily from developing/aspiring or non-democratic countries, plus a separate scholars' track open to applicants from any country including the US. Secondary sources disagree on the 2026-2027 cycle's deadline (31 December 2025 vs 21 January 2026 5pm ET); either way that cycle has closed as of today (2026-10-12) and no 2027-2028 call was found, so deadline is recorded as null/unknown per evidence rules rather than guessed. Not confirmed on the funder's own page."
+      "notes": "Still listed only as a nav link ('Reagan-Fascell Democracy Fellows') on NED's apply-for-grant page fetched today, with no application details there. Five-month residential fellowship at NED in Washington, D.C. (mobility windows roughly October-February or March-July), for practitioners -- explicitly including journalists, lawyers and civil society professionals with substantial experience and English proficiency -- primarily from developing/aspiring or non-democratic countries, plus a separate scholars' track open to applicants from any country including the US. Today's WebSearch again found conflicting secondary-source deadlines for the 2026-2027 cycle (31 December 2025 vs 21 January 2026) and no 2027-2028 call announced; past cycles opened roughly October-November of the prior year, so a next call might appear around late 2026, but that is not stated anywhere and is not recorded as a date. Deadline kept null/unknown per evidence rules. Not confirmed on the funder's own page."
     },
     {
       "id": "ec-journalism-partnerships-media-freedom-hub-2026",
@@ -6210,10 +6093,10 @@
         "UA"
       ],
       "sourceId": "ec-journalism-partnerships",
-      "lastVerified": "2026-10-12",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Newly matched entry (not previously tracked as a distinct grant; earlier passes had flagged this line on the funder's page as ambiguously attributed and excluded it). Confirmed verbatim on the Commission's own funding-news-media-sector page, fetched today (2026-10-12, 3022 words): 'This call for proposals will support one project with €3 million, to provide core funding to media in exile in the EU from Ukraine, Russia and Belarus. Deadline 28 May 2026.' WebSearch today corroborates: applications ran 16 April-28 May 2026 (per the Commission's own press release 'Commission renews support [for] exiled and relocated journalists [in] EU'), open to public authorities, international organisations, NGOs and research centres rather than individual journalists, continuing the Prague Civil Society Centre-led Free Media Hub EAST consortium, which re-granted over 70% of its ~€3m budget (~€2.2m) over two years mainly to outlets based in Czechia, Germany, Poland, Latvia and Lithuania, plus visa/registration help and psychological support. The application window has closed as of today; watch for a renewal call."
+      "notes": "Confirmed verbatim again on today's (2026-10-15) own-page snapshot: 'This call for proposals will support one project with €3 million, to provide core funding to media in exile in the EU from Ukraine, Russia and Belarus. Deadline 28 May 2026.' Application window has closed; watch for a renewal call. Reconfirmed via today's snapshot; unchanged."
     },
     {
       "id": "ejc-funding-journalism-science-alliance-2026",
@@ -6251,10 +6134,10 @@
         "europe"
       ],
       "sourceId": "ejc-funding",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Every other funding item on ejc.net/funding is also closed (IJ4EU 2024-2026 schemes tracked separately under the dedicated ij4eu source; Solutions Journalism Network/EJC climate-leaders fellowship, Solutions Journalism Accelerator and Climate Journalism Award(s) excluded - fellowship/accelerator lack any date evidence, awards are prizes). Reconfirmed again today (2026-10-14) on ejc.net/funding's own page fetched this morning: still listed 'Applications closed' twice on the page, no 2027 call announced. Deadline/tiers/budget figures come from journalismsciencealliance.eu, not restated on ejc.net itself. Not confirmed on the funder's own page."
+      "notes": "Every other funding item on ejc.net/funding is also closed (IJ4EU 2024-2026 schemes tracked separately under the dedicated ij4eu source; Solutions Journalism Network/EJC climate-leaders fellowship, Solutions Journalism Accelerator and Climate Journalism Award(s) excluded - fellowship/accelerator lack any date evidence, awards are prizes). Reconfirmed again today (2026-10-14) on ejc.net/funding's own page fetched this morning: still listed 'Applications closed' twice on the page, no 2027 call announced. Deadline/tiers/budget figures come from journalismsciencealliance.eu, not restated on ejc.net itself. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-15) via a fresh ejc.net/funding snapshot fetched this morning; page content unchanged from the prior sweep."
     },
     {
       "id": "ejc-funding-oda-germany-grants-round-2-2026",
@@ -6290,10 +6173,10 @@
         "DE"
       ],
       "sourceId": "ejc-funding",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed directly on ejc.net's own page fetched this morning: 'Applications open: ODA Germany Grants for reporting on maternal and child health... Application deadline 23 Oct 2026, 23:59 (CEST)', unchanged from prior check. Still open as of today (deadline is 9 days out)."
+      "notes": "Reconfirmed directly on ejc.net's own page fetched this morning: 'Applications open: ODA Germany Grants for reporting on maternal and child health... Application deadline 23 Oct 2026, 23:59 (CEST)', unchanged from prior check. Still open as of today (deadline is 9 days out). Reconfirmed again today (2026-10-15) via a fresh ejc.net/funding snapshot fetched this morning; page content unchanged from the prior sweep."
     },
     {
       "id": "gfmd-fellowships-ai-accountability-fellowships",
@@ -6330,10 +6213,10 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today, closed; unchanged."
+      "notes": "Still listed today, closed; unchanged. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-birn-journalistic-excellence-fellowship-2026",
@@ -6379,10 +6262,10 @@
         "SK"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today, closed; unchanged."
+      "notes": "Still listed today, closed; unchanged. Not present in today's (2026-10-15) gfmd-fellowships feed snapshot (only the most recent ~12 posts are captured); normal aggregator churn for an already-closed programme, kept unchanged per the merging rule."
     },
     {
       "id": "gfmd-fellowships-critical-voices-fellowship-2026",
@@ -6416,10 +6299,10 @@
         "MM"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today, closed; unchanged."
+      "notes": "Still listed today, closed; unchanged. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-equality-fund-global-journalism-fellowship-2026-2027",
@@ -6453,10 +6336,10 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed again today, unchanged. Also reposted today under both the gfmd-fundings and gfmd-fellowships feeds as 'the Equality Fund Global Journalism Fellowship 2026' - same programme, same amount and closing date; not a separate entry. Open to up to five journalists located in ODA-recipient countries, fluent in English, 3+ years' professional experience."
+      "notes": "Reconfirmed again today, unchanged. Also reposted today under both the gfmd-fundings and gfmd-fellowships feeds as 'the Equality Fund Global Journalism Fellowship 2026' - same programme, same amount and closing date; not a separate entry. Open to up to five journalists located in ODA-recipient countries, fluent in English, 3+ years' professional experience. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-george-weidenfeld-journalism-fellowship-program",
@@ -6491,10 +6374,10 @@
         "GB"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Not present in today's gfmd-fellowships feed (consecutively rolled off; deadline 16 Jun 2026 already long passed), kept unchanged per the merging rule for a deadline-passed programme that vanished from the feed. Normal feed churn, not removal; not deleted (well under the 3-year archive-drop threshold)."
+      "notes": "Not present in today's gfmd-fellowships feed (consecutively rolled off; deadline 16 Jun 2026 already long passed), kept unchanged per the merging rule for a deadline-passed programme that vanished from the feed. Normal feed churn, not removal; not deleted (well under the 3-year archive-drop threshold). Not present in today's (2026-10-15) gfmd-fellowships feed snapshot (only the most recent ~12 posts are captured); normal aggregator churn for an already-closed programme, kept unchanged per the merging rule."
     },
     {
       "id": "gfmd-fellowships-german-northern-european-journalists-fellowship-2027",
@@ -6536,10 +6419,10 @@
         "LT"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim today. Appears identically in both the gfmd-fundings and gfmd-fellowships feeds/detail pages (same single GFMD post, cross-listed) but kept as a single entry under gfmd-fellowships (true individual fellowship). Applicants aged 18-45; German applicants must be freelancers, trainees, or editors at German outlets."
+      "notes": "Reconfirmed verbatim today. Appears identically in both the gfmd-fundings and gfmd-fellowships feeds/detail pages (same single GFMD post, cross-listed) but kept as a single entry under gfmd-fellowships (true individual fellowship). Applicants aged 18-45; German applicants must be freelancers, trainees, or editors at German outlets. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-nova-media-health-journalism-fellowship",
@@ -6573,10 +6456,10 @@
         "americas-north"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today, closed; unchanged."
+      "notes": "Still listed today, closed; unchanged. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-ocean-reporting-network-fourth-cohort",
@@ -6613,10 +6496,10 @@
         "africa-sub-saharan"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today, closed; unchanged."
+      "notes": "Still listed today, closed; unchanged. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-sir-harry-evans-global-fellowship-2027",
@@ -6650,10 +6533,10 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today, closed; unchanged. Applicants should have between two and five years of professional journalism experience."
+      "notes": "Still listed today, closed; unchanged. Applicants should have between two and five years of professional journalism experience. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-tech-policy-press-fellowship-2027",
@@ -6687,10 +6570,10 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today in gfmd-fellowships' own feed, closed; unchanged."
+      "notes": "Still listed today in gfmd-fellowships' own feed, closed; unchanged. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-usc-annenberg-health-journalism-data-fellowship",
@@ -6726,10 +6609,10 @@
         "US"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Still listed today, closed; unchanged."
+      "notes": "Still listed today, closed; unchanged. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fellowships-wcsj2027-travel-fellowship",
@@ -6765,10 +6648,10 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim today, unchanged; appears identically in both the gfmd-fundings and gfmd-fellowships feeds (same single GFMD post, cross-listed, not a separate programme)."
+      "notes": "Reconfirmed verbatim today, unchanged; appears identically in both the gfmd-fundings and gfmd-fellowships feeds (same single GFMD post, cross-listed, not a separate programme). Reconfirmed again today (2026-10-15) via a fresh gfmd.info/type_fund/fellowship feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fundings-business-innovation-synergizer",
@@ -6815,10 +6698,10 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Deadline (20 Sep 2026) has passed; closed. Not present in today's gfmd-fundings RSS excerpt (rolled off, consistent with closure). Not confirmed on the funder's own page."
+      "notes": "Deadline (20 Sep 2026) has passed; closed. Not present in today's gfmd-fundings RSS excerpt (rolled off, consistent with closure). Not confirmed on the funder's own page. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-cfi-moldova-disinformation-media",
@@ -6852,10 +6735,10 @@
         "MD"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim today on gfmd.info's own feed and detail page; unchanged (up to EUR 30,000 per outlet, three outlets, indicative EUR 90,000 total budget, deadline 17 Oct 2026 20:00 UTC). Selected projects must run 1 Nov 2026 - 30 June 2027; organisations funded in a previous call under this project are not eligible this round."
+      "notes": "Reconfirmed verbatim today on gfmd.info's own feed and detail page; unchanged (up to EUR 30,000 per outlet, three outlets, indicative EUR 90,000 total budget, deadline 17 Oct 2026 20:00 UTC). Selected projects must run 1 Nov 2026 - 30 June 2027; organisations funded in a previous call under this project are not eligible this round. Reconfirmed again today (2026-10-15) via a fresh gfmd.info/fundings feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fundings-civil-society-fund-poland-disinformation",
@@ -6890,10 +6773,10 @@
         "PL"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Deadline (6 Oct 2026, 12:00 CEST) has passed; closed, no longer present in today's feed/detail set, consistent with closure. Fund backed by ~EUR 83.5m from EEA/Norway Grants, managed by a consortium led by the Stefan Batory Foundation (not confirmed on the funder's own page). A distinct Civil Society Fund call for Slovenian NGOs also appeared in today's feed ('Call for organizational grants', deadline 15 Oct 2026, €120,000-180,000 of a €1.2m pot, GFMD's own 'Theme' tag says 'Media support' but the funder's eligibility text only names general Slovenian NGOs under the Slovenian NGO Act across democracy/rule-of-law/human-rights/media-literacy/gender-equality/environment priorities, with no media/journalism-specific route stated) - not recorded as a grant here for the same reason as previous checks; this is the already-listed 'Civil Society Fund (Slovenia)' candidate, bumped today (seenAt += gfmd-fundings)."
+      "notes": "Deadline (6 Oct 2026, 12:00 CEST) has passed; closed, no longer present in today's feed/detail set, consistent with closure. Fund backed by ~EUR 83.5m from EEA/Norway Grants, managed by a consortium led by the Stefan Batory Foundation (not confirmed on the funder's own page). A distinct Civil Society Fund call for Slovenian NGOs also appeared in today's feed ('Call for organizational grants', deadline 15 Oct 2026, €120,000-180,000 of a €1.2m pot, GFMD's own 'Theme' tag says 'Media support' but the funder's eligibility text only names general Slovenian NGOs under the Slovenian NGO Act across democracy/rule-of-law/human-rights/media-literacy/gender-equality/environment priorities, with no media/journalism-specific route stated) - not recorded as a grant here for the same reason as previous checks; this is the already-listed 'Civil Society Fund (Slovenia)' candidate, bumped today (seenAt += gfmd-fundings). Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-ctrlj-microgrants",
@@ -6928,10 +6811,10 @@
         "global"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim today; unchanged (US$1,000-5,000, deadline 15 Oct 2026, 'expected to run continuously, subject to available budget' - kept 'recurring')."
+      "notes": "Reconfirmed verbatim today; unchanged (US$1,000-5,000, deadline 15 Oct 2026, 'expected to run continuously, subject to available budget' - kept 'recurring'). Reconfirmed again today (2026-10-15) via a fresh gfmd.info/fundings feed snapshot fetched this morning; listing and detail text unchanged."
     },
     {
       "id": "gfmd-fundings-health-care-journalism-grants-2026-2027",
@@ -6967,10 +6850,10 @@
         "US"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Deadline (2 Oct 2026) has passed; closed, not present in today's feed/detail set, consistent with closure. Amount/deadline were never independently confirmed on NIHCM's own detail page (only GFMD's RSS text). Not confirmed on the funder's own page."
+      "notes": "Deadline (2 Oct 2026) has passed; closed, not present in today's feed/detail set, consistent with closure. Amount/deadline were never independently confirmed on NIHCM's own detail page (only GFMD's RSS text). Not confirmed on the funder's own page. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-human-rights-ukraine-german-embassy-kyiv",
@@ -7006,10 +6889,10 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Deadline (27 Sept 2026) has passed; closed, rolled off today's RSS excerpt, consistent with closure. Project must be completed by end of 2027; only a project concept was required at the concept stage."
+      "notes": "Deadline (27 Sept 2026) has passed; closed, rolled off today's RSS excerpt, consistent with closure. Project must be completed by end of 2027; only a project concept was required at the concept stage. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-internews-ukraine-occupied-territories-subgrants",
@@ -7045,10 +6928,10 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Deadline (20 Sep 2026) has passed; closed, rolled off today's RSS excerpt. Applicants may submit for only one of the two lots. Not confirmed on the funder's own page."
+      "notes": "Deadline (20 Sep 2026) has passed; closed, rolled off today's RSS excerpt. Applicants may submit for only one of the two lots. Not confirmed on the funder's own page. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-lmdif-western-balkans-fund",
@@ -7087,10 +6970,10 @@
         "RS"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still present in today's gfmd-fundings RSS headline list with identical description; rolling investment vehicle. Not confirmed on the funder's own page today."
+      "notes": "Still present in today's gfmd-fundings RSS headline list with identical description; rolling investment vehicle. Not confirmed on the funder's own page today. Headline still present in today's (2026-10-15) gfmd-fundings feed snapshot (detail page not captured in the excerpt); rolling/open status unchanged, not independently re-verified today beyond the headline."
     },
     {
       "id": "gfmd-fundings-sa-ajp-investigative-journalism-grants",
@@ -7126,10 +7009,10 @@
         "africa-sub-saharan"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Not present in today's gfmd-fundings RSS excerpt (expected for a rolling programme with no fixed deadline); no re-verification via WebSearch performed today given no sign of discontinuation. Kept as previously recorded, open/rolling. Not confirmed on the funder's own page."
+      "notes": "Not present in today's gfmd-fundings RSS excerpt (expected for a rolling programme with no fixed deadline); no re-verification via WebSearch performed today given no sign of discontinuation. Kept as previously recorded, open/rolling. Not confirmed on the funder's own page. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-safe-media-capacity-support-fund",
@@ -7169,10 +7052,10 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Deadline (4 Oct 2026) has passed; closed. Training programmes must take place before 30 December 2026; report due to ECPMF by 15 January 2027."
+      "notes": "Deadline (4 Oct 2026) has passed; closed. Training programmes must take place before 30 December 2026; report due to ECPMF by 15 January 2027. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-spj-foundation-2026-grant-cycle",
@@ -7208,10 +7091,10 @@
         "US"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged, closed, annual recurring cycle; not re-verified on the funder's own page today."
+      "notes": "Unchanged, closed, annual recurring cycle; not re-verified on the funder's own page today. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gfmd-fundings-voices-for-climate-justice-program-2026",
@@ -7258,10 +7141,10 @@
         "ZM"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Deadline (25 Sept 2026) has passed; closed, no longer present in today's feed excerpt. Not confirmed on the funder's own page."
+      "notes": "Deadline (25 Sept 2026) has passed; closed, no longer present in today's feed excerpt. Not confirmed on the funder's own page. Not present in today's (2026-10-15) gfmd-fundings feed snapshot excerpt (older/closed item or rolling programme outside the top headlines); not independently re-verified today, kept unchanged."
     },
     {
       "id": "gijn-grants-aijc-francophone-fellowship-2026",
@@ -7318,10 +7201,10 @@
         "TG"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403 (snapshot failed again today). No change: deadline (4 Sep 2026) remains passed; 2027 round not yet announced. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403 (snapshot failed again today). No change: deadline (4 Sep 2026) remains passed; 2027 round not yet announced. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "gijn-grants-birn-anti-corruption-subgrants-montenegro-kosovo-2026",
@@ -7357,10 +7240,10 @@
         "XK"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403. No change found. BIRN is already tracked separately as the 'birn' source. Not confirmed on the funder's own page for exact deadline/amount figures."
+      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403. No change found. BIRN is already tracked separately as the 'birn' source. Not confirmed on the funder's own page for exact deadline/amount figures. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "gijn-grants-correctiv-exile-journalist-in-residence-2026",
@@ -7394,10 +7277,10 @@
         "global"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403. No change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403. No change found. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "gijn-grants-mcgraw-fellowship-business-journalism",
@@ -7433,10 +7316,10 @@
         "US"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Already closed as of 2026-10-13 when its 12 Oct 2026 deadline passed; status unchanged today. Searched specifically today (2026-10-14) for a deadline extension via WebSearch — none found; all secondary calendars (healthjournalism.org, ewa.org, sej.org, fundsforngos.org) still show 12-Oct-2026 as final with no renewed call. gijn.org itself still HTTP 403 to automated fetch. Not confirmed on the funder's own page."
+      "notes": "Already closed as of 2026-10-13 when its 12 Oct 2026 deadline passed; status unchanged today. Searched specifically today (2026-10-14) for a deadline extension via WebSearch — none found; all secondary calendars (healthjournalism.org, ewa.org, sej.org, fundsforngos.org) still show 12-Oct-2026 as final with no renewed call. gijn.org itself still HTTP 403 to automated fetch. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "gijn-grants-mongabay-sea-ocean-reporting-fellowship-2026",
@@ -7471,10 +7354,10 @@
         "asia-southeast"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403. No change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org still HTTP 403. No change found. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "gijn-grants-nyt-fellowship-program-2027",
@@ -7509,10 +7392,10 @@
         "GB"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; deadline (5pm ET, 19 Nov 2026) and US/UK work-authorization requirement unchanged. gijn.org still HTTP 403. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; deadline (5pm ET, 19 Nov 2026) and US/UK work-authorization requirement unchanged. gijn.org still HTTP 403. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "gijn-grants-rji-professional-innovation-fellowship-2027",
@@ -7548,10 +7431,10 @@
         "global"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via WebSearch. Applications still said to open 2 Nov 2026. Sources continue to disagree on the first-round deadline (8 Jan 2027 vs 18 Dec 2026), so deadline kept null rather than guessed. gijn.org still HTTP 403. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed again today (2026-10-14) via WebSearch. Applications still said to open 2 Nov 2026. Sources continue to disagree on the first-round deadline (8 Jan 2027 vs 18 Dec 2026), so deadline kept null rather than guessed. gijn.org still HTTP 403. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "gijn-grants-gijc2027-fellowship",
@@ -7587,10 +7470,10 @@
         "global"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org itself still returns HTTP 403 to automated fetch (snapshot failed again today). Deadline 31 Jan 2027 and conference dates/venue (19-23 Oct 2027, De Doelen ICC Rotterdam) unchanged. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed again today (2026-10-14) via WebSearch; gijn.org itself still returns HTTP 403 to automated fetch (snapshot failed again today). Deadline 31 Jan 2027 and conference dates/venue (19-23 Oct 2027, De Doelen ICC Rotterdam) unchanged. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; gijn.org itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "ij4eu-freelancer-support-scheme",
@@ -7637,10 +7520,10 @@
         "UA"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim again today on investigativejournalismforeu.net's own page: still 'PAUSED'; next call opens 1 December 2026, unchanged. Page confirms the first 2026-27 call opened 12 February 2026 (deadline nine weeks later) and has already run its course; the current pause is the gap before the second call. Managed by the European Journalism Centre."
+      "notes": "Reconfirmed verbatim again today (2026-10-15) on investigativejournalismforeu.net's own page (fresh snapshot): still 'PAUSED'; next call opens 1 December 2026, unchanged. Page confirms the first 2026-27 call opened 12 February 2026 (deadline nine weeks later) and has already run its course; the current pause is the gap before the second call. Managed by the European Journalism Centre."
     },
     {
       "id": "ij4eu-investigation-support-scheme",
@@ -7685,10 +7568,10 @@
         "UA"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim again today on investigativejournalismforeu.net's own page: still 'PAUSED'; next call opens 1 December 2026, unchanged. Managed by the International Press Institute."
+      "notes": "Reconfirmed verbatim again today (2026-10-15) on investigativejournalismforeu.net's own page (fresh snapshot): still 'PAUSED'; next call opens 1 December 2026, unchanged. Managed by the International Press Institute."
     },
     {
       "id": "ij4eu-uncovered-2026-travel-grant",
@@ -7724,10 +7607,10 @@
         "europe"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Event-specific, one-off travel grant; still absent from today's grants page (consistent with its past fixed deadline, ~2 months ago). Kept as an archived closed entry per the archive rule (well under the 3-year deletion threshold)."
+      "notes": "Event-specific, one-off travel grant; still absent from today's (2026-10-15) grants page snapshot (consistent with its past fixed deadline, ~2 months ago). Kept as an archived closed entry per the archive rule (well under the 3-year deletion threshold)."
     },
     {
       "id": "ijnet-opportunities-dfrlab-digital-sherlocks",
@@ -7761,10 +7644,10 @@
         "global"
       ],
       "sourceId": "ijnet-opportunities",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed again today: still the only genuine funding/training opportunity amid an otherwise dead 2014-2018 blog-post RSS feed. IJNet's feed remains functionally dead for discovering new calls; deadline unchanged (11 May 2026, already passed)."
+      "notes": "Reconfirmed again today (2026-10-15) via a fresh IJNet RSS/follow snapshot: still the only genuine funding/training opportunity amid an otherwise dead 2014-2018 blog-post feed (plus undated 2018-era 'opportunities' round-up posts that are not current calls). IJNet's feed remains functionally dead for discovering new calls; deadline unchanged (11 May 2026, already passed)."
     },
     {
       "id": "journalismfund-belgian-bridge",
@@ -7800,10 +7683,10 @@
         "BE"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed again today on journalismfund.eu's own grants page ('Next application deadline (CET): 15 October 2026, 13:00 CET'), unchanged. Deadline is tomorrow, so status remains open as of today's check."
+      "notes": "Reconfirmed again today (2026-10-15) on journalismfund.eu's own grants page ('Next application deadline (CET): 15 October 2026, 13:00 CET'), unchanged. Deadline is today, so status remains open as of today's check."
     },
     {
       "id": "journalismfund-environmental-investigative-journalism",
@@ -7839,10 +7722,10 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed again on today's grants page fetch: the 'Next application deadline' field for this programme is still blank (2026 round closed 6 August 2026); no next-round date shown yet."
+      "notes": "Reconfirmed again on today's (2026-10-15) grants page snapshot: the 'Next application deadline' field for this programme is still blank (2026 round closed 6 August 2026); no next-round date shown yet."
     },
     {
       "id": "journalismfund-european-cross-border-grants",
@@ -7878,10 +7761,10 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim again today ('Next application deadline (CET): 7 January 2027, 13:00 CET'), unchanged."
+      "notes": "Reconfirmed verbatim again today (2026-10-15) ('Next application deadline (CET): 7 January 2027, 13:00 CET'), unchanged."
     },
     {
       "id": "journalismfund-invisible-life-grant-programme",
@@ -7919,10 +7802,10 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-10-13",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim again today: 'Next application deadline 29 October 2026, 13:00 CET,' unchanged."
+      "notes": "Reconfirmed verbatim again today (2026-10-15): 'Next application deadline 29 October 2026, 13:00 CET,' unchanged."
     },
     {
       "id": "journalismfund-pascal-decroos-fund",
@@ -7957,10 +7840,10 @@
         "BE"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "The 1 Oct 2026, 13:00 CET deadline is still displayed today as the 'next' deadline on journalismfund.eu (page appears not yet refreshed by the funder), but it has passed; kept closed. Fourth of four scheduled 2026 rounds (22 Jan, 23 Apr, 6 Aug, 1 Oct). No 2027 round dates announced yet on the funder's page as of today's check."
+      "notes": "The 1 Oct 2026, 13:00 CET deadline is still displayed today (2026-10-15) as the 'next' deadline on journalismfund.eu (page appears not yet refreshed by the funder), but it has passed; kept closed. Fourth of four scheduled 2026 rounds (22 Jan, 23 Apr, 6 Aug, 1 Oct). No 2027 round dates announced yet on the funder's page as of today's check."
     },
     {
       "id": "journalismfund-professional-development-environmental-journalism",
@@ -7996,10 +7879,10 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again on today's grants page fetch: 'Next application deadline' field still blank for this programme (2026 round closed 20 August 2026); no next-round date shown. The €75,000 budget figure is not visible in today's truncated snapshot excerpt for this entry, so it is carried forward from an earlier full read of the funder's page rather than re-confirmed today. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed again on today's (2026-10-15) grants page snapshot: 'Next application deadline' field still blank for this programme (2026 round closed 20 August 2026); no next-round date shown. The EUR75,000 budget figure is not visible in today's snapshot excerpt for this entry, so it is carried forward from an earlier full read of the funder's page rather than re-confirmed today. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-africa-reporting-grants",
@@ -8034,10 +7917,10 @@
         "africa"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): programme name still listed in the Grants & Fellowships navigation on pulitzercenter.org/grants-fellowships; today's crawl of all 15 linked pages again returned only nav/menu boilerplate, no unique deadline/amount body text. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): programme name still listed in the Grants & Fellowships navigation on pulitzercenter.org/grants-fellowships; today's crawl of all 15 linked pages again returned only nav/menu boilerplate, no unique deadline/amount body text. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-ai-reporting-grants",
@@ -8073,10 +7956,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): detail page crawled but returned only nav/menu boilerplate, no unique body text. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): detail page crawled but returned only nav/menu boilerplate, no unique body text. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-campus-consortium-reporting-fellowships",
@@ -8111,10 +7994,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): detail page crawled but returned only nav/menu boilerplate. Confidence kept medium. Only open to current students of Pulitzer Center Campus Consortium partner schools (recent graduates use the related Post-Graduate Reporting Fellowship instead). Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): detail page crawled but returned only nav/menu boilerplate. Confidence kept medium. Only open to current students of Pulitzer Center Campus Consortium partner schools (recent graduates use the related Post-Graduate Reporting Fellowship instead). Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-climate-labor-reporting-grants",
@@ -8150,10 +8033,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): programme name still listed in the Grants & Fellowships navigation; today's crawl again returned only nav/menu boilerplate, no unique body text. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): programme name still listed in the Grants & Fellowships navigation; today's crawl again returned only nav/menu boilerplate, no unique body text. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-global-reporting-grants",
@@ -8188,10 +8071,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): this specific detail page was crawled again today but still returned only nav/menu boilerplate, no unique deadline/amount body text. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): this specific detail page was crawled again today but still returned only nav/menu boilerplate, no unique deadline/amount body text. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-machine-learning-reporting-grants",
@@ -8227,10 +8110,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): programme name still listed in the Grants & Fellowships navigation; today's crawl again returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): programme name still listed in the Grants & Fellowships navigation; today's crawl again returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-ocean-fisheries-reporting-grants",
@@ -8266,10 +8149,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): detail page https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ocean-and-fisheries-reporting was crawled but returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): detail page https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ocean-and-fisheries-reporting was crawled but returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-post-graduate-reporting-fellowship",
@@ -8302,10 +8185,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): programme still listed ('Post-Grad Reporting Fellowships') in the Grants & Fellowships navigation. Restricted to current students or recent graduates of Pulitzer Center Campus Consortium partner universities specifically. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): programme still listed ('Post-Grad Reporting Fellowships') in the Grants & Fellowships navigation. Restricted to current students or recent graduates of Pulitzer Center Campus Consortium partner universities specifically. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-rainforest-reporting-grants",
@@ -8341,10 +8224,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): detail page https://pulitzercenter.org/grants-fellowships/opportunities-journalists/rainforest-reporting-grant was crawled but returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): detail page https://pulitzercenter.org/grants-fellowships/opportunities-journalists/rainforest-reporting-grant was crawled but returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-transparency-governance-reporting-grants",
@@ -8380,10 +8263,10 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): detail page https://pulitzercenter.org/transparency-governance-reporting-grants was crawled but returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): detail page https://pulitzercenter.org/transparency-governance-reporting-grants was crawled but returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "pulitzer-center-us-local-reporting-grants",
@@ -8418,10 +8301,10 @@
         "US"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today (2026-10-14): programme name still listed in the Grants & Fellowships navigation, tied to the U.S. Local News Reporting initiative; today's crawl again returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
+      "notes": "Re-checked today (2026-10-15): programme name still listed in the Grants & Fellowships navigation, tied to the U.S. Local News Reporting initiative; today's crawl again returned only nav/menu boilerplate. Confidence kept medium. Not confirmed on the funder's own page."
     },
     {
       "id": "iwmf-alex-duval-smith-memorial-fund",
@@ -8456,10 +8339,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14) via IWMF's own /programs/ navigation fetched today (listed under Safety > Emergency Assistance); unchanged. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Reconfirmed again today (2026-10-15) via IWMF's own /programs/ navigation fetched today (listed under Safety > Emergency Assistance); unchanged. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-elizabeth-neuffer-fellowship",
@@ -8494,10 +8377,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim again today (2026-10-14) on iwmf.org's own page: 'Applications for the 2027 Elizabeth Neuffer Fellowship are now closed. All applicants will receive an update on their application by end-July 2026.' Unchanged. Open to women and nonbinary journalists (staff or freelance) with at least 3 years' professional experience; all nationalities welcome; non-native English speakers must have excellent written/verbal English."
+      "notes": "Reconfirmed verbatim again today (2026-10-15) on iwmf.org's own page: 'Applications for the 2027 Elizabeth Neuffer Fellowship are now closed. All applicants will receive an update on their application by end-July 2026.' Unchanged. Open to women and nonbinary journalists (staff or freelance) with at least 3 years' professional experience; all nationalities welcome; non-native English speakers must have excellent written/verbal English."
     },
     {
       "id": "iwmf-expresate-lgbtqi-womens-rights-reporting-initiative",
@@ -8537,10 +8420,10 @@
         "MX"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-confirmed today (2026-10-14): still named directly in the body text of IWMF's own /issues/opportunity/ page, fetched today, but still absent from the current /programs/ navigation list itself. Funded by the Foundation for a Just Society and administered by IWMF. Not confirmed on the funder's own page beyond the name of the programme."
+      "notes": "Re-confirmed today (2026-10-15): still named directly in the body text of IWMF's own /issues/opportunity/ page, fetched today, but still absent from the current /programs/ navigation list itself. Funded by the Foundation for a Just Society and administered by IWMF. Not confirmed on the funder's own page beyond the name of the programme."
     },
     {
       "id": "iwmf-fault-lines-reporting-fund",
@@ -8578,10 +8461,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed today (2026-10-14) directly on iwmf.org's own detail page (fetched in full today): still shows an 'Apply Now!' banner and the identical description - three-year programme, grants to staff and freelance journalists reporting on racism/antisemitism/Islamophobia/misogyny/hate in the US, no deadline stated on the page. Grantees must publish in a U.S. outlet within one year and credit the IWMF. Amount figure sourced from gfmd.info, confirmed consistent with today's cross-check from the gfmd-fundings sweep. Not confirmed on the funder's own page for the amount."
+      "notes": "Reconfirmed today (2026-10-15) directly on iwmf.org's own detail page (fetched in full today): still shows an 'Apply Now!' banner and the identical description - three-year programme, grants to staff and freelance journalists reporting on racism/antisemitism/Islamophobia/misogyny/hate in the US, no deadline stated on the page. Grantees must publish in a U.S. outlet within one year and credit the IWMF. Amount figure sourced from gfmd.info, confirmed consistent with today's cross-check from the gfmd-fundings sweep. Not confirmed on the funder's own page for the amount."
     },
     {
       "id": "iwmf-fund-for-indigenous-journalists",
@@ -8617,10 +8500,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim again today (2026-10-14) directly on iwmf.org's own detail page (fetched in full today): 'Applications are being accepted and reviewed on a rolling basis.' Open to Indigenous and non-Indigenous journalists of all genders, affiliated with media outlets or freelance. Unchanged."
+      "notes": "Reconfirmed verbatim again today (2026-10-15) directly on iwmf.org's own detail page (fetched in full today): 'Applications are being accepted and reviewed on a rolling basis.' Open to Indigenous and non-Indigenous journalists of all genders, affiliated with media outlets or freelance. Unchanged."
     },
     {
       "id": "iwmf-gwen-ifill-mentorship-program",
@@ -8656,10 +8539,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's /programs/ navigation fetched today (2026-10-14). Next cohort's application timeline still reported as TBD/not yet announced; most recent documented cohort was 2025. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's /programs/ navigation fetched today (2026-10-15). Next cohort's application timeline still reported as TBD/not yet announced; most recent documented cohort was 2025. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-howard-g-buffett-fund-for-women-journalists",
@@ -8694,10 +8577,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed again today (2026-10-14): fund named directly in the body text of IWMF's own /issues/opportunity/ page, fetched in full today; still absent from the current /programs/ navigation list itself. Requires at least one year of professional journalism experience; team leader must be a woman or nonbinary journalist, with at least 50% of any team being women/nonbinary. Not confirmed on the funder's own page beyond the name."
+      "notes": "Reconfirmed again today (2026-10-15): fund named directly in the body text of IWMF's own /issues/opportunity/ page, fetched in full today; still absent from the current /programs/ navigation list itself. Requires at least one year of professional journalism experience; team leader must be a woman or nonbinary journalist, with at least 50% of any team being women/nonbinary. Not confirmed on the funder's own page beyond the name."
     },
     {
       "id": "iwmf-kari-howard-fund-for-narrative-journalism",
@@ -8732,10 +8615,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's /programs/ navigation fetched today (2026-10-14) under Reporting Opportunities. 2026-cycle deadline (July 12, 2026) has passed; next cycle date not yet known. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's /programs/ navigation fetched today (2026-10-15) under Reporting Opportunities. 2026-cycle deadline (July 12, 2026) has passed; next cycle date not yet known. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-kim-wall-memorial-fund",
@@ -8770,10 +8653,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's /programs/ navigation fetched today (2026-10-14) under Reporting Opportunities. Most recent cycle ran 3 Nov-7 Dec 2025, with 2026 grantees announced 23 March 2026; no 2026-27 round found yet. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's /programs/ navigation fetched today (2026-10-15) under Reporting Opportunities. Most recent cycle ran 3 Nov-7 Dec 2025, with 2026 grantees announced 23 March 2026; no 2026-27 round found yet. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-lauren-brown-fellowship",
@@ -8809,10 +8692,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-14) under Reporting Opportunities; the 2026-cycle deadline of October 31, 2026 has not yet passed as of today. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-15) under Reporting Opportunities; the 2026-cycle deadline of October 31, 2026 has not yet passed as of today. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-newsroom-safety-across-america",
@@ -8848,10 +8731,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-14) under Safety. Focused on battleground-state and rural newsrooms; applicants fill out an interest/intake form rather than a competitive grant application. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-15) under Safety. Focused on battleground-state and rural newsrooms; applicants fill out an interest/intake form rather than a competitive grant application. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-reproductive-health-rights-and-justice-in-the-americas",
@@ -8888,10 +8771,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-14) under Reporting Opportunities. 2026 cycle deadline (August 2, 2026) has passed; no 2027 cycle found yet. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-15) under Reporting Opportunities. 2026 cycle deadline (August 2, 2026) has passed; no 2027 cycle found yet. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-safety-ambassador-fellowship",
@@ -8929,10 +8812,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-14) under Safety; deadline of October 20, 2026 has not yet passed as of today. Part of the Newsroom Safety Across America initiative, supported by Press Forward. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-15) under Safety; deadline of October 20, 2026 has not yet passed as of today. Part of the Newsroom Safety Across America initiative, supported by Press Forward. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-us-journalism-emergency-fund",
@@ -8967,10 +8850,10 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-14) under Safety > Emergency Assistance. Supported by the Ford Foundation and Press Forward. Not confirmed on the funder's own detail page (not fetched today)."
+      "notes": "Still listed in IWMF's own /programs/ navigation fetched today (2026-10-15) under Safety > Emergency Assistance. Supported by the Ford Foundation and Press Forward. Not confirmed on the funder's own detail page (not fetched today)."
     },
     {
       "id": "iwmf-coalition-against-online-violence",
@@ -9006,10 +8889,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Programme named in IWMF's own /programs/ navigation fetched today (2026-10-14) under 'Online Abuse and Harassment'. Eligibility for safety consultations requires journalism as a primary profession; applicants submit an interest form via Submittable; service is explicitly not an emergency/rapid-response line. Not confirmed on the funder's own page beyond the programme name."
+      "notes": "Programme named in IWMF's own /programs/ navigation fetched today (2026-10-15) under 'Online Abuse and Harassment'. Eligibility for safety consultations requires journalism as a primary profession; applicants submit an interest form via Submittable; service is explicitly not an emergency/rapid-response line. Not confirmed on the funder's own page beyond the programme name."
     },
     {
       "id": "iwmf-hostile-environment-training",
@@ -9044,10 +8927,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Programme named in IWMF's own /programs/ navigation fetched today (2026-10-14) under Safety ('Hostile Environment Training'). Eligibility and application windows have varied by cohort historically; no current 2026/2027 cohort dates found. Not confirmed on the funder's own page beyond the programme name."
+      "notes": "Programme named in IWMF's own /programs/ navigation fetched today (2026-10-15) under Safety ('Hostile Environment Training'). Eligibility and application windows have varied by cohort historically; no current 2026/2027 cohort dates found. Not confirmed on the funder's own page beyond the programme name."
     },
     {
       "id": "iwmf-safeguarding-womens-voices",
@@ -9083,10 +8966,10 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Programme named in IWMF's own /programs/ navigation fetched today (2026-10-14) under 'Online Abuse and Harassment'. Applications are made by newsrooms, not individual journalists. Most recent cycle appears closed, with a reported deadline around 1 Nov 2025; no 2026/2027 cycle dates found. Not confirmed on the funder's own page beyond the programme name."
+      "notes": "Programme named in IWMF's own /programs/ navigation fetched today (2026-10-15) under 'Online Abuse and Harassment'. Applications are made by newsrooms, not individual journalists. Most recent cycle appears closed, with a reported deadline around 1 Nov 2025; no 2026/2027 cycle dates found. Not confirmed on the funder's own page beyond the programme name."
     },
     {
       "id": "fij-alicia-patterson-fellowship",
@@ -9120,10 +9003,10 @@
         "US"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed via today's (2026-10-14) snapshot of fij.org, text unchanged from the prior sweep. That deadline has passed, so status remains closed pending FIJ posting a new deadline for the next annual cycle. Not confirmed on the funder's own page for the geographic-focus detail specifically."
+      "notes": "Reconfirmed via today's (2026-10-14) snapshot of fij.org, text unchanged from the prior sweep. That deadline has passed, so status remains closed pending FIJ posting a new deadline for the next annual cycle. Not confirmed on the funder's own page for the geographic-focus detail specifically. Reconfirmed again today (2026-10-15) via a fresh fij.org snapshot fetched this morning; page content unchanged from the prior sweep."
     },
     {
       "id": "fij-follow-up-grants",
@@ -9158,10 +9041,10 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org. Open only to reporters/outlets who previously received an FIJ grant and published the resulting investigation. Unchanged."
+      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org. Open only to reporters/outlets who previously received an FIJ grant and published the resulting investigation. Unchanged. Reconfirmed again today (2026-10-15) via a fresh fij.org snapshot fetched this morning; page content unchanged from the prior sweep."
     },
     {
       "id": "fij-regular-grants",
@@ -9197,10 +9080,10 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org. A separate rolling track exists for previous Seed-funding recipients (fij-regular-grants-seed-alumni). Unchanged."
+      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org. A separate rolling track exists for previous Seed-funding recipients (fij-regular-grants-seed-alumni). Unchanged. Reconfirmed again today (2026-10-15) via a fresh fij.org snapshot fetched this morning; page content unchanged from the prior sweep."
     },
     {
       "id": "fij-regular-grants-seed-alumni",
@@ -9235,10 +9118,10 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org. Restricted to past FIJ Seed-funding recipients only. Unchanged."
+      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org. Restricted to past FIJ Seed-funding recipients only. Unchanged. Reconfirmed again today (2026-10-15) via a fresh fij.org snapshot fetched this morning; page content unchanged from the prior sweep."
     },
     {
       "id": "fij-seed-grants",
@@ -9273,10 +9156,10 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "high",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org - same date as Regular Grants. Unchanged."
+      "notes": "Reconfirmed verbatim in today's (2026-10-14) snapshot of fij.org - same date as Regular Grants. Unchanged. Reconfirmed again today (2026-10-15) via a fresh fij.org snapshot fetched this morning; page content unchanged from the prior sweep."
     },
     {
       "id": "earth-journalism-biodiversity-media-grants-2026",
@@ -9311,10 +9194,10 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; no new round found, no changes. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; no new round found, no changes. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-biodiversity-story-grants-2026",
@@ -9355,10 +9238,10 @@
         "MG"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net fetch failed again today (HTTP 403, blocked at the egress proxy). Re-confirmed again today (2026-10-14) via WebSearch; same already-passed deadline, no new round reopened it. One secondary listing (opportunitydesk.org) still showed Status: Open against the June 30 deadline, but this is treated as stale, not corroborated on the funder's own page. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net fetch failed again today (HTTP 403, blocked at the egress proxy). Re-confirmed again today (2026-10-14) via WebSearch; same already-passed deadline, no new round reopened it. One secondary listing (opportunitydesk.org) still showed Status: Open against the June 30 deadline, but this is treated as stale, not corroborated on the funder's own page. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-climate-private-sector-story-grants",
@@ -9395,10 +9278,10 @@
         "IN"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-confirmed again today (2026-10-14) via WebSearch (earthjournalism.net still returning HTTP 403); same closed status and 28 Feb 2026 deadline, no new round found. Not confirmed on the funder's own page."
+      "notes": "Re-confirmed again today (2026-10-14) via WebSearch (earthjournalism.net still returning HTTP 403); same closed status and 28 Feb 2026 deadline, no new round found. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-cop17-biodiversity-fellowship",
@@ -9435,10 +9318,10 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net itself returned HTTP 403 again today. Deadline (29 June 2026) already passed; selected fellows reported from COP17 (19-30 Oct 2026), now concluding around today's date; next round not yet announced. Re-confirmed again today (2026-10-14) via WebSearch; no changes. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net itself returned HTTP 403 again today. Deadline (29 June 2026) already passed; selected fellows reported from COP17 (19-30 Oct 2026), now concluding around today's date; next round not yet announced. Re-confirmed again today (2026-10-14) via WebSearch; no changes. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-cop31-reporting-fellowship",
@@ -9475,10 +9358,10 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net fetch failed again today (HTTP 403). POSSIBLE DUPLICATE: may also appear under gfmd-fellowships as a separate entry for the same COP31 programme — check for a gfmd-fellowships entry with the same programme before finalizing. COP31 runs 9-20 November 2026; 2027 round not yet announced. Re-confirmed again today (2026-10-14) via WebSearch; no changes. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net fetch failed again today (HTTP 403). POSSIBLE DUPLICATE: may also appear under gfmd-fellowships as a separate entry for the same COP31 programme — check for a gfmd-fellowships entry with the same programme before finalizing. COP31 runs 9-20 November 2026; 2027 round not yet announced. Re-confirmed again today (2026-10-14) via WebSearch; no changes. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-forest-governance-story-grants",
@@ -9519,10 +9402,10 @@
         "ID"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-confirmed again today (2026-10-14) via WebSearch (earthjournalism.net still returning HTTP 403); no new round found, no changes. Not confirmed on the funder's own page."
+      "notes": "Re-confirmed again today (2026-10-14) via WebSearch (earthjournalism.net still returning HTTP 403); no new round found, no changes. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-gef-assembly-fellowship-2026",
@@ -9559,10 +9442,10 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net itself returned HTTP 403 again today. Deadline (31 March 2026) already passed; no new round found via WebSearch. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net itself returned HTTP 403 again today. Deadline (31 March 2026) already passed; no new round found via WebSearch. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-marine-conservation-media-grants-2026-2027",
@@ -9597,10 +9480,10 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; same already-passed deadline (10 Aug 2026), no new round found. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; same already-passed deadline (10 Aug 2026), no new round found. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-mining-environment-human-rights-africa-2026",
@@ -9640,10 +9523,10 @@
         "ZA"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; same already-passed deadline, no new round found. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; same already-passed deadline, no new round found. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-nepal-media-seed-grants-2026",
@@ -9677,10 +9560,10 @@
         "NP"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; no new round found. Deadline (15 Feb 2026) already passed, kept as an archive entry per site convention. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net fetch failed again today (HTTP 403). Re-confirmed again today (2026-10-14) via WebSearch; no new round found. Deadline (15 Feb 2026) already passed, kept as an archive entry per site convention. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-our-ocean-conference-2026-fellowship",
@@ -9717,10 +9600,10 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "earthjournalism.net itself returned HTTP 403 again today. Deadline (7 April 2026) already passed; no new round found via WebSearch. Fellowship appears tied to this one-off 2026 conference location/edition. Not confirmed on the funder's own page."
+      "notes": "earthjournalism.net itself returned HTTP 403 again today. Deadline (7 April 2026) already passed; no new round found via WebSearch. Fellowship appears tied to this one-off 2026 conference location/edition. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "earth-journalism-fisheries-transparency-story-grants-2026",
@@ -9757,10 +9640,10 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Found via WebSearch (earthjournalism.net itself returned HTTP 403 again today, no snapshot available). Re-confirmed again today (2026-10-14); no changes. Not confirmed on the funder's own page."
+      "notes": "Found via WebSearch (earthjournalism.net itself returned HTTP 403 again today, no snapshot available). Re-confirmed again today (2026-10-14); no changes. Not confirmed on the funder's own page. Re-checked again today (2026-10-15) via WebSearch; earthjournalism.net itself again returned HTTP 403 (no snapshot possible). No new round or change found. Not confirmed on the funder's own page."
     },
     {
       "id": "birn-media-innovation-europe-audience-engaged-journalism-grants",
@@ -11141,10 +11024,129 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-10-14",
+      "lastVerified": "2026-10-15",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "New entry. Programme named in IWMF's own /programs/ navigation fetched today (2026-10-14) under Safety ('Journalist Trauma Support Network'), but its own detail page was not fetched today - eligibility, intake process and capacity details come from WebSearch. Eligible journalists generally must have experienced journalistic trauma/occupational stress within the past 12 months and reside in the U.S.; explicitly not for crisis/emergency situations. Not confirmed on the funder's own page."
+      "notes": "New entry. Programme named in IWMF's own /programs/ navigation fetched today (2026-10-15) under Safety ('Journalist Trauma Support Network'), but its own detail page was not fetched today - eligibility, intake process and capacity details come from WebSearch. Eligible journalists generally must have experienced journalistic trauma/occupational stress within the past 12 months and reside in the U.S.; explicitly not for crisis/emergency situations. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "ecpmf-safe-psychological-support-fund",
+      "funder": "European Centre for Press and Media Freedom (ECPMF) - SAFE Project",
+      "programme": "SAFE Project - Psychological Support Fund",
+      "summary": "Grants of up to EUR 500 to cover professional psychological support for journalists in Ukraine, Moldova, Armenia, Azerbaijan and Georgia, part of ECPMF's SAFE project. Announced as open for applications across several of ECPMF's own pages, with a 15 November 2026 deadline.",
+      "url": "https://www.ecpmf.eu/support/safe-project/",
+      "applyUrl": "https://www.ecpmf.eu/support/safe-project/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "emergency"
+      ],
+      "track": "media",
+      "topics": [
+        "mental-health",
+        "safety",
+        "eastern-partnership"
+      ],
+      "amount": {
+        "min": null,
+        "max": 500,
+        "currency": "EUR",
+        "note": "Grants of up to EUR 500 per journalist, to cover professional psychological support."
+      },
+      "deadline": "2026-11-15",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "UA",
+        "MD",
+        "AM",
+        "AZ",
+        "GE"
+      ],
+      "sourceId": "ecpmf",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "Confirmed verbatim via a banner repeated across several ECPMF pages fetched today (home, journalists-in-residence, journalists-in-exile, legal-support, grants, support-contact): 'SAFE Psychological Support Fund opens for applications... Journalists in Ukraine, Moldova, Armenia, Azerbaijan and Georgia can apply for SAFE psychological support grants of up to €500. Apply by 15 November 2026.' NOTE: the SAFE project's own 'Available funds' section on the same /support/safe-project/ page still separately labels a 'Psychological support fund' as '(not open yet)' — apparently stale text alongside this open call; the explicit, dated, repeated banner was treated as authoritative. Replaces the previous combined 'ecpmf-safe-emergency-psychological-support' entry, now split since only the psychological fund is open (see also ecpmf-safe-emergency-support-fund for the still-unopened emergency fund)."
+    },
+    {
+      "id": "ecpmf-safe-emergency-support-fund",
+      "funder": "European Centre for Press and Media Freedom (ECPMF) - SAFE Project",
+      "programme": "SAFE Project - Emergency Support Fund",
+      "summary": "A planned SAFE project fund to provide financial assistance for crises such as loss or destruction of professional equipment, medical emergencies, or direct safety threats, for journalists and media workers. Explicitly labelled 'not open yet' on ECPMF's own SAFE project page today.",
+      "url": "https://www.ecpmf.eu/support/safe-project/",
+      "applyUrl": "https://www.ecpmf.eu/support/safe-project/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "emergency"
+      ],
+      "track": "media",
+      "topics": [
+        "safety",
+        "eastern-partnership"
+      ],
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": null
+      },
+      "deadline": null,
+      "deadlineType": "unknown",
+      "opensAt": null,
+      "status": "upcoming",
+      "geoScope": [
+        "europe-eastern-partnership"
+      ],
+      "sourceId": "ecpmf",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "Confirmed on today's (2026-10-15) SAFE project page snapshot: 'Emergency support fund (not open yet)... If you face crises, including the loss or destruction of professional equipment, medical emergencies, or direct threats to your safety, this fund provides financial assistance.' No opening date given. Split out from the previous combined emergency+psychological entry now that the psychological support fund has separately opened (see ecpmf-safe-psychological-support-fund)."
+    },
+    {
+      "id": "free-press-unlimited-reporters-respond",
+      "funder": "Free Press Unlimited",
+      "programme": "Reporters Respond: Emergency & Legal Support",
+      "summary": "An emergency response fund, active since 2011, providing direct assistance, legal support, psychosocial support and safety advice to journalists and media organisations worldwide confronted with harassment, intimidation, legal proceedings or violence because of their work. In the most urgent cases, support can be offered within 24 hours.",
+      "url": "https://www.freepressunlimited.org/en/projects/reporters-respond-emergency-and-legal-support",
+      "applyUrl": "https://www.freepressunlimited.org/en/projects/reporters-respond-emergency-and-legal-support",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "emergency",
+        "legal"
+      ],
+      "topics": [
+        "safety",
+        "legal-support",
+        "harassment"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Not stated; support is in-kind (advice, referrals, direct assistance) as well as financial, per individual case."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "free-press-unlimited",
+      "lastVerified": "2026-10-15",
+      "confidence": "high",
+      "provenance": "auto",
+      "notes": "Newly recorded today from Free Press Unlimited's own Reporters Respond project page snapshot (2026-10-15): an emergency response fund 'active since 2011' offering psycho-social support, legal support and safety advice to journalists and media organisations worldwide facing (online) harassment, intimidation, legal proceedings, or violence because of their work; applicants apply via an online form, and 'in the most urgent cases, support can be offered within 24 hours.' Not previously tracked for this source; detailed eligibility requirements listed on the page were not fully captured in the snapshot excerpt."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-14T04:23:19.212Z",
+  "generatedAt": "2026-10-15T04:20:18.875Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -349,8 +349,8 @@
         "unesco-ipdc"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 3,
+      "lastSeen": "2026-10-15",
+      "timesSeen": 4,
       "status": "new",
       "evidence": "ifpim.org and gfmd.info funding archive; IFJ (ifj.org) press release, 1 Aug 2026, on the IFPIM-funded $1m Palestine media fund it distributes through the Palestinian Journalists Syndicate. Read September 2026."
     },
@@ -1234,8 +1234,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-14",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-15",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -1455,6 +1455,18 @@
       ],
       "firstSeen": "2026-10-14",
       "lastSeen": "2026-10-14",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Investigative Reporters and Editors (IRE) — Freelance Fellowship",
+      "url": "https://www.ire.org/training/fellowships/",
+      "why": "Surfaced via WebSearch while researching IREX (a different, similarly-named organisation); IRE's 2026 Freelance Fellowship offers up to US$4,000 for independent investigative reporting projects and does not appear to be tracked elsewhere in this sweep.",
+      "seenAt": [
+        "irex"
+      ],
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
       "timesSeen": 1,
       "status": "new"
     }
