@@ -1,6 +1,6 @@
 SOURCE: International Renaissance Foundation (Ukraine)
 URL: https://www.irf.ua/en/contest/
-FETCHED: 2026-10-12T03:49:10.166Z
+FETCHED: 2026-10-15T03:59:40.100Z
 TITLE: Contests - International Renaissance Foundation
 
 === MAIN PAGE ===
@@ -67,11 +67,11 @@ Purpose of the tender:
 
 Contest
 
-Active
+Completed
 
 Competition for Journalistic Work on European Integration
 
-End of the contest:
+The contest has ended:
 
 15.10.2026
 
@@ -91,7 +91,7 @@ The contest has ended:
 
 The purpose of the contest:
 
-a) Engage
+a) 
 
 --- relevant lines ---
 b) Provide opportunities for teams to strengthen their organizational capacity through the implementation of small grants, participation in a training programme, and partnership development.

@@ -1,6 +1,6 @@
 SOURCE: Journalism Grants (EJC)
 URL: https://www.journalismgrants.org/
-FETCHED: 2026-10-12T03:49:12.665Z
+FETCHED: 2026-10-15T03:59:38.803Z
 TITLE: Journalism Grants - programme | EJC.net
 
 === MAIN PAGE ===

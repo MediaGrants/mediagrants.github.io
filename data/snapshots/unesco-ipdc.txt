@@ -1,6 +1,6 @@
 SOURCE: UNESCO IPDC
 URL: https://www.unesco.org/en/international-programme-development-communication
-FETCHED: 2026-10-08T03:45:03.021Z
+FETCHED: 2026-10-15T03:59:41.756Z
 TITLE: International Programme for the Development of Communication | UNESCO
 
 === MAIN PAGE ===
@@ -21,39 +21,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us About us
+Who we are About us À propos
 
-Member States Profiles Member States Profiles
+Member States Profiles États membres
 
-Global presence Global presence
+Global presence Présence mondiale
 
-Partners Partners
+Partners Partenaires
 
-What we do People we serve People we serve
+What we do People we serve
 
-Core functions Core functions
+Core functions Fonctions principales
 
-Objectives Objectives
+Objectives Objectifs
 
 Programmes Programmes
 
-Resources Legal texts Legal texts
+Resources Legal texts Textes juridiques
 
-Sites navigator Sites navigator
+Sites navigator Navigateur des Sites
 
-Multimedia Multimedia
+Multimedia Laboratoire d'idées
 
-Learning Hub Learning Hub
+Learning Hub Cours en ligne
 
 Publications Publications
 
 Documents Documents
 
-Global reports Global reports
+Global reports Rapports mondiaux
 
-Data and indicators Data and indicators
+Data and indicators Données et indicateurs
 
-News Newsroom Newsroom
+News Newsroom Espace presse
 
 Calendar Calendar
 
@@ -83,8 +83,7 @@ Projects Grassroots Call
 Safety of Journalists
 Journalism Education
 Media Viability
-Resources
-Donors - 
+
 
 --- relevant lines ---
 The 70th session of the IPDC Bureau was held on 18 June 2026. Access the Bureau's decisions here.
@@ -126,39 +125,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us About us
+Who we are About us À propos
 
-Member States Profiles Member States Profiles
+Member States Profiles États membres
 
-Global presence Global presence
+Global presence Présence mondiale
 
-Partners Partners
+Partners Partenaires
 
-What we do People we serve People we serve
+What we do People we serve
 
-Core functions Core functions
+Core functions Fonctions principales
 
-Objectives Objectives
+Objectives Objectifs
 
 Programmes Programmes
 
-Resources Legal texts Legal texts
+Resources Legal texts Textes juridiques
 
-Sites navigator Sites navigator
+Sites navigator Navigateur des Sites
 
-Multimedia Multimedia
+Multimedia Laboratoire d'idées
 
-Learning Hub Learning Hub
+Learning Hub Cours en ligne
 
 Publications Publications
 
 Documents Documents
 
-Global reports Global reports
+Global reports Rapports mondiaux
 
-Data and indicators Data and indicators
+Data and indicators Données et indicateurs
 
-News Newsroom Newsroom
+News Newsroom Espace presse
 
 Calendar Calendar
 
@@ -186,9 +185,7 @@ About About the IPDC
 Governance of the IPDC
 IPDC and UNESCO s Field Offices
 
-Projects Grassroots Call
-
-Safety of Journa
+Projects Grassroots Cal
 
 --- relevant lines ---
 Last update: 11 February 2026
@@ -216,39 +213,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us About us
+Who we are About us À propos
 
-Member States Profiles Member States Profiles
+Member States Profiles États membres
 
-Global presence Global presence
+Global presence Présence mondiale
 
-Partners Partners
+Partners Partenaires
 
-What we do People we serve People we serve
+What we do People we serve
 
-Core functions Core functions
+Core functions Fonctions principales
 
-Objectives Objectives
+Objectives Objectifs
 
 Programmes Programmes
 
-Resources Legal texts Legal texts
+Resources Legal texts Textes juridiques
 
-Sites navigator Sites navigator
+Sites navigator Navigateur des Sites
 
-Multimedia Multimedia
+Multimedia Laboratoire d'idées
 
-Learning Hub Learning Hub
+Learning Hub Cours en ligne
 
 Publications Publications
 
 Documents Documents
 
-Global reports Global reports
+Global reports Rapports mondiaux
 
-Data and indicators Data and indicators
+Data and indicators Données et indicateurs
 
-News Newsroom Newsroom
+News Newsroom Espace presse
 
 Calendar Calendar
 
@@ -276,9 +273,7 @@ About About the IPDC
 Governance of the IPDC
 IPDC and UNESCO s Field Offices
 
-Projects Grassroots Call
-
-Safety of Journa
+Projects Grassroots Cal
 
 --- relevant lines ---
 Last update: 29 October 2025
@@ -310,39 +305,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us About us
+Who we are About us À propos
 
-Member States Profiles Member States Profiles
+Member States Profiles États membres
 
-Global presence Global presence
+Global presence Présence mondiale
 
-Partners Partners
+Partners Partenaires
 
-What we do People we serve People we serve
+What we do People we serve
 
-Core functions Core functions
+Core functions Fonctions principales
 
-Objectives Objectives
+Objectives Objectifs
 
 Programmes Programmes
 
-Resources Legal texts Legal texts
+Resources Legal texts Textes juridiques
 
-Sites navigator Sites navigator
+Sites navigator Navigateur des Sites
 
-Multimedia Multimedia
+Multimedia Laboratoire d'idées
 
-Learning Hub Learning Hub
+Learning Hub Cours en ligne
 
 Publications Publications
 
 Documents Documents
 
-Global reports Global reports
+Global reports Rapports mondiaux
 
-Data and indicators Data and indicators
+Data and indicators Données et indicateurs
 
-News Newsroom Newsroom
+News Newsroom Espace presse
 
 Calendar Calendar
 
@@ -370,9 +365,7 @@ About About the IPDC
 Governance of the IPDC
 IPDC and UNESCO s Field Offices
 
-Projects Grassroots Call
-
-Safety of Journa
+Projects Grassroots Cal
 
 --- relevant lines ---
 Seed-funding local media development
@@ -395,39 +388,39 @@ English English
 UNESCO
 
 Main navigation
-Who we are About us About us
+Who we are About us À propos
 
-Member States Profiles Member States Profiles
+Member States Profiles États membres
 
-Global presence Global presence
+Global presence Présence mondiale
 
-Partners Partners
+Partners Partenaires
 
-What we do People we serve People we serve
+What we do People we serve
 
-Core functions Core functions
+Core functions Fonctions principales
 
-Objectives Objectives
+Objectives Objectifs
 
 Programmes Programmes
 
-Resources Legal texts Legal texts
+Resources Legal texts Textes juridiques
 
-Sites navigator Sites navigator
+Sites navigator Navigateur des Sites
 
-Multimedia Multimedia
+Multimedia Laboratoire d'idées
 
-Learning Hub Learning Hub
+Learning Hub Cours en ligne
 
 Publications Publications
 
 Documents Documents
 
-Global reports Global reports
+Global reports Rapports mondiaux
 
-Data and indicators Data and indicators
+Data and indicators Données et indicateurs
 
-News Newsroom Newsroom
+News Newsroom Espace presse
 
 Calendar Calendar
 
@@ -452,7 +445,7 @@ In the aftermath of COVID-19 pandemic, when traditional media struggled to susta
 25 August 2022
 Last update: 20 April 2023
 
-However, several medi
+Ho
 
 --- relevant lines ---
 The training, as part of this programme, is based on a diploma course developed by a previous UNESCO International Programme for the Development of Communication (IPDC) support grant. It is registered with the Ministry of Labour and Human Resources, Bhutan, and accredited by the Asian Institute of Journalism and Communication (AIJC).
@@ -465,7 +458,7 @@ World Arabic Language Day 2026
 18 December 2026
 16 December 2026
 9 October 2026
-6 October 2026
-6 October 2026
-5 October 2026
+9 October 2026
+9 October 2026
+9 October 2026
 Fellowships
