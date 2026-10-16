@@ -1,6 +1,6 @@
 SOURCE: Fund for Investigative Journalism
 URL: https://fij.org/apply-for-a-grant/
-FETCHED: 2026-10-15T03:59:32.398Z
+FETCHED: 2026-10-16T03:59:22.010Z
 TITLE: Apply for a Grant - The Fund for Investigative Journalism
 
 === MAIN PAGE ===
@@ -997,7 +997,7 @@ Grants FAQ
 How to Get a Grant
 In 2021, the groundbreaking nonprofit news organization FairWarning ceased operations and donated its remaining assets to the Fund for Investigative Journalism. These funds are used to support investigative reporting on the set of issues that FairWarning covered. The Fund provides grants on these issues through its regular grantmaking cycles and processes, and some of those grants are funded by FairWarning’s donation. Read more about the FairWarning donation here , and view an archive of FairWarning’s coverage here .
 Grantee report on youth justice facilities run by TN businessman triggers state investigation
-PA county overhauls grant progra…
+Sign up for email updates from T…
 
 === https://fij.org/grantees-stories/ ===
 0

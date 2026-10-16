@@ -1,18 +1,9 @@
 SOURCE: GFMD — Funding opportunities
 URL: https://gfmd.info/fundings/feed/
-FETCHED: 2026-10-15T03:59:32.855Z
+FETCHED: 2026-10-16T03:59:22.450Z
 TITLE: (feed)
 
 === FEED ITEMS ===
-Call for organizational grants
-Thu, 08 Oct 2026 11:03:30 +0000
-Eligibility: Slovenian NGO s Target Region: Slovenia Application Language: Slovenian Civil Society Fund has launched a Call for organisational grants for organisations working in the fields of democracy, the rule of law, human rights, media literacy, gender equality, and environmental protection. A total of €1,200,000 is available under this call. The main objective of the Call for organisational [ ]
-
-The post Call for organizational grants appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/call-for-organizational-grants/
-
 CALL FOR PROJECTS – Strengthening independent journalism and countering disinformation in Moldova
 Thu, 08 Oct 2026 10:35:22 +0000
 Eligibility: Outlets working with public-interest media in Moldova Target Region: Republic of Moldova Application Language: English The Call for Projects is launched within the framework of the Strengthening Democratic Media in the Black Sea Region project, implemented by CFI and funded from the French Ministry for Europe and Foreign Affairs. The Project aims to enhance the [ ]
@@ -30,24 +21,6 @@ The post the Equality Fund Global Journalism Fellowship 2026 appeared first on G
 
 ]]>
 https://gfmd.info/fundings/the-equality-fund-global-journalism-fellowship-2026/
-
-CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova
-Fri, 02 Oct 2026 13:23:13 +0000
-Eligibility: Applicants countering disinformation in Moldova Target region: Republic of Moldova Language: English Canal France International (CFI) is inviting applications for a call for projects to strengthen independent journalism and counter disinformation in the Republic of Moldova. Three selected media outlets can receive grants of up to €30,000, with an indicative total call budget of [ ]
-
-The post CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/
-
-CTRL+J Microgrants
-Fri, 25 Sep 2026 14:39:43 +0000
-Eligibility: Organisations (or freelancers connected to orgs) organising small convenings Target region: Global (Global South encouraged) Application language: English The CTRL+J Microgrants Program provides grant funding of US$1,000–US$5,000 to support small convenings aligned with CTRL+J’s thematic focus on the intersection of journalism and technology. The program is supported by Luminate, and is expected to run [ ]
-
-The post CTRL+J Microgrants appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/ctrlj-microgrants/
 
 Equality Fund Global Journalism Fellowship 2026–2027
 Fri, 25 Sep 2026 12:56:13 +0000
@@ -94,15 +67,6 @@ The post Fault Lines Reporting Fund appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/fault-lines-reporting-fund/
 
-Belgian Bridge Programme
-Fri, 21 Aug 2026 14:31:27 +0000
-Eligibility: Dutch-speaking and French-speaking journalists residing in Belgium Target Region: Belgium Application Language: Dutch, French The Belgian Bridge programme supports collaborative investigative projects led by Dutch-speaking and French-speaking journalists residing in Belgium who work together on local issues of national importance. The goal is to produce multilingual journalism that exposes how issues arise on both [ ]
-
-The post Belgian Bridge Programme appeared first on GFMD .
-
-]]>
-https://gfmd.info/fundings/belgian-bridge-programme/
-
 LMDIF Western Balkans Fund
 Fri, 03 Jul 2026 12:01:30 +0000
 Eligibility: Media located in or serving audiences in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. Target Region: Balkans Application Language: English MDIF Western Balkans Fund is a strategic initiative to foster growth and resilience in independent media in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It takes a holistic [ ]
@@ -112,61 +76,41 @@ The post LMDIF Western Balkans Fund appeared first on GFMD .
 ]]>
 https://gfmd.info/fundings/lmdif-western-balkans-fund/
 
-=== https://gfmd.info/fundings/call-for-organizational-grants/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
+Invisible Life Grant
+Fri, 19 Jun 2026 10:56:15 +0000
+Eligibility: cross-border teams of journalists/news outlets researching European animal welfare Target Region: Europe Application Language: English, Dutch, French The Invisible Life Grant supports cross-border teams of professional journalists and/or news outlets to conduct investigations into farm animal welfare and related European interests, both within and beyond Europe. The programme is open to teams investigating how [ ]
 
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
+The post Invisible Life Grant appeared first on GFMD .
 
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
+]]>
+https://gfmd.info/fundings/invisible-life-grant-round-4-2026/
 
-News
-About How to Join GFMD
-Who is Who
-Partner with us
+SA AJP Investigative Journalism Grants (Southern Africa Accountability Journalism Project)
+Fri, 19 Jun 2026 10:45:52 +0000
+Eligibility: journalists and newsrooms in select Southern African Development Community (SADC) countries Target Region: Sub-Saharan Africa (SADC region) Application Language: English The Southern Africa Accountability Journalism Project (SA AJP) provides investigative journalism grants and comprehensive editorial support to journalists and newsrooms in select Southern African Development Community (SADC) countries. The project seeks stories that expose wrongdoing, [ ]
 
-Subscribe
+The post SA|AJP Investigative Journalism Grants (Southern Africa Accountability Journalism Project) appeared first on GFMD .
 
-« Back to all Fundings Call for organizational grants
-Organisation: Civil Society Fund
+]]>
+https://gfmd.info/fundings/saajp-investigative-journalism-grants-southern-africa-accountability-journalism-project/
 
-Status: Open
-Type: Grant
+Pulitzer Center Ocean and Fisheries Reporting Grants
+Fri, 20 Feb 2026 11:56:25 +0000
+Eligibility Criteria: All freelance and staff journalists from around the world. The Center particularly welcomes applications from the Global South, and seeks more reporting from Australia, New Zealand, the Pacific, east and southern Africa, the Middle East, and North Africa. Type of Funding: Grant Region: Global Application Language: English The Pulitzer Center is offering Ocean [ ]
 
-Theme: Media support
+The post Pulitzer Center Ocean and Fisheries Reporting Grants appeared first on GFMD .
 
-Funding Size: €120,000 - €180,000
-Deadline: 15/10/2026
+]]>
+https://gfmd.info/fundings/pulitzer-center-ocean-and-fisheries-reporting-grants/
 
-Eligibility: Slovenian NGO s
-Target Region: Slovenia
-Application Language: Slovenian
-Civil Society Fund has launched a Call for organisational grants for organisations working in the fields of democracy, the rule of law, human rights, media literacy, gender equality, and environmental protection. A total of €1,200,000 is available under this call.
-The main objective of the Call for organisational grants is to strengthen organisations that are active in the priority areas of Civil Society Fund for several years by supporting the achievement of their long-term strategic goals and enhancing their organizational capacities.
-Requirements
-Applicants must submit a multi-
+Pulitzer Center Rainforest Reporting Grant
+Fri, 13 Feb 2026 12:36:01 +0000
+Eligibility Criteria: All staff and freelance journalists are eligible to apply. Type of Funding: Grant Region: Amazon, Central Africa, and Southeast Asia Application Language: English, Spanish, Portuguese, French, and bahasa Indonesia. The Pulitzer Center s Rainforest Reporting Grant provides short-term, project-based funding support to journalists who want to report on tropical rainforests. The Center invites ambitious [ ]
 
---- relevant lines ---
-year organizational work plan or strategy covering strategic objectives for both their programme activities (e.g. work with minority communities, advocacy for vulnerable groups, etc.) and organizational development (e.g. human resources management and development, fundraising, communications, etc.).
-Eligibility
-Eligible applicants are non-governmental organizations (NGOs) that, on the date of application submission, meet the criteria set out in Article 2 of the Slovenian Non-Governmental Organisations Act (Official Gazette of the Republic of Slovenia, No. 21/18), comply with the requirements specified in the Civil Society Fund Programme Agreement.
-NGOs that have been legally registered for at least 36 months before the application deadline, with an average annual income of at least €70,000 and no more than €200,000 over the last three completed financial years, and that have a multi-year organizational work plan or strategy, or NGOs that have been legally registered for at least 36 months before the application deadline, with an average annual income exceeding €200,000 over the last three completed financial years, and that have a multi-year organizational work plan or strategy.
-The annualized value of the requested grant may not exceed 50% of the applicant’s average annual turnover. Applicants with a lower average annual income must therefore choose a longer project duration (48 months). This option is recommended for all organizations with an annual budget below €100,000.
-The applicant must currently implement, or have implemented since 1 January 2020, at least five different projects within the priority areas of the Civil Society Fund Slovenia.
-How to apply
-Apply via the online form before the noted deadline. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
+The post Pulitzer Center Rainforest Reporting Grant appeared first on GFMD .
+
+]]>
+https://gfmd.info/fundings/pulitzer-center-rainforest-reporting-grant/
 
 === https://gfmd.info/fundings/call-for-projects-strengthening-independent-journalism-and-countering-disinformation-in-moldova/ ===
 Support journalism GFMD IMPACT
@@ -276,114 +220,6 @@ Have a strong affinity for Equality Fund s mission, and align with their values 
 Women, non-binary, and trans people are encouraged to apply
 How to apply
 Closing Date for applications is November 8, 2026 at midnight, Eastern Standard Time. Applications sent outside of the form will not be considered. Incomplete applications (applications not containing a sample of work, letter of motivation, and CV) will not be considered. Successful applicants will be contacted by January 15, 2027. Apply here .
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/cfps-strengthening-independent-journalism-and-countering-disinformation-in-moldova/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings CFPs: Strengthening Independent Journalism and Countering Disinformation in Moldova
-Organisation: Canal France International (CFI)
-
-Status: Open
-Type: Grant
-
-Theme: Mis- and Disinformation
-
-Funding Size: EUR 30,000
-Deadline: 17/10/2026
-
-Eligibility: Applicants countering disinformation in Moldova
-Target region: Republic of Moldova
-Language: English
-Canal France International (CFI) is inviting applications for a call for projects to strengthen independent journalism and counter disinformation in the Republic of Moldova. Three selected media outlets can receive grants of up to €30,000, with an indicative total call budget of €90,000. The application deadline is 17 October 2026 at 20:00 (UTC).
-Requirements
-Projects must relate to one or more of the following themes: Topics where disinformation is prevalent (e.g., social issues, publ
-
---- relevant lines ---
-the application will be rejected of the project solely/mainly funds individuals to participate in workshops, seminars, conferences, or congresses
-Eligibility
-Media organisations that received a grant under the previous Call for Projects implemented within the framework of this Project are not eligible to apply under this Call.
-How to apply
-The provided source excerpt includes call details, eligibility criteria, and technical support elements, but it does not include the full application procedure, the required submission documents, or the specific form/link to submit.
-To apply, follow the instructions on the official CFI opportunity page . At minimum, note the deadline: 17 October 2026 at 20:00 (UTC).
-For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-=== https://gfmd.info/fundings/ctrlj-microgrants/ ===
-Support journalism GFMD IMPACT
-Policy and Advocacy
-Briefings
-Tech and Journalism Mechanism
-Journalism Cloud Alliance
-
-Find Funding Funding Opportunities
-Fundraising Guide
-Funder Profiles
-
-GFMD community Our Members
-Engagement Opportunities
-Career Opportunities
-Events
-
-News
-About How to Join GFMD
-Who is Who
-Partner with us
-
-Subscribe
-
-« Back to all Fundings CTRL+J Microgrants
-Organisation: CTRL+J
-
-Status: Open
-Type: Grant
-
-Theme: Advocacy & Development
-
-Funding Size: US$1,000–US$5,000
-Deadline: 15/10/2026
-
-Eligibility: Organisations (or freelancers connected to orgs) organising small convenings
-Target region: Global (Global South encouraged)
-Application language: English
-The CTRL+J Microgrants Program provides grant funding of US$1,000–US$5,000 to support small convenings aligned with CTRL+J’s thematic focus on the intersection of journalism and technology.
-The program is supported by Luminate, and is expected to run continuously, subject to available budget. Further details on the program’s scope and application process are available in the FAQ section.
-Eligibility
-Organization-based applications are preferred and collaborations between multiple organizations are highly encouraged!
-
---- relevant lines ---
- If there are more than one organizations involved, there should only be one lead organization applying on behalf of the group.
-Freelancers may apply but would need a letter of support from an organization willing to host the convening. All grant funds can only be transferred to an entity, not an individual.
-Most of the CTRL+J work is centered around the Global South and serving markets operating in mid and low-resourced languages. Local and regional institutions operating in countries that are in the Global South and/or whose dominant language belongs in the “mid or low-resource language” category, are encouraged to apply.
-The CTRL+J Microgrants Program specifically covers small convenings related to advancing or continuing the work and conversation around; 1. The impact of AI on local information producers, 2. Solutions to preserve healthy information flows, 3. Innovative partnerships that reimagine the future of information
-The proposal should be short, precise and include Objective(s), proposed convening, importance, plans for insights derived from your convening and an estimate of the budget itemized
-How to apply
-Fill in the application form before the noted deadline. Apply here .
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide
@@ -652,6 +488,161 @@ A well-developed story pitch demonstrating investigative merit, originality, rea
 Grantees must publish in a U.S. outlet within one year of receiving a grant and must credit the IWMF.
 How to Apply
 Submit the application through the IWMF Submittable portal on a rolling basis; there is no fixed closing date for the current programme cycle. Larger awards are considered on a case-by-case basis. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/lmdif-western-balkans-fund/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings LMDIF Western Balkans Fund
+Organisation: Media Development Investment Fund (MDIF)
+
+Status: Open
+Type: Equity Investments
+
+Theme: Democracy and good governance
+
+Funding Size: N/A
+Deadline: Ongoing
+
+Eligibility: Media located in or serving audiences in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia.
+Target Region: Balkans
+Application Language: English
+MDIF Western Balkans Fund is a strategic initiative to foster growth and resilience in independent media in Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. It takes a holistic investment approach, utilizing a versatile strategy of loans, equity and quasi-equity supported by media business expertise. The Fund focuses investments on innovative start-ups, growth media undergoing digital transformation and protecting indepe
+
+--- relevant lines ---
+ndent media from capture. The Fund seeks to bridge the financing gap that often hinders growth, and supports the development of robust, financially and editorially independent media companies that are able to support the advancement of their societies.
+Eligibility
+The Fund catalyses capital, mobilizing financing to empower independent media enterprises in the region through no-strings-attached financing that drives growth and protects independen
+The amount MDIF invests in each company is dependent on many factors, including the stage of company development and the total round-size and location. When applying, please provide the total amount of money you are raising and how much of the round has already been raised (if any).
+MDIF s media expertise and more than two decades of working in the Western Balkans give the Fund a unique approach. MDIF s experience and networks ensure quality deal flow, and mission-screening by their Board of Directors ensures alignment with the fund’s mission objectives.
+How to apply
+You can send in your application to gro.fidm@fbw. If you have a question that isn’t answered on the website, please contact gro.fidm@fbw.
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/invisible-life-grant-round-4-2026/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings Invisible Life Grant
+Organisation: Journalismfund Europe
+
+Status: Open
+Type: Grant
+
+Theme: Environmental journalism
+
+Funding Size: €225,000 available in total
+Deadline: 29/10/2026
+
+Eligibility: cross-border teams of journalists/news outlets researching European animal welfare
+Target Region: Europe
+Application Language: English, Dutch, French
+The Invisible Life Grant supports cross-border teams of professional journalists and/or news outlets to conduct investigations into farm animal welfare and related European interests, both within and beyond Europe. The programme is open to teams investigating how European agricultural policies, trade, or regulations affect farm animal welfare, supply chains, or environmental outcomes in Europe or globally where European interests are involved.
+Eligibility
+Cross-border teams of professional jo
+
+--- relevant lines ---
+urnalists and/or news outlets investigating issues related to farm animal welfare and European interests, both within and beyond Europe, are eligible to apply.
+A detailed budget using Journalismfund Europe s budget template
+How to Apply
+Register with an email address on the Journalismfund Europe grants platform, then complete and submit the online application form before 29 October 2026 at 1 pm CET (Brussels time). One team member may start a draft and invite others to collaborate; the draft can be saved and edited at any time before submission. Apply here .
+For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+=== https://gfmd.info/fundings/saajp-investigative-journalism-grants-southern-africa-accountability-journalism-project/ ===
+Support journalism GFMD IMPACT
+Policy and Advocacy
+Briefings
+Tech and Journalism Mechanism
+Journalism Cloud Alliance
+
+Find Funding Funding Opportunities
+Fundraising Guide
+Funder Profiles
+
+GFMD community Our Members
+Engagement Opportunities
+Career Opportunities
+Events
+
+News
+About How to Join GFMD
+Who is Who
+Partner with us
+
+Subscribe
+
+« Back to all Fundings SA|AJP Investigative Journalism Grants (Southern Africa Accountability Journalism Project)
+Organisation: Henry Nxumalo Foundation
+
+Status: Open
+Type: Grant
+
+Theme: Investigative journalism
+
+Funding Size: $1,500 - $3,000
+Deadline: Ongoing
+
+Eligibility: journalists and newsrooms in select Southern African Development Community (SADC) countries
+Target Region: Sub-Saharan Africa (SADC region)
+Application Language: English
+The Southern Africa Accountability Journalism Project (SA|AJP) provides investigative journalism grants and comprehensive editorial support to journalists and newsrooms in select Southern African Development Community (SADC) countries. The project seeks stories that expose wrongdoing, abuses of power, or failures of accountability in the region. In addition to grant funding, each selected journalist is assigned a de
+
+--- relevant lines ---
+Eligibility
+Journalist grants: open to freelance journalists based in South Africa, eSwatini, Lesotho, Botswana, Namibia, Zimbabwe, or Mozambique.
+Newsroom grants: open to editors or staff reporters representing established newsrooms in the same countries.
+Permanently employed journalists should seek approval from their line managers before submitting pitches.
+A budget showing how the journalist intends to spend the grant
+How to Apply
+Email the final pitch, budget, and supporting documents to the project s editorial coordinator at daneel@viewfinder.org.za. Draft pitches and queries can be sent for feedback before the deadline. Pitches are adjudicated on a rolling basis as they are received.
 For the latest funding opportunities, profiles of media donors, and expert insight from GFMD’s MediaDev Fundraising Guide sign up for Bottom Line newsletter
 Find Funding Funding Opportunities
 Fundraising Guide

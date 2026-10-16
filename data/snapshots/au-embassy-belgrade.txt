@@ -1,6 +1,6 @@
 SOURCE: Australian Direct Aid Program (all missions)
 URL: https://dap.smartygrants.com.au/
-FETCHED: 2026-10-13T03:48:22.586Z
+FETCHED: 2026-10-16T03:59:25.001Z
 TITLE: Home Page -
 Direct Aid Program
 
@@ -43,10 +43,8 @@ A list of Australian missions overseas which have receive
 
 --- relevant lines ---
 Please contact the Australian mission overseas that administers DAP in the country you are applying for. For Australian mission contact details see http://dfat.gov.au/about-us/our-locations/missions/Pages/our-embassies-and-consulates-overseas.aspx
-Submissions close midnight (end of day) 13 October 2026 (WEST).
 Kuala Lumpur - Direct Aid Program (DAP) Round 2026-2027
-Submissions for the Kuala Lumpur - Direct Aid Program (DAP) Round 2026-2027 will open at 7:00am 15 October 2026 (WIB).
-Submissions close 5:00pm 16 November 2026 (WIB).
+Submissions close midnight (end of day) 15 November 2026 (AWST).
 Find out more about Kuala Lumpur - Direct Aid Program (DAP) Round 2026-2027...
 Madrid Direct Aid Program 2026-27
 Submissions close 4:00pm 27 October 2026 (CET).
