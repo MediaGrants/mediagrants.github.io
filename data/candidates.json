@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-15T04:20:18.875Z",
+  "generatedAt": "2026-10-16T04:25:44.342Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -1467,6 +1467,18 @@
       ],
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "WeBalkans",
+      "url": "https://webalkans.eu/",
+      "why": "EU-funded Western Balkans enlargement news portal that reposts EU Delegation and donor calls for proposals (civil society, media-adjacent) across the region; not currently tracked as an aggregator.",
+      "seenAt": [
+        "eu-delegation-serbia"
+      ],
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
       "timesSeen": 1,
       "status": "new"
     }
