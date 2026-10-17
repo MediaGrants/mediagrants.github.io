@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-16T04:25:44.342Z",
+  "generatedAt": "2026-10-17T04:18:29.997Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -385,11 +385,12 @@
       "url": "https://jhr.ca/",
       "why": "Canadian media-development NGO training journalists in 23 countries to report on human rights, democratic reform and climate, with small reporting grants available to journalists who complete its training.",
       "seenAt": [
-        "weekly-discovery"
+        "weekly-discovery",
+        "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-17",
+      "timesSeen": 2,
       "status": "new",
       "evidence": "opportunitiesforyouth.org write-up of the 2026 JHR Program (training plus small reporting grants, deadline 10 Aug 2026), confirmed against jhr.ca. Read September 2026."
     },
@@ -809,8 +810,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 7,
+      "lastSeen": "2026-10-17",
+      "timesSeen": 8,
       "status": "new"
     },
     {
