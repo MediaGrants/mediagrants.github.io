@@ -1,6 +1,6 @@
 SOURCE: Craig Newmark Philanthropies
 URL: https://craignewmarkphilanthropies.org/
-FETCHED: 2026-10-03T03:53:27.280Z
+FETCHED: 2026-10-17T03:57:26.655Z
 TITLE: Home
 
 === MAIN PAGE ===
