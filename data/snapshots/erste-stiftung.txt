@@ -1,6 +1,6 @@
 SOURCE: ERSTE Foundation
 URL: https://www.erstestiftung.org/en/
-FETCHED: 2026-10-03T03:53:29.382Z
+FETCHED: 2026-10-18T08:14:07.415Z
 TITLE: Homepage - ERSTE Foundation
 
 === MAIN PAGE ===
@@ -53,18 +53,18 @@ EN
 
 Events
 
-#Social & Digital Innovation
+#Culture
 
-13 October 2026
-online
+24 September – 18 December 2026
+Bratislava
 
-Young Carers in Austria
+Space for the 99%: Contemporary Slovak and Czech Spatial Practices
 
 Journal
 
 #Foundation
 
-Seven Takeaways from Alpbach 2026 for a Flourishing Europe
+Andreas Treichl In Memory of Boris
 
 Foundation
 
@@ -110,7 +110,7 @@ Portfolio
 
 #Financial Education
 
-The bank for those with hop
+The bank
 
 === https://www.erstestiftung.org/en/projects/facing-the-future-fellowship/ ===
 Close

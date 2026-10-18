@@ -1,6 +1,6 @@
 SOURCE: Reuters Institute — Journalist Fellowships
 URL: https://reutersinstitute.politics.ox.ac.uk/journalist-fellowship-programme
-FETCHED: 2026-09-18T13:51:38.370Z
+FETCHED: 2026-10-18T08:14:09.602Z
 TITLE: Our Journalist Fellowship Programme | Reuters Institute for the Study of Journalism
 
 === MAIN PAGE ===

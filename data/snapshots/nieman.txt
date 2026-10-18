@@ -1,6 +1,6 @@
 SOURCE: Nieman Foundation
 URL: https://nieman.harvard.edu/fellowships/
-FETCHED: 2026-09-18T13:51:25.503Z
+FETCHED: 2026-10-18T08:14:07.650Z
 TITLE: Fellowships - Nieman Foundation
 
 === MAIN PAGE ===
@@ -149,7 +149,7 @@ FAQ
 Stipend & Allowances
 
 Curious about the Nieman Fellowship?
-Watch a recently recorded Q&A session with current Nieman Fellows to learn what it’s like to spend a year studying at Harvard University. Learn more.
+Join one of our upcoming Q&A sessions to learn more about the fellowship experience.
 
 Application Requirements
 
@@ -161,17 +161,18 @@ Application deadlines:
 
 International Nieman Fellowship (non-U.S. citizens, including those working in the U.S.): December 1
 
-U.S. Nieman Fe
+U.S. Nieman Fellowship (U.S. citizens, including those working outside the U.S.
 
 --- relevant lines ---
-llowship (U.S. citizens, including those working outside the U.S.): January 31
+): January 31
 Candidates who are citizens of both the U.S. and another country should e-mail nieman_applications@harvard.edu for guidance on which category is the most appropriate.
 If you’re a national of a country where the U.S. has suspended issuance of nonimmigrant visas (specifically J visas), we recommend that you wait to apply for a fellowship until these restrictions are lifted. However, if an individual holds citizenship and a passport from an additional country that doesn’t have that visa restriction, then the candidate may submit an application for a 2027-28 International Nieman Fellowship.
 All fellowship candidates must submit two essays: a personal statement and a proposal for study at Harvard. These essays are equally important parts of the application and selection committee members review them carefully. When writing, include examples from your life and work that show you have a significant capacity for growth and leadership. We also want to know how a year at Harvard will help make you a better journalist. Please observe word limits.
 The personal statement is an essay of up to 1,000 words that describes your journalistic experience, career plans, and goals. What experiences in life and in journalism have shaped you? What motivates your commitment to journalistic excellence? What are your aspirations for your life ahead in journalism? Why have you chosen this time for a transformative experience away from work? What personal and journalistic values and intellectual interests have influenced your decision to apply?
 Proposal for study at Harvard
 The study proposal is an essay of up to 500 words that describes how you plan to spend a year at Harvard. What will you study during the fellowship year? What is the driving question or interest that will shape your year? It is not necessary to specify course titles, but please identify the resources at Harvard that will serve your goals in journalism. Note that because a Nieman Fellowship is not a writing residency, book proposals are ineligible.
-Candidates applying for a Nieman-Berkman Fellowship for Journalism Innovation should explain how their proposed projects or course of research could have an impact on the broader world of journalism…
+Candidates applying for a Nieman-Berkman Fellowship for Journalism Innovation should explain how their proposed projects or course of research could have an impact on the broader world of journalism.
+All candidates must submit a brief professional profile and a s…
 
 === https://nieman.harvard.edu/fellowships/faq/ ===
 Skip to content

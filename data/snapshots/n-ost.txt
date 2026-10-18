@@ -1,0 +1,705 @@
+SOURCE: n-ost
+URL: https://www.n-ost.org/
+FETCHED: 2026-10-18T08:14:11.445Z
+TITLE: Home | n-ost
+
+=== MAIN PAGE ===
+mainNavigation#hidenavbutton trigger-shownavbutton@window->mainNavigation#shownavbutton">
+
+mainNavigation#showSearch">
+
+mainNavigation#closeSearch">
+
+mainNavigation#toggleMenu" data-mainNavigation-target="toggler">
+Menü
+
+About n-ost
+
+Who we are & How we work
+
+Our mission, our history, our supporters
+
+Connect with our network
+
+Find experts, fellow journalists and media organisations to collaborate with
+
+Contact
+
+Team & Board
+
+Jobs
+
+Donate!
+
+Follow us online:
+
+Focus Areas
+
+Networking Journalism
+
+European Public Spheres
+
+Journalism in Ukraine
+
+Climate Journalism
+
+Feminism & LGBTIQ+
+
+Foreign Reporting
+
+Investigative Journalism
+
+Documentary Photography
+
+(Dis)Information
+
+Exile & Decolonisation
+
+All Projects
+
+Locations
+
+Ukraine
+
+Georgia
+
+Belarus
+
+Central Asia
+
+All Locations
+
+Jobs
+
+Help center
+
+Team & Board
+
+Follow us online:
+
+mainNavigation#toggleMenu">
+
+Your help is needed! Please donate to support journalist Tuğba Tekerek
+Read more
+
+Focus Area
+
+Networking Journalism
+
+Amid growing political and economic pressures, journalists face multiple obstacles in showing us a complex world. Our media conferences, research trips and events provide spaces where we connect, share insights, and suppor
+
+--- relevant lines ---
+Started in 2026, ongoing
+Aug 27
+Call for Tenders: Develop Digital Map within the Project “Communicating Climate: A Network of Journalists and Experts to Promote Climate Action in Central Asia”
+Call for Applications: Life Under Occupation 2.0
+Call for Tenders: Final Evaluation of “Fight for Facts!”
+PULSE 2026: New Formats & Open Calls Now Live!
+Apply Now for the "Reporting Resilient Cities" Project!
+Apply for the "EU Reporting Beyond Slogans" Project
+Apply now: Climate Journalism Conference in Astana
+Research Award Eastern Europe - Deadline extended
+Open call: SPOTLIGHTING – Turning the Lens on Journalism – deadline extended
+Call for Tenders: Evaluation of a project Communicating Climate in Central Asia
+Call for Tenders: Feasibility Study on Strengthening Independent Media in Ukraine, Moldova, Georgia, and Armenia
+Unit Network Meeting 2025 - Call for Applications
+Apply for History Unit stipend to create queer history content
+Pride funding in flux | History Unit newsletter 06 25
+Apply to the “Life Under Occupation” Project
+Call for EaP and EU Journalists to Join Climate Journalism Workshop in Chisinau!
+Call for Tenders: Project Evaluation for "The Europe-Ukraine Desk"
+The Time for Queer Commemoration - News from History Unit, Feb 25
+Earth Journalism Network features Spheres of Influence Uncovered story on best stories of 2024 list
+Europe-Ukraine Desk supported grants
+Call for EU Journalists to Join 2025 Study Visit to Kyiv
+Apply now: Funded Participation at COP29 for Central Asian Journalists
+Grants for journalistic work about Ukraine
+Apply now: Climate Journalism Conference in Tbilisi
+goEast – Festival of Central and Eastern European Film 2024
+Call for proposals: Conference on Climate Journalism in Eastern Europe and Caucasus, Tbilisi 27-29 August
+Apply now: grants for publication projects on climate change, health, or the information society
+Call for Ukrainian journalists to join EUD Fellowship 2024 (closed)
+Fight For Facts! Call for applications
+Call for journalists for the EUD Fellowship 2024 (closed)
+Next Station Ukraine Berlin 2022
+Support the crowdfunding for independent Ukrainian radio Hromadske
+Call for Application: Competing Narratives
+EUD Fellowship 2023: Call for journalists from Ukraine (closed)
+EUD Fellowship 2023: Call for EU journalists (closed)
+Aug 27
+Jul 8
+Jun 3
+Apr 22
+Apr 21
+Mar 18
+Mar 6
+Jan 14
+Dec 12 2025
+Dec 10 2025
+Nov 19 2025
+Nov 12 2025
+Oct 15 2025
+Oct 8 2025
+Jul 23 2025
+Jun 11 2025
+May 22 2025
+May 21 2025
+Apr 9 2025
+n-ost at Café Kyiv 2025
+Mar 11 2025
+Queer Displacement, Then and Now: Open Call for Journalistic Workshop by History Unit
+Apr 22–28 2025
+Mar 12
+Nov 19–22 2024
+Apr 15–18 2025
+Feb 12 2025
+Jan 15 2025
+Dec 16–18 2024
+Dec 11
+Dec 12 2024
+Nov 13 2024
+Oct 16
+Oct 18
+Nov 12–15 2024
+Open call: "Reporting Change" Research Trip to Georgia October 2024
+Oct 7
+Sep 11–14 2024
+Sep 4
+Oct 14–20 2024
+Sep 13–14 2024
+Jun 9–16 2024
+Jun 3
+May 28
+May 31
+May 27
+Apr 29 2024
+Nov 7–12 2023
+Apr 10 2024
+Feb 16
+Feb 13
+Dec 14 2023
+Dec 7 2023
+Dec 12
+Dec 6
+Nov 30
+Nov 29
+Nov 15
+Nov 10
+Nov 3
+Nov 1
+n-ost hosted the first Central Asian conference on climate journalism (26-27 November 2020)
+Nov 26–27 2020
+Sep 7 2023
+Aug 3 2023
+Jul 20
+Next Station: Ukraine – n-ost Billboard exhibition in Berlin subway opens
+Jul 2–6 2023
+May 1
+May 12 2023
+Media conference 2016: On the Tightrope
+Sep 29 – Oct 2 2016
+Media conference 2015: Translating Worlds
+Nov 19–21 2015
+Started in 2025, ongoing
+Started in 2025, ongoing
+Call for Tenders: Final Evaluation of “Fight for Facts!”
+Dec 12 2025
+Started in 2025, ongoing
+Started in 2024, ongoing
+Call for Tenders: Develop Digital Map within the Project “Communicating Climate: A Network of Journalists and Experts to Promote Climate Action in Central Asia”
+Apply Now for the "Reporting Resilient Cities" Project!
+Started in 2024, ongoing
+Started in 2021, ongoing
+PULSE 2026: New Formats & Open Calls Now Live!
+Published on Sep 23, 2026
+Published on Sep 23, 2026
+Published on Sep 23, 2026
+Published on Sep 23, 2026
+Published on Sep 23, 2026
+Published on Sep 23, 2026
+Published on May 13, 2026
+Published on Apr 9, 2026
+Published on Apr 2, 2026
+Published on Mar 9, 2026
+Published on Mar 4, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Місто Чортків на Тернопільщині має амбітну мету: до 2050 року повністю перейти на відновлювальну енергетику. В рамках проекту "Сонячний Чортків" комунальні підприємства переводять на чи…
+
+=== https://n-ost.org/about-nost ===
+mainNavigation#hidenavbutton trigger-shownavbutton@window->mainNavigation#shownavbutton">
+
+mainNavigation#showSearch">
+
+mainNavigation#closeSearch">
+
+mainNavigation#toggleMenu" data-mainNavigation-target="toggler">
+Menü
+
+About n-ost
+
+Who we are & How we work
+
+Our mission, our history, our supporters
+
+Connect with our network
+
+Find experts, fellow journalists and media organisations to collaborate with
+
+Contact
+
+Team & Board
+
+Jobs
+
+Donate!
+
+Follow us online:
+
+Focus Areas
+
+Networking Journalism
+
+European Public Spheres
+
+Journalism in Ukraine
+
+Climate Journalism
+
+Feminism & LGBTIQ+
+
+Foreign Reporting
+
+Investigative Journalism
+
+Documentary Photography
+
+(Dis)Information
+
+Exile & Decolonisation
+
+All Projects
+
+Locations
+
+Ukraine
+
+Georgia
+
+Belarus
+
+Central Asia
+
+All Locations
+
+Jobs
+
+Help center
+
+Team & Board
+
+Follow us online:
+
+mainNavigation#toggleMenu">
+
+About n-ost
+
+Who we are & How we work
+
+The journalism we do depends on people that bring it to life, on resources from our donors and clients, and on clarity about why we do it and how. Get to know us!
+
+Journalistic Network & Media NGO
+
+n-ost was founded in 2006 as a network of correspondents strengthening the reporting on Europe's East 
+
+--- relevant lines ---
+Hear first about jobs, new projects, calls, and funding
+Program and Fundraising Manager, n-ost
+Program & Fundraising Manager, n-ost
+Program and Fundraising Manager, n-ost
+Program & Fundraising Manager, n-ost
+The BMZ provides development assistance to a total of 65 countries.This assistance also includes funding for media development.
+The mission of the EVZ Foundation is to keep the memory of National Socialist persecution alive and to work for human rights and international understanding. It was founded in 2000 by the German industry and the federal government to make compensation payments to the millions of forced laborers who suffered from the German Nazi regime.
+Deutsche Postcode Lotterie is a licensed social charity lottery in Germany where players win prizes together with their neighbors while raising funds for local green and social projects. It actively supports initiatives like the Media Forward Fund to back public-interest journalism and social cohesion.
+Visegrad Fund
+The International Visegrad Fund supports regional cooperation between civil society organizations to advance their relations, exchange and share ideas and promote mutual understanding. When promoting European values in Central Europe, we work together towards a better-connected future.
+The Robert Bosch Stiftung is active in the areas of health, education, and global issues. Through its funding, it works for a just and sustainable future. The Foundation is rooted in the legacy of the entrepreneur and founder Robert Bosch.
+JX Fund
+The JX Fund supports media and journalists who have fled war and crisis regions, providing them opportunities to quickly and with flexibility continue their work in exile.
+search#showSearch trigger-closeSearch@window->search#closeSearch">
+
+=== https://n-ost.org/focus-areas/supporting-journalism-in-ukraine-2 ===
+mainNavigation#hidenavbutton trigger-shownavbutton@window->mainNavigation#shownavbutton">
+
+mainNavigation#showSearch">
+
+mainNavigation#closeSearch">
+
+mainNavigation#toggleMenu" data-mainNavigation-target="toggler">
+Menü
+
+About n-ost
+
+Who we are & How we work
+
+Our mission, our history, our supporters
+
+Connect with our network
+
+Find experts, fellow journalists and media organisations to collaborate with
+
+Contact
+
+Team & Board
+
+Jobs
+
+Donate!
+
+Follow us online:
+
+Focus Areas
+
+Networking Journalism
+
+European Public Spheres
+
+Journalism in Ukraine
+
+Climate Journalism
+
+Feminism & LGBTIQ+
+
+Foreign Reporting
+
+Investigative Journalism
+
+Documentary Photography
+
+(Dis)Information
+
+Exile & Decolonisation
+
+All Projects
+
+Locations
+
+Ukraine
+
+Georgia
+
+Belarus
+
+Central Asia
+
+All Locations
+
+Jobs
+
+Help center
+
+Team & Board
+
+Follow us online:
+
+mainNavigation#toggleMenu">
+
+Focus Area
+
+Journalism in Ukraine
+
+Since the beginning of the Russian full-scale invasion, we have been committed to supporting journalists reporting from Ukraine, who operate under immense pressure. These professionals deliver insights about Ukraine’s resistance to Russian military aggression, while adapting to extraordinary working con
+
+--- relevant lines ---
+Call for Tenders: Final Evaluation of “Fight for Facts!”
+Dec 12 2025
+Started in 2025, ongoing
+Apply to the “Life Under Occupation” Project
+Call for EU Journalists to Join 2025 Study Visit to Kyiv
+Grants for journalistic work about Ukraine
+Call for Ukrainian journalists to join EUD Fellowship 2024 (closed)
+Fight For Facts! Call for applications
+Call for journalists for the EUD Fellowship 2024 (closed)
+EUD Fellowship 2023: Call for journalists from Ukraine (closed)
+EUD Fellowship 2023: Call for EU journalists (closed)
+Dec 10 2025
+Nov 12 2025
+Oct 16
+Nov 12–15 2024
+Sep 4
+Sep 13–14 2024
+May 28
+May 31
+Apr 29 2024
+Apr 10 2024
+Feb 16
+Feb 13
+Dec 14 2023
+Sep 7 2023
+Aug 3 2023
+May 1
+May 12 2023
+Started in 2025, ongoing
+Started in 2025, ongoing
+Started in 2023, ongoing
+Started in 2023, ongoing
+Started in 2022, ongoing
+Started in 2022, ongoing
+2022-2023
+2015-2020
+2022
+2024
+Published on Mar 9, 2026
+Published on Mar 4, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Published on Feb 12, 2026
+Місто Чортків на Тернопільщині має амбітну мету: до 2050 року повністю перейти на відновлювальну енергетику. В рамках проекту "Сонячний Чортків" комунальні підприємства переводять на чисту енергію: економія для бюджету вже складає більше 110 тисяч євро щороку.
+Published on Feb 12, 2026
+Ще у 2007 році в Україні існував великий попит на соняшникове лушпиння? Уже тоді працювали виробництва, які скуповували у фермерів соняшникові відходи, а потім переробляли їх на пелети. А ці пелети продавали за кордон. Бо таке біопаливо не тільки екологічно безпечне, а й економічно вигідне. А уже зараз і українські підприємства все інтенсивніше переходять на використання зеленої енергії.
+Published on Nov 17, 2025
+Published on Nov 17, 2025
+Published on Nov 17, 2025
+Published on Nov 17, 2025
+Published on Nov 17, 2025
+Published on Oct 27, 2025
+У 2025 році у Кобеляцькій громаді шквальний вітер та інтенсивна злива знищили посіви на десятках полі…
+
+=== https://n-ost.org/news/call-for-tenders-develop-digital-map-within-the-project-communicating-climate-a-network-of-journalists-and-experts-to-promote-climate-action-in-central-asia ===
+mainNavigation#hidenavbutton trigger-shownavbutton@window->mainNavigation#shownavbutton">
+
+mainNavigation#showSearch">
+
+mainNavigation#closeSearch">
+
+mainNavigation#toggleMenu" data-mainNavigation-target="toggler">
+Menü
+
+About n-ost
+
+Who we are & How we work
+
+Our mission, our history, our supporters
+
+Connect with our network
+
+Find experts, fellow journalists and media organisations to collaborate with
+
+Contact
+
+Team & Board
+
+Jobs
+
+Donate!
+
+Follow us online:
+
+Focus Areas
+
+Networking Journalism
+
+European Public Spheres
+
+Journalism in Ukraine
+
+Climate Journalism
+
+Feminism & LGBTIQ+
+
+Foreign Reporting
+
+Investigative Journalism
+
+Documentary Photography
+
+(Dis)Information
+
+Exile & Decolonisation
+
+All Projects
+
+Locations
+
+Ukraine
+
+Georgia
+
+Belarus
+
+Central Asia
+
+All Locations
+
+Jobs
+
+Help center
+
+Team & Board
+
+Follow us online:
+
+mainNavigation#toggleMenu">
+
+News
+
+Call for Tenders: Develop Digital Map within the Project “Communicating Climate: A Network of Journalists and Experts to Promote Climate Action in Central Asia”
+
+Published on Oct 5, 2026
+
+n-ost is pleased to announce the opening of a call for services to support the development of a digital map within the framework of the project “
+
+--- relevant lines ---
+In order to apply, please, send your offer (including price per day and short description of how you plan to implement both tasks) and CV to Iryna Ponedelnik, Project manager, ponedelnik[at] n-ost.org till 12th October, 2026 (including).
+The contract planned to be signed before 1st November, 2026
+The BMZ provides development assistance to a total of 65 countries.This assistance also includes funding for media development.
+Started in 2025, ongoing
+Started in 2024, ongoing
+Started in 2024, ongoing
+Started in 2022, ongoing
+2026-2027
+2025
+2024
+2022-2023
+2022-2023
+2020-2021
+2022
+search#showSearch trigger-closeSearch@window->search#closeSearch">
+
+=== https://n-ost.org/news/call-for-applications-life-under-occupation-2-0 ===
+mainNavigation#hidenavbutton trigger-shownavbutton@window->mainNavigation#shownavbutton">
+
+mainNavigation#showSearch">
+
+mainNavigation#closeSearch">
+
+mainNavigation#toggleMenu" data-mainNavigation-target="toggler">
+Menü
+
+About n-ost
+
+Who we are & How we work
+
+Our mission, our history, our supporters
+
+Connect with our network
+
+Find experts, fellow journalists and media organisations to collaborate with
+
+Contact
+
+Team & Board
+
+Jobs
+
+Donate!
+
+Follow us online:
+
+Focus Areas
+
+Networking Journalism
+
+European Public Spheres
+
+Journalism in Ukraine
+
+Climate Journalism
+
+Feminism & LGBTIQ+
+
+Foreign Reporting
+
+Investigative Journalism
+
+Documentary Photography
+
+(Dis)Information
+
+Exile & Decolonisation
+
+All Projects
+
+Locations
+
+Ukraine
+
+Georgia
+
+Belarus
+
+Central Asia
+
+All Locations
+
+Jobs
+
+Help center
+
+Team & Board
+
+Follow us online:
+
+mainNavigation#toggleMenu">
+
+News
+
+Call for Applications: Life Under Occupation 2.0
+
+Published on Sep 8, 2026
+
+n-ost is looking for journalists from Ukraine, Germany, the Czech Republic, Bulgaria and Moldova to take part in Life Under Occupation 2.0, a cross-border journalism programme dedicated to reporting on the realities of Russian occupation. Selected participa
+
+--- relevant lines ---
+nts will join online workshops, form reporting teams and receive support for joint publications. Apply by 20 September 2026.
+More than four years into Russia's full-scale invasion, and more than a decade since Russia began occupying parts of Ukraine in 2014, the destruction continues. Russian attacks damage homes, power plants, heating systems, transport infrastructure and cultural landmarks. In territories that have lived under Russian occupation for years, the consequences reach deep into everyday life: access to Ukrainian education and independent information remains restricted, families are displaced, property is seized, and people face pressure to accept Russian documents and institutions.
+Following the first edition of Life Under Occupation in 2025, n-ost is launching a second edition of the cross-border journalism programme with support from the Friedrich Naumann Foundation. Together with its Ukrainian partner, the Public Interest Journalism Lab (PIJL), n-ost will bring together eight journalists from Ukraine, Germany, the Czech Republic, Bulgaria and Moldova.
+The programme will begin in October 2026 with four online workshops. Their provisional themes will broadly cover the nature and everyday realities of occupation, trauma-sensitive reporting, security and safety, and reporting on Crimea .
+Who can apply?
+How to apply
+Please submit your application using this form.
+The deadline for applications is 20 September 2026 at 23:59 CEST .
+Applicants will be informed of the selection results by 30 September 2026. The online workshops and networking meetings will take place in October 2026. Participants will be expected to complete and publish their projects by the end of March 2027.
+If you have any questions about the programme or the application process, please contact Oksana Mamchenkova at mamchenkova@n-ost.org.
+Apply via this link
+Application form
+Started in 2025, ongoing
+Started in 2025, ongoing
+Started in 2023, ongoing
+Started in 2023, ongoing
+Started in 2022, ongoing
+Started in 2022, ongoing
+2022-2023
+2015-2020
+2022
+2024
+search#showSearch trigger-closeSearch@window->search#closeSearch">

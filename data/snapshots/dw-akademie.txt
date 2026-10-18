@@ -1,6 +1,6 @@
 SOURCE: DW Akademie
 URL: https://www.dw.com/en/dw-akademie/s-9519
-FETCHED: 2026-10-03T03:53:29.784Z
+FETCHED: 2026-10-18T08:14:07.525Z
 TITLE: DW Akademie s Homepage
 
 === MAIN PAGE ===
@@ -50,17 +50,18 @@ Russian Русский
 Arabic العربية
 
 Home
-Big Tech, media and policymakers have a lot to talk about
-Policymakers, media and tech companies rarely sit at the same table. But if they do, common ground is possible.
+Navigating the West Bank s roads and news
+In Jenin, Ahmad Frehat bases his daily decisions on safe navigation - both while driving, and in responding to the news
 
 Skip next section Updates Updates
-Under fire, Ukraine s Suspilne charts an AI future
-Dmytro Khilchenko on how the broadcaster became an AI pioneer in Europe — and why they won’t let AI publish anything.
+DW Traineeship 2028-2029: Applications open
+The application phase for the 2028-2029 DW traineeship has started.
 
-Climate disinformation: From denial to delay
-Climate change denial has become rare; climate disinformation now aims to stall action. How media can push back.
+How could AI be regulated to protect journalism?
+A guide to AI governance, digital sovereignty and fair compensation.
 
-What do MFJI students take back to thei
+Reporting responsibly on trafficking for forced scamming
+DW Akademie trains reporters to cover online fraud and migrants in South-East Asia who 
 
 --- relevant lines ---
 Conference: Media Innovation Forum 2026 in Montenegro
@@ -116,18 +117,75 @@ Opportunities and Tenders
 DW Akademie s current opportunities and invitations for tenders.
 
 Skip next section Updates Updates
-Bhutan: Lead external evaluator and co-evaluator
-DW Akademie is seeking a lead evaluator for the independent final evaluation of an EU-funded project in Bhutan.
+Consultancy: constructive dialogue to strengthen local journalism
+DW Akademie seeks a consultant to design and implement dialogue formats with audiences in Guatemala City.
 
-Bhutan: Lead and co-trainer on media literacy
-We re seeking experienced trainers for conducting Train-the Trainer workshop with a focus on media literacy in Bhutan.
+Strategic consulting for Suspilne s production and tech departments
+External consultation services for Ukraine s public broadcaster s production and technology departments.
 
-Uganda: social media strategy consultant for partner radios
-We re seeking a qualified consultant to support Ugandan partner 
+DW Traineeship 2028-2029: Applications open
+The application phase for the 2028-2029 DW traineeship has st
 
 --- relevant lines ---
-Namibia: Reporting grants for journalists and researchers
-Grants for environmental reporting and environmental journalism research.
+© 2026 Deutsche Welle
+
+=== https://akademie.dw.com/en/reporting-responsibly-on-trafficking-for-forced-scamming/a-79565023 ===
+Skip to content
+Skip to search
+Skip to main menu
+Skip to more DW sites
+
+ABOUT DW AKADEMIE
+Profile
+Publications
+Opportunities and Tenders
+Contact
+
+REGIONS
+Africa
+Asia
+Europe/Central Asia
+Latin America
+Middle East/North Africa
+
+TOPICS
+Innovation for Dialogue
+Media and Information Literacy
+Media and Journalism Education
+Media Safety
+Media Viability
+
+EDUCATION AND TRAININGS
+Master s Degrees
+Traineeship
+Media Training
+Communication Consultancy
+
+DW Offers
+Learn German
+DW.com
+Latest Videos
+About DW
+
+Choose language
+EN | English English English
+German Deutsch
+Spanish Español
+French Français
+Russian Русский
+Arabic العربية
+
+Reporting responsibly on trafficking for forced scamming
+Elizabeth Zach
+October 6, 2026
+How to cover a "wicked problem": Helping media cover online fraud and migrants in South-East Asia who have been forced into slavery. DW Akademie trains reporters to cover the topic safely and with nuance.
+Image: Philip Dulian/dpa/picture alliance In this interview, Cynthia Veliko, acting Regional Director at the UN Human Rights Regional Office for Asia and the Pacific , and Andrea Marshall, DW Akademie’s Director of the Displacement and Dialogue Asia Program, explain scam trafficking i
+
+--- relevant lines ---
+n Asia, why migrants and refugees are particularly affected and what media can do to raise awareness.
+Meanwhile, the perpetrators generate staggering profits, estimated at around $64 billion every year.
+Andrea, your team focuses on migrants and refugees. What makes these groups particularly vulnerable to recruitment by criminal operations?
+The “Navigating Narratives on Migration and Scam Trafficking” workshop, led by Iqbal Fatkhi, is taking place October 6-8 in Bangkok, Thailand. The training is part of DW Akademie’s “Displacement and Dialogue Asia” program, funded by the German Federal Ministry for Economic Cooperation and Development (BMZ).
 © 2026 Deutsche Welle
 
 === https://akademie.dw.com/en/space-for-freedom-voices-from-exile/s-63925874 ===

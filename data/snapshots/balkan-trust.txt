@@ -1,6 +1,6 @@
 SOURCE: Balkan Trust for Democracy (GMF)
 URL: https://www.gmfus.org/
-FETCHED: 2026-10-03T03:53:25.259Z
+FETCHED: 2026-10-18T08:14:05.613Z
 TITLE: German Marshall Fund of the United States
 
 === MAIN PAGE ===
@@ -114,26 +114,27 @@ Donate
 
 Search
 
-October 2, 2026
+October 15, 2026
 
-How to Politicize a Military
+Is China Testing the Limits of a More Permissive Strategic Environment?
 
-Lessons from Poland demonstrate that political purges and promotions undermine military effectiveness.
+Gray-Zone Pressure Rises Across the First Island Chain
 
 By
-Carrie A. Lee
+Bonnie S. Glaser
 
 Learn more
 
-South a
+Germany
+
 
 --- relevant lines ---
-September 30, 2026
-September 28, 2026
-September 22, 2026
-October 02, 2026
-September 30, 2026
-September 30, 2026
+October 09, 2026
+October 05, 2026
+October 05, 2026
+October 15, 2026
+October 13, 2026
+October 09, 2026
 EIN: 52-0954751 - All Rights Reserved. German Marshall Fund 2026.
 
 === https://www.gmfus.org/programs-grants/geostrategy ===
