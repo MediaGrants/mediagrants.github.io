@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-17T04:18:29.997Z",
+  "generatedAt": "2026-10-18T04:21:26.821Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -251,8 +251,8 @@
         "osf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 6,
+      "lastSeen": "2026-10-18",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -349,8 +349,8 @@
         "unesco-ipdc"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-15",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-18",
+      "timesSeen": 5,
       "status": "new",
       "evidence": "ifpim.org and gfmd.info funding archive; IFJ (ifj.org) press release, 1 Aug 2026, on the IFPIM-funded $1m Palestine media fund it distributes through the Palestinian Journalists Syndicate. Read September 2026."
     },
@@ -1480,6 +1480,30 @@
       ],
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU Anti-Corruption Initiative in Ukraine (EUACI)",
+      "url": "https://euaci.eu/",
+      "why": "EU/Denmark-funded Ukraine anti-corruption initiative that runs a competitive Investigative Media Grant (2026 round: EUR 200,000 total, up to EUR 80,000/project) for investigative journalism on corruption; the 2026 round is already closed but the mechanism recurs.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU4 Independent Media (EU4IM)",
+      "url": "https://euneighbourseast.eu/projects/eu-project-page/?id=1736",
+      "why": "EU-funded project (implemented by DT Global) supporting financial resilience and public-interest journalism in Armenia, Azerbaijan, Belarus, Georgia, Moldova and Ukraine, including investigative-journalism grants reported up to EUR 100,000.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-18",
       "timesSeen": 1,
       "status": "new"
     }
