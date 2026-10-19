@@ -1,6 +1,6 @@
 SOURCE: Fundación Gabo
 URL: https://fundaciongabo.org/es/convocatorias
-FETCHED: 2026-10-18T08:14:06.369Z
+FETCHED: 2026-10-19T09:11:32.926Z
 TITLE: Convocatorias | Fundación Gabo
 
 === MAIN PAGE ===

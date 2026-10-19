@@ -1,85 +1,59 @@
 {
-  "generatedAt": "2026-10-18T08:14:17.164Z",
+  "generatedAt": "2026-10-19T09:11:38.389Z",
   "captured": {
-    "arij": {
-      "fetchedAt": "2026-10-18T08:14:17.164Z",
-      "words": 2192,
-      "pages": 5
-    },
-    "balkan-trust": {
-      "fetchedAt": "2026-10-18T08:14:17.164Z",
-      "words": 1485,
-      "pages": 5
-    },
-    "code-for-africa": {
-      "fetchedAt": "2026-10-18T08:14:17.164Z",
-      "words": 19,
-      "pages": 1
-    },
     "creative-europe": {
-      "fetchedAt": "2026-10-18T08:14:17.164Z",
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
       "words": 1209,
       "pages": 4
     },
-    "dw-akademie": {
-      "fetchedAt": "2026-10-18T08:14:17.164Z",
-      "words": 850,
-      "pages": 4
-    },
-    "erste-stiftung": {
-      "fetchedAt": "2026-10-18T08:14:17.164Z",
-      "words": 697,
-      "pages": 2
-    },
     "fundacion-gabo": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
       "words": 1840,
       "pages": 5
     },
     "jsk-stanford": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
       "words": 834,
       "pages": 2
     },
-    "n-ost": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
-      "words": 2630,
-      "pages": 5
-    },
     "nieman": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
       "words": 1624,
       "pages": 4
     },
     "osce-rfom": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
       "words": 241,
       "pages": 1
     },
     "reuters-institute": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
       "words": 2731,
       "pages": 5
     },
     "splice": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
       "words": 1536,
       "pages": 3
     },
-    "visegrad-fund": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
-      "words": 2057,
-      "pages": 5
+    "heinrich-boell": {
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
+      "words": 786,
+      "pages": 2
     },
-    "wole-soyinka-centre": {
-      "fetchedAt": "2026-10-18T08:14:17.165Z",
-      "words": 1559,
+    "hivos": {
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
+      "words": 1140,
       "pages": 4
+    },
+    "iwm-milena-jesenska": {
+      "fetchedAt": "2026-10-19T09:11:38.389Z",
+      "words": 1119,
+      "pages": 3
     }
   },
   "failed": {
     "council-of-europe": "HTTP 403",
-    "judith-neilson": "HTTP 503",
-    "occrp": "HTTP 404"
+    "judith-neilson": "HTTP 503"
   }
 }

@@ -1,6 +1,6 @@
 SOURCE: Splice Media
 URL: https://www.splicemedia.com/
-FETCHED: 2026-10-18T08:14:08.993Z
+FETCHED: 2026-10-19T09:11:33.994Z
 TITLE: Splice: media viability consulting, coaching, community
 
 === MAIN PAGE ===
