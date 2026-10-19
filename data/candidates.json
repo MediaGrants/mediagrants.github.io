@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-18T12:00:00.000Z",
+  "generatedAt": "2026-10-19T04:27:42.135Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -1519,6 +1519,54 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "jackwebster.com's own Fellowships and Professional Development Grants pages, and ltgov.bc.ca's 2026 announcement of the expanded, Jack Webster Foundation-administered Lieutenant Governor's BC Journalism Fellowship (deadline 15 Mar 2026, fellows named Jun 2026). Read October 2026."
+    },
+    {
+      "name": "Reporters Without Borders (RSF) Germany - Fellowship Programs (Berlin Fellowship)",
+      "url": "https://www.reporter-ohne-grenzen.de/fellowship-programs",
+      "why": "A Berlin-based digital-security/resilience fellowship for journalists from countries with restricted press freedom; the 2026 cycle is already closed and no 2027 call was found yet.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "ALDA - European Association for Local Democracy",
+      "url": "https://www.alda-europe.eu/",
+      "why": "Reposts EU Delegation Serbia's media-sector and civil-society calls in full; could serve as a secondary aggregator for this region.",
+      "seenAt": [
+        "eu-delegation-serbia"
+      ],
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Metamorphosis Foundation - Western Balkans Anti-Disinformation Hub",
+      "url": "https://metamorphosis.org.mk/",
+      "why": "North Macedonia-based implementer running a Netherlands-funded regional anti-disinformation hub for the Western Balkans; may run its own media/CSO sub-grant calls not currently tracked.",
+      "seenAt": [
+        "open-information-partnership"
+      ],
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Med Mosaic",
+      "url": "https://en.arij.net/news/arij-organizes-a-webinar-on-tracking-maritime-crimes-and-illegal-fishing-in-the-mediterranean/",
+      "why": "A MENA-region journalism grant programme for investigating maritime crime and illegal fishing in the Mediterranean, promoted via an ARIJ webinar; its relationship to ARIJ is unconfirmed.",
+      "seenAt": [
+        "arij"
+      ],
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
