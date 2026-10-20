@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-19T04:27:42.135Z",
+  "generatedAt": "2026-10-20T04:17:39.370Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -114,8 +114,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 20,
+      "lastSeen": "2026-10-20",
+      "timesSeen": 21,
       "status": "new"
     },
     {
@@ -479,8 +479,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 19,
+      "lastSeen": "2026-10-20",
+      "timesSeen": 20,
       "status": "new"
     },
     {
@@ -1223,8 +1223,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-11",
-      "timesSeen": 2,
+      "lastSeen": "2026-10-20",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -1320,11 +1320,12 @@
       "url": "https://masseycollege.ca/",
       "why": "A Canadian journalism fellowship programme, including one specifically for journalists from Sub-Saharan Africa or the Middle East, surfaced while researching Scholars at Risk's academic/journalist placement pathways.",
       "seenAt": [
-        "scholars-at-risk"
+        "scholars-at-risk",
+        "gfmd-fundings"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1464,11 +1465,12 @@
       "url": "https://www.ire.org/training/fellowships/",
       "why": "Surfaced via WebSearch while researching IREX (a different, similarly-named organisation); IRE's 2026 Freelance Fellowship offers up to US$4,000 for independent investigative reporting projects and does not appear to be tracked elsewhere in this sweep.",
       "seenAt": [
-        "irex"
+        "irex",
+        "ijnet-opportunities"
       ],
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-15",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-20",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1565,6 +1567,30 @@
       ],
       "firstSeen": "2026-10-19",
       "lastSeen": "2026-10-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Tinker Foundation",
+      "url": "https://www.tinker.org/",
+      "why": "US-based foundation that co-funds Fundación Gabo's Latin American solutions-journalism labs and the drug-policy narratives fund; may run its own applicable grant programmes worth checking separately.",
+      "seenAt": [
+        "fundacion-gabo"
+      ],
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "European Journalism Fellowships (Freie Universität Berlin)",
+      "url": "https://www.polsoz.fu-berlin.de/en/kommwiss/institut/ejf/index.html",
+      "why": "A ten-month, FU-Berlin-hosted journalism fellowship (guest-student status, access to lectures/libraries) co-funded by several donors including the Heinrich Böll Foundation, distinct from the boell.de/boell.org-run Transatlantic Media Fellowship already tracked.",
+      "seenAt": [
+        "heinrich-boell"
+      ],
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
       "timesSeen": 1,
       "status": "new"
     }
