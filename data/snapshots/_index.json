@@ -1,59 +1,16 @@
 {
-  "generatedAt": "2026-10-19T09:11:38.389Z",
+  "generatedAt": "2026-10-20T08:47:23.311Z",
   "captured": {
-    "creative-europe": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 1209,
-      "pages": 4
-    },
-    "fundacion-gabo": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 1840,
+    "digital-defenders": {
+      "fetchedAt": "2026-10-20T08:47:23.311Z",
+      "words": 2079,
       "pages": 5
     },
-    "jsk-stanford": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 834,
-      "pages": 2
-    },
-    "nieman": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 1624,
-      "pages": 4
-    },
-    "osce-rfom": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 241,
-      "pages": 1
-    },
-    "reuters-institute": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 2731,
+    "netherlands-mfa": {
+      "fetchedAt": "2026-10-20T08:47:23.311Z",
+      "words": 1768,
       "pages": 5
-    },
-    "splice": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 1536,
-      "pages": 3
-    },
-    "heinrich-boell": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 786,
-      "pages": 2
-    },
-    "hivos": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 1140,
-      "pages": 4
-    },
-    "iwm-milena-jesenska": {
-      "fetchedAt": "2026-10-19T09:11:38.389Z",
-      "words": 1119,
-      "pages": 3
     }
   },
-  "failed": {
-    "council-of-europe": "HTTP 403",
-    "judith-neilson": "HTTP 503"
-  }
+  "failed": {}
 }
