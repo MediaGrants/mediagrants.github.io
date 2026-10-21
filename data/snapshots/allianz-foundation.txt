@@ -1,10 +1,10 @@
 SOURCE: Allianz Foundation
 URL: https://allianzfoundation.org/
-FETCHED: 2026-10-07T03:44:22.072Z
+FETCHED: 2026-10-21T08:47:12.774Z
 TITLE: Home — Allianz Foundation
 
 === MAIN PAGE ===
-About Us Stories How we fund DE
+How we fund About Us Stories DE
 
 About Us Our Team
 Annual Reports
@@ -56,7 +56,7 @@ The Movers of Tomorrow Award is the Allianz Foundation’s civic engagement awar
 Fresh takes on the challenges of our times, voices from out network and funding opportunities — once per month, straight to your inbox.
 
 === https://allianzfoundation.org/how-we-fund/ ===
-About Us Stories How we fund DE
+How we fund About Us Stories DE
 
 About Us Our Team
 Annual Reports
@@ -94,7 +94,7 @@ Each programme plays a different role, from long-term institution-building to in
 --- relevant lines ---
 In addition to connecting our partners to funding and resources, we also connect them to each other, building networks of solidarity that advance the sustainability transformation.
 Funding by programme
-Grants 1
+Grants 01
 Grants
 Within our Grants Programme , we fund three areas:
 Grants are selected through proactive outreach. If you have an exciting idea that fits our current funding priorities, feel free to get in touch with us through our portal .
@@ -108,7 +108,7 @@ Find out more about our focus areas: What we fund
 Fresh takes on the challenges of our times, voices from out network and funding opportunities — once per month, straight to your inbox.
 
 === https://allianzfoundation.org/what-we-fund/ ===
-About Us Stories How we fund DE
+How we fund About Us Stories DE
 
 About Us Our Team
 Annual Reports
@@ -149,7 +149,7 @@ How we fund
 Fresh takes on the challenges of our times, voices from out network and funding opportunities — once per month, straight to your inbox.
 
 === https://allianzfoundation.org/grants/ ===
-About Us Stories How we fund DE
+How we fund About Us Stories DE
 
 About Us Our Team
 Annual Reports
@@ -200,7 +200,7 @@ The right to freedom of movement is essential for a generation of artists who ha
 The construction industry is one of the key contributors to the climate crisis. Although more and more is being built, many people can no longer afford housing or cultural…
 
 === https://allianzfoundation.org/fellows/ ===
-About Us Stories How we fund DE
+How we fund About Us Stories DE
 
 About Us Our Team
 Annual Reports
@@ -247,7 +247,7 @@ Her previous roles include editor of artmagazin.hu, curator at Ludwig Museum (Mu
 Luka Knežević Strika works with artists and loca…
 
 === https://allianzfoundation.org/hubs/ ===
-About Us Stories How we fund DE
+How we fund About Us Stories DE
 
 About Us Our Team
 Annual Reports

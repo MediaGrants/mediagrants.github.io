@@ -1,6 +1,6 @@
 SOURCE: Google News Initiative
 URL: https://newsinitiative.withgoogle.com/
-FETCHED: 2026-10-07T03:44:29.038Z
+FETCHED: 2026-10-21T08:47:15.453Z
 TITLE: Google News Initiative - Home
 
 === MAIN PAGE ===

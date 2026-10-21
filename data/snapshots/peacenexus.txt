@@ -1,6 +1,6 @@
 SOURCE: PeaceNexus Foundation
 URL: https://peacenexus.org/call-for-proposals/
-FETCHED: 2026-10-07T03:44:24.686Z
+FETCHED: 2026-10-21T08:47:21.160Z
 TITLE: Call for Proposals - PeaceNexus
 
 === MAIN PAGE ===
@@ -357,9 +357,12 @@ Environnement et Paix Appel à Proposition Afrique de l'Ouest et centrale
 Nous invitons les organisations environnementales d’Afrique de l’Ouest et centrale, dont la mission porte sur la conservation, la protection de la biodiversité ou encore l’action climatique, à soumettre leur candidature pour bénéficier d’un appui à l’intégration d’approches sensibles aux conflits dans leur organisation et actions.
 
 1. Quel est l'objet de cet appel?
+
 2. Que proposons nous?
+
 3. A qui s'adresse cet appel?
-4. Comme
+
+4. Co
 
 --- relevant lines ---
 La date limite de dépôt des candidatures est fixée au lundi, 1 6 février 2026 à 23:59 CET . Pour toute question, vous pouvez contacter anina.uhlig@peacenexus.org . Seuls les dossiers de candidature complets, rédigés en français ou en anglais, seront pris en compte.
@@ -542,13 +545,16 @@ We welcome applications from civil society organisations interested in internal 
 This call is for actors working in Albania, Bosnia & Herzegovina, Croatia, Kosovo, Montenegro, North Macedonia and Serbia.
 
 1. Why this call for proposals?
+
 2. What are we offering?
+
 3. Who can apply?
+
 4. How to apply?
 
 1. Why this call for proposals?
 
-Civil society actors in the Western Balkans have been at the forefront of pushing for peaceful and democratic change for decades. This
+Civil society actors in the Western Balkans have been at the forefront of pushing for peaceful and democratic change for decades. T
 
 --- relevant lines ---
 If you are interested in applying, please browse the following sections and consult this detailed  Overview of the Call .

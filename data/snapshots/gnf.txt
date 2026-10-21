@@ -1,6 +1,6 @@
 SOURCE: Global Network Initiative / tech-for-media funds
 URL: https://globalnetworkinitiative.org/
-FETCHED: 2026-10-07T03:44:28.939Z
+FETCHED: 2026-10-21T08:47:15.288Z
 TITLE: Home - Global Network Initiative
 
 === MAIN PAGE ===

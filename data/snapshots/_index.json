@@ -1,16 +1,84 @@
 {
-  "generatedAt": "2026-10-20T08:47:23.311Z",
+  "generatedAt": "2026-10-21T08:47:36.058Z",
   "captured": {
     "digital-defenders": {
-      "fetchedAt": "2026-10-20T08:47:23.311Z",
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
       "words": 2079,
       "pages": 5
     },
     "netherlands-mfa": {
-      "fetchedAt": "2026-10-20T08:47:23.311Z",
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
       "words": 1768,
       "pages": 5
+    },
+    "akademie-solitude": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 2616,
+      "pages": 7
+    },
+    "allianz-foundation": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 2530,
+      "pages": 6
+    },
+    "artists-at-risk-connection": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 2125,
+      "pages": 5
+    },
+    "carter-mental-health": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 159,
+      "pages": 1
+    },
+    "compagnia-di-san-paolo": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 525,
+      "pages": 2
+    },
+    "friedrich-naumann": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 640,
+      "pages": 2
+    },
+    "gnf": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 194,
+      "pages": 1
+    },
+    "google-news-initiative": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 772,
+      "pages": 3
+    },
+    "humphrey-fellowship": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 2391,
+      "pages": 7
+    },
+    "icorn": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 793,
+      "pages": 3
+    },
+    "ksj-mit": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 896,
+      "pages": 2
+    },
+    "macarthur": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 2491,
+      "pages": 7
+    },
+    "peacenexus": {
+      "fetchedAt": "2026-10-21T08:47:36.058Z",
+      "words": 2019,
+      "pages": 7
     }
   },
-  "failed": {}
+  "failed": {
+    "hamburger-stiftung": "HTTP 503",
+    "reporters-shield": "fetch failed"
+  }
 }

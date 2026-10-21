@@ -1,6 +1,6 @@
 SOURCE: Knight Science Journalism Program, MIT
 URL: https://ksj.mit.edu/apply/
-FETCHED: 2026-10-07T03:44:31.356Z
+FETCHED: 2026-10-21T08:47:18.421Z
 TITLE: Apply to Attend Frontiers of Brain Science: The Kavli Science Journalism Workshop June 11-12 2015 - Knight Science Journalism @MIT
 
 === MAIN PAGE ===
@@ -111,7 +111,7 @@ At a time when thoughtful, innovative, and engaging science journalism has never
 
 KSJ Academic-Year Fellowship →
 
-The KSJ Academic-Year Fellowship is open to 10 science journalists each year. Science journalists from around the globe are eligible for the fellowship, provided they have 3+ years of full-time journ
+The KSJ Academic-Year Fellowship is open to 10 science journalists each year. Science journalists from around the globe are eligible for the fellowship, provided they have 3+ consecutive years of exp
 
 --- relevant lines ---
 Fellowship for Advancing Science Journalism in Africa and the Middle East →
