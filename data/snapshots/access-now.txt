@@ -1,6 +1,6 @@
 SOURCE: Access Now — Digital Security Helpline / grants
 URL: https://www.accessnow.org/
-FETCHED: 2026-10-05T03:45:32.584Z
+FETCHED: 2026-10-22T08:49:31.285Z
 TITLE: Access Now - Access Now
 
 === MAIN PAGE ===
@@ -16,14 +16,10 @@ Subscribe to our action alerts and newsletter
 
 " * " indicates required fields
 
-Facebook
+Company
 This field is for validation purposes and should be left unchanged.
 
-This field is hidden when viewing the form
-
 Subscribe to Access Express
-
-This field is hidden when viewing the form
 
 Subscribe to Action Alerts
 
@@ -35,7 +31,7 @@ Last
 
 Email *
 
-Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia 
+Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French
 
 --- relevant lines ---
 Submit
@@ -53,21 +49,26 @@ Don t let dictators decide the future of the internet. Fund the good fight!
 2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
 9 Sep 2026
 2026 EFF Award winners: Access Now, 7amleh, DeFlock, New Media Rights
-23 Sep 2026
-23 Sep 2026
-17 Sep 2026
-17 Sep 2026
+20 Oct 2026
+20 Oct 2026
+21 Oct 2026
+21 Oct 2026
 28 Apr 2026
 28 Apr 2026
+Beware of spyware: Access Now urges pension funds to scrutinize investments for spyware exposure
+13 Oct 2026
+On September 28, 2026, Access Now wrote to four pension funds regarding their investment in AE Industrial Partners (AEI). AEI purchased spyware technology vendor Paragon Solutions in 2024 and merged the company with its holding company REDLattice.
+Beware of spyware: Access Now urges pension funds to scrutinize investments for spyware exposure
+13 Oct 2026
+Beware of spyware: Access Now urges pension funds to scrutinize investments for spyware exposure
+17 Sep 2026
+17 Sep 2026
 18 Aug 2026
 18 Aug 2026
-26 Aug 2026
-26 Aug 2026
-14 Sep 2026
-14 Sep 2026
 Grants
 Grants
 Submit
+Powered by GDPR Cookie Compliance (opens in a new tab)
 
 === https://www.accessnow.org/grants/ ===
 Skip to main content
@@ -82,14 +83,10 @@ Subscribe to our action alerts and newsletter
 
 " * " indicates required fields
 
-Name
+LinkedIn
 This field is for validation purposes and should be left unchanged.
 
-This field is hidden when viewing the form
-
 Subscribe to Access Express
-
-This field is hidden when viewing the form
 
 Subscribe to Action Alerts
 
@@ -101,7 +98,7 @@ Last
 
 Email *
 
-Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswa
+Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana Frenc
 
 --- relevant lines ---
 Submit
@@ -139,14 +136,10 @@ Subscribe to our action alerts and newsletter
 
 " * " indicates required fields
 
-Email
+Facebook
 This field is for validation purposes and should be left unchanged.
 
-This field is hidden when viewing the form
-
 Subscribe to Access Express
-
-This field is hidden when viewing the form
 
 Subscribe to Action Alerts
 
@@ -158,7 +151,7 @@ Last
 
 Email *
 
-Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Esw
+Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana Frenc
 
 --- relevant lines ---
 Submit
@@ -166,6 +159,7 @@ Access Now Grants
 Funding & financials
 Fund the good fight! Visit our donations page to learn how to support our mission.
 Submit
+Powered by GDPR Cookie Compliance (opens in a new tab)
 
 === https://www.accessnow.org/financials/ ===
 Skip to main content
@@ -180,14 +174,10 @@ Subscribe to our action alerts and newsletter
 
 " * " indicates required fields
 
-Company
+LinkedIn
 This field is for validation purposes and should be left unchanged.
 
-This field is hidden when viewing the form
-
 Subscribe to Access Express
-
-This field is hidden when viewing the form
 
 Subscribe to Action Alerts
 
@@ -199,7 +189,7 @@ Last
 
 Email *
 
-Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia E
+Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana Frenc
 
 --- relevant lines ---
 Submit
@@ -320,3 +310,45 @@ August 2025
 $25,000
 August 2025
 $250,00…
+
+=== https://www.accessnow.org/press-release/beware-of-spyware-pension-funds/ ===
+Skip to main content
+
+Back to content
+
+Get alerts
+
+Help keep the internet open and secure
+
+Subscribe to our action alerts and newsletter
+
+" * " indicates required fields
+
+LinkedIn
+This field is for validation purposes and should be left unchanged.
+
+Subscribe to Access Express
+
+Subscribe to Action Alerts
+
+Name
+
+First
+
+Last
+
+Email *
+
+Country Country Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Brazil British Indian Ocean Territory British Virgin Islands Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Cook Islands Costa Rica Côte d Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana Frenc
+
+--- relevant lines ---
+Submit
+Access Now Grants
+Funding & financials
+Home / Press Releases / Beware of spyware: Access Now urges pension funds to scrutinize investments for spyware exposure
+Beware of spyware: Access Now urges pension funds to scrutinize investments for spyware exposure
+PUBLISHED: 13 October 2026 LAST UPDATED: 13 October 2026
+On September 28, 2026, Access Now wrote to four pension funds — Los Angeles County Employees Retirement Association , Houston Firefighters’ Relief and Retirement Fund , New Mexico Educational Retirement Board , and Hampshire Pension Fund — regarding their investment in AE Industrial Partners (AEI). AEI purchased spyware technology vendor Paragon Solutions in 2024 and merged the company with its holding company REDLattice. The letters urge pension fund managers to use their leverage with AEI to ensure the fund “provide[s] remedy where warranted, and implement robust safeguards” to prevent any contribution to human rights breaches.
+Investors have a responsibility to identify and address human rights risks in their portfolios. Paragon presents a clear risk given its appalling human rights record, and these pension funds should avoid exposure to such spyware in their portfolios and demand answers from AE Industrial Partners.
+A well-documented history demonstrates Paragon’s spyware tool, Graphite, being used to target journalists and activists . A 2025 report confirmed the use of Graphite spyware against journalists, adding to previous findings revealing that the company’s tech was used to target civil society actors in Italy. Coupled with the disclosures by Meta and Apple , an Italian parliamentary report , and forensic confirmation by the Italian prosecutor, these findings raise urgent concerns regarding Paragon’s due diligence practices, post-sale oversight mechanisms, and provision of access to remedy for affected individuals.
+Paragon has also sparked concerns in the U.S. given the company’s $2 million contract with U.S. Immigration and Customs Enforcement (ICE) . Though a notice on a federal procurement website indicates that the contract’s “close out” date was January 20, 2026, and the Department of Homeland Security (DHS) stated that ICE has “ no relationship ” with Paragon, DHS has not clarified whether ICE still has access to Paragon’s tools…

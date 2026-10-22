@@ -1,6 +1,6 @@
 SOURCE: ICORN — International Cities of Refuge Network
 URL: https://www.icorn.org/
-FETCHED: 2026-10-21T08:47:17.190Z
+FETCHED: 2026-10-22T08:49:29.964Z
 TITLE: Home - ICORN - International Cities of Refuge Network
 
 === MAIN PAGE ===

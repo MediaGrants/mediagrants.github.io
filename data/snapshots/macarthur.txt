@@ -1,6 +1,6 @@
 SOURCE: MacArthur Foundation
 URL: https://www.macfound.org/grants/info-for-grantseekers
-FETCHED: 2026-10-21T08:47:17.514Z
+FETCHED: 2026-10-22T08:49:30.070Z
 TITLE: Information for Grantseekers - MacArthur Foundation
 
 === MAIN PAGE ===

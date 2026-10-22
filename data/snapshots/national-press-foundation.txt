@@ -1,6 +1,6 @@
 SOURCE: National Press Foundation
 URL: https://www.nationalpress.org/
-FETCHED: 2026-10-08T03:45:04.151Z
+FETCHED: 2026-10-22T08:49:34.129Z
 TITLE: National Press Foundation | NPF
 
 === MAIN PAGE ===
@@ -29,31 +29,36 @@ Donate
 
 APPLY by Oct. 22: 2026 Rare Disease Reporting Fellowship and Grants
 
-Public Health
+Business
 
-Dr. Georges C. Benjamin: Health For All Is True National Security
-
-2027 NPF Journalism Awards Dinner – Feb. 25, 2027
+Being Fearless : A Conversation with the Chicago Tribune s Mitch Pugh
 
 Public Health
 
 Dr. Ezekiel Emanuel on Fixing American Healthcare: Prognosis Grim
 
-Understanding American Healthcare: A Deep Dive for Reporters
 Public Health
 
-Christy Ford Chapin of the University of Maryland, Baltimore County presented findings from her book, "Ensuring America's Health," to provide journalists with historical context for their healthcare reporting.
+Dr. Georges C. Benjamin: Health For All Is True National Security
 
-Covering the Coverage Gaps in ACA and Medicaid Programs
-Public Health
+Leveraging the Local Angle of Midterm Coverage
+Widening the Pipeline
 
-Journalists Must Prepare for Surge of Unenrolled Medicaid Recipients, Experts Say
+Local Journalists Are On the Front Lines of Midterm Analysis
 
-Analysts Katherine Hempstead of the Robert Wood Johnson Foundation and Michael Karpman of The Urban Institute urged fellows to master the nuances of ACA and Medicaid insuranc
+While national pundits prognosticate, local journalists like Briah Lumpkins of KFF Health News and former Miami Herald reporter Raisa Habersham capture what communities are really saying.
+
+Building an Evidence-Based Midterm Reporting Strategy
+Widening the Pipeline
+
+Audiences Need Solid Evidence to Combat Midterm Election Uncertainty
+
+SciLine editorial consultant Carmen Nobel advised Widening the Pipeline fellows on using a scientific lens to scrutin
 
 --- relevant lines ---
 Rural Health Transformation Fund: RX or Placebo?
 APPLY by Oct. 22: 2026 Rare Disease Reporting Fellowship and Grants
+2027 NPF Journalism Awards Dinner – Feb. 25, 2027
 NPF Names 32 Journalists for October 2026 Local Business Journalism Fellowship
 NPF Names 26 Journalists for 2026 Diagnosing the U.S. Healthcare System Fellowship
 NPF Selects 25 Journalists for 2026 International Trade Reporting Fellowship in Singapore
@@ -204,7 +209,7 @@ During the first three years of the Widening the Pipeline Fellowship, journalist
 2024 fellows were the first to attend the NPF Annual Awards Dinner, where they met journalism legend Dorothy Gilliam, the 2023 W.M. Kiplinger Distinguished Contributions to Journalism Award winner. They also heard from Editor of the Year Manny Garcia and Sol Taishoff Award for Broadcast excellence winner Robin Roberts.
 2025 fellows also attended the Annual Awards dinner and met 2024 Taishoff winner Christiane Amanpour and Kiplinger winner Maria Hinojosa. During their final in-person training, they toured WUSA Channel 9 in DC, led by award-winning weeknight anchor Lesli Foster who had also briefed 2024 fellows. Their training culminated in a session with veteran journalist Richard Prince , who challenged them to leverage the lessons from historic challenges to diversity and inclusion in journalism to fuel their career goals.
 Widening the Pipeline fellows said training sessions gave them a new take on their career paths and provided them with tools to reset and plan for new opportunities. Among the first 45 fellows, 87 percent of fellows were promoted within their news organizations or attained a better position at another news outlet. Twenty percent received a journalism award for work published since joining the fellowship, and 94 percent stayed in journalism.
-September 18, 2026 Audiences …
+October 16, 2026 Local Journa…
 
 === https://nationalpress.org/fellowships/paul-miller-washington-reporting-fellowship-journalism-training/ ===
 National Press
@@ -242,9 +247,9 @@ Hi
 story of the Paul Miller Fellowship:
 The National Press Foundation assumed the administration of the Paul Miller Washington Reporting fellowship in 2000 from the Freedom Forum.
 The 2026 Paul Miller fellows are:
-October 2, 2026 Journalists Must Prepare for Surge of Unenrolled Medicaid Recipients, Experts Say
-September 18, 2026 Audiences Need Solid Evidence to Combat Midterm Election Uncertainty
-July 2, 2026 Geopolitics, Trade and India's Development Strategy
+October 16, 2026 Local Journalists Are On the Front Lines of Midterm Analysis
+October 14, 2026
+October 13, 2026 The Key is to Care, Says Pugh
 Widening the Pipeline Fellowship
 Paul Miller Washington Fellowship
 Awards Editor of the Year

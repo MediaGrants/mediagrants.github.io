@@ -1,6 +1,6 @@
 SOURCE: Compagnia di San Paolo
 URL: https://www.compagniadisanpaolo.it/en/
-FETCHED: 2026-10-21T08:47:16.820Z
+FETCHED: 2026-10-22T08:49:32.037Z
 TITLE: Fondazione Compagnia di San Paolo
 
 === MAIN PAGE ===
@@ -54,6 +54,7 @@ Grants
 The Foundation achieves UNI/PDR 125:2022 certification for its Gender Equality Management System
 Philanthropy in international dialogue: Foundations Circle 2026
 We always have lots of new things coming: calls for proposals , events to invite you to, and projects we want to share with you.
+19 October 2026
 16 October 2026
 2 October 2026
 The Foundation achieves UNI/PDR 125:2022 certification for its Gender Equality Management System
@@ -64,7 +65,6 @@ Philanthropy in international dialogue: Foundations Circle 2026
 10 July 2026
 30 June 2026
 26 June 2026
-22 June 2026
 Get updates on our projects and calls for proposals
 Grants
 © 2026 All right reserved

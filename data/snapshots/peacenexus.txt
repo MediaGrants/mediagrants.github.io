@@ -1,6 +1,6 @@
 SOURCE: PeaceNexus Foundation
 URL: https://peacenexus.org/call-for-proposals/
-FETCHED: 2026-10-21T08:47:21.160Z
+FETCHED: 2026-10-22T08:49:33.583Z
 TITLE: Call for Proposals - PeaceNexus
 
 === MAIN PAGE ===

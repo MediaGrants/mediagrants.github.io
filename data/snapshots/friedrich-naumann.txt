@@ -1,6 +1,6 @@
 SOURCE: Friedrich Naumann Foundation
 URL: https://www.freiheit.org/topic/open-society
-FETCHED: 2026-10-21T08:47:16.026Z
+FETCHED: 2026-10-22T08:49:30.033Z
 TITLE: Open Society | Friedrich Naumann Foundation
 
 === MAIN PAGE ===
@@ -113,7 +113,7 @@ DA delegation visited Brussels and Berlin (22–28 June 2025) hosted by FNF to b
 Call for Office Manager
 20.10.2026
 14.10.2026
-09.10.2026
+19.10.2026
 
 === https://www.freiheit.org/israel-and-palestinian-territories/call-office-manager ===
 Skip to main content
@@ -222,4 +222,4 @@ Application Deadline: [ 08/11/2026 ]
 Call for Office Manager
 20.10.2026
 14.10.2026
-09.10.2026
+19.10.2026

@@ -1,6 +1,6 @@
 SOURCE: Allianz Foundation
 URL: https://allianzfoundation.org/
-FETCHED: 2026-10-21T08:47:12.774Z
+FETCHED: 2026-10-22T08:49:29.157Z
 TITLE: Home — Allianz Foundation
 
 === MAIN PAGE ===
