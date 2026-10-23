@@ -1,6 +1,6 @@
 SOURCE: IRE — fellowships and scholarships
 URL: https://www.ire.org/training/fellowships-and-scholarships/
-FETCHED: 2026-10-09T03:45:10.998Z
+FETCHED: 2026-10-23T08:45:19.969Z
 TITLE: Fellowships & Scholarships - Investigative Reporters and Editors
 
 === MAIN PAGE ===
@@ -59,13 +59,13 @@ January 4, 2027 NICAR 2027
 
 NICAR Conference Fellowships
 
-Applications for fellowships to attend NICAR27are currently open! The deadline to apply is January 4, 2027 at 11:59 p.m. ET.
+Applications for fellowships to attend NICAR27 are currently open! The deadline to apply is January 4, 2027 at 11:59 p.m. ET.
 These fellowships offer:
 Complimentary conference registration ($100-$350 value)
-Travel st
+Travel s
 
 --- relevant lines ---
-ipend (up to $500)
+tipend (up to $500)
 One-year IRE membership/renewal ($25-$75 value)
 Apply now!
 Support for attending IRE conferences is provided by the fellowships listed in the categories below.
@@ -97,7 +97,7 @@ GET DETAILS AND APPLY
 David Dietz Fellowship
 This fellowship supports journalists and independent journalists with less than 10 years’ professional experience and a demonstrated interest in financial investigative journalism who have a financial need for assistance. It provides assistance to attend the IRE Conference. This application is currently closed.
 GET DETAILS AND APPLY
-R-…
+R…
 
 === https://www.ire.org/ire-supporters/ ===
 Skip to content LinkedIn BlueSky Instagram Facebook

@@ -1,63 +1,16 @@
 {
-  "generatedAt": "2026-10-22T08:49:48.502Z",
+  "generatedAt": "2026-10-23T08:45:21.263Z",
   "captured": {
-    "allianz-foundation": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 2530,
-      "pages": 6
-    },
-    "artists-at-risk-connection": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 2125,
-      "pages": 5
-    },
-    "compagnia-di-san-paolo": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 525,
-      "pages": 2
-    },
-    "friedrich-naumann": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 640,
-      "pages": 2
-    },
-    "icorn": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 793,
-      "pages": 3
-    },
-    "macarthur": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 2491,
-      "pages": 7
-    },
-    "peacenexus": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 2019,
-      "pages": 7
-    },
-    "access-now": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 2231,
-      "pages": 5
-    },
-    "national-press-foundation": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 3702,
+    "ire-fellowships": {
+      "fetchedAt": "2026-10-23T08:45:21.263Z",
+      "words": 2807,
       "pages": 9
     },
-    "reporters-respond": {
-      "fetchedAt": "2026-10-22T08:49:48.502Z",
-      "words": 645,
-      "pages": 2
-    },
-    "rji-fellowships": {
-      "fetchedAt": "2026-10-22T08:49:48.503Z",
-      "words": 2232,
-      "pages": 5
+    "usc-health-journalism": {
+      "fetchedAt": "2026-10-23T08:45:21.264Z",
+      "words": 4004,
+      "pages": 9
     }
   },
-  "failed": {
-    "hamburger-stiftung": "HTTP 503"
-  }
+  "failed": {}
 }

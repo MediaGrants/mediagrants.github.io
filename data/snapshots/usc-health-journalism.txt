@@ -1,6 +1,6 @@
 SOURCE: USC Annenberg Center for Health Journalism
 URL: https://centerforhealthjournalism.org/
-FETCHED: 2026-10-09T03:45:12.421Z
+FETCHED: 2026-10-23T08:45:19.778Z
 TITLE: USC Center for Health Journalism
 
 === MAIN PAGE ===
@@ -122,10 +122,9 @@ Connecting with other journalists also pursuing ambitious projects helped motiva
 Coming into this project, I had never tackled a systemic issue on a large scale like this before. It's something that can be intimidating at times, especially coming from an under-resourced newsroom. Moving forward, I'm excited to apply many of the lessons I learned during my project.
 The Fellowship helped me feel part of a larger endeavor and reminded me that no matter the size of your newsroom or scope of your coverage, issues that you hear about on the national news are felt locally, and reporting on them with a deep respect for people and place makes the greatest impact.
 San Antonio native Laura Garcia had a keen sense of the health inequities dividing her hometown. The National Fellowship helped her tell that story in a way that led to major changes in the city s health care landscape.
-October 8, 2026
-Speaking at the 2026 Data Fellowship, The Baltimore Banner s Greg Morton shared how his team corralled the data that proved Baltimore’s transit system was failing students.
-October 5, 2026
-October 5, 2026
+October 20, 2026
+October 20, 2026
+October 20, 2026
 
 === https://centerforhealthjournalism.org/about/our-leadership-funders ===
 Skip to main content
