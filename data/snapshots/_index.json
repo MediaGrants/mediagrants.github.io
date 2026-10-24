@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-23T08:45:21.263Z",
+  "generatedAt": "2026-10-24T08:19:41.421Z",
   "captured": {
-    "ire-fellowships": {
-      "fetchedAt": "2026-10-23T08:45:21.263Z",
-      "words": 2807,
-      "pages": 9
+    "irf-ukraine": {
+      "fetchedAt": "2026-10-24T08:19:41.421Z",
+      "words": 1272,
+      "pages": 3
     },
-    "usc-health-journalism": {
-      "fetchedAt": "2026-10-23T08:45:21.264Z",
-      "words": 4004,
+    "open-tech-fund": {
+      "fetchedAt": "2026-10-24T08:19:41.421Z",
+      "words": 3846,
       "pages": 9
     }
   },

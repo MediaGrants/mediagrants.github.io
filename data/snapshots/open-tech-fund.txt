@@ -1,6 +1,6 @@
 SOURCE: Open Technology Fund
 URL: https://www.opentech.fund/funds/rapid-response-fund/
-FETCHED: 2026-10-15T03:59:39.811Z
+FETCHED: 2026-10-24T08:19:38.200Z
 TITLE: Rapid Response Fund | OTF
 
 === MAIN PAGE ===
@@ -590,16 +590,16 @@ Surge and Sustain Fund
 
 The Surge and Sustain Fund supports the user carrying costs of established, large-scale circumvention technologies so that tens of millions of people in China, Cuba, Iran, Myanmar, Russia, and other authoritarian contexts can securely and reliably access the uncensored internet.
 
-Apply by October 15, 2026
+Not currently accepting applications
 
-APPLY NOW
+Not currently accepting applications
 
 About the Surge and Sustain Fund
 
-Today, nearly five billion people live in a country where the internet is censored . I
+Today, nearly five billion people live in a coun
 
 --- relevant lines ---
-n these contexts, demand for circumvention tools like VPNs have increased exponentially as these have become critical information lifelines. In response to this increasing demand, OTF established the Surge and Sustain Fund to provide leading, open source circumvention tool developers with the resources they need to connect millions of users in the most repressive environments to the global internet.
+try where the internet is censored . In these contexts, demand for circumvention tools like VPNs have increased exponentially as these have become critical information lifelines. In response to this increasing demand, OTF established the Surge and Sustain Fund to provide leading, open source circumvention tool developers with the resources they need to connect millions of users in the most repressive environments to the global internet.
 The tools funded under the Surge and Sustain Fund are selected through a public application process, which ensures OTF selects tools that meet high security and privacy standards; and that they have a demonstrated ability to operate at scale in highly censored environments, with a track record of successfully staying ahead of increasingly sophisticated censorship techniques.
 Award Information
 Funds awarded are based on unique users served in specific countries, up to a maximum ceiling. OTF intends to re-compete this solicitation annually.
@@ -608,8 +608,7 @@ Priorities of the Surge and Sustain Fund
 Through the Surge and Sustain Fund, OTF provides resources on a competitive basis to large-scale, open source tools with a documented track record of successfully circumventing authoritarian censorship. See previously funded projects here .
 The Surge and Sustain Fund prioritizes supporting users living in China, Cuba, Iran, Myanmar, Russia , and other closed information environments.
 The Surge and Sustain Fund exclusively covers the server infrastructure costs of providing circumvention services to users in highly censored countries. Each applicant must calculate the average costs for supporting a monthly active user (MAU) during the application phase for OTF review. Successful applicants receive contracts from OTF with per-user costs for a set of approved countries. The Surge and Sustain Fund then reimburses tool developers only for the number of demonstrably served active users each month.
-The Surge and Sustain Fund will not cover any staff time or development efforts (please direct all applications for technology development to the Internet Freedom Fund ).
-OTF holds all circumve…
+The Surge and Sustain Fund will not cover any staff time or development efforts (please direct all applications for technology development to the Internet …
 
 === https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/ ===
 MY OTF
