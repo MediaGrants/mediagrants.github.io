@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-25T04:16:02.498Z",
+  "generatedAt": "2026-10-25T00:00:00.000Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -10,8 +10,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-10-11",
-      "lastSeen": "2026-10-11",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-25",
+      "timesSeen": 2,
       "status": "new",
       "evidence": "Governor's office announcement, gov.ca.gov, 14 Jul 2026, and the program's own page at business.ca.gov/california-civic-media-program/; application window closed 21 Aug 2026, with Journalism Funding Partners and the James B. McClatchy Foundation administering the two halves. Read October 2026."
     },
@@ -136,8 +136,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-04",
-      "timesSeen": 2,
+      "lastSeen": "2026-10-25",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -323,8 +323,8 @@
         "unesco-ipdc"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-18",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-25",
+      "timesSeen": 6,
       "status": "new",
       "evidence": "ifpim.org and gfmd.info funding archive; IFJ (ifj.org) press release, 1 Aug 2026, on the IFPIM-funded $1m Palestine media fund it distributes through the Palestinian Journalists Syndicate. Read September 2026."
     },
@@ -379,8 +379,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-14",
-      "timesSeen": 7,
+      "lastSeen": "2026-10-25",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -499,11 +499,12 @@
       "url": "https://www.pressforward.news/",
       "why": "A $500M+ philanthropic collaborative funding U.S. local news outlets directly (e.g. its 2025 Open Call awarded ~$100k each to 200+ small newsrooms); it also co-funds IWMF's Safety Ambassador Fellowship, and its own Pooled Fund/Open Call cycles could be a distinct grant source worth tracking.",
       "seenAt": [
-        "iwmf"
+        "iwmf",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-25",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -1146,11 +1147,12 @@
       "url": "https://digital-strategy.ec.europa.eu/en/news/commission-renews-support-exiled-and-relocated-journalists-eu",
       "why": "A separate EU Commission call (third round, ~EUR 3 million) for exiled journalists from Belarus/Russia and relocated Ukrainian journalists, open to public authorities/NGOs/research centres; most recent window (16 Apr-28 May 2026) is now closed. Distinct from both JX Fund and EED, and not currently in sources.json.",
       "seenAt": [
-        "eed"
+        "eed",
+        "weekly-discovery"
       ],
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-08",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-25",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1582,6 +1584,32 @@
       "lastSeen": "2026-10-25",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Local News Fund (UK Department for Culture, Media and Sport)",
+      "url": "https://www.gov.uk/government/news/local-journalism-to-benefit-from-new-government-funding-to-reach-new-audiences",
+      "why": "UK government fund under the 'Amplify' Local Media Action Plan, giving local newspapers, online publishers and independent local TV/radio in England and Wales grants of up to £125,000 (plus a separate infrastructure stream up to £275,000) to move to sustainable digital models, with £6m available in 2026/27 and up to £6m more in 2027/28.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "gov.uk announcement \"Local journalism to benefit from new government funding to reach new audiences\" and the live listing at find-government-grants.service.gov.uk/grants/local-news-fund-1; applications opened July 2026, corroborated by Press Gazette and Prolific North coverage. Read October 2026."
+    },
+    {
+      "name": "Digital News Transformation Fund (AIP / Google, South Africa)",
+      "url": "https://aip.org.za/fund",
+      "why": "South African fund (R114 million over three years) run by the Association of Independent Publishers with Google, administered by Tshikululu Social Investments, giving project-based digital-transformation grants — including a dedicated 'Ignite' tier of R100,000 grants for early-stage publishers — to small, local and independent South African news publishers.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "AIP's own announcements (aip.org.za, Nov 2024 launch, Aug 2025 first call, Feb 2026 Ignite programme launch, June 2026 second-round awards) and South African Press Council coverage. Read October 2026."
     }
   ]
 }
