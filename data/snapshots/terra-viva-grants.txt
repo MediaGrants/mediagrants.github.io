@@ -1,6 +1,6 @@
 SOURCE: Terra Viva Grants — environment & rural development
 URL: https://www.terravivagrants.org/
-FETCHED: 2026-10-16T03:59:27.737Z
+FETCHED: 2026-10-25T08:38:14.842Z
 TITLE: Home - Terra Viva Grants
 
 === MAIN PAGE ===
@@ -278,16 +278,16 @@ View Grant Makers
 Funding Alerts
 Grants Database
 Funding News
+International Development Research Center — Research in Community Forestry 2026
+October 21, 2026
+The John G. Bene Fellowship is awarded to graduate students at Canadian universities who hold Canadian citizenship or permanent residency. The grant is for research on the relationship between forest resources and the social, economic, cultural, and environmental welfare of people in developing countries. Therefore, the student must spend a minimum of 10 consecutive weeks in the field in the following regions: Middle East, North Africa, West Africa, East Africa, Southern Africa, Southeast Asia, South Asia, Far Eastern Asia, Caribbean, Central America, South America, or Oceania. The award covers field research expenses up to CA$30 thousand per year. The deadline for submitting applications has been extended to 30 November 2026. Community Forestry Fellowship
+early-career , fellowships/scholarships , forests , individuals , november2026 , research , worldwide
 October 11, 2026
 GIZ’s MOVE-ComCashew project invites young and emerging cashew entrepreneurs to turn a business idea into an investment-ready, climate-smart plan and submit it for a kickstart prize. Winners receive either €2,000 in direct funding or a laptop, tablet or software. The page doesn’t say how many prizes there are. Applicants must be at least 18, based in a member state of the Organisation of African, Caribbean and Pacific States (OACPS), and have an idea anywhere in the cashew value chain. The deadline is 30 October 2026. Cashew Business Idea Competition
 Africa , agriculture , Asia-Pacific , awards/prizes , business/enterprise , individuals , LAC , october2026
 GIZ Agri-Business Facility for Africa — Business Growth Awards for Young Agripreneurs
 October 11, 2026
-GIZ’s Agri-Business Facility for Africa invites young and emerging agripreneurs to turn a business idea into a funded plan through its Agribusiness Growth Challenge. Ideas must fall in maize, livestock (cattle, sheep or goats), cashew or cocoa. The Business Growth Awards are listed as €6,000 in funding, a Dell Pro 14 Essential laptop and a place in a six-month agribusiness mentoring programme. Applicants must be at least 18 and based in a member state of the Organisation of African, Caribbean and Pacific States (OACPS). Submissions close on 30 October 2026. Business Growth Awards for Young Agripreneurs
-Africa , agriculture , Asia-Pacific , awards/prizes , business/enterprise , early-career , individuals , LAC , october2026 , youth
-Technische Universität Dresden — Masters in Tropical Forestry 2027
-October 11, 2026
-The MSc Course in Tropical Forestry taught at Technische Universität Dresden (TDU) in Germany qualifies students to develop sustainable forest management strategies and implement development-relevant interventions in rural and peri-urban areas. Germany s DAAD (the German Academic Exchange Service) will fund a limited number of scholarships for applicants from developing countries to enroll in TDU’s 2-year master s program. Applicants must…
+GIZ’s Agri-Business Facility for Africa invites young and emerging agripreneurs to turn a business idea into a funded plan through its Agribusiness Growth Challenge. Ideas must fall in maize, livestock (cattle, sheep or goats), cashew or cocoa. The Business Growth Awards are listed as €6,000 in fundi…
 
 === https://www.terravivagrants.org/subscribe-to-funding-alerts/ ===
 Skip to content

@@ -1,6 +1,6 @@
 SOURCE: EU — EIDHR / NDICI human rights & civil society calls
 URL: https://international-partnerships.ec.europa.eu/funding-and-technical-assistance_en
-FETCHED: 2026-10-16T03:59:25.502Z
+FETCHED: 2026-10-25T08:38:11.453Z
 TITLE: Funding and technical assistance - International Partnerships
 
 === MAIN PAGE ===
@@ -52,6 +52,7 @@ Sustainable growth and jobs
 European development policy
 Sustainable Development Goals
 Africa-EU Partnership
+EU’s Arctic Strategy
 See all
 
 Countries
@@ -79,10 +80,10 @@ Home
 Funding and technical assistance
 Funding and technical assistance
 
-Global Europe is the EU’s main financial tool fo
+Global Europe is the EU’s m
 
 --- relevant lines ---
-r promoting sustainable development, peace and stability across the globe. With an envelope of €79.5 billion for the period 2021-2027, the EU’s external actions support partner countries in achieving the Sustainable Development Goals.
+ain financial tool for promoting sustainable development, peace and stability across the globe. With an envelope of €79.5 billion for the period 2021-2027, the EU’s external actions support partner countries in achieving the Sustainable Development Goals.
 Funding instruments
 European Fund for Sustainable Development Plus
 Trust funds
@@ -140,6 +141,7 @@ Sustainable growth and jobs
 European development policy
 Sustainable Development Goals
 Africa-EU Partnership
+EU’s Arctic Strategy
 Вижте всичко
 
 Държави
@@ -165,12 +167,10 @@ Publications
 
 Home
 Финансиране и техническа помощ
-Финансиране и техническа помощ
-
-Глобална 
+Финансиране и технич
 
 --- relevant lines ---
-Европа е основният финансов инструмент на ЕС за насърчаване на устойчивото развитие, мира и стабилността в целия свят. Външните действия на ЕС, за които е предвидено финансиране в размер на 79,5 млрд. евро за периода 2021—2027 г., подпомагат държавите партньори при постигането на целите за устойчиво развитие.
+Глобална Европа е основният финансов инструмент на ЕС за насърчаване на устойчивото развитие, мира и стабилността в целия свят. Външните действия на ЕС, за които е предвидено финансиране в размер на 79,5 млрд. евро за периода 2021—2027 г., подпомагат държавите партньори при постигането на целите за устойчиво развитие.
 Funding instruments
 European Fund for Sustainable Development Plus
 Trust funds
@@ -228,6 +228,7 @@ Sustainable growth and jobs
 Política europea de desarrollo
 Objetivos de Desarrollo Sostenible
 Africa-EU Partnership
+EU’s Arctic Strategy
 Ver todo
 
 Países
@@ -253,7 +254,7 @@ Publications
 
 Home
 Financiación y asistencia técnica
-Financiación y asistencia técnic
+Financiació
 
 --- relevant lines ---
 Europa Global es el principal instrumento financiero de la UE para promover el desarrollo sostenible, la paz y la estabilidad en todo el mundo. Con una dotación de 79 500 millones de euros para el período 2021-2027, las acciones exteriores de la UE ayudan a los países socios a alcanzar los Objetivos de Desarrollo Sostenible.
@@ -314,6 +315,7 @@ Sustainable growth and jobs
 European development policy
 Sustainable Development Goals
 Africa-EU Partnership
+EU’s Arctic Strategy
 Zobrazit vše
 
 Země
@@ -339,12 +341,10 @@ Publications
 
 Home
 Financování a technická pomoc
-Financování a technická pomoc
-
-Globální Evropa 
+Financování a technická po
 
 --- relevant lines ---
-je hlavním finančním nástrojem EU, který slouží k podpoře udržitelného rozvoje, míru a stability na celém světě. Vnější činnost EU s finančním krytím ve výši 79,5 miliardy eur na období 2021–2027 podporuje partnerské země při dosahování cílů udržitelného rozvoje.
+Globální Evropa je hlavním finančním nástrojem EU, který slouží k podpoře udržitelného rozvoje, míru a stability na celém světě. Vnější činnost EU s finančním krytím ve výši 79,5 miliardy eur na období 2021–2027 podporuje partnerské země při dosahování cílů udržitelného rozvoje.
 Funding instruments
 European Fund for Sustainable Development Plus
 Trust funds
@@ -402,6 +402,7 @@ Sustainable growth and jobs
 European development policy
 Sustainable Development Goals
 Africa-EU Partnership
+EU’s Arctic Strategy
 Se alle
 
 Lande
@@ -429,10 +430,10 @@ Home
 Finansiering og teknisk bistand
 Finansiering og teknisk bistand
 
-Instrumentet "Et globalt Europa" er EU's vigtigste fi
+Instrumentet "Et globalt Europa"
 
 --- relevant lines ---
-nansielle redskab til at fremme bæredygtig udvikling, fred og stabilitet i hele verden. Med en finansieringsramme på 79,5 mia. euro for perioden 2021-2027 støtter EU-Udenrigstjenesten partnerlandene i at nå målene for bæredygtig udvikling.
+ er EU's vigtigste finansielle redskab til at fremme bæredygtig udvikling, fred og stabilitet i hele verden. Med en finansieringsramme på 79,5 mia. euro for perioden 2021-2027 støtter EU-Udenrigstjenesten partnerlandene i at nå målene for bæredygtig udvikling.
 Funding instruments
 European Fund for Sustainable Development Plus
 Trust funds

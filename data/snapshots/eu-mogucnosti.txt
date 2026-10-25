@@ -1,6 +1,6 @@
 SOURCE: EU mogućnosti — donor calls in Serbia
 URL: https://eumogucnosti.rs/
-FETCHED: 2026-10-16T03:59:26.911Z
+FETCHED: 2026-10-25T08:38:13.060Z
 TITLE: EU mogućnosti
 
 === MAIN PAGE ===
@@ -68,13 +68,6 @@ Biznis i inovacije
 Inovacije
 Obrazovanje
 
-GOTOTWIN poziv: Testiranje digitalnih rešenja za obnovljive izvore energije
-
-Biznis i inovacije
-Inovacije
-Lokalni razvoj i teritorijalna saradnja
-Zelena tranzicija
-
 Otvoren poziv Programa finansijske podrške ŠTIT u zajednici
 
 Civilno društvo
@@ -86,13 +79,22 @@ Biznis
 Biznis i inovacije
 Inovacije
 
-Kultura pok
+Kultura pokreće Evropu: Individualna mobilnost
+
+Kultura
+Kultura, mediji i civilno društvo
+Mediji
+
+Kreativna Evropa 2027: Razvoj video-igara i imerzivnog sadržaja
+
+Kultura
+Kultu
 
 --- relevant lines ---
-Kreativna Evropa 2027: Razvoj video-igara i imerzivnog sadržaja
+Filmovi u pokretu 2027: EU podrška distribuciji evropskih filmova
 13 - 16/10/2026
 28/10/2026
-07/10/2026
+11/06/2025
 05/10/2026
 23/09/2026
 11/09/2026
@@ -111,38 +113,14 @@ EU nedelja mogućnosti 2026: Kultura i civilno društvo
 EU nedelja mogućnosti 2026: Biznis i inovacije
 Info dan EU mogućnosti: WBF grantovi za lokalne inicijative koje povezuju region
 EU programi podrške: Info sesija o CERV pozivu Uključivanje i učešće građana 06.03.2026.
+📅 28. октобар 2026. | 11.00–15.00
+📅 28. октобар 2026. | 11.00–15.00
 📅 Rok za prijavu je 2. februar 2027.
 🔹 Automated Scientific Discovery (RAISE pilot), €29 miliona, uz oko €10 miliona očekivanog EU doprinosa po projektu i indikativno tri projekta.
 🔹 Automated Scientific Discovery – Food, €3 miliona, uz oko €3 miliona očekivanog EU doprinosa za jedan projekat.
 📅 Rok za prijavu je 2. februar 2027.
 🔹 Automated Scientific Discovery (RAISE pilot), €29 miliona, uz oko €10 miliona očekivanog EU doprinosa po projektu i indikativno tri projekta.
 🔹 Automated Scientific Discovery – Food, €3 miliona, uz oko €3 miliona očekivanog EU doprinosa za jedan projekat.
-📅 Rok za prijavljivanje: 11. oktobar 2026.
-📍 Novi Sad – 2. oktobar u 14.00 časova, OPENS
-📅 Rok za prijavljivanje: 11. oktobar 2026.
-📍 Novi Sad – 2. oktobar u 14.00 časova, OPENS
-🧡 DAPHNE 2026 је отворен до новембра
-Нови DAPHNE 2026 позив у оквиру програма CERV отворен је за организације које раде на спречавању и борби против родно заснованог насиља, насиља у породици и насиља над децом.
-📅 Рок за подношење пријава: 3. новембар 2026. у 17:00
-🧡 DAPHNE 2026 је отворен до новембра
-Нови DAPHNE 2026 позив у оквиру програма CERV отворен је за организације које раде на спречавању и борби против родно заснованог насиља, насиља у породици и насиља над децом.
-📅 Рок за подношење пријава: 3. новембар 2026. у 17:00
-🔹 16. септембар 2026, 10:00–11:30
-🔹 24. септембар 2026, 09:30–12:30
-🔹 08. октобар 2026, 09:30–12:45
-🔹 15. октобар 2026, 09:30–13:00
-🔹 12. новембар 2026, 10:00–12:00
-За потенцијалне учеснике из Србије, ово је добра прилика да се директно упознају са правилима, најчешћим грешкама, процесом подношења предлога, припремом уговора, управљањем пројектима и све важнијим правилима за lump sum funding.
-🔹 16. септембар 2026, 10:00–11:30
-🔹 24. септембар 2026, 09:30–12:30
-🔹 08. октобар 2026, 09:30–12:45
-🔹 15. октобар 2026, 09:30–13:00
-🔹 12. новембар 2026, 10:00–12:00
-За потенцијалне учеснике из Србије, ово је добра прилика да се директно упознају са правилима, најчешћим грешкама, процесом подношења предлога, припремом уговора, управљањем пројектима и све важнијим правилима за lump sum funding.
-📅 14–15. септембар 2026.
-📍 OPENS, Нови Сад
-📅 14–15. септембар 2026.
-📍 OPENS, Нови Сад
 Copyright © EU Delegacija u Srbiji 2026. Sva prava zadržana.
 
 === https://eumogucnosti.rs/evropska-fondacija-za-mlade-eyf-kako-organizacije-iz-srbije-mogu-do-grantova-saveta-evrope/ ===

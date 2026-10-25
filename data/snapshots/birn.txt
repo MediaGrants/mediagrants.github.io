@@ -1,6 +1,6 @@
 SOURCE: BIRN — Balkan Investigative Reporting Network
 URL: https://birn.eu.com/programmes/
-FETCHED: 2026-10-16T03:59:24.882Z
+FETCHED: 2026-10-25T08:38:11.206Z
 TITLE: Programmes Archives - BIRN
 
 === MAIN PAGE ===

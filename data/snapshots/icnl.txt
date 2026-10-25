@@ -1,6 +1,6 @@
 SOURCE: ICNL — International Center for Not-for-Profit Law
 URL: https://www.icnl.org/work-with-us/grants-fellowships
-FETCHED: 2026-10-16T03:59:26.752Z
+FETCHED: 2026-10-25T08:38:12.834Z
 TITLE: Grants - ICNL
 
 === MAIN PAGE ===
@@ -91,7 +91,7 @@ The International Center for Not-for-Profit Law works to build an enabling legal
 --- relevant lines ---
 casionally, we offer grants to civil society organizations and others working to promote and protect civic freedoms, as well as fellowships and internships at ICNL. See below for our current opportunities.
 Current Grant Opportunities
-call for proposals: Defending Digital Rights and Civic Space Online
+There are no current grant opportunities
 
 === https://www.icnl.org/work-with-us ===
 Skip to main content
