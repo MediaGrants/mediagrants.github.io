@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:22:35.628Z",
+  "generatedAt": "2026-10-25T04:15:52.869Z",
   "grants": [
     {
       "id": "access-now-digital-security-helpline",
@@ -1950,10 +1950,11 @@
         "rule-of-law",
         "anti-corruption",
         "human-rights",
-        "governance"
+        "governance",
+        "media-freedom"
       ],
       "track": "adjacent",
-      "eligibleActivity": "MATRA's own stated aim is to 'increase accountability and transparency of authorities, influence policies and legislation, and/or monitor their implementation' in rule-of-law and anti-corruption work. A journalism organisation registered as, or partnered with, a local NGO could apply for a documentation or monitoring project — e.g. investigative reporting on judicial reform or corruption that produces the public information the fund's own 'monitor implementation' criterion calls for — not an inferred fit.",
+      "eligibleActivity": "The Dutch Embassy's 2026 MATRA call for Serbia explicitly lists 'an enabling environment for free and independent media' as one of its named thematic priorities, alongside rule of law/anti-corruption and democratic processes — not an inferred fit but a theme stated directly in the call itself. A journalism organisation registered as, or partnered with, a local NGO could apply under this media-freedom strand for a documentation, monitoring or public-interest reporting project that strengthens independent media capacity, as called for in the fund's own rule-of-law/anti-corruption monitoring criterion.",
       "amount": {
         "min": 50000,
         "max": 150000,
@@ -1968,10 +1969,10 @@
         "europe-western-balkans"
       ],
       "sourceId": "nl-matra",
-      "lastVerified": "2026-10-11",
+      "lastVerified": "2026-10-25",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "New entry — this source had no snapshot (never checked before) and no snapshot entry exists today, so this is built entirely from WebSearch. The Netherlands Embassy runs MATRA calls per country/embassy (evidence found for Serbia/Montenegro, Bosnia and Herzegovina, and Kosovo) with two annual submission rounds, 1 April and 1 August; both 2026 rounds have already passed with no confirmed 2027 dates yet, so status is set to closed rather than guessing a reopening date. Eastern Partnership-country rounds (per this source's configured scope) were not evidenced today. Only local NGOs may apply, not individual freelancers or unregistered outlets. Not confirmed on the funder's own page. Checked again today (2026-10-11): the source URL (government.nl/topics/grant-programmes) does not mention MATRA at all in its current content — it now lists only unrelated Dutch 'Focus' framework instruments (Mine Action, FemFocus, Focus on Freedom), none with a confirmed journalism/documentation route and all with passed deadlines. MATRA itself is confirmed via websearch to still run as country-level embassy calls administered via RVO (e.g. a Kosovo embassy call, EUR 50,000-80,000, no current deadline found), suggesting this source's URL should be repointed to RVO's MATRA page or a specific embassy's call page rather than the generic government.nl listing."
+      "notes": "New entry — this source had no snapshot (never checked before) and no snapshot entry exists today, so this is built entirely from WebSearch. The Netherlands Embassy runs MATRA calls per country/embassy (evidence found for Serbia/Montenegro, Bosnia and Herzegovina, and Kosovo) with two annual submission rounds, 1 April and 1 August; both 2026 rounds have already passed with no confirmed 2027 dates yet, so status is set to closed rather than guessing a reopening date. Eastern Partnership-country rounds (per this source's configured scope) were not evidenced today. Only local NGOs may apply, not individual freelancers or unregistered outlets. Not confirmed on the funder's own page. Checked again today (2026-10-11): the source URL (government.nl/topics/grant-programmes) does not mention MATRA at all in its current content — it now lists only unrelated Dutch 'Focus' framework instruments (Mine Action, FemFocus, Focus on Freedom), none with a confirmed journalism/documentation route and all with passed deadlines. MATRA itself is confirmed via websearch to still run as country-level embassy calls administered via RVO (e.g. a Kosovo embassy call, EUR 50,000-80,000, no current deadline found), suggesting this source's URL should be repointed to RVO's MATRA page or a specific embassy's call page rather than the generic government.nl listing. Reconfirmed today (2026-10-25) via WebSearch: the Dutch Embassy Belgrade's own Serbia-specific 2026 MATRA call (netherlandsandyou.nl, document 'matra-call-for-applications-2026-pdf') explicitly names 'an enabling environment for free and independent media' as one of its thematic priorities — stronger, call-specific grounding for the media-freedom eligibility route than previously recorded. No Serbia-specific deadline could be confirmed (the comparable Bosnia and Herzegovina MATRA 2026 round closed 1 April 2026, already passed); status stays closed pending a confirmed open round. The generic government.nl/topics/grant-programmes source URL still does not mention MATRA at all. Not confirmed on the funder's own page."
     },
     {
       "id": "no-embassy-belgrade-western-balkans-6-media-freedom",
@@ -12400,6 +12401,47 @@
       "confidence": "medium",
       "provenance": "auto",
       "notes": "NEW entry this sweep, not previously tracked. rorypecktrust.org's own snapshot today is completely empty (0 words), so this is sourced via WebSearch of secondary listings (a UK scholarships aggregator and JX Fund's exile-journalism archive) referencing a 'New scholarship for journalists-in-exile' item dated 15 July 2026 on the Trust's own News & Insights page; that article's full text could not be opened to confirm the deadline or exact fee amount. No application deadline was found in any source reviewed, and this may be a one-off placement for the 2026/27 academic intake that could already be filled - reconfirm directly against rorypecktrust.org once it returns readable content, and treat status/deadline here as provisional. Do not confuse with the separate, unrelated Richard Beeston Bursary at the same university. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "digital-freedom-fund-litigation-grants",
+      "funder": "Digital Freedom Fund",
+      "programme": "Litigation Track and Pre-Litigation Research Support Grants",
+      "summary": "The Digital Freedom Fund re-grants to the digital-rights community in Europe, funding strategic litigation, pre-litigation research, and post-litigation advocacy or enforcement work. Its grant criteria explicitly include defensive litigation such as SLAPPs and criminal prosecutions, alongside offensive cases on topics like surveillance, platform accountability and predictive policing. DFF runs regular open calls; the next is expected to run from 23 November 2026 to 17 February 2027.",
+      "url": "https://digitalfreedomfund.org/grants/",
+      "applyUrl": "https://digitalfreedomfund.org/application-process/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "legal"
+      ],
+      "topics": [
+        "digital-rights",
+        "surveillance",
+        "data-protection",
+        "press-freedom"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "DFF's own grant criteria list 'defensive litigation: litigation brought against a grant applicant, including strategic lawsuits against public participation (SLAPPs) and criminal prosecutions' as an eligible case type, with post-litigation support covering 'advocacy or enforcement activities following the judgement.' A freelance journalist or media organisation sued (e.g. a SLAPP) or criminally prosecuted over digital-rights-related reporting -- surveillance, platform accountability, data protection, algorithmic decision-making -- can apply for litigation-track legal funding, provided the case is argued to advance digital rights beyond the individual dispute and fits DFF's European geographic mandate.",
+      "amount": {
+        "min": null,
+        "max": 100000,
+        "currency": "EUR",
+        "note": "DFF's own site states it has made 164 grants worth EUR 5.5 million since 2018, with no per-grant figure given there. Per secondary (non-funder) reporting, not restated on DFF's own page in our snapshot: litigation-track grants average around EUR 45,000 and can reach up to EUR 100,000; pre-litigation research support averages around EUR 25,000."
+      },
+      "deadline": "2027-02-17",
+      "deadlineType": "fixed",
+      "opensAt": "2026-11-23",
+      "status": "upcoming",
+      "geoScope": [
+        "europe"
+      ],
+      "sourceId": "digital-freedom-fund",
+      "lastVerified": "2026-10-25",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Dates and eligible-case language (including the SLAPP/defensive-litigation criterion) are drawn from DFF's own grants/application-process pages, via a snapshot fetched 2026-10-10 (15 days before this check), where 'Monday 23 November 2026: Call for applications opens' and 'Wednesday 17 February 2027: Deadline for final applications' are both stated directly. DFF's own grants page states applicants include both organisations and individuals ('more than 100 groups and individuals' since 2018). Grant-size figures came from a secondary funder-aggregator summary, not from DFF's own page in what we read. Not confirmed on the funder's own page."
     }
   ]
 }
