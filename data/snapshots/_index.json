@@ -1,13 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:15:00.147Z",
-  "captured": {
-    "trag-foundation": {
-      "fetchedAt": "2026-10-27T09:15:00.147Z",
-      "words": 1780,
-      "pages": 5
-    }
-  },
-  "failed": {
-    "unhcr-iom-migration": "HTTP 403"
-  }
+  "generatedAt": "2026-10-28T09:55:25.225Z",
+  "captured": {},
+  "failed": {}
 }
