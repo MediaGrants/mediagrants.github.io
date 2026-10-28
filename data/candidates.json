@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-27T04:15:10.349Z",
+  "generatedAt": "2026-10-28T04:11:35.000Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -364,8 +364,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-27",
-      "timesSeen": 4,
+      "lastSeen": "2026-10-28",
+      "timesSeen": 5,
       "status": "new",
       "evidence": "opportunitiesforyouth.org write-up of the 2026 JHR Program; re-seen today via the GFMD funding feed (Gordon N. Fisher / JHR Fellowship listing)."
     },
@@ -454,8 +454,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-23",
-      "timesSeen": 21,
+      "lastSeen": "2026-10-28",
+      "timesSeen": 22,
       "status": "new"
     },
     {
