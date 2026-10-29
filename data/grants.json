@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:11:23.000Z",
+  "generatedAt": "2026-10-29T04:16:33.000Z",
   "grants": [
     {
       "id": "access-now-digital-security-helpline",
@@ -4126,10 +4126,10 @@
         "europe"
       ],
       "sourceId": "terra-viva-grants",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today: fresh terravivagrants.org captures (home, funding-news, subscribe-to-alerts, grants-database) again held no new media-eligible calls. Today's funding-news blog (11 Oct 2026) showed only two GIZ prize/award competitions (cashew business idea contest, agribusiness growth awards) and a DAAD-funded forestry Master's scholarship at TU Dresden — none media/communications-eligible or journalism-relevant, so none recorded. This MFMC entry itself is unchanged. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Re-checked today via WebSearch of terravivagrants.org/funding-news and related tag pages: today's/this week's funding-news items are a Bene/IDRC community-forestry research fellowship (Canadian citizens only, not media-eligible) and two GIZ cashew/agribusiness prize competitions (awards, explicitly excluded from this site's scope, and not media work). A broader search for current climate-communication or environmental-journalism grants found only closed 2026 rounds elsewhere (Climate Tracker Latin America, Covering Climate Now, EJN Biodiversity Media Grants, Climate Journalism Awards — all with 2026 deadlines already passed) and no current MFMC-specific call date. This entry itself (recurring, no fixed deadline) is unchanged. Not confirmed on the funder's own page."
     },
     {
       "id": "au-embassy-belgrade-dap-egypt-sudan-eritrea",
@@ -4169,10 +4169,10 @@
         "ER"
       ],
       "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged this sweep. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "au-embassy-belgrade-dap-lebanon-syria",
@@ -4211,10 +4211,10 @@
         "SY"
       ],
       "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged this sweep. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "au-embassy-belgrade-direct-aid-program",
@@ -4313,10 +4313,10 @@
         "MU"
       ],
       "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged this sweep. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "au-embassy-belgrade-dap-ethiopia",
@@ -4354,16 +4354,16 @@
         "ET"
       ],
       "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged this sweep. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "au-embassy-belgrade-dap-equatorial-guinea",
       "funder": "Australian Embassy Madrid (Direct Aid Program)",
       "programme": "Direct Aid Program (DAP) 2026-27 — Equatorial Guinea",
-      "summary": "Australia's small-grants aid programme, administered by the Australian Embassy in Madrid on behalf of Equatorial Guinea, funds small-scale development and community projects there. Today's DAP portal snapshot shows the 2026-27 round's submissions closing 27 October 2026.",
+      "summary": "Australia's small-grants aid programme, administered by the Australian Embassy in Madrid on behalf of Equatorial Guinea, funds small-scale development and community projects there. The 2026-27 round's submission deadline of 27 October 2026 has now passed; a WebSearch today found no confirmation of a 2026-27 round at all on the embassy's own domain (only a 2025-26 round opening 7 October 2025 was found), so this round should be treated as closed pending re-confirmation.",
       "url": "https://spain.embassy.gov.au/madr/Direct_Aid_ProgramEN.html",
       "applyUrl": "https://dap.smartygrants.com.au/",
       "applicantTypes": [
@@ -4389,15 +4389,15 @@
       "deadline": "2026-10-27",
       "deadlineType": "fixed",
       "opensAt": null,
-      "status": "open",
+      "status": "closed",
       "geoScope": [
         "GQ"
       ],
       "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "New entry: today's au-embassy-belgrade DAP portal snapshot (read directly, dap.smartygrants.com.au) lists 'Madrid Direct Aid Program 2026-27 — Submissions close 4:00pm 27 October 2026 (CET)'; the Madrid post administers DAP for Equatorial Guinea, confirmed via WebSearch of the embassy's own (undated) DAP page listing priority sectors including human rights. Deadline is high-confidence (read on funder's own portal today); amount and priority-sector details are from a secondary, undated page. Not confirmed on the funder's own page for those latter details. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Status updated to closed: the previously-recorded deadline (27 October 2026) has now passed (today is 29 October 2026). A fresh WebSearch today could not find any funder-side confirmation of a 2026-27 Equatorial Guinea DAP round at all (only a 2025-26 round administered from Madrid, opening 7 October 2025, turned up), which raises some doubt about the original deadline capture; no successor round found. Not confirmed on the funder's own page."
     },
     {
       "id": "us-embassy-belgrade-democracy-commission-small-grants",
@@ -4434,10 +4434,10 @@
         "RS"
       ],
       "sourceId": "us-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged this sweep: snapshot fetch for this source failed again today ('fetch failed'). A fresh WebSearch today again surfaced only aggregator copies (fundsforngos.org, grantexec.com, sweetspotgov.com) of past Embassy Belgrade Notices of Funding Opportunity — most recent dated cycle still FY2024 (deadline 10 May 2024, total $265,000, grants $10,000-$50,000, contact DemComSerbia@state.gov) — no new 2026/2027 round found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Re-checked today via WebSearch: only aggregator copies of the FY2024 Notice of Funding Opportunity (deadline 10 May 2024) surfaced again; no 2026/2027-dated round found. rs.usembassy.gov grants page itself could not be fetched (WebFetch unavailable in this session today). Not confirmed on the funder's own page."
     },
     {
       "id": "us-embassy-belgrade-mtd-small-grants",
@@ -4475,10 +4475,10 @@
         "RS"
       ],
       "sourceId": "us-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged this sweep: snapshot fetch for this source failed again today ('fetch failed'). A fresh WebSearch today again surfaced only historical notices (2020 deadline, and the August 2024 FIMI-focused round) with no new deadline or round specific to this line. Check rs.usembassy.gov/grants-programs/ directly for current status. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Re-checked today via WebSearch: only historical notices (2020 cycle; August 2024 FIMI-focused round) surfaced again; no new 2026/2027 round found. rs.usembassy.gov grants page itself could not be fetched (WebFetch unavailable in this session today). Not confirmed on the funder's own page."
     },
     {
       "id": "eu-delegation-serbia-support-independent-media-sector-2026",
@@ -4553,10 +4553,10 @@
         "global"
       ],
       "sourceId": "canada-fund-cfli",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-checked today against the full 61-page/2,846-line snapshot: a full-text search of the entire crawl for 'journal', 'media', 'press freedom', 'freedom of expression', 'disinformation', 'documentation' and 'public information' again returned zero matches, and every one of the ~45 distinct country/region 'Current status of the call for proposals' rows reads 'Closed' (deadlines 2024-02 to 2026-08) — unchanged from the prior sweep. Kept open at the programme/mechanism level since Canadian embassies run new annual rounds; see the Serbia/Montenegro/North Macedonia entry for the one Western-Balkans-relevant round with concrete eligibility wording. Not confirmed on the funder's own page for the thematic-priority wording specifically. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Re-checked today via WebSearch: 2026 country calls found (Palestine deadline 20 Apr 2026, Namibia 3 Jul 2026, Haiti 22 Jun 2026, Angola, Indonesia & Timor-Leste 27 Apr 2026, a Caribbean group - Dominica/Grenada/Saint Lucia/St Vincent and the Grenadines) are all already closed; no country round with a deadline still open today (29 Oct 2026) or opening in Nov/Dec 2026 was found. Kept open at the programme/mechanism level since embassies run new annual rounds each year. Not confirmed on the funder's own page."
     },
     {
       "id": "canada-fund-cfli-rs-me-mk-2026",
@@ -4595,10 +4595,10 @@
         "MK"
       ],
       "sourceId": "canada-fund-cfli",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-confirmed in today's snapshot (line ~2582-2583): 'The Canada Fund for Local Initiatives - Serbia, Montenegro and North Macedonia (2026) / Current status of the call for proposals: Closed. We thank you for your interest. The deadline for submitting a proposal has now passed.' High confidence on closed status specifically. Deadline, amount figures and priority wording came from earlier WebSearch since the crawl of this page truncates before reaching those details. No 2027 successor round found. Not confirmed on the funder's own page for deadline, amount and priority-wording specifics. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "eidhr-ncidi-human-rights-democracy-programme",
@@ -4636,10 +4636,10 @@
         "global"
       ],
       "sourceId": "eidhr-ncidi",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Unchanged this sweep: today's snapshot of the EU International Partnerships landing page was again navigation/boilerplate only, repeated across ~15 language variants, no new country calls surfaced. A WebSearch for a current Nov/Dec 2026 open NDICI human-rights/civil-society call found only closed 2026 rounds (Kenya, Israel, Moldova, Ukraine, West Bank/Gaza, and a Philippines 2026 CSO call that explicitly 'includes journalist support among its priorities' — concept notes closed 6 April 2026); none remain open today. See 'eidhr-ncidi-pakistan-media-freedom-2026' and 'eidhr-ncidi-moldova-independent-media-2026' for concrete, closed country-round examples. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Re-checked today via WebSearch: found several 2025-2026 country-level Human Rights and Democracy Thematic Programme calls (North Macedonia, deadline 31 Aug 2026; Mongolia, deadline 30 Sep 2026; Israel/Palestine joint CSO+HRD call, concept notes due 26 May 2026; Jordan CSO+independent-media call, deadline 14 Jun 2026; Kosovo Civil Society Facility and Media Programme with a Public Interest Journalism & Investigative Reporting lot, deadline 18 May 2026) — all already closed as of today. No new or currently-open country round was found. Kept at programme level per existing entry. Not confirmed on the funder's own page."
     },
     {
       "id": "eidhr-ncidi-moldova-independent-media-2026",
@@ -4676,10 +4676,10 @@
         "MD"
       ],
       "sourceId": "eidhr-ncidi",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "No action this sweep: concept-note deadline (31 March 2026) has already passed; kept as an archived record since the EU Delegation to Moldova is likely to run a similar media lot in future rounds. No successor round found in this sweep's WebSearch. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "eidhr-ncidi-pakistan-media-freedom-2026",
@@ -4717,10 +4717,10 @@
         "PK"
       ],
       "sourceId": "eidhr-ncidi",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "No action this sweep: concept-note deadline (21 April 2026) has passed and the round is closed. No successor round found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "trag-foundation-civic-emergency-fund",
@@ -4935,16 +4935,16 @@
         "ID"
       ],
       "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Not in this morning's au-embassy-belgrade snapshot, which surfaced only the Kuala Lumpur and Madrid rounds. Found via WebSearch; existence and deadline corroborated by the consulate's own domain (surabaya.consulate.gov.au) as summarized by the search tool. Priority-area list is carried over from the 2025-26 round, not confirmed for 2026-27. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed via WebSearch today (2026-10-29); no change found since the prior sweep. Not confirmed on the funder's own page."
     },
     {
       "id": "au-embassy-belgrade-dap-thailand",
       "funder": "Australian Embassy, Bangkok — Direct Aid Program",
       "programme": "Direct Aid Program (DAP) 2026-27 — Thailand",
-      "summary": "The Australian Embassy in Bangkok has its 2026-27 Direct Aid Program round open, closing 22 October 2026 at 8pm (ICT). A secondary listing of the post's priority sectors names human rights, governance and social inclusion as themes, consistent with other DAP posts' standard categories; the embassy's own current-round guidelines text was not independently read.",
+      "summary": "The Australian Embassy in Bangkok's 2026-27 Direct Aid Program round closed 22 October 2026 at 8pm (ICT). A WebSearch today found the embassy's own Direct Aid Program page describing the 2025-26 round as closed, with no 2026-27 deadline listed there; no successor round was found.",
       "url": "https://thailand.embassy.gov.au/bkok/Direct_Aid_Program.html",
       "applyUrl": "https://dap.smartygrants.com.au/",
       "applicantTypes": [
@@ -4969,15 +4969,15 @@
       "deadline": "2026-10-22",
       "deadlineType": "fixed",
       "opensAt": null,
-      "status": "open",
+      "status": "closed",
       "geoScope": [
         "TH"
       ],
       "sourceId": "au-embassy-belgrade",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Not in this morning's au-embassy-belgrade snapshot. Found via WebSearch, with the deadline attributed to the embassy's own domain (thailand.embassy.gov.au) as summarized by the search tool. Priority-sector list came from a third-party aggregator, not the embassy's own current guidelines text. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page."
+      "notes": "Status updated to closed: the previously-recorded deadline (22 October 2026) has passed. Today's WebSearch of the Bangkok embassy's own page found it describing the prior (2025-26) round as closed and showing no 2026-27 date at all, so the deadline captured by a previous sweep could not be independently re-confirmed today; no successor/next round found. Not confirmed on the funder's own page."
     },
     {
       "id": "limelight-request-for-support",
@@ -6756,10 +6756,10 @@
         "global"
       ],
       "sourceId": "open-tech-fund",
-      "lastVerified": "2026-10-26",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed verbatim in the 2026-10-15 snapshot (re-read today): explicitly names journalists among eligible high-risk individuals/organizations facing a 'clear and time-sensitive digital emergency,' and restates the $1-$50,000/six-months award terms and single-form rolling application process. OTF's other funds (Internet Freedom Fund, Surge and Sustain Fund, FOSS Sustainability Fund, ICRP research fellowships) remain excluded as before: they fund internet-freedom technology/research rather than journalism itself. Confidence held at medium (snapshot 3 days old, not fetched today). Rechecked today (2026-10-21) against the 2026-10-15 snapshot (no fresher snapshot available); unchanged."
+      "notes": "Re-checked today via WebSearch (WebFetch unavailable in this session today, so OTF's own page could not be loaded directly): search-result summaries of opentech.fund/funds/rapid-response-fund/ again describe a rolling, no-deadline fund of roughly $1-$50,000 for up to six months, open to 'activists, journalists, human rights defenders or other high-risk individual[s] or organization[s] facing a clear and time-sensitive digital emergency.' No programme changes found. Not confirmed on the funder's own page."
     },
     {
       "id": "dw-akademie-international-journalism-traineeship-2028",
@@ -8281,28 +8281,29 @@
     },
     {
       "id": "ij4eu-freelancer-support-scheme",
-      "funder": "IJ4EU / European Journalism Centre (EJC)",
+      "funder": "IJ4EU — Investigative Journalism for Europe",
       "programme": "Freelancer Support Scheme",
-      "summary": "IJ4EU's Freelancer Support Scheme funds cross-border teams of journalists working predominantly outside newsroom structures, with grants up to EUR 20,000 plus mentoring, training and networking support. The next call opens 1 December 2026 and closes 2 February 2027.",
-      "url": "https://investigativejournalismforeu.net/grants/freelancer-support-scheme/",
+      "summary": "Supports cross-border investigative journalism teams made up predominantly of freelance journalists based in Europe, offering grants plus training and mentoring. One of IJ4EU's two parallel annual schemes under its 2026-27 funding cycle.",
+      "url": "https://investigativejournalismforeu.net/grants/",
       "applyUrl": "https://investigativejournalismforeu.net/grants/freelancer-support-scheme/",
       "applicantTypes": [
         "freelancer"
       ],
       "supportTypes": [
         "project",
+        "training",
         "mentoring"
       ],
       "topics": [
-        "cross-border",
-        "investigative"
+        "investigative",
+        "cross-border"
       ],
       "track": "media",
       "amount": {
         "min": null,
         "max": 20000,
         "currency": "EUR",
-        "note": "EUR 1.6 million total available across both IJ4EU schemes for the 2026-27 round per IJ4EU's own site, found via search; supersedes a previous ~EUR 400,000 single-scheme estimate."
+        "note": "Reported as up to €20,000 plus training and mentoring; figure seen via search snippets of third-party/aggregator pages, not read directly on the funder's own page today."
       },
       "deadline": "2027-02-02",
       "deadlineType": "fixed",
@@ -8313,17 +8314,17 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-10-28",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed today (2026-10-28) via WebSearch citing investigativejournalismforeu.net/2026-27-calendar/: second call opens 1 Dec 2026, info webinar 8 Dec, masterclass 15 Dec, closes 2 Feb 2027. Not confirmed on the funder's own page."
+      "notes": "Re-verification: the existing tracked deadline of 2027-02-02 is confirmed accurate. IJ4EU's own 2026-27 calendar (per search snippet) shows this second call of the cycle opens 1 Dec 2026, with an info webinar 8 Dec and a Cross-Border Masterclass 15 Dec, closing 2 Feb 2027. The first call of this same cycle already closed 13 Apr 2026. Not confirmed on the funder's own page."
     },
     {
       "id": "ij4eu-investigation-support-scheme",
-      "funder": "IJ4EU / International Press Institute (IPI)",
+      "funder": "IJ4EU — Investigative Journalism for Europe",
       "programme": "Investigation Support Scheme",
-      "summary": "IJ4EU's Investigation Support Scheme funds cross-border investigative journalism teams of any kind with grants of EUR 5,000-50,000, covering up to 100% of project costs. The next call opens 1 December 2026 and closes 2 February 2027.",
-      "url": "https://investigativejournalismforeu.net/grants/investigation-support-scheme/",
+      "summary": "Supports cross-border investigative journalism teams (newsrooms and/or freelancers) based in at least two European countries, funding larger investigations than the Freelancer scheme. One of IJ4EU's two parallel annual schemes under its 2026-27 funding cycle.",
+      "url": "https://investigativejournalismforeu.net/grants/",
       "applyUrl": "https://investigativejournalismforeu.net/grants/investigation-support-scheme/",
       "applicantTypes": [
         "freelancer",
@@ -8333,15 +8334,15 @@
         "project"
       ],
       "topics": [
-        "cross-border",
-        "investigative"
+        "investigative",
+        "cross-border"
       ],
       "track": "media",
       "amount": {
-        "min": 5000,
+        "min": null,
         "max": 50000,
         "currency": "EUR",
-        "note": "EUR 1.6 million total available across both IJ4EU schemes for the 2026-27 round per IJ4EU's own site, found via search; supersedes a previous ~EUR 1.2 million single-scheme estimate."
+        "note": "Reported as up to €50,000; figure seen via search snippets of third-party/aggregator pages, not read directly on the funder's own page today."
       },
       "deadline": "2027-02-02",
       "deadlineType": "fixed",
@@ -8352,10 +8353,10 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-10-28",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed today (2026-10-28) via WebSearch citing investigativejournalismforeu.net/2026-27-calendar/: second call opens 1 Dec 2026, closes 2 Feb 2027. Not confirmed on the funder's own page."
+      "notes": "Re-verification: the existing tracked deadline of 2027-02-02 is confirmed accurate (same second-call window as the Freelancer Support Scheme: opens 1 Dec 2026, closes 2 Feb 2027, per IJ4EU's own 2026-27 calendar seen via search snippet). Total funding figure for the 2026-27 cycle is reported inconsistently across sources (€1.2m vs €1.6m) so omitted. Not confirmed on the funder's own page."
     },
     {
       "id": "ij4eu-uncovered-2026-travel-grant",
@@ -12323,43 +12324,333 @@
     {
       "id": "earth-journalism-30x30-marine-protected-areas-workshop-2027",
       "funder": "Earth Journalism Network (Internews)",
-      "programme": "Virtual Media Workshops on the 30x30 Target and Marine Protected Areas",
-      "summary": "Three-day virtual media workshops for journalists from Ghana, Mexico and the Philippines on the 30x30 marine conservation target and marine protected area implementation, running February-March 2027. Prior rounds included a communications stipend, certificate of completion, and consideration for follow-on story grants.",
-      "url": "https://earthjournalism.net/opportunities/virtual-media-workshops-on-the-30x30-target-and-marine-protected-areas-2026",
+      "programme": "Virtual Media Workshops on the 30x30 Target and Marine Protected Areas (2027)",
+      "summary": "Virtual training workshops (English and Spanish) for journalists from Ghana, Mexico and the Philippines on reporting the 30x30 ocean conservation target and marine protected areas, with communications stipends and the chance to be considered for post-workshop story grants.",
+      "url": "https://earthjournalism.net/opportunities",
       "applyUrl": "https://earthjournalism.net/opportunities/virtual-media-workshops-on-the-30x30-target-and-marine-protected-areas-2026",
       "applicantTypes": [
         "freelancer",
         "organisation"
       ],
       "supportTypes": [
-        "training"
+        "training",
+        "project"
       ],
       "topics": [
-        "biodiversity",
         "ocean",
-        "climate"
+        "conservation",
+        "marine"
       ],
       "track": "media",
       "amount": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "note": "Prior rounds offered a communications stipend; amount not stated for the 2027 round."
+        "min": 1500,
+        "max": 1500,
+        "currency": "USD",
+        "note": "Reported as up to 35 post-workshop story grants of $1,500 each, plus workshop communications stipends; figures seen via a secondary aggregator (Opportunity Desk), not the funder's own page."
       },
-      "deadline": null,
-      "deadlineType": "unknown",
+      "deadline": "2026-11-02",
+      "deadlineType": "fixed",
       "opensAt": null,
-      "status": "upcoming",
+      "status": "open",
       "geoScope": [
         "GH",
         "MX",
         "PH"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-10-28",
+      "lastVerified": "2026-10-29",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Found via WebSearch only (earthjournalism.net returns HTTP 403, no snapshot possible). 2027 round (Ghana/Mexico/Philippines, workshops Feb-Mar 2027) is confirmed to exist via EJN's own project-update pages, but sources conflict on its application deadline (one aggregator claimed Nov 2, 2026, uncorroborated elsewhere; prior rounds had January deadlines) — left null per evidence rules rather than guess. Not confirmed on the funder's own page."
+      "notes": "STATUS CHANGE from existing tracked entry: previously recorded as status 'upcoming' with deadline null/unknown. Found via a secondary listing (Opportunity Desk, dated 21 Oct 2026) that applications for the 2027 edition are now open, closing 2 Nov 2026, with workshop sessions expected Feb-Mar 2027 (exact dates not yet announced). This is very recent/time-sensitive — recommend the orchestrator double-check the live page before publishing given the near deadline. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "pulitzer-center-african-radio-engagement-initiatives",
+      "funder": "Pulitzer Center",
+      "programme": "African Radio Engagement Initiatives",
+      "summary": "Supports registered media and radio outlets in East, Southern and West Africa to co-design participatory radio programmes or podcasts based on Pulitzer Center-supported reporting on climate and labor, aimed at community dialogue with decision-makers. Appears to run as a recurring annual call (an earlier, narrower 2025 round covered Ghana, Zambia, Ethiopia and Burkina Faso).",
+      "url": "https://pulitzercenter.org/grants-fellowships",
+      "applyUrl": "https://pulitzercenter.org/journalism/africa-outreach-program",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "climate",
+        "labor",
+        "radio",
+        "community-engagement"
+      ],
+      "track": "media",
+      "amount": {
+        "min": 2500,
+        "max": 2500,
+        "currency": "USD",
+        "note": "Reported as a flat $2,500 per selected partner outlet for implementation and coordination."
+      },
+      "deadline": "2026-04-15",
+      "deadlineType": "recurring",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "africa-sub-saharan"
+      ],
+      "sourceId": "pulitzer-center",
+      "lastVerified": "2026-10-29",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Genuinely new programme not in existing entries. 2026 cycle closed 15 Apr 2026; six stations were selected from 173 proposals (announced via Pulitzer Center update ~15 May 2026). Recorded as closed/recurring so a future cycle can be tracked. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "earth-journalism-western-balkans-biodiversity-story-grants-2026",
+      "funder": "Earth Journalism Network (Internews)",
+      "programme": "Story Grants for Reporting on Biodiversity Issues in the Western Balkans (2026)",
+      "summary": "Small per-story grants for journalists in the Western Balkans to produce in-depth reporting on the region's biodiversity crisis, with a set publication deadline. Distinct from EJN's broader Biodiversity Media Grants 2026 and Biodiversity Story Grants 2026 programmes already tracked.",
+      "url": "https://earthjournalism.net/opportunities/story-grants-to-support-reporting-on-biodiversity-issues-in-the-western-balkans-2026",
+      "applyUrl": "https://earthjournalism.net/opportunities/story-grants-to-support-reporting-on-biodiversity-issues-in-the-western-balkans-2026",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "biodiversity",
+        "environment"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": 1200,
+        "currency": "EUR",
+        "note": "Reported as up to approximately €1,200 per story."
+      },
+      "deadline": "2026-02-19",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "europe-western-balkans"
+      ],
+      "sourceId": "earth-journalism",
+      "lastVerified": "2026-10-29",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Genuinely new programme not in existing entries. Sources disagree slightly on the exact deadline (19 Feb vs 22 Feb 2026); either way this cycle is already closed as of today. Published stories were due by 30 Aug 2026. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "earth-journalism-philippines-extreme-weather-investigative-fellowship-2026",
+      "funder": "Earth Journalism Network (Internews)",
+      "programme": "Extreme Weather in the Philippines Investigative Reporting Fellowship",
+      "summary": "Fellowship for Philippines-based journalists with environmental, climate or governance reporting experience to investigate extreme-weather preparedness and disaster spending, including an investigative reporting workshop, story grants and mentorship.",
+      "url": "https://earthjournalism.net/opportunities/extreme-weather-in-the-philippines-investigative-reporting-fellowship",
+      "applyUrl": "https://earthjournalism.net/opportunities/extreme-weather-in-the-philippines-investigative-reporting-fellowship",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship",
+        "training",
+        "mentoring"
+      ],
+      "topics": [
+        "climate",
+        "disaster",
+        "investigative",
+        "governance"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": 118000,
+        "currency": "PHP",
+        "note": "Reported as up to 12 fellowships of ₱118,000 each."
+      },
+      "deadline": "2026-01-16",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "closed",
+      "geoScope": [
+        "PH"
+      ],
+      "sourceId": "earth-journalism",
+      "lastVerified": "2026-10-29",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Genuinely new programme not in existing entries. Sources disagree on the exact deadline: most aggregators give 9 Jan 2026, while the EJN opportunities listing itself reportedly shows an extended deadline of 16 Jan 2026 — recorded the extended date but either way this cycle is already closed. 12 fellows were selected per a later EJN project update. Eligibility required applicants based in the Philippines with 2+ years of journalism experience. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "eu-funding-portal-media-freedom-rapid-response-2027",
+      "funder": "European Commission (Creative Europe)",
+      "programme": "Creative Europe — NEWS: Media Freedom Rapid Response Mechanism (CREA-CROSS-2027-MFP)",
+      "summary": "A Creative Europe Cross-sectoral call funding an EU-wide rapid-response mechanism that provides legal, safety and advocacy support to journalists and media outlets facing threats to press freedom. The call funds the organisation(s) operating the mechanism, submitted as a consortium of independent entities, rather than individual story grants.",
+      "url": "https://digital-strategy.ec.europa.eu/en/funding",
+      "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "core",
+        "legal",
+        "emergency"
+      ],
+      "topics": [
+        "media-freedom",
+        "journalist-safety",
+        "rapid-response"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": "Third-party aggregators (euacc.ai, proposia.ai) give a total 2027 call budget of EUR 3,000,000; no per-project ceiling confirmed."
+      },
+      "deadline": "2027-01-27",
+      "deadlineType": "fixed",
+      "opensAt": "2026-10-20",
+      "status": "open",
+      "geoScope": [
+        "europe-eu",
+        "europe-eu-candidate"
+      ],
+      "sourceId": "eu-funding-portal",
+      "lastVerified": "2026-10-29",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Topic ID CREA-CROSS-2027-MFP, successor to the 2025 MFP round; found only via third-party EU-call aggregators (euacc.ai, proposia.ai), which agree on the deadline and publication date. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "eu-funding-portal-crea-media-literacy-2027",
+      "funder": "European Commission (Creative Europe)",
+      "programme": "Creative Europe — NEWS: Media Literacy, Cross-border (CREA-CROSS-2027-MEDIALITERACY)",
+      "summary": "A Creative Europe Cross-sectoral call funding innovative, cross-border media-literacy projects that strengthen citizens' critical approach to media and resilience against disinformation and manipulation techniques. As with the closed 2026 round, projects are expected to require a consortium of independent entities from several eligible countries.",
+      "url": "https://digital-strategy.ec.europa.eu/en/funding",
+      "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "training"
+      ],
+      "topics": [
+        "media-literacy",
+        "disinformation",
+        "civic-resilience"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": "Third-party aggregators give a total 2027 call budget of EUR 3,500,000; no per-project ceiling confirmed for this round (the closed 2026 round capped projects at EUR 500,000)."
+      },
+      "deadline": "2027-01-20",
+      "deadlineType": "fixed",
+      "opensAt": "2026-10-20",
+      "status": "open",
+      "geoScope": [
+        "europe-eu",
+        "europe-eu-candidate"
+      ],
+      "sourceId": "eu-funding-portal",
+      "lastVerified": "2026-10-29",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Topic ID CREA-CROSS-2027-MEDIALITERACY, the 2027 successor to the closed CREA-CROSS-2026-MEDIALITERACY entry already on file; found via third-party aggregators (euacc.ai, euagenda.eu). Not confirmed on the funder's own page."
+    },
+    {
+      "id": "eu-funding-portal-journalism-partnerships-pluralism-2027",
+      "funder": "European Commission (Creative Europe)",
+      "programme": "Creative Europe — Journalism Partnerships: Pluralism 2027 (CREA-CROSS-2027-JOURPART-PLURALISM)",
+      "summary": "A Creative Europe call, successor to the closed 2026 Pluralism round, providing grants to organisations and intermediaries that redistribute funding to news media entities in sectors of particular relevance to democracy, such as local, regional and community media and investigative journalism.",
+      "url": "https://digital-strategy.ec.europa.eu/en/funding",
+      "applyUrl": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search",
+      "applicantTypes": [
+        "organisation"
+      ],
+      "supportTypes": [
+        "project",
+        "regranting"
+      ],
+      "topics": [
+        "media-pluralism",
+        "regranting",
+        "investigative",
+        "local-media"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "note": "Third-party aggregator (euacc.ai) gives a 2027 budget figure of EUR 7,000,000, which may be shared with a sibling 'Collaborations' topic rather than exclusive to Pluralism; no per-project ceiling confirmed."
+      },
+      "deadline": "2027-02-04",
+      "deadlineType": "fixed",
+      "opensAt": "2026-10-20",
+      "status": "open",
+      "geoScope": [
+        "europe-eu",
+        "AL",
+        "AM",
+        "BA",
+        "GE",
+        "XK",
+        "ME",
+        "MK",
+        "RS",
+        "TN",
+        "UA"
+      ],
+      "sourceId": "eu-funding-portal",
+      "lastVerified": "2026-10-29",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Topic ID CREA-CROSS-2027-JOURPART-PLURALISM, successor to the closed 2026 Pluralism entry already on file; found via third-party aggregator euacc.ai. A 2027 'Collaborations' counterpart topic could not be confirmed with its own page, so it is not recorded separately this sweep. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "eu-delegation-serbia-euinfonet-promotion-eu-values",
+      "funder": "EU Delegation to Serbia (EUINFONET — EU Communication Network in Serbia)",
+      "programme": "Open Call for Offers — Promotion of EU Values and Actions in Serbia",
+      "summary": "A rolling open call run through EUINFONET, the EU Delegation's communication network in Serbia, funding social, cultural, educational and civic initiatives that promote EU values, policies and Serbia's accession process. Offers are reviewed on a roll-on, monthly basis and are open to individuals, associations, organisations, CSOs, institutions, foundations and festivals established in Serbia.",
+      "url": "https://europa.rs/open-calls/?lang=en",
+      "applyUrl": "https://europa.rs/open-calls/?lang=en",
+      "applicantTypes": [
+        "organisation",
+        "freelancer"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "eu-integration",
+        "public-information",
+        "civic-education"
+      ],
+      "track": "adjacent",
+      "eligibleActivity": "The call funds 'social, cultural, sports, intellectual, educational and other civic initiatives' promoting EU values and Serbia's accession process, and explicitly says initiatives that reach wider audiences through 'innovative communication and engagement' on these themes are strongly encouraged to apply; a newsroom or freelance journalist producing public-interest explainer or awareness content on EU integration and accession reforms sits directly within that stated priority.",
+      "amount": {
+        "min": null,
+        "max": 7000,
+        "currency": "EUR",
+        "note": "Individual assignments reported as capped at EUR 7,000 (per the original 2022 call document and a secondary listing); total programme budget not stated in evidence found."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "RS"
+      ],
+      "sourceId": "eu-delegation-serbia",
+      "lastVerified": "2026-10-29",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "The europa.rs open-calls page currently points to this EUINFONET call as an ongoing roll-on call for offers, implemented by EPTISA/GOPA PACE on the Delegation's behalf. The original call document dates to 2022 and secondary listings disagree about whether it is still live (one gives an end date of 2023-12-31, another shows 'last updated' 2025-12-31), so treat its live status with caution despite its appearance on the current open-calls page. Not confirmed on the funder's own page."
     }
   ]
 }

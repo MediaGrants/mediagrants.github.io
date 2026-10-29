@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-28T04:11:35.000Z",
+  "generatedAt": "2026-10-29T04:20:00.000Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -87,8 +87,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 14,
+      "lastSeen": "2026-10-29",
+      "timesSeen": 15,
       "status": "new"
     },
     {
@@ -364,8 +364,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-28",
-      "timesSeen": 5,
+      "lastSeen": "2026-10-29",
+      "timesSeen": 6,
       "status": "new",
       "evidence": "opportunitiesforyouth.org write-up of the 2026 JHR Program; re-seen today via the GFMD funding feed (Gordon N. Fisher / JHR Fellowship listing)."
     },
@@ -454,8 +454,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-28",
-      "timesSeen": 22,
+      "lastSeen": "2026-10-29",
+      "timesSeen": 23,
       "status": "new"
     },
     {
@@ -539,8 +539,8 @@
         "terra-viva-grants"
       ],
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-24",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-29",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -786,8 +786,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-23",
-      "timesSeen": 9,
+      "lastSeen": "2026-10-29",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -1556,8 +1556,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-27",
-      "timesSeen": 26,
+      "lastSeen": "2026-10-29",
+      "timesSeen": 27,
       "status": "new"
     },
     {
@@ -1611,6 +1611,186 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "AIP's own announcements (aip.org.za, Nov 2024 launch, Aug 2025 first call, Feb 2026 Ignite programme launch, June 2026 second-round awards) and South African Press Council coverage. Read October 2026."
+    },
+    {
+      "name": "World Federation of Science Journalists (WFSJ) / World Conference of Science Journalists",
+      "url": "https://wfsj.org/",
+      "why": "Runs the WCSJ2027 Travel Fellowship for science journalists, listed on GFMD's fellowships feed; no entry in sources.json.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "NIHCM Foundation (National Institute for Health Care Management)",
+      "url": "https://nihcm.org/grants",
+      "why": "Runs the annual Health Care Journalism Grants programme (up to $500,000/year) listed on GFMD's funding feed; no entry in sources.json.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "SPJ Foundation (Society of Professional Journalists Foundation)",
+      "url": "https://spj.org/foundation-grants.asp",
+      "why": "Runs an annual grant cycle supporting press freedom and newsroom resilience, listed on GFMD's funding feed; no entry in sources.json.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Glen Nelson Center at American Public Media Group",
+      "url": "https://www.americanpublicmedia.org/",
+      "why": "Runs the annual 'Next Challenge for Media & Journalism' startup grant competition (up to $250,000) listed on GFMD's funding feed; no entry in sources.json.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Tarbell Center for AI Journalism",
+      "url": "https://every.org/tarbell",
+      "why": "AI-journalism funder offering $1,000-$20,000 individual reporting grants plus a newly announced $10M institutional grantmaking fund (Oct 2026); surfaced via search results referencing an IJNet opportunity post. No entry in sources.json. Note: could not confirm Tarbell's own primary domain with certainty - the URL given is a verified donation/info page for the organisation, not necessarily its main site.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "IWPR (Institute for War and Peace Reporting)",
+      "url": "https://iwpr.net/",
+      "why": "Runs small grants programmes for journalists (e.g. a Ukraine small-grants programme referenced via an IJNet opportunity post); no entry in sources.json.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Dorothy and Lewis B. Cullman Center for Scholars and Writers (New York Public Library)",
+      "url": "https://www.nypl.org/csw",
+      "why": "Nine-month, stipended fellowship open to journalists among other writers/scholars, referenced via an IJNet opportunity post; no entry in sources.json.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "iMEdD (Incubator for Media Education and Development)",
+      "url": "https://www.imedd.org/",
+      "why": "Greek media non-profit running paid newsroom placements for young journalists, referenced via an IJNet opportunity post; no entry in sources.json.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "APWLD (Asia Pacific Forum on Women, Law and Development)",
+      "url": "https://apwld.org/",
+      "why": "Feminist regional network running a digital-rights-and-gender-justice fellowship referenced via an IJNet opportunity post; adjacent-track funder with no entry in sources.json - a reporting/documentation route was not confirmed in the snippet seen, so no eligibleActivity could be written and no entry was recorded.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "SMART Balkans Project (Civil Society for Shared Society in the Western Balkans)",
+      "url": "https://smartbalkansproject.org/",
+      "why": "A Norway-funded, multi-country regional civil-society grants programme covering Serbia (led by CRPM/CPCD/IDM) that has previously run a dedicated 'Public Call for Media Grants'; not present in sources.json.",
+      "seenAt": [
+        "eu-mogucnosti"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Belgrade Open School (BOS)",
+      "url": "https://www.bos.rs/en",
+      "why": "Serbian civil-society organisation that implements EU Delegation-backed small-grants programmes for Serbia (e.g. the Informal Groups Support Program); not present in sources.json.",
+      "seenAt": [
+        "eu-delegation-serbia"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Open Government Partnership (OGP)",
+      "url": "https://www.opengovpartnership.org/",
+      "why": "Runs recurring civil-society grant rounds (e.g. the Helen Darbishire Fund, Open Door Grants for Armenia/Georgia/Moldova/Ukraine) touching transparency and public-information work; surfaced while researching the Open Information Partnership and not present in sources.json.",
+      "seenAt": [
+        "open-information-partnership"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "SlovakAid (Slovak Agency for International Development Cooperation) — Embassy of the Slovak Republic in Belgrade, Small Grants",
+      "url": "https://www.mzv.sk/web/belehrad-en/slovakaid/small-grants",
+      "why": "A recurring small-grants line (EUR 10,000 ceiling per project, Serbia-wide) run by the Slovak Embassy in Belgrade for small-scale local development projects; turned up while searching for a current British Embassy Belgrade call, and no Slovak development-cooperation source exists in sources.json (only Swiss, German and Norwegian Belgrade missions are tracked).",
+      "seenAt": [
+        "uk-embassy-belgrade"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "UNDP — ReLOaD3 (Regional Programme on Local Democracy in the Western Balkans 3)",
+      "url": "https://www.undp.org/serbia/projects/regional-programme-local-democracy-western-balkans-3-reload3",
+      "why": "An EU-funded, UNDP-implemented local-grants mechanism that runs annual CSO calls (USD 5,000-15,000 per project) through partner municipalities in Serbia (and other Western Balkans countries); found while searching for current Serbia grant calls, and this specific UNDP/EU mechanism is not represented in sources.json (the EU Delegation to Serbia entry is a different, broader funding line).",
+      "seenAt": [
+        "uk-embassy-belgrade"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "OSCE Mission to Serbia (democratisation-process implementing-partner calls)",
+      "url": "https://www.osce.org/mission-to-serbia",
+      "why": "The OSCE Mission to Serbia runs its own public calls for implementing partners (e.g. a 2026 call on 'consolidating the democratization process'), distinct from the already-tracked OSCE Representative on Freedom of the Media (osce-rfom); found while searching for current Serbia civil-society funding calls.",
+      "seenAt": [
+        "uk-embassy-belgrade"
+      ],
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
