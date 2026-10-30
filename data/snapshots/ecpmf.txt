@@ -1,6 +1,6 @@
 SOURCE: European Centre for Press and Media Freedom
 URL: https://www.ecpmf.eu/
-FETCHED: 2026-10-15T03:59:35.993Z
+FETCHED: 2026-10-30T10:20:08.222Z
 TITLE: European Centre for Press and Media Freedom (ECPMF)
 
 === MAIN PAGE ===
@@ -142,17 +142,12 @@ Work with us
 
 Impressum / Legal Notice
 
-SAFE Psychological
+Hungary: Internati
 
 --- relevant lines ---
- Support Fund opens for applications
-SAFE Psychological Support Fund opens for applications
 The European Centre for Press and Media Freedom (ECPMF) is a non-profit organisation that was founded in Leipzig, Germany, 2015. It operates on the basis of the European Charter on Freedom of the Press and the Charter of Fundamental Rights of the European Union.
-Leipzig, October 2026 – Mapping Media Freedom, the platform operated by the European Centre for Press and Media Freedom (ECPMF), was the target of a Distributed Denial of Service (DDoS) attack on 1 October 2026.
-France mission report: Media freedom at critical juncture ahead of the 2027 presidential election
-Although France enjoys a legal and regulatory framework which is generally supportive of media freedom, challenges are mounting ahead of the 2027 presidential election, Media Freedom Rapid Response (MFRR) concluded in a new report published today.
-One year after French photojournalist Antoni Lallican was killed by a Russian drone in Ukraine, MFRR partners call for justice and stronger investigations.
-Malta: Call for a proper review process and international assessment of the media reform bill
+SAFE Psychological Support Fund opens for applications
+Journalists in Ukraine, Moldova, Armenia, Azerbaijan and Georgia can apply for SAFE psychological support grants of up to €500. Apply by 15 November 2026.
 IJ4EU: Funding cross-border investigative journalism in Europe.
 Investigative Journalism Grants
 ECPMF is financed by various project funders
@@ -454,19 +449,18 @@ Journalists-in-Res
 monthly stipend of 1,000 euros
 Eligibility criteria
 How to apply
-In order to apply for the JiR Programme, please send the following documents to jo ts en f along with:
+In order to apply for the JiR Programme, please send the following documents to r i n p along with:
 A completed JiR Application Form
-ECPMF takes over appropriate cases of media professionals at risk that have already been fact-checked by its network partners and provide relocation fellowships in Leipzig to enable a swift reaction to urgent cases. For this purpose, please get in contact with the JiR Programme Manager at o r s s d n m
+ECPMF takes over appropriate cases of media professionals at risk that have already been fact-checked by its network partners and provide relocation fellowships in Leipzig to enable a swift reaction to urgent cases. For this purpose, please get in contact with the JiR Programme Manager at u i s s e e
 The Journalists-in-Residence Kosovo Programme does not accept new applications at the moment.
 To be eligible, journalists and media workers must have lived in Ukraine in 2022, hold a valid Ukrainian passport, have been working as professional journalists for at least three years, and speak at least basic English.
 Successful candidates are provided with 1,000 euro for relocation, a monthly stipend of 500 euro, and 300 euro for rent. They will have access to an office space, to health insurance, and to language and integration courses. Upon request, the candidates will have access to psychological support.
 Disclaimer : The Journalists-in-Residence Kosovo Programme does not accept new applications at the moment.
-To apply, please send the following documents to u t n i n e m u :
+To apply, please send the following documents to i s r i f u :
 Application form and questionnaire
 Download – JiR Application Form Germany
 Application-Form – JiR-Programme 2021
 Questionnaire – JiR-Programme 2021
-The most important thing in working abroad is to deliver truthful information – Reporting on Belarus in 2022
 Funded by:
 Grants
 SAFE Psychological Support Fund opens for applications
@@ -477,7 +471,7 @@ Cross-border journalism triumphs at IJ4EU Impact Awards 2024
 Three cross-border investigative teams win top honours at Impact Award 2024 - Europe’s leading prize for transnational watchdog reporting.
 Investigative Journalism Grants
 ECPMF is financed by various project funders
-© C…
+© Copyright 2022 – ECPMF
 
 === https://www.ecpmf.eu/support/journalists-in-exile-programme/ ===
 Monitor
@@ -779,7 +773,7 @@ The
 
 --- relevant lines ---
 How to apply for legal support
-Before you apply, please consult our guidelines . To apply, fill in this template with detailed information and send it to l k e u .
+Before you apply, please consult our guidelines . To apply, fill in this template with detailed information and send it to .
 The ECPMF’s Legal Affairs Committee (LAC) will review each application for support to decide the appropriate response. The LAC is entrusted by the supervisory and executive boards of the European Centre for Press and Media Freedom in accordance with article 13 of the ECPMF statute. The principle role of the LAC is to offer non-binding advice and guidance on any requests for legal support referring to the criteria catalogue of the LAC and Rules of Procedure. The final decision on whether to support any particular case lies with the ECPMF office, not LAC.
 Mandate: April 15, 2023 April 14, 2025
 Second mandate: 15 April, 2025 14 April 2027
@@ -946,19 +940,17 @@ Work with us
 
 Impressum / Legal Notice
 
-SAFE Project
-
-Supp
+Support and Assist
 
 --- relevant lines ---
 Available funds
 SAFE provides different types of financial support tailored to the challenges journalists and media workers face. Explore the available funds below to find the support that best matches your situation.
 Emergency support fund (not open yet)
 If you face crises, including the loss or destruction of professional equipment, medical emergencies, or direct threats to your safety, this fund provides financial assistance.
-Psychological support fund (not open yet)
-Working in conflict zones or in hostile environments takes a serious emotional toll. This fund covers the cost of mental health support. You choose your own care provider. We cover the costs.
+Psychological support fund
+Working in conflict zones or in hostile environments takes a serious emotional toll. This fund covers the cost of mental health support. You choose your own care provider. We cover the costs. Apply here .
 Capacity support fund
-Working in high-risk environments requires specific skills. This fund covers the cost of training you identify as a priority, tailored to your safety, security, or professional needs, so you can keep reporting. Apply here .
+Working in high-risk environments requires specific skills. This fund covers the cost of training you identify as a priority, tailored to your safety, security, or professional needs, so you can keep reporting.
 Emergency grants by the Public Interest Journalism Lab, PIJL
 A grant program distributed through several open calls per year, providing emergency and operational funding to Ukrainian regional media outlets and individual journalists, prioritizing newsrooms near the frontline.
 Technology Support Fund by The Fix Media Foundation
@@ -1135,8 +1127,10 @@ IJ4EU fund opens new calls for cross-border investigative journalism
 The IJ4EU fund on May 5 opened two new calls for cross-border investigative journalism projects in the EU and EU candidate countries. Full details about both funding schemes and how to apply, as well as information about past funded projects, can be found on the IJ4EU website .
 IJ4EU Launch 2020
 Investigative Journalism for Europe ( IJ4EU ) is a fund first launched in 2018 by the European Centre for Press and Media Freedom (ECPMF) and the International Press Institute (IPI) to support cross-border investigative reporting in the EU. Find all information on the IJ4EU website .
+Grants
+Grants
 SAFE Psychological Support Fund opens for applications
-France mission report: Media freedom at critical juncture a…
+Journalists in Ukraine, Moldova, Armenia, Aze…
 
 === https://www.ecpmf.eu/support/support-for-supporters-in-germany/ ===
 Monitor
@@ -1283,8 +1277,6 @@ Support for suppor
 The working group, initiated by the European Centre for Press and Media Freedom (ECPMF), met for the first time in January 2020 in Leipzig. It creates a space for supporters of (potentially) traumatised journalists to exchange ideas about the special challenges they face in the context of this work. Experts from the field of psychosocial health accompany the regular meetings of the working group. In addition, funds can be made available to pay for counselling sessions. Our working language is German.
 The following organisations and individuals are currently represented in the working group (as of July 2025 ):
 JX Fund
-SAFE Psychological Support Fund opens for applications
-France mission report: Media freedom at critical juncture ahead of the 2027 presidential election
 Grants
 Grants
 SAFE Psychological Support Fund opens for applications
@@ -1441,8 +1433,6 @@ Get in contact
 If
 
 --- relevant lines ---
-SAFE Psychological Support Fund opens for applications
-France mission report: Media freedom at critical juncture ahead of the 2027 presidential election
 Grants
 Grants
 SAFE Psychological Support Fund opens for applications

@@ -1,5 +1,16 @@
 {
-  "generatedAt": "2026-10-29T10:18:20.601Z",
-  "captured": {},
+  "generatedAt": "2026-10-30T10:20:09.794Z",
+  "captured": {
+    "ecpmf": {
+      "fetchedAt": "2026-10-30T10:20:09.794Z",
+      "words": 3432,
+      "pages": 9
+    },
+    "irex": {
+      "fetchedAt": "2026-10-30T10:20:09.794Z",
+      "words": 877,
+      "pages": 3
+    }
+  },
   "failed": {}
 }
