@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-29T04:20:00.000Z",
+  "generatedAt": "2026-10-30T04:19:45.779Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -1789,6 +1789,68 @@
       ],
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-10-29",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Ethics and Excellence in Journalism Foundation",
+      "url": "https://ethicsandexcellence.org/",
+      "why": "A US journalism grant funder (2026 call ran 6 Jul–21 Aug 2026, now closed) surfacing in aggregator search results; not a tracked source.",
+      "seenAt": [
+        "journalismgrants"
+      ],
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Society of Environmental Journalists (SEJ) — Fund for Investigative/Environmental Journalism",
+      "url": "https://www.sej.org/initiatives/fund-environmental-journalism",
+      "why": "A US-based environmental-journalism grant funder offering up to $3,500 for independent/staff journalists; repeatedly surfaces alongside tracked aggregators but has no dedicated source of its own.",
+      "seenAt": [
+        "journalismfund",
+        "journalismgrants",
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "World Press Institute",
+      "url": "https://worldpressinstitute.org/",
+      "why": "Runs a fully-funded ~9-week US fellowship for international journalists (10 slots/year); surfaced via GFMD's careers taxonomy.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Asia Pacific Foundation of Canada (APF Canada)",
+      "url": "https://www.asiapacific.ca/grants/media-fellowships",
+      "why": "Offers an annual Media Fellowship (up to C$10,000) for Canadian journalists reporting on the Asia-Pacific region.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Council on Foreign Relations (CFR) — Edward R. Murrow Press Fellowship",
+      "url": "https://www.cfr.org/fellowships/edward-r-murrow-press-fellowship",
+      "why": "A US$100,000, ten-month in-residence fellowship for US foreign-affairs journalists/editors; a stale, undated listing is still syndicated on ijnet.org with no confirmed current-cycle deadline.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
       "timesSeen": 1,
       "status": "new"
     }
