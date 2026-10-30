@@ -12613,45 +12613,6 @@
       "notes": "The europa.rs open-calls page currently points to this EUINFONET call as an ongoing roll-on call for offers, implemented by EPTISA/GOPA PACE on the Delegation's behalf. The original call document dates to 2022 and secondary listings disagree about whether it is still live (one gives an end date of 2023-12-31, another shows 'last updated' 2025-12-31), so treat its live status with caution despite its appearance on the current open-calls page. Not confirmed on the funder's own page."
     },
     {
-      "id": "journalismfund-scholarships",
-      "funder": "Journalismfund Europe",
-      "programme": "Scholarships (conference/event attendance support)",
-      "summary": "A rolling support scheme for journalists who have already received a Journalismfund Europe European Cross-border Grant or Environmental Investigative Journalism (Earth) grant and have been invited to present their published investigation at a conference, training or other public event. It reimburses registration fees, hotel and travel costs (not food) up to a fixed cap per grant programme.",
-      "url": "https://www.journalismfund.eu/scholarships",
-      "applyUrl": "https://www.journalismfund.eu/scholarships",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "travel"
-      ],
-      "topics": [
-        "investigative",
-        "cross-border",
-        "environment"
-      ],
-      "track": "media",
-      "amount": {
-        "min": null,
-        "max": 1250,
-        "currency": "EUR",
-        "note": "Up to EUR 1,250 for Environmental Investigative Journalism (Earth) grantees or up to EUR 1,000 for European Cross-Border Grant grantees, covering registration, hotel and travel; food/drink excluded."
-      },
-      "deadline": null,
-      "deadlineType": "rolling",
-      "opensAt": null,
-      "status": "open",
-      "geoScope": [
-        "europe"
-      ],
-      "sourceId": "journalismfund",
-      "lastVerified": "2026-10-30",
-      "confidence": "medium",
-      "provenance": "auto",
-      "notes": "NEW entry today. Only open to journalists who are already grantees of Journalismfund's European Cross-Border Grants or Environmental Investigative Journalism programme and have been invited to present their supported, published investigation at an event; not a standalone reporting grant. Reviewed on a rolling basis, decision within two weeks. Confirmed via the journalismfund-scholarships snapshot (fetched 2026-10-15, no fresher capture available today). Not confirmed on the funder's own page beyond this stale snapshot."
-    },
-    {
       "id": "ec-journalism-partnerships-collaborations-2027",
       "funder": "European Commission",
       "programme": "Journalism Partnerships - Collaborations (2027)",
