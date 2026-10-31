@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-30T04:19:45.779Z",
+  "generatedAt": "2026-10-31T04:13:58.227Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -795,11 +795,12 @@
       "url": "https://www.durham.ac.uk/",
       "why": "Co-funds a nine-month investigative fellowship inside a Reuters newsroom, surfaced via gfmd-fellowships but not tracked as its own funder source.",
       "seenAt": [
-        "gfmd-fellowships"
+        "gfmd-fellowships",
+        "thomson-reuters-foundation"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-31",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1653,11 +1654,12 @@
       "url": "https://www.americanpublicmedia.org/",
       "why": "Runs the annual 'Next Challenge for Media & Journalism' startup grant competition (up to $250,000) listed on GFMD's funding feed; no entry in sources.json.",
       "seenAt": [
-        "gfmd-fundings"
+        "gfmd-fundings",
+        "knight-foundation"
       ],
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
-      "timesSeen": 1,
+      "lastSeen": "2026-10-31",
+      "timesSeen": 2,
       "status": "new"
     },
     {
