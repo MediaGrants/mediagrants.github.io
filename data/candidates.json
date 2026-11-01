@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-01T04:15:29.952Z",
+  "generatedAt": "2026-11-01T12:00:00.000Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -454,8 +454,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-29",
-      "timesSeen": 23,
+      "lastSeen": "2026-11-01",
+      "timesSeen": 24,
       "status": "new"
     },
     {
@@ -737,8 +737,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-04",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-01",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -835,8 +835,8 @@
         "knight-foundation"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-01",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1903,6 +1903,32 @@
       "lastSeen": "2026-11-01",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Coimisiún na Meán — Journalism Schemes",
+      "url": "https://www.cnam.ie/",
+      "why": "Ireland's media and online-safety regulator runs recurring journalism funding schemes (Local Democracy, Courts Reporting and a newer News Reporting Scheme), awarding over €10 million a year to Irish newsrooms and freelance journalists, plus a dedicated fact-checking/anti-disinformation training strand opened in 2026.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "cnam.ie's own Journalism Schemes pages and radiotoday.ie/southeastradio.ie coverage of the August 2025 €10m scheme opening and a January 2026 announcement of over €15m in further funding; also educationawards.ie/cnam.ie on a July 2026 fact-checking and anti-disinformation training call. Read November 2026."
+    },
+    {
+      "name": "Pacific Islands News Association (PINA) — J-PACT Media Anti-Corruption",
+      "url": "https://pina.com.fj/",
+      "why": "Regional Pacific journalists' association running J-PACT, a media anti-corruption reporting fund for Pacific journalists, implemented with UNODC and financed by the New Zealand Aid Programme.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "pina.com.fj Call for Expression of Interest, \"J-PACT Media Anti-Corruption\", posted 16 October 2026, naming UNODC and the New Zealand Aid Programme as partners/funder, award notification 19 Nov 2026, story deadline 12 Feb 2027. Read November 2026."
     }
   ]
 }
