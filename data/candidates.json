@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-10-31T04:13:58.227Z",
+  "generatedAt": "2026-11-01T04:15:29.952Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -1853,6 +1853,54 @@
       ],
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "House of Europe",
+      "url": "https://houseofeurope.org.ua/",
+      "why": "EU-funded Ukrainian cultural-exchange programme running its own media-sector calls (e.g. 'Institutional grants for media' and 'Co-financing grants for media'), encountered while researching irf-ukraine; not yet assessed in depth.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Media Support (IMS)",
+      "url": "https://www.mediasupport.org/",
+      "why": "International media-development NGO that ran an open call for Ukrainian public-interest media grants (implementation period Jan-Dec 2026, application deadline already passed 16 Nov 2025); encountered while researching irf-ukraine.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Fondation Hirondelle",
+      "url": "https://www.fondationhirondelle.org/",
+      "why": "Swiss media-development NGO that runs a regional media competition (seen with a 24 March 2026 deadline in the Ukraine context) while researching irf-ukraine; not yet assessed for a direct application route.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Mozilla Foundation",
+      "url": "https://www.mozillafoundation.org/",
+      "why": "Runs grantmaking (seen via its Democracy x AI Cohort, funding technologists including journalists building AI tools that strengthen democracy) that is not limited to a single named programme already covered under an existing source.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
       "timesSeen": 1,
       "status": "new"
     }
