@@ -1,6 +1,6 @@
 SOURCE: International Visegrad Fund
 URL: https://www.visegradfund.org/apply/grants/
-FETCHED: 2026-10-18T08:14:10.696Z
+FETCHED: 2026-11-02T11:33:03.291Z
 TITLE: Grants | International Visegrad Fund
 
 === MAIN PAGE ===
@@ -137,7 +137,7 @@ Grant-Guidelines_2025.pdf
 Green-Recommendation-for-Applicants-and-Grantees.pdf
 Sep 1, 2026 at 12:00 PM : Call opens
 Oct 1, 2026 at 12:00 PM : Final application deadline
-Dec 21, 2026 at 12:00 PM : Results announced
+Dec 22, 2026 at 12:00 PM : Results announced
 What is the Visegrad Grant?
 Visegrad grants support regional partnerships among NGOs and civil society organizations, public institutions and municipalities, private companies and nonprofit organizations as well as education and research centers that contribute to cooperation in the Visegrad region.
 Grants can cover up to 100% of project budget with 15% for overheads
@@ -193,7 +193,7 @@ Application-form-template-UPDATED_2025 (1).docx
 Green-Recommendation-for-Applicants-and-Grantees.pdf
 Sep 1, 2026 at 12:00 PM : Call opens
 Oct 1, 2026 at 12:00 PM : Final application deadline
-Dec 21, 2026 at 12:00 PM : Results announced
+Dec 22, 2026 at 12:00 PM : Results announced
 What is the Visegrad+ Grant?
 Visegrad+ Grants support projects which contribute to the democratization and transformation processes in selected countries of the Western Balkans (Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, North Macedonia, and Serbia) and the Eastern Partnership regions (Armenia, Azerbaijan, Belarus, Georgia, Moldova, and Ukraine).
 EXCEPTION from the partnership rules for Ukrainian entities applicable until further notice: Applicants can apply with two partners from a different V4 country each without involving another country from the EaP or WB6 region (1xUA + 2xV4 format)
@@ -252,7 +252,7 @@ Green-Recommendation-
 for-Applicants-and-Grantees.pdf
 Sep 1, 2026 at 12:00 PM : Call opens
 Oct 1, 2026 at 12:00 PM : Final application deadline
-Dec 21, 2026 at 12:00 PM : Results announced
+Dec 22, 2026 at 12:00 PM : Results announced
 What is the Strategic Grant?
 Strategic Grants support project addressing annual strategic priorities of the Visegrad Group. Strategic priorities are announced annually by the V4 country holding the rotating presidency over the group, which from July 2025 to June 2026 is Hungary.
 Grants cover up to 100% of project budget with 15% for overheads

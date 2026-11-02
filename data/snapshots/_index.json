@@ -1,5 +1,28 @@
 {
-  "generatedAt": "2026-11-01T10:43:25.378Z",
-  "captured": {},
-  "failed": {}
+  "generatedAt": "2026-11-02T11:33:08.634Z",
+  "captured": {
+    "arij": {
+      "fetchedAt": "2026-11-02T11:33:08.634Z",
+      "words": 2176,
+      "pages": 5
+    },
+    "code-for-africa": {
+      "fetchedAt": "2026-11-02T11:33:08.635Z",
+      "words": 19,
+      "pages": 1
+    },
+    "visegrad-fund": {
+      "fetchedAt": "2026-11-02T11:33:08.635Z",
+      "words": 2057,
+      "pages": 5
+    },
+    "wole-soyinka-centre": {
+      "fetchedAt": "2026-11-02T11:33:08.635Z",
+      "words": 1796,
+      "pages": 5
+    }
+  },
+  "failed": {
+    "occrp": "HTTP 404"
+  }
 }

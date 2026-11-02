@@ -1,6 +1,6 @@
 SOURCE: Code for Africa
 URL: https://codeforafrica.org/
-FETCHED: 2026-10-18T08:14:05.661Z
+FETCHED: 2026-11-02T11:33:01.298Z
 TITLE: Code for Africa
 
 === MAIN PAGE ===
