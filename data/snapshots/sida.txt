@@ -1,6 +1,6 @@
 SOURCE: Sida — Swedish development cooperation
 URL: https://www.sida.se/en
-FETCHED: 2026-10-04T05:29:02.366Z
+FETCHED: 2026-11-03T11:12:27.804Z
 TITLE: Start page | The Swedish International Development Cooperation Agency | Sida
 
 === MAIN PAGE ===
@@ -53,8 +53,6 @@ Public Private Development
 
 --- relevant lines ---
 Research calls and grants
-Call for concept notes: Mine Action in Ukraine 2027–2029
-Sida is seeking partners to expand our support to Mine Action in Ukraine. Not-for-profit non-state organisations that are certified to carry out Mine Action Operations in Ukraine are eligible to apply. The call closes Monday the 26 October 2026 at 14:00 (CET)
 Apply for financial support from Sida
 Sida Box 2025 174 02 Sundbyberg Sweden
 
@@ -299,17 +297,17 @@ Public Private Development
 --- relevant lines ---
 Research calls and grants
 Current announcements and calls for proposals. For information and guidelines about the application procedure, please see the specific announcements.
-Open calls for proposals
-Call for concept notes: Mine Action in Ukraine 2027–2029
-Sida is seeking partners to expand our support to Mine Action in Ukraine. Not-for-profit non-state organisations that are certified to carry out Mine Action Operations in Ukraine are eligible to apply.
-The call closes Monday the 26 October 2026 at 14:00 (CET)
-Read more and apply via our partner portal
+UNDP Ocean Innovation Challenge invites private enterprises in Sweden and globally to scale up their ocean innovations in Bangladesh, Thailand, Indonesia, Vietnam and The Philippines. Apply before 15 November for an opportunity for financial contribution up to 100.000 USD and technical and investment support.
+Apply before 15 November 23:59 New York (EDT) time.
+More information and apply to 5th Call: The Ocean Innovation Challenge (OIC) - UNDP
 Here is a list of Sida s call processes that are are no longer open for application. Some processes are still ongoing, some have been completed. Here you can, for example, find information about the process for the call and find answers to frequently asked questions and answers linked to the call.
 2026
+Course: Ukraine Mine Action Call for Concept Notes | Calls for proposal
+Course: Conflict-sensitive resilience and stabilization programming in Somalia | Calls for proposal
 Learn more about the call and apply at Sidas partnership portal
 2025
 About the humanitarian partnership process (17 november 2025)
 Research calls and grants
 Current research calls and grants from partners within Sida’s research cooperation.
-Updated: September 30, 2026
+Updated: October 29, 2026
 Sida Box 2025 174 02 Sundbyberg Sweden

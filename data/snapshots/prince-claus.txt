@@ -1,6 +1,6 @@
 SOURCE: Prince Claus Fund
 URL: https://princeclausfund.org/
-FETCHED: 2026-10-04T05:29:02.089Z
+FETCHED: 2026-11-03T11:12:28.776Z
 TITLE: Home | Prince Claus Fund
 
 === MAIN PAGE ===
@@ -132,15 +132,22 @@ Announcement
 
 2026 Impact Award Jury
 
-03 March 2026
+Event
+●
 
-Celebrating 30 Years of the Fund's Lega
+21 May 2026
+
+Culture is —
+
+arts, imagination,
 
 --- relevant lines ---
 10 November 2023
-21 May 2026
+12 October 2026
 08 April 2026
 2025 Annual Report
+03 March 2026
+Celebrating 30 Years of the Fund's Legacy
 Discover our Awards & Programmes
 IMPACT Award
 FELLOWS Award

@@ -1,6 +1,6 @@
 SOURCE: Hivos
 URL: https://hivos.org/
-FETCHED: 2026-10-19T09:11:35.103Z
+FETCHED: 2026-11-03T11:12:27.184Z
 TITLE: Hivos - People Unlimited
 
 === MAIN PAGE ===
@@ -28,11 +28,9 @@ Publications
 
 Donate
 
-Building movements for
-Just, inclusive and
-life-sustaining societies
+Meet the defenders
 
-About us
+Read Mateo s story
 
 Who we are
 
@@ -48,14 +46,14 @@ About our work
 
 How we work
 
-Our key partners are movements and civil society actors, including NGOs, informal groups, independent media, cultural actors and human rights defenders. We see them not as passive benefi
+Our key partners are movements and civil society actors, including NGOs, informal groups, independent media, cultural actors and human rights defenders. We see them not as passive beneficiaries, but as co-creators of change, b
 
 --- relevant lines ---
+October 20, 2026
 March 25, 2026
 EU SEE data supports civil society actors to lead the fight back for fundamental freedoms
 Read more : EU SEE data supports civil society actors to lead the fight back for fundamental freedoms
 March 31, 2026
-March 30, 2026
 > Calls for Proposals
 © 2026 Hivos
 Calls for proposals

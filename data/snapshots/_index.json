@@ -1,28 +1,34 @@
 {
-  "generatedAt": "2026-11-02T11:33:08.634Z",
+  "generatedAt": "2026-11-03T11:12:31.033Z",
   "captured": {
-    "arij": {
-      "fetchedAt": "2026-11-02T11:33:08.634Z",
-      "words": 2176,
-      "pages": 5
-    },
-    "code-for-africa": {
-      "fetchedAt": "2026-11-02T11:33:08.635Z",
-      "words": 19,
+    "czech-transition": {
+      "fetchedAt": "2026-11-03T11:12:31.033Z",
+      "words": 268,
       "pages": 1
     },
-    "visegrad-fund": {
-      "fetchedAt": "2026-11-02T11:33:08.635Z",
-      "words": 2057,
+    "hivos": {
+      "fetchedAt": "2026-11-03T11:12:31.033Z",
+      "words": 1143,
+      "pages": 4
+    },
+    "norad": {
+      "fetchedAt": "2026-11-03T11:12:31.033Z",
+      "words": 1752,
       "pages": 5
     },
-    "wole-soyinka-centre": {
-      "fetchedAt": "2026-11-02T11:33:08.635Z",
-      "words": 1796,
+    "prince-claus": {
+      "fetchedAt": "2026-11-03T11:12:31.033Z",
+      "words": 2066,
+      "pages": 5
+    },
+    "sida": {
+      "fetchedAt": "2026-11-03T11:12:31.033Z",
+      "words": 2019,
       "pages": 5
     }
   },
   "failed": {
-    "occrp": "HTTP 404"
+    "konrad-adenauer": "HTTP 404",
+    "taz-panter": "HTTP 403"
   }
 }
