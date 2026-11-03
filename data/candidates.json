@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-01T12:00:00.000Z",
+  "generatedAt": "2026-11-03T04:10:47.621Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -1929,6 +1929,18 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "pina.com.fj Call for Expression of Interest, \"J-PACT Media Anti-Corruption\", posted 16 October 2026, naming UNODC and the New Zealand Aid Programme as partners/funder, award notification 19 Nov 2026, story deadline 12 Feb 2027. Read November 2026."
+    },
+    {
+      "name": "WanaData",
+      "url": "https://wanadata.org/",
+      "why": "Pan-African data-journalism network running a fellowship for data journalists and data scientists (2026 round deadline 11 Jan 2026, now closed); surfaced via Code for Africa search results as a distinct, differently-branded initiative rather than a Code for Africa programme itself.",
+      "seenAt": [
+        "code-for-africa"
+      ],
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
