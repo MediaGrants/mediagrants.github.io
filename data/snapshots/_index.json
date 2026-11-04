@@ -1,34 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:12:31.033Z",
-  "captured": {
-    "czech-transition": {
-      "fetchedAt": "2026-11-03T11:12:31.033Z",
-      "words": 268,
-      "pages": 1
-    },
-    "hivos": {
-      "fetchedAt": "2026-11-03T11:12:31.033Z",
-      "words": 1143,
-      "pages": 4
-    },
-    "norad": {
-      "fetchedAt": "2026-11-03T11:12:31.033Z",
-      "words": 1752,
-      "pages": 5
-    },
-    "prince-claus": {
-      "fetchedAt": "2026-11-03T11:12:31.033Z",
-      "words": 2066,
-      "pages": 5
-    },
-    "sida": {
-      "fetchedAt": "2026-11-03T11:12:31.033Z",
-      "words": 2019,
-      "pages": 5
-    }
-  },
-  "failed": {
-    "konrad-adenauer": "HTTP 404",
-    "taz-panter": "HTTP 403"
-  }
+  "generatedAt": "2026-11-04T11:23:08.124Z",
+  "captured": {},
+  "failed": {}
 }
