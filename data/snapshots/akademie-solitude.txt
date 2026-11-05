@@ -1,6 +1,6 @@
 SOURCE: Akademie Schloss Solitude — residencies
 URL: https://www.akademie-solitude.de/en/fellowship/
-FETCHED: 2026-10-21T08:47:15.008Z
+FETCHED: 2026-11-05T11:20:40.227Z
 TITLE: Fellowship - Akademie Schloss Solitude
 
 === MAIN PAGE ===
@@ -99,11 +99,11 @@ See all Fellowships
 
 Current fellows
 
-automatonomy.net
 Nataliia Zarytska
 Miriam Hillawi Abraham
 Tolani Akinola
-Tini A
+Tini Aliman
+Abdul Halik
 
 --- relevant lines ---
 Fellowship

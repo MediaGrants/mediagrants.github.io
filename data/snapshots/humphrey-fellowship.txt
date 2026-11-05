@@ -1,6 +1,6 @@
 SOURCE: Hubert H. Humphrey Fellowship Program
 URL: https://www.humphreyfellowship.org/
-FETCHED: 2026-10-21T08:47:16.992Z
+FETCHED: 2026-11-05T11:20:37.822Z
 TITLE: Home - The Hubert H. Humphrey Fellowship Program
 
 === MAIN PAGE ===
@@ -42,6 +42,8 @@ Humphrey Fellows
 
 On-Program Guide
 
+DHFP Fellow Resources
+
 Humphrey Alumni
 
 East Asia and Pacific
@@ -70,7 +72,7 @@ A group of Humphrey Alumni posing for a picture.
 
 How to Apply
 
-2021-2022 Humphrey Fellows at Emory University meet with the Fulbright Foreign Scholarship Board and State Departmen
+2021-2022 Humphrey Fellows at Emory University meet with the Fulbright Foreign Scholarship Bo
 
 --- relevant lines ---
 The Hubert H. Humphrey Fellowship Program
@@ -132,6 +134,8 @@ Humphrey Fellows
 
 On-Program Guide
 
+DHFP Fellow Resources
+
 Humphrey Alumni
 
 East Asia and Pacific
@@ -151,9 +155,7 @@ Global Policy Dialogues
 Distinguished Humphrey Fellowship Program
 
 Launched in 2016, the Distinguished Humphrey Fellowship Program (DHFP) offers executive and leadership development opportunities for senior-level professionals. This rigorous, short-term, invitation-only program is designed to strengthen abilities to develop sound policies and programs around critical global issues.
-Through executive training and strategic engagement with U.S. organizations, this program provides a foundation for productive ties between Americans and their professional counterparts overseas. All DHFP programs are approximately 18 days, with 15-20 participants.
-
-Current Statistics
+Through executive training and strategic engagement with U.S. organizations, this program provides a foundation for productive ties between Americans and their professional counterparts overseas. All DHFP programs are approximately 18 days, with 15-20 participan
 
 --- relevant lines ---
 How To Apply
@@ -203,6 +205,8 @@ Humphrey Fellows
 
 On-Program Guide
 
+DHFP Fellow Resources
+
 Humphrey Alumni
 
 East Asia and Pacific
@@ -229,12 +233,10 @@ This ten-month Fellowship program is offered to mid-career professionals with a 
 
 Learn More
 
-Humphrey Fellowship Components
-
-The Hum
+Humphrey Fellows
 
 --- relevant lines ---
-phrey Fellowship is a non-degree program. It is designed to provide broad professional enrichment through a combination of activities tailored to each Humphrey Fellow s interests.
+The Humphrey Fellowship is a non-degree program. It is designed to provide broad professional enrichment through a combination of activities tailored to each Humphrey Fellow s interests.
 The U.S. Embassies and Fulbright Commissions have the important task of identifying accomplished professionals in various fields to participate in the Humphrey Fellowship Program.
 How To Apply
 The Humphrey Program is funded by the U.S. Department of State and administered by the Institute of International Education.
@@ -283,6 +285,8 @@ Humphrey Fellows
 
 On-Program Guide
 
+DHFP Fellow Resources
+
 Humphrey Alumni
 
 East Asia and Pacific
@@ -313,9 +317,7 @@ Impact Areas
 
 Human & Institutional Capacity
 
-Field of Study
-
-Economic Develop
+Field of 
 
 --- relevant lines ---
 Eligibility Requirements
@@ -370,6 +372,8 @@ Humphrey Fellows
 
 On-Program Guide
 
+DHFP Fellow Resources
+
 Humphrey Alumni
 
 East Asia and Pacific
@@ -394,9 +398,7 @@ Professional Affiliation
 
 A core component of the Humphrey Fellowship Program is a six-week Professional Affiliation (PA) experience that allows Fellows to collaborate with U.S.-based organizations, share best practices and knowledge with U.S. professionals, and apply their classroom learning to real-world settings. Humphrey Fellows serve an essential role at U.S. organizations while forming connections and impact that last long beyond their Fellowship year.
 
-Humphrey Seminar
-
-The Humphrey Semi
+Humphrey Sem
 
 --- relevant lines ---
 The Humphrey Fellowship provides development opportunities to contribute to Humphrey Fellows’ professional growth and help them build partnerships that can take their work to the next level. Humphrey Fellows expand their perspectives on their work and global issues through immersive learning, collaboration, and networking. This includes participating in thematic workshops that enhance Fellows’ skillsets, attending high-profile events with policymakers and scholars, and much more.
@@ -447,6 +449,8 @@ Humphrey Fellows
 
 On-Program Guide
 
+DHFP Fellow Resources
+
 Humphrey Alumni
 
 East Asia and Pacific
@@ -469,9 +473,10 @@ U.S. Embassies Commissions
 
 Please contact the U.S. Embassy (Public Affairs Section) or Binational Fulbright Commission in your country to access the Humphrey Fellowship application and learn more about applying.
 
-In 28 countries, the Humphrey Fellowship Program is administered by a Binational Fulbright Commission. In all other participating countries, the Public Affairs Section of the U.S. Embassy is charged with the operation of the Program. Please contact your country’s Binational Fulbright Commission or the U.S. embassy for information on how to apply, including d
+In 28 countries, the Humphrey Fellowship Program is administered by a Binational Fulbright Commission. In all other participating countries, the Public Affairs Section of the U.S. Embassy is charged with the operation of the Program. Please contact your country’s Binational Fulbright Commission or the U.S. embassy for information on ho
 
 --- relevant lines ---
+w to apply, including deadlines.
 See the country eligibility list below to check if you are eligible for the program.
 How To Apply
 The Humphrey Program is funded by the U.S. Department of State and administered by the Institute of International Education.
@@ -520,6 +525,8 @@ Humphrey Fellows
 
 On-Program Guide
 
+DHFP Fellow Resources
+
 Humphrey Alumni
 
 East Asia and Pacific
@@ -544,12 +551,10 @@ Please contact the U.S. Embassy (Public Affairs Section) or Binational Fulbright
 
 Is the Humphrey Fellowship Program a degree-granting program?
 
-The Humphrey Program is a non-degree program . Participants may complete academic coursework at their host university to update their academic and professional knowledge in their field, but they do not receive an academic degree as a result of their participation in the Humphrey Fellowship Program.
-
-What is the
+The Humphrey Program is a non-degree program . Participants may complete academic coursework at their host university to update their academic and professional knowledge in their field, but they do not receive an academic degree as a result of their participation in the Humphrey Fellowshi
 
 --- relevant lines ---
- application deadline?
+What is the application deadline?
 Application deadlines vary by country. The nominating U.S. Embassy or Binational Fulbright Commission will advise you of its internal deadline for receiving applications. U.S. Embassies and Commissions must submit their nominations to the Institute of International Education in Washington, D.C., by mid September.
 U.S. Embassies and Fulbright Commissions must submit their nominations to the Institute of International Education in Washington D.C. mid-September. Selection of Fellows are announced in March the following year, and Humphrey Fellows start their program in the U.S. between August and September of the same year.
 What does the Fellowship Program include?
@@ -559,4 +564,4 @@ I have prior experience in the United States. Am I eligible to apply?
 Previous experience in the United States is not necessarily a disqualifying factor. Provided the number of years spent in the United States has not been substantial (more than three years), and you have been back in your home country and employed at a level of professional responsibility for at least four years, you are eligible to apply.
 I am not proficient in English as measured by the Test of English as a Foreign Language (TOEFL). Am I eligible to apply?
 Please contact the U.S. Embassy (Public Affairs Section) or Binational Fulbright Commission in your country regarding eligibility. Testing alternatives such as International English Language Testing System (IELTS) or Duolingo English Test can be utilized for all candidates.
-Humphrey Fellows may choose to apply to have their family join them shortly after they have arrived in the United States. However, consideration should be given to bringing one’s family, as the Humphrey Program is very demanding, and Fellows spend considerable time away from their host campus. The Humphrey Program does not provide an additional maintenance allowance for dependents. Humphrey Fellows must show proof…
+Humphrey Fellows may choose to apply to have their family join them shortly after they have arrived in the United States. However, consideration should be given to bringing one’s family, as the Humphrey Program is very demanding, and Fellows spend considerable time away from their host campus. The Humphrey Program does not provide an additional maintenance allowance for dependents. Humphrey Fellows must…

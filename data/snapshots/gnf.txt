@@ -1,6 +1,6 @@
 SOURCE: Global Network Initiative / tech-for-media funds
 URL: https://globalnetworkinitiative.org/
-FETCHED: 2026-10-21T08:47:15.288Z
+FETCHED: 2026-11-05T11:20:37.773Z
 TITLE: Home - Global Network Initiative
 
 === MAIN PAGE ===
@@ -110,6 +110,9 @@ View all members
 
 Latest News
 
-Confluence Blog
+Learning
 
-MAP-AI Open Letter: Centering Human Rights in AI Gove
+Exploring the Human Rights Implications of “Reverse Searches
+
+--- relevant lines ---
+GNI Annual Learning Forum 2026: Bridging AI, Governance, Human Rights

@@ -1,5 +1,31 @@
 {
-  "generatedAt": "2026-11-04T11:23:08.124Z",
-  "captured": {},
+  "generatedAt": "2026-11-05T11:20:44.688Z",
+  "captured": {
+    "akademie-solitude": {
+      "fetchedAt": "2026-11-05T11:20:44.688Z",
+      "words": 2617,
+      "pages": 7
+    },
+    "carter-mental-health": {
+      "fetchedAt": "2026-11-05T11:20:44.688Z",
+      "words": 159,
+      "pages": 1
+    },
+    "gnf": {
+      "fetchedAt": "2026-11-05T11:20:44.688Z",
+      "words": 206,
+      "pages": 1
+    },
+    "humphrey-fellowship": {
+      "fetchedAt": "2026-11-05T11:20:44.688Z",
+      "words": 2397,
+      "pages": 7
+    },
+    "ksj-mit": {
+      "fetchedAt": "2026-11-05T11:20:44.688Z",
+      "words": 896,
+      "pages": 2
+    }
+  },
   "failed": {}
 }
