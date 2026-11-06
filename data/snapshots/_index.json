@@ -1,31 +1,38 @@
 {
-  "generatedAt": "2026-11-05T11:20:44.688Z",
+  "generatedAt": "2026-11-06T11:18:44.600Z",
   "captured": {
-    "akademie-solitude": {
-      "fetchedAt": "2026-11-05T11:20:44.688Z",
-      "words": 2617,
-      "pages": 7
+    "allianz-foundation": {
+      "fetchedAt": "2026-11-06T11:18:44.600Z",
+      "words": 2521,
+      "pages": 6
     },
-    "carter-mental-health": {
-      "fetchedAt": "2026-11-05T11:20:44.688Z",
-      "words": 159,
-      "pages": 1
-    },
-    "gnf": {
-      "fetchedAt": "2026-11-05T11:20:44.688Z",
-      "words": 206,
-      "pages": 1
-    },
-    "humphrey-fellowship": {
-      "fetchedAt": "2026-11-05T11:20:44.688Z",
-      "words": 2397,
-      "pages": 7
-    },
-    "ksj-mit": {
-      "fetchedAt": "2026-11-05T11:20:44.688Z",
-      "words": 896,
+    "compagnia-di-san-paolo": {
+      "fetchedAt": "2026-11-06T11:18:44.600Z",
+      "words": 525,
       "pages": 2
+    },
+    "friedrich-naumann": {
+      "fetchedAt": "2026-11-06T11:18:44.600Z",
+      "words": 356,
+      "pages": 1
+    },
+    "macarthur": {
+      "fetchedAt": "2026-11-06T11:18:44.600Z",
+      "words": 2491,
+      "pages": 7
+    },
+    "peacenexus": {
+      "fetchedAt": "2026-11-06T11:18:44.600Z",
+      "words": 23,
+      "pages": 1
+    },
+    "thefix": {
+      "fetchedAt": "2026-11-06T11:18:44.600Z",
+      "words": 530,
+      "pages": 1
     }
   },
-  "failed": {}
+  "failed": {
+    "ipi": "HTTP 403"
+  }
 }
