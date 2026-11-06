@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-04T04:13:00.000Z",
+  "generatedAt": "2026-11-06T04:18:34.815Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -1251,11 +1251,12 @@
       "url": "https://nias.knaw.nl/fellowships/safe-haven-fellowship/",
       "why": "A fellowship explicitly open to journalists (alongside scholars, artists and writers) unable to work in their current location due to conflict or war, with relocation, stipend and travel support, surfaced while researching Scholars at Risk's journalist-placement options.",
       "seenAt": [
-        "scholars-at-risk"
+        "scholars-at-risk",
+        "gijn-grants"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-06",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1388,8 +1389,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-14",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-06",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1970,6 +1971,66 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "ijnr.org and aggregator listings (Connector/CASW, IJNet), read via WebSearch 2026-11-04; 2026 Community Reporting Project and Field Reporting Grant deadlines have already passed this cycle."
+    },
+    {
+      "name": "Al Jazeera Media Institute Fellowship Programme",
+      "url": "https://institute.aljazeera.net/",
+      "why": "A recurring, fully-funded multi-month fellowship for journalists and media researchers (English and Arabic tracks), announced annually; not currently tracked anywhere in grants.json.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The Fulcrum Journalism Fellowship",
+      "url": "https://thefulcrum.us/fulcrum-fellowship-journalism",
+      "why": "A recurring US-based training fellowship (summer and, new in 2026, fall cohorts) for journalism students with a $1,000 stipend, focused on solutions journalism and 'Complicating the Narrative' techniques; small but recurring and not tracked.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Dart Center for Journalism and Trauma / Global Center for Journalism and Trauma (GCJT) — Ochberg Fellowship",
+      "url": "https://dartcenter.org",
+      "why": "Runs its own annual Ochberg Fellowship (a week-long trauma-reporting seminar at Columbia University, open to staff and freelance journalists with 5+ years' experience, covering travel/lodging/meals), encountered as the partner organisation behind IWMF's Journalist Trauma Support Network, but not itself tracked as a source; current application cycle/site now also operates under gcjt.org.",
+      "seenAt": [
+        "iwmf"
+      ],
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Bodossaki Foundation (EEA Civil Society Fund Greece operator, with SolidarityNow)",
+      "url": "https://www.bodossaki.gr/en/",
+      "why": "Operates the EEA Civil Society Fund Greece's media-pluralism/press-freedom/information-integrity call line (already tracked once under eea-grants) and is expected to run further call rounds across the fund's 2021-2028 cycle; worth watching directly for the next round's official text and deadline.",
+      "seenAt": [
+        "eea-grants"
+      ],
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Open Estonia Foundation (EEA Civil Society Fund Estonia operator, with NENO)",
+      "url": "https://oef.org.ee/en/",
+      "why": "Co-operates Estonia's EEA Civil Society Fund, whose outcomes explicitly include media literacy and disinformation resilience; likely to run further calls after the now-closed First Call for Strategic Projects.",
+      "seenAt": [
+        "eea-grants"
+      ],
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
