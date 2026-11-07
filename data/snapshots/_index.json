@@ -1,38 +1,16 @@
 {
-  "generatedAt": "2026-11-06T11:18:44.600Z",
+  "generatedAt": "2026-11-07T10:33:11.337Z",
   "captured": {
-    "allianz-foundation": {
-      "fetchedAt": "2026-11-06T11:18:44.600Z",
-      "words": 2521,
-      "pages": 6
+    "ire-fellowships": {
+      "fetchedAt": "2026-11-07T10:33:11.337Z",
+      "words": 2798,
+      "pages": 9
     },
-    "compagnia-di-san-paolo": {
-      "fetchedAt": "2026-11-06T11:18:44.600Z",
-      "words": 525,
-      "pages": 2
-    },
-    "friedrich-naumann": {
-      "fetchedAt": "2026-11-06T11:18:44.600Z",
-      "words": 356,
-      "pages": 1
-    },
-    "macarthur": {
-      "fetchedAt": "2026-11-06T11:18:44.600Z",
-      "words": 2491,
-      "pages": 7
-    },
-    "peacenexus": {
-      "fetchedAt": "2026-11-06T11:18:44.600Z",
-      "words": 23,
-      "pages": 1
-    },
-    "thefix": {
-      "fetchedAt": "2026-11-06T11:18:44.600Z",
-      "words": 530,
-      "pages": 1
+    "usc-health-journalism": {
+      "fetchedAt": "2026-11-07T10:33:11.337Z",
+      "words": 4001,
+      "pages": 9
     }
   },
-  "failed": {
-    "ipi": "HTTP 403"
-  }
+  "failed": {}
 }
