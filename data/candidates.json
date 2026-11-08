@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-08T04:15:58.192Z",
+  "generatedAt": "2026-11-08T13:00:00.000Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -2104,6 +2104,19 @@
       "lastSeen": "2026-11-08",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Women Photograph",
+      "url": "https://womenphotograph.com/grants",
+      "why": "Runs an annual project-grant programme (three grants, increased to $10,000 each for 2026 with Leica USA support) for women, nonbinary, transgender and intersex documentary visual journalists worldwide.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "womenphotograph.com/grants and coverage of the 2026 cycle (loeildelaphotographie.com, lfi-online.de), which closed 30 June 2026; not previously tracked in sources.json or candidates.json. Read 8 Nov 2026."
     }
   ]
 }
