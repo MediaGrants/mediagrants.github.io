@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-07T04:11:10.107Z",
+  "generatedAt": "2026-11-08T04:15:58.192Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -430,8 +430,8 @@
         "climate-justice-resilience"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-08",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -456,8 +456,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-07",
-      "timesSeen": 25,
+      "lastSeen": "2026-11-08",
+      "timesSeen": 26,
       "status": "new"
     },
     {
@@ -1214,11 +1214,12 @@
       "seenAt": [
         "eu-delegation-serbia",
         "eidhr-ncidi",
-        "eu-civil-society-facility"
+        "eu-civil-society-facility",
+        "no-embassy-belgrade"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-11",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-08",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -1281,8 +1282,8 @@
         "eu-civil-society-facility"
       ],
       "firstSeen": "2026-10-11",
-      "lastSeen": "2026-10-11",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-08",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2041,6 +2042,66 @@
       ],
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-07",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Nieman Foundation for Journalism at Harvard",
+      "url": "https://nieman.harvard.edu/fellowships/applying-for-a-nieman-fellowship/",
+      "why": "A major, well-funded (~$87,500 stipend) annual international journalism fellowship surfaced via the gfmd-fundings aggregator; a dedicated source for direct tracking could give higher-confidence deadline data than aggregator reposts.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Wallace House Center for Journalists / Knight-Wallace Fellowships",
+      "url": "https://wallacehouse.umich.edu/knight-wallace/",
+      "why": "A major annual academic-year fellowship (international and U.S. tracks) at the University of Michigan, surfaced via the gfmd-fundings aggregator; worth direct tracking for reliability.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "German Marshall Fund / Balkan Trust for Democracy - Media Fund Serbia",
+      "url": "https://gmfus.org/media-fund-serbia",
+      "why": "Administers Swiss- and Norwegian-funded investigative-journalism grants for Serbian media associations and media-focused civil society organisations under the 'Support to Improved Media Environment in Serbia' project (part of the Swiss Embassy Belgrade's cooperation programme), running recurring open calls; worth tracking as its own funder since the Swiss Embassy itself does not appear to run or publish the call directly.",
+      "seenAt": [
+        "ch-embassy-serbia"
+      ],
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Communication Foundation — Climate Communication Fund",
+      "url": "https://communicationfoundation.org/climate-communication-fund",
+      "why": "Runs a recurring EUR 10,000 grant explicitly open to climate-focused civil society organisations, and per at least one call text, freelance journalists/writers and media startups, for climate communications capacity-building — a plausible adjacent-track media funder not currently tracked.",
+      "seenAt": [
+        "european-climate-foundation"
+      ],
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Doc Society — Climate Story Fund",
+      "url": "https://docsociety.org/",
+      "why": "Offers grants up to USD 125,000 to independent nonfiction/documentary storytellers on climate themes (2026 round deadline 6 July 2026, already closed); a recurring programme that could suit documentary journalists if it reopens.",
+      "seenAt": [
+        "climate-justice-resilience"
+      ],
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
       "timesSeen": 1,
       "status": "new"
     }
