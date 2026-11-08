@@ -1,16 +1,62 @@
 {
-  "generatedAt": "2026-11-07T10:33:11.337Z",
+  "generatedAt": "2026-11-08T10:39:37.061Z",
   "captured": {
-    "ire-fellowships": {
-      "fetchedAt": "2026-11-07T10:33:11.337Z",
-      "words": 2798,
+    "ec-journalism-partnerships": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 2993,
+      "pages": 5
+    },
+    "free-press-unlimited": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 629,
+      "pages": 2
+    },
+    "journalismfund-scholarships": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 1967,
+      "pages": 5
+    },
+    "journalismgrants": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 2124,
+      "pages": 5
+    },
+    "mfrr": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 247,
+      "pages": 1
+    },
+    "ned": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 2261,
+      "pages": 5
+    },
+    "unesco-ipdc": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 1653,
+      "pages": 5
+    },
+    "western-balkans-fund": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 4609,
       "pages": 9
     },
-    "usc-health-journalism": {
-      "fetchedAt": "2026-11-07T10:33:11.337Z",
-      "words": 4001,
-      "pages": 9
+    "king-baudouin": {
+      "fetchedAt": "2026-11-08T10:39:37.061Z",
+      "words": 1961,
+      "pages": 5
     }
   },
-  "failed": {}
+  "failed": {
+    "civitates": "HTTP 404",
+    "eed": "HTTP 404",
+    "fritt-ord": "HTTP 404",
+    "icfj": "HTTP 404",
+    "jx-fund": "fetch failed",
+    "one-world-media": "HTTP 520",
+    "osf": "HTTP 404",
+    "rory-peck": "fetch failed",
+    "unesco-gmdf": "HTTP 404",
+    "european-cultural-foundation": "HTTP 404"
+  }
 }

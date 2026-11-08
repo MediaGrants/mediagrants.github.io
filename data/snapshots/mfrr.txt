@@ -1,6 +1,6 @@
 SOURCE: Media Freedom Rapid Response
 URL: https://www.mfrr.eu/
-FETCHED: 2026-10-15T03:59:38.986Z
+FETCHED: 2026-11-08T10:39:27.688Z
 TITLE: Media Freedom Rapid Response
 
 === MAIN PAGE ===
@@ -23,29 +23,28 @@ About
 MFRR Summit
 
 MFRR - Media Freedom Rapid Response
-French mission report: Critical juncture for media freedom ahead of 2027 elections
+Serbia’s elections could mark a turning point for media freedom and pluralism
 
 Recent updates
 
-13 October 2026
+06 November 2026
+Advocacy missions
 Statements
 
-France: violence against journalists during protests requires immediate sanctions and implementation of our post-mission recommendations
-In recent weeks, the European Federation of Journalists (EFJ) has documented more than ten cases of violence and obstruction of press freedom targeting journalists covering student and high school protests…
+Hungary: Media freedom mission welcomes initial reforms, calls for consultations and safeguards for second phase
+Media freedom in Hungary has seen significant and rapid changes in the first six months of the new government, marking a historic break with one of the worst crackdowns on…
 
-09 October 2026
-Monitoring
-Statements
+05 November 2026
+Article
 
-MFRR condemns cyberattack on Mapping Media Freedom
-The undersigned partners of the Media Freedom Rapid Response (MFRR) condemn the distributed denial-of-service (DDoS) attack against the Mapping Media Freedom platform on 30 September and 1 October 2026 and…
+Montenegro: the unusual protest of a photojournalist under threat
+Dismayed by a court decision to reduce a sentence — already considered lenient — handed down to someone who had threatened his life, Boris Pejović, a photojournalist for the Podgorica-based…
 
-06 October 2026
-Statements
+05 November 2026
+Article
 
-Slovenia: Authorities urged to refrain from adopting changes that would weaken public media
-On October 11, Slovenians will vote on a referendum 
+Serbia, journalists under pressure
+Ljubomir Stefanović, a journalist and founder of the portal Slavija Info, has left Serbia and requested asylum in Montenegro. He claims to be the target of systematic pe
 
 --- relevant lines ---
-on whether to abolish the licence fee that funds their public broadcaster. In addition, a draft law is moving forward that…
 Led by European Centre for Press and Media Freedom and implemented with ARTICLE 19 Europe , European Federation of Journalists , International Press Institute , Free Press Unlimited and Osservatorio Balcani e Caucaso Transeuropa , the consortium monitors violations, supports journalists at risk and drives coordinated advocacy.

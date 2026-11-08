@@ -1,6 +1,6 @@
 SOURCE: Journalism Grants (EJC)
 URL: https://www.journalismgrants.org/
-FETCHED: 2026-10-15T03:59:38.803Z
+FETCHED: 2026-11-08T10:39:27.162Z
 TITLE: Journalism Grants - programme | EJC.net
 
 === MAIN PAGE ===
@@ -260,8 +260,7 @@ Applications closed
 Funding
 Applications open: ODA Germany Grants for reporting on maternal and child health
 Official Development Assistance (ODA) Germany Grants - Round 2
-Application deadline
-23 Oct 2026, 23:59 (CEST)
+Applications closed
 Funding
 IJ4EU Freelancer Support Scheme 2026
 IJ4EU’s Freelancer Support Scheme 2026 offers grants of up to €20,000 to cross-border investigative teams made up predominantly of freelance journalists.
@@ -283,7 +282,7 @@ IJ4EU’s Freelancer Support Scheme offers grants of up to €20,000 to cross-bo
 Applications closed
 Funding
 European media leaders climate solutions fellowship
-The Solutions Journalism Network and the European Journalism Centre invite 12 forward-thinking media leaders to join our new…
+The Solutions Journalism Network and the European Journalism Centre invite 12 forward-thinking media leaders to join our new fellowship programme aimed…
 
 === https://ejc.net/support-us ===
 we need your support now

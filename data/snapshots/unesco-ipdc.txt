@@ -1,10 +1,10 @@
 SOURCE: UNESCO IPDC
 URL: https://www.unesco.org/en/international-programme-development-communication
-FETCHED: 2026-10-15T03:59:41.756Z
+FETCHED: 2026-11-08T10:39:29.592Z
 TITLE: International Programme for the Development of Communication | UNESCO
 
 === MAIN PAGE ===
-Skip to main content 225th session of the Executive Board, 5-20 October 2026
+Skip to main content Help Us Improve Your UNESCO Website Experience
 close
 
 UNESCO
@@ -21,39 +21,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us À propos
+Who we are About us About us
 
-Member States Profiles États membres
+Member States Profiles Member States Profiles
 
-Global presence Présence mondiale
+Global presence Global presence
 
-Partners Partenaires
+Partners Partners
 
-What we do People we serve
+What we do People we serve People we serve
 
-Core functions Fonctions principales
+Core functions Core functions
 
-Objectives Objectifs
+Objectives Objectives
 
 Programmes Programmes
 
-Resources Legal texts Textes juridiques
+Resources Legal texts Legal texts
 
-Sites navigator Navigateur des Sites
+Sites navigator Sites navigator
 
-Multimedia Laboratoire d'idées
+Multimedia Multimedia
 
-Learning Hub Cours en ligne
+Learning Hub Learning Hub
 
 Publications Publications
 
 Documents Documents
 
-Global reports Rapports mondiaux
+Global reports Global reports
 
-Data and indicators Données et indicateurs
+Data and indicators Data and indicators
 
-News Newsroom Espace presse
+News Newsroom Newsroom
 
 Calendar Calendar
 
@@ -83,32 +83,31 @@ Projects Grassroots Call
 Safety of Journalists
 Journalism Education
 Media Viability
-
+Resources
+Donors - Support U
 
 --- relevant lines ---
-The 70th session of the IPDC Bureau was held on 18 June 2026. Access the Bureau's decisions here.
-IPDC Call for Proposals 2026
-The IPDC Call for proposals 2026 is currently open and will close on 8 February 2026.
-How to apply
+The 35th session of the IPDC Intergovernmental Council will take place on 19-20 November 2026. Access the Council's documents here.
 2026
 International Fund For Public Interest Media
 2026
 UNESCO publishes its latest figures on journalists’ killings and impunity in its 2022 UNESCO Director-General's Report on the Safety of Journalists and the Danger of Impunity Highlights. Help us to #MakeImpunityVisible.
 $120+ million
 Seed-funding local media development
+The United Kingdom continues its commitment to media freedom through UNESCO’s Global Media Defence Fund
+23 October 2026
 3 August 2026
 31 July 2026
 28 July 2026
-15 July 2026
 Presentation of the World Trends in Freedom of Expression and Media Global Report 2025
 5 November 2025
 19 June 2025
 13 December 2024
-21 November 2024 - 22 November 2024
+21 November 2024
 Fellowships
 
 === https://www.unesco.org/en/international-programme-development-communication/projects ===
-Skip to main content 225th session of the Executive Board, 5-20 October 2026
+Skip to main content Help Us Improve Your UNESCO Website Experience
 close
 
 UNESCO
@@ -125,39 +124,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us À propos
+Who we are About us About us
 
-Member States Profiles États membres
+Member States Profiles Member States Profiles
 
-Global presence Présence mondiale
+Global presence Global presence
 
-Partners Partenaires
+Partners Partners
 
-What we do People we serve
+What we do People we serve People we serve
 
-Core functions Fonctions principales
+Core functions Core functions
 
-Objectives Objectifs
+Objectives Objectives
 
 Programmes Programmes
 
-Resources Legal texts Textes juridiques
+Resources Legal texts Legal texts
 
-Sites navigator Navigateur des Sites
+Sites navigator Sites navigator
 
-Multimedia Laboratoire d'idées
+Multimedia Multimedia
 
-Learning Hub Cours en ligne
+Learning Hub Learning Hub
 
 Publications Publications
 
 Documents Documents
 
-Global reports Rapports mondiaux
+Global reports Global reports
 
-Data and indicators Données et indicateurs
+Data and indicators Data and indicators
 
-News Newsroom Espace presse
+News Newsroom Newsroom
 
 Calendar Calendar
 
@@ -167,8 +166,6 @@ Stay updated Stay updated
 
 Search
 Search
-
-Share forward
 
 Search
 Search Quick links: AI Response to Crisis Key Challenges
@@ -185,7 +182,10 @@ About About the IPDC
 Governance of the IPDC
 IPDC and UNESCO s Field Offices
 
-Projects Grassroots Cal
+Projects Grassroots Call
+
+Safety of Journalists
+Journalism Educati
 
 --- relevant lines ---
 Last update: 11 February 2026
@@ -196,7 +196,7 @@ Opens in a new window Opens in a new window Opens in a new window Opens in a new
 Fellowships
 
 === https://www.unesco.org/en/international-programme-development-communication/support-us ===
-Skip to main content 225th session of the Executive Board, 5-20 October 2026
+Skip to main content Help Us Improve Your UNESCO Website Experience
 close
 
 UNESCO
@@ -213,39 +213,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us À propos
+Who we are About us About us
 
-Member States Profiles États membres
+Member States Profiles Member States Profiles
 
-Global presence Présence mondiale
+Global presence Global presence
 
-Partners Partenaires
+Partners Partners
 
-What we do People we serve
+What we do People we serve People we serve
 
-Core functions Fonctions principales
+Core functions Core functions
 
-Objectives Objectifs
+Objectives Objectives
 
 Programmes Programmes
 
-Resources Legal texts Textes juridiques
+Resources Legal texts Legal texts
 
-Sites navigator Navigateur des Sites
+Sites navigator Sites navigator
 
-Multimedia Laboratoire d'idées
+Multimedia Multimedia
 
-Learning Hub Cours en ligne
+Learning Hub Learning Hub
 
 Publications Publications
 
 Documents Documents
 
-Global reports Rapports mondiaux
+Global reports Global reports
 
-Data and indicators Données et indicateurs
+Data and indicators Data and indicators
 
-News Newsroom Espace presse
+News Newsroom Newsroom
 
 Calendar Calendar
 
@@ -255,8 +255,6 @@ Stay updated Stay updated
 
 Search
 Search
-
-Share forward
 
 Search
 Search Quick links: AI Response to Crisis Key Challenges
@@ -273,7 +271,10 @@ About About the IPDC
 Governance of the IPDC
 IPDC and UNESCO s Field Offices
 
-Projects Grassroots Cal
+Projects Grassroots Call
+
+Safety of Journalists
+Journalism Educati
 
 --- relevant lines ---
 Last update: 29 October 2025
@@ -288,7 +289,7 @@ Opens in a new window Opens in a new window Opens in a new window Opens in a new
 Fellowships
 
 === https://www.unesco.org/en/international-programme-development-communication/action/local-development?hub=668 ===
-Skip to main content 225th session of the Executive Board, 5-20 October 2026
+Skip to main content Help Us Improve Your UNESCO Website Experience
 close
 
 UNESCO
@@ -305,39 +306,39 @@ Español
 UNESCO
 
 Main navigation
-Who we are About us À propos
+Who we are About us About us
 
-Member States Profiles États membres
+Member States Profiles Member States Profiles
 
-Global presence Présence mondiale
+Global presence Global presence
 
-Partners Partenaires
+Partners Partners
 
-What we do People we serve
+What we do People we serve People we serve
 
-Core functions Fonctions principales
+Core functions Core functions
 
-Objectives Objectifs
+Objectives Objectives
 
 Programmes Programmes
 
-Resources Legal texts Textes juridiques
+Resources Legal texts Legal texts
 
-Sites navigator Navigateur des Sites
+Sites navigator Sites navigator
 
-Multimedia Laboratoire d'idées
+Multimedia Multimedia
 
-Learning Hub Cours en ligne
+Learning Hub Learning Hub
 
 Publications Publications
 
 Documents Documents
 
-Global reports Rapports mondiaux
+Global reports Global reports
 
-Data and indicators Données et indicateurs
+Data and indicators Data and indicators
 
-News Newsroom Espace presse
+News Newsroom Newsroom
 
 Calendar Calendar
 
@@ -347,8 +348,6 @@ Stay updated Stay updated
 
 Search
 Search
-
-Share forward
 
 Search
 Search Quick links: AI Response to Crisis Key Challenges
@@ -365,7 +364,10 @@ About About the IPDC
 Governance of the IPDC
 IPDC and UNESCO s Field Offices
 
-Projects Grassroots Cal
+Projects Grassroots Call
+
+Safety of Journalists
+Journalism Educati
 
 --- relevant lines ---
 Seed-funding local media development
@@ -376,7 +378,7 @@ Opens in a new window Opens in a new window Opens in a new window Opens in a new
 Fellowships
 
 === https://www.unesco.org/en/articles/rallying-support-journalists-well-being-bhutan ===
-Skip to main content 225th session of the Executive Board, 5-20 October 2026
+Skip to main content Help Us Improve Your UNESCO Website Experience
 close
 
 UNESCO
@@ -388,39 +390,39 @@ English English
 UNESCO
 
 Main navigation
-Who we are About us À propos
+Who we are About us About us
 
-Member States Profiles États membres
+Member States Profiles Member States Profiles
 
-Global presence Présence mondiale
+Global presence Global presence
 
-Partners Partenaires
+Partners Partners
 
-What we do People we serve
+What we do People we serve People we serve
 
-Core functions Fonctions principales
+Core functions Core functions
 
-Objectives Objectifs
+Objectives Objectives
 
 Programmes Programmes
 
-Resources Legal texts Textes juridiques
+Resources Legal texts Legal texts
 
-Sites navigator Navigateur des Sites
+Sites navigator Sites navigator
 
-Multimedia Laboratoire d'idées
+Multimedia Multimedia
 
-Learning Hub Cours en ligne
+Learning Hub Learning Hub
 
 Publications Publications
 
 Documents Documents
 
-Global reports Rapports mondiaux
+Global reports Global reports
 
-Data and indicators Données et indicateurs
+Data and indicators Data and indicators
 
-News Newsroom Espace presse
+News Newsroom Newsroom
 
 Calendar Calendar
 
@@ -430,8 +432,6 @@ Stay updated Stay updated
 
 Search
 Search
-
-Share forward
 
 Search
 Search Quick links: AI Response to Crisis Key Challenges
@@ -445,20 +445,20 @@ In the aftermath of COVID-19 pandemic, when traditional media struggled to susta
 25 August 2022
 Last update: 20 April 2023
 
-Ho
+However, several media organizations and mid-
 
 --- relevant lines ---
 The training, as part of this programme, is based on a diploma course developed by a previous UNESCO International Programme for the Development of Communication (IPDC) support grant. It is registered with the Ministry of Labour and Human Resources, Bhutan, and accredited by the Asian Institute of Journalism and Communication (AIJC).
 This project is supported by the IPDC. IPDC along with the World Journalism Education Council (WJEC), in 2019, recognized efforts in this field and called for further journalism trainings, and encouraged development of “new training materials for journalism students and practitioners on key emerging issues including aspects of quality, ethics and professionalism”.
 Opens in a new window Opens in a new window Opens in a new window Opens in a new window Copied to clipboard
 Manila to host major Ocean Science Conference as UN Decade enters final stretch — Proposals now open
-20 April 2027
+20 April 2027 - 23 April 2027
 13 January 2027 - 15 January 2027
 World Arabic Language Day 2026
 18 December 2026
 16 December 2026
-9 October 2026
-9 October 2026
-9 October 2026
-9 October 2026
+6 November 2026
+4 November 2026
+2 November 2026
+2 November 2026
 Fellowships
