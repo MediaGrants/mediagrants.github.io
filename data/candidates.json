@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-08T13:00:00.000Z",
+  "generatedAt": "2026-11-09T04:16:25.912Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -87,8 +87,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-29",
-      "timesSeen": 15,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 16,
       "status": "new"
     },
     {
@@ -99,8 +99,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 13,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 14,
       "status": "new"
     },
     {
@@ -111,8 +111,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 12,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 13,
       "status": "new"
     },
     {
@@ -123,8 +123,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-12",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -248,8 +248,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-24",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -261,8 +261,8 @@
         "thefix"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-24",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -365,8 +365,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-07",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 8,
       "status": "new",
       "evidence": "Re-seen today via the GFMD funding feed (Gordon N. Fisher / JHR Fellowship listing)."
     },
@@ -391,11 +391,12 @@
       "seenAt": [
         "eea-grants",
         "weekly-discovery",
-        "open-information-partnership"
+        "open-information-partnership",
+        "ecpmf"
       ],
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-04",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -456,8 +457,8 @@
         "global-fund-for-women"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-08",
-      "timesSeen": 26,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 27,
       "status": "new"
     },
     {
@@ -1270,8 +1271,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-07",
-      "timesSeen": 4,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -1561,8 +1562,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-07",
-      "timesSeen": 28,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 29,
       "status": "new"
     },
     {
@@ -1575,8 +1576,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-23",
-      "timesSeen": 24,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 25,
       "status": "new"
     },
     {
@@ -1625,8 +1626,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-09",
+      "timesSeen": 2,
       "status": "new"
     },
     {
