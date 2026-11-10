@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-09T04:16:25.912Z",
+  "generatedAt": "2026-11-10T04:19:09.366Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -37,8 +37,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 6,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -197,8 +197,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -224,8 +224,8 @@
         "osf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-18",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -454,11 +454,13 @@
       "seenAt": [
         "gfmd-fellowships",
         "gfmd-fundings",
-        "global-fund-for-women"
+        "global-fund-for-women",
+        "gijn-grants",
+        "ijnet-opportunities"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 27,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 29,
       "status": "new"
     },
     {
@@ -579,8 +581,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-11",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -652,8 +654,8 @@
         "terra-viva-grants"
       ],
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -789,8 +791,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-07",
-      "timesSeen": 11,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 12,
       "status": "new"
     },
     {
@@ -1082,8 +1084,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-22",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -1549,8 +1551,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-07",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -1906,8 +1908,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-01",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-10",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2118,6 +2120,198 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "womenphotograph.com/grants and coverage of the 2026 cycle (loeildelaphotographie.com, lfi-online.de), which closed 30 June 2026; not previously tracked in sources.json or candidates.json. Read 8 Nov 2026."
+    },
+    {
+      "name": "Wellspring Philanthropic Fund",
+      "url": "https://www.wellspringfund.org/",
+      "why": "Named via WebSearch today as one of the funders behind the Pulitzer Center's AI Accountability Network/Fellowship (alongside the Open Society Foundations and the MacArthur Foundation, both already tracked sources). It is a re-granting foundation; unclear whether it runs any direct-to-journalist application of its own, so flagged for the team to assess rather than added as a funder entry.",
+      "seenAt": [
+        "pulitzer-center"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "IJ4EU Freelancer Support Scheme (second 2026 call)",
+      "url": "https://investigativejournalismforeu.net/grants/freelancer-support-scheme/",
+      "why": "Seen listed on ejc.net/funding (EJC co-manages IJ4EU) as closed for its first 2026 call, with search results indicating a second call for the 2026-27 round may open around 1 Dec 2026. Not recorded under ejc-funding because a dedicated 'ij4eu' source already exists in sources.json; flagging so that source's own batch can pick up the new call.",
+      "seenAt": [
+        "ejc-funding"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU Delegation to Serbia — Support to the Independent Media Sector in Serbia",
+      "url": "https://www.euro-access.eu/en/calls/1235/Support-to-the-independent-media-sector-in-Serbia",
+      "why": "A recurring EU Delegation call (EuropeAid/185600/DD/ACT/RS) funding Serbian independent media organisations directly (grants cited around EUR 250,000-500,000); 2026 round's deadline was 31 March 2026 (closed) and a guideline document references a further 'Civil Society and Media 2026-2027 (allocation 2027)' tranche. Likely carried on eumogucnosti.rs per that source's own note about EU Delegation calls, but could not confirm it listed there in today's search; a dedicated 'eu-delegation-serbia' source already exists in sources.json and may already cover it.",
+      "seenAt": [
+        "eu-mogucnosti"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Innovation. Media. Minds (IMM) — Western Balkans independent media support",
+      "url": "https://www.eeas.europa.eu/delegations/montenegro/poziv-za-prijave-finansijska-podr%C5%A1ka-za-nezavisne-medije-i-medijske-organizacije-zapadnog-balkana_me",
+      "why": "An EU-backed programme funding independent media organisations across the Western Balkans (including Serbia); search results show it opening a second call for applications. Not currently in sources.json; a clearly media-eligible funder worth adding as its own source.",
+      "seenAt": [
+        "eu-mogucnosti"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Coalition for Media Freedom (NUNS et al.) — Local Media Support Programme / 'Medijska strategija po meri građana 2026-2031'",
+      "url": "https://anem.org.rs/en/strane/javni-poziv-za-program-podrske-lokalnim-medijima-u-srbiji",
+      "why": "A Serbian local-media grant programme run by the NUNS-led Coalition for Media Freedom, found via general search while looking for eumogucnosti.rs media calls; could not confirm it is actually listed on eumogucnosti.rs itself, so left unrecorded as a grant, but it funds local newsroom reporting projects directly and could be its own source.",
+      "seenAt": [
+        "eu-mogucnosti"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Journalists for Human Rights (JHR) / Massey College",
+      "url": "https://jhr.ca/",
+      "why": "Runs the Gordon N. Fisher / JHR Fellowship surfaced via the gfmd-fundings aggregator today (now added as its own entry); JHR itself runs multiple other media-development grant and training programmes in Africa that could be tracked as a dedicated source.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Wallace House Center for Journalists (Knight-Wallace Fellowships)",
+      "url": "https://wallacehouse.umich.edu/",
+      "why": "Runs the Knight-Wallace Fellowship (international track now added) plus a U.S. track; recurring annual academic-year journalism fellowship.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Internationale Journalisten-Programme (IJP) e.V.",
+      "url": "https://ijp.org/",
+      "why": "Runs the German-Northern European Journalists Fellowship (now added) and apparently other bilateral exchange programmes (an 'NL 2027' call was also seen); recurring annual exchange fellowships for European journalists.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Thomson Foundation / Media Innovation Europe consortium (IPI, Thomson Media, The Fix Foundation, BIRN)",
+      "url": "https://www.thomsonfoundation.org/",
+      "why": "Runs the Business Innovation Synergizer and likely other recurring European media-business grants under the Media Innovation Europe umbrella.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Henry Nxumalo Foundation (SA|AJP)",
+      "url": "https://viewfinder.org.za/",
+      "why": "Runs the Southern Africa Accountability Journalism Project rolling investigative-journalism grants across seven SADC countries.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "World Federation of Science Journalists (WFSJ)",
+      "url": "https://wfsj.org/",
+      "why": "Runs event-tied travel fellowships (WCSJ2027) and other science-journalism support; recurring around its biennial conference.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Civil Society Fund (Poland)",
+      "url": "https://gfmd.info/fundings/call-for-proposals-on-countering-disinformation-poland/",
+      "why": "Funds Polish civil-society/fact-checking disinformation projects; could not locate the fund's own independent website today (only the gfmd.info call page), so flagged for someone to confirm a primary URL before tracking directly.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Fund for Public Interest Media",
+      "url": "https://www.ifpim.org/",
+      "why": "Has an open call covering Ukraine (per a secondary listing: deadline 2 Aug 2026, awards due by 18 Nov 2026) supporting public-interest media sustainability; surfaced while researching irf-ukraine's institutional-media-funding landscape.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU National Resource Centre for Civil Society Organizations in Serbia",
+      "url": "https://proposia.ai/open-calls/eu-national-resource-center-for-civil-society-organizations-in-serbia-7c724e",
+      "why": "A new EU Delegation to Serbia call (EuropeAid/186165/DD/ACT/RS, deadline 5 Oct 2026, now closed) funded under a newly-named 'Action Fiche for Civil Society and Media 2026-2027' — the Action Fiche's name suggests a future media-specific round from the same funding line may follow; worth re-checking under eu-delegation-serbia in a future sweep.",
+      "seenAt": [
+        "eu-delegation-serbia"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Transatlantic Foundation / Black Sea Trust for Regional Cooperation",
+      "url": "https://gmfus.org/black-sea-trust/",
+      "why": "Runs grant calls for civil society, independent media and journalists across the wider Black Sea region (Eastern Partnership-adjacent), including bilateral exchange grants (EUR 7,500-15,000); surfaced while searching for Open Information Partnership's own current calls, which could not be located directly.",
+      "seenAt": [
+        "open-information-partnership"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "GIZ — Media Resource Centers (Western Balkans)",
+      "url": "https://www.giz.de/en/call-project-proposals-establishment-media-resource-centers-support-small-and-local-media-outlets-0",
+      "why": "A call to establish media resource centres supporting small and local Western Balkan outlets, grants EUR 10,000-80,000 (up to 15 grants); surfaced while searching for Open Information Partnership content, as a plausible adjacent/media funder for the region not currently in sources.json.",
+      "seenAt": [
+        "open-information-partnership"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
