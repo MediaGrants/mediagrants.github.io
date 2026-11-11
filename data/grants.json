@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:19:09.366Z",
+  "generatedAt": "2026-11-11T04:09:47.708Z",
   "grants": [
     {
       "id": "access-now-digital-security-helpline",
@@ -4710,7 +4710,7 @@
         "RS"
       ],
       "sourceId": "trag-foundation",
-      "lastVerified": "2026-10-28",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-28) against yesterday's snapshot (fetched 2026-10-27, not today, so confidence stays medium): still listed under the site's 'Open calls' navigation, announcement text unchanged. A separate current open call on Trag's own open-calls page, 'Strateški grant za dobro upravljanje' (Strategic Grant for Good Governance, with partners Proaktiv, Inženjeri zaštite životne sredine and Svetionik under the EU-funded 'Impuls zajednice' project), was deliberately not recorded: its own call and Q&A documents describe a community-fundraising/good-governance matching-grant mechanism, not media, journalism, reporting or documentation work. Not confirmed on the funder's own page."
@@ -7260,7 +7260,7 @@
         "europe"
       ],
       "sourceId": "ejc-funding",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today via WebSearch; still closed, no 2027 call announced yet (the programme was described as a two-year, 2025-2027 effort with exactly two calls, so this may have been the final round). Reconfirmed again today (2026-11-01); no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; still closed, no 2027 call found (programme described as a two-year 2025-2027 effort with two calls, so this may be the final round). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch and the stale ejc.net/funding snapshot (fetched 2026-10-17, still the latest available); programme shows 'Applications closed' on EJC's own listed text; no 2027 call found yet. Not confirmed on the funder's own page."
@@ -7299,7 +7299,7 @@
         "DE"
       ],
       "sourceId": "ejc-funding",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today via WebSearch; still closed, no successor round announced. Reconfirmed again today (2026-11-01); no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; still closed, no successor round announced. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch and the stale ejc.net/funding snapshot (fetched 2026-10-17); still closed, no successor round announced. Note: the same ejc.net snapshot shows an 'IJ4EU Freelancer Support Scheme 2026' also marked 'Applications closed', and other search results indicate a second IJ4EU Freelancer Support Scheme call may open around 1 Dec 2026 -- not recorded under ejc-funding because IJ4EU already has its own dedicated source ('ij4eu') in sources.json; flagged in issues so the ij4eu batch can pick this up. Not confirmed on the funder's own page."
@@ -7336,7 +7336,7 @@
         "global"
       ],
       "sourceId": "ijnet-opportunities",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) against the ijnet.org/en/rss.xml snapshot (fetched 2026-10-17); feed remains a dead 2014-2018 blog archive, this remains the only genuine funding/training item (already closed). Not confirmed on the funder's own page. Reconfirmed today (2026-10-30); IJNet's rss.xml feed and ijnet.org/en/opportunity listings still surface only stale postings from 2014-2025 (including this one, already closed, and an old, un-dated Edward R. Murrow Press Fellowship listing syndicated from SEJ with no confirmed current-cycle deadline); no new current opportunity found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch; IJNet's rss.xml feed remains a dead archive with no current opportunities surfaced. Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; ijnet.org/en/rss.xml feed and opportunity listings still surface only stale postings; no new current opportunity found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; no new current ijnet.org-sourced opportunity found (an Equality Fund Journalism Fellowship 2026, deadline 8 Nov 2026, surfaced via other aggregators but could not be confirmed as syndicated on ijnet.org itself, and its deadline has already passed; recorded as a candidate, not an entry). Not confirmed on the funder's own page."
@@ -7374,7 +7374,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A named sub-fund of IWMF's general Emergency Fund supporting women journalists in crisis worldwide, created in memory of foreign correspondent Alex Duval Smith. Reconfirmed today via WebSearch (no fresher same-day snapshot of iwmf.org/programs/ available; latest capture still dated 2026-10-17); still named under Safety > Emergency Assistance, rolling, no change. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -7412,7 +7412,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "An academic/professional fellowship for a woman or nonbinary journalist (3+ years' experience, any nationality, strong English for non-native speakers) focused on human rights and social justice reporting, created in memory of Boston Globe correspondent Elizabeth Neuffer; one academic year at MIT's Center for International Studies plus internships at The Boston Globe and The New York Times (no separate stipend amount stated). A stale (fetched 2026-10-17) snapshot of iwmf.org/programs/ confirms: 'Applications for the 2027 Elizabeth Neuffer Fellowship are now closed'; the 19 Apr 2026 deadline has passed. No 2028-cycle date found via WebSearch today. Reconfirmed today via WebSearch: the 2027 cohort's application window (8 Mar-19 Apr 2026) is closed; no 2028-cycle date announced yet. Not confirmed on the funder's own page."
@@ -7455,7 +7455,7 @@
         "MX"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A reporting and training initiative with the Foundation for a Just Society supporting journalism by and about women and LGBTQI+ people in El Salvador, Guatemala, Honduras and Mexico; selected journalists complete inclusive-journalism and safety training and can then apply for reporting grants on LGBTQI+/gender-focused stories (amount not published). Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); still named in the funder's navigation, no change. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -7496,7 +7496,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A three-year IWMF programme funding staff and freelance journalists to produce investigative, evidence-based reporting within the United States on racism, antisemitism, Islamophobia, misogyny and other forms of intolerance and hate; USD 2,500-10,000, which may cover travel, logistics, security and insurance; rolling admissions; grantees must publish in a U.S. outlet within one year and credit the IWMF. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); 'Apply Now!' banner and rolling admissions unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch; rolling admissions unchanged. Also listed (as a duplicate) on the gfmd-fundings aggregator feed today, describing the same IWMF programme verbatim — kept here under the primary funder source (iwmf) and not duplicated under gfmd-fundings. Reconfirmed today via WebSearch; rolling admissions unchanged. One aggregator today showed an unrelated 'August 1, 2026' deadline for this programme, which conflicts with the funder's own 'rolling admissions' language seen in the most recent snapshot; that date is not used here and is flagged in issues. Not confirmed on the funder's own page."
@@ -7535,7 +7535,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Rolling-basis support for U.S.-based reporting on Missing and Murdered Indigenous People/Women, Girls, Two-Spirit and Transgender people (MMIP/WG2T), open to Indigenous and non-Indigenous journalists of all genders; grantees also receive editorial and pitching support (monetary amount not stated). Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); 'reviewed on a rolling basis' language unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -7574,7 +7574,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A 7-month mentoring programme pairing U.S. journalists from underrepresented backgrounds with media-industry mentors on networking, salary negotiation and applying for fellowships/grants; no direct cash grant to participants. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); still listed in navigation; most recently documented cohort was 2025, next cohort timeline still TBD. Reconfirmed today via WebSearch; still no next-cohort timeline found. Not confirmed on the funder's own page."
@@ -7612,7 +7612,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Established with a $4 million gift from the Howard G. Buffett Foundation, offering flexible partial grants (up to USD 10,000 per secondary sources) to women and nonbinary journalists/teams for reporting projects, including investigative reporting and media-development initiatives; requires at least one year of professional experience, team leader must be a woman/nonbinary journalist, at least 50% of any team women/nonbinary. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); rolling, no change. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; rolling, no change found. Not confirmed on the funder's own page."
@@ -7650,7 +7650,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Grants averaging about USD 5,000 (up to $5,000) supporting narrative print journalism, or a multi-format project led by a print journalist, on important issues reported and published anywhere in the world; honors editor Kari Howard; open to women and nonbinary journalists (freelance or staff) with 3+ years' professional journalism experience. WebSearch today reconfirms the 2026 cycle's deadline was 12 Jul 2026 (11:59pm EST), now passed; decisions were due by early September 2026. No 2027 cycle found yet. Reconfirmed today via WebSearch; the 2026 cycle (deadline 12 Jul 2026) remains the most recent, no 2027 cycle found yet. Not confirmed on the funder's own page."
@@ -7688,7 +7688,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Grants of $5,000 to women or nonbinary journalists covering subculture and the 'undercurrents of rebellion', honoring journalist Kim Wall; funds travel, logistics, insurance, visa fees and stipends, but not equipment or academic research. WebSearch today found the most recent confirmed cycle closed 7 Dec 2025 (not 12 Jul 2026 as previously recorded here — that date appears to have been carried over in error, likely duplicated from the separate Kari Howard Fund entry, and is not supported by any evidence found); 2026 grantees were announced 23 Mar 2026. No 2026-27 cycle has been announced yet; past cycles have opened in the autumn with early-December deadlines, so a new call may appear in the coming weeks. Deadline corrected to null/unknown pending a confirmed call. Reconfirmed today via WebSearch: most recent confirmed cycle closed 7 Dec 2025 with 2026 grantees announced 23 Mar 2026; still no 2026-27 cycle announced. Not confirmed on the funder's own page."
@@ -7727,7 +7727,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Grants of up to $2,000 for U.S. journalists from underrepresented backgrounds to fund reporting on underreported issues, professional development, or skills training/leadership opportunities; created in memory of Quartz founding editor Lauren Alix Brown. WebSearch today reconfirms the 2026 round's deadline (30-31 Oct 2026, sources differ by a day) has passed; this is an annually recurring programme (a 2025-cycle listing gave a 20 Jul 2025 deadline, showing the date moves year to year). No 2027 cycle found yet. Reconfirmed today via WebSearch; the Oct 2026 round (deadline reported as 30 or 31 Oct, sources differ by a day) remains closed, no 2027 cycle found yet. Not confirmed on the funder's own page."
@@ -7766,7 +7766,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A rolling-basis initiative (launched Feb 2024, expanded with Press Forward support) offering free in-person safety workshops to local/regional U.S. newsrooms and freelance journalists, plus follow-on safety-policy consultations and emergency assistance, focused on battleground-state and rural newsrooms; training is free but IWMF cannot cover participant travel/lodging. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -7806,7 +7806,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Grants supporting women and nonbinary journalists (individually or in teams) reporting on reproductive rights and related authoritarian/anti-rights dynamics across Latin America, the Caribbean and the United States; amount varies by project need, scope and location. The 2026 cycle's 2 Aug 2026 deadline has passed; WebSearch today found no 2027 cycle announced yet. Reconfirmed today via WebSearch: the 2026 cycle's 2 Aug 2026 deadline (one aggregator says 3 Aug) remains closed, no 2027 cycle announced yet. Not confirmed on the funder's own page."
@@ -7847,7 +7847,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A programme training U.S. journalists as journalist-safety leaders (committing ~10 hours/month over 6 months), with mentoring from safety experts, a small participation stipend, and possible paid opportunities afterward; part of the Newsroom Safety Across America initiative supported by Press Forward. WebSearch today confirms this is now labelled the '2027 Safety Ambassador Fellowship' cohort, whose window closed 20 Oct 2026 (matches the previously tracked deadline); no 2028 cohort announced yet. Reconfirmed today via WebSearch; the 2027 cohort (closed 20 Oct 2026) remains the most recent, no 2028 cohort announced yet. Not confirmed on the funder's own page."
@@ -7885,7 +7885,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Emergency assistance for U.S.-based staff and independent/freelance journalists whose reporting on politically charged events exposed them to harm, risk or crisis, covering needs like destroyed/stolen equipment, protective gear and related medical/psychological care; supported by the Ford Foundation and Press Forward. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); rolling, no change. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; rolling, no change found. Not confirmed on the funder's own page."
@@ -7924,7 +7924,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A coalition of 80+ international organisations, led by IWMF, offering journalists free one-on-one digital-safety consultations, an online-violence response hub, and multilingual training courses; explicitly not a rapid/emergency-response service, and requires journalism as a primary profession. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -7962,7 +7962,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Multi-day in-person Hostile Environment and First Aid Training (HEFAT) courses combining practical safety scenarios with first-aid skills; IWMF has run 50+ such courses training 900+ journalists since 2014, with recent cohorts in the U.S., Latin America and Kenya. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); no current 2026/2027 cohort dates found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no current cohort dates found. Not confirmed on the funder's own page."
@@ -8001,7 +8001,7 @@
         "global"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A joint IWMF/UNESCO initiative helping newsrooms (emphasis on the Global South) strengthen gender-responsive safety policies through one-to-one consultations and customised safety trainings for newsroom leaders and journalists; applications made by newsrooms, not individuals. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); most recent cycle appears closed (reported deadline around 1 Nov 2025), no 2026/2027 cycle found. Reconfirmed today via WebSearch; still appears closed with no new cycle found. Not confirmed on the funder's own page."
@@ -8040,7 +8040,7 @@
         "US"
       ],
       "sourceId": "iwmf",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A referral partnership with the Dart Center / Global Center for Journalism and Trauma (GCJT) connecting U.S.-based journalists who have experienced work-related trauma or occupational stress with free, specialised therapy, after a brief IWMF screening call; explicitly not a crisis/emergency service, and generally requires the trauma/stress to have occurred within the past 12 months. Reconfirmed today via WebSearch (no fresher same-day snapshot available; latest capture still dated 2026-10-17); free-therapist capacity was reported full as of early 2026, current capacity not confirmed. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -8265,7 +8265,7 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Supports cross-border investigative journalism teams made up predominantly of freelance journalists based in Europe (teams of 2+ freelancers, members in at least 2 eligible European countries), offering grants plus training and mentoring; managed by the European Journalism Centre (EJC). Confirmed via a 20-day-stale (fetched 2026-10-17) snapshot of the funder's own investigativejournalismforeu.net/grants/ pages: the scheme is 'PAUSED', with the second 2026-27 call opening 1 Dec 2026 and providing around EUR 400,000 in grants for the round; the application deadline is nine weeks from the call's launch, i.e. 2 Feb 2027 (matches the previously tracked date). The first call of this cycle opened 12 Feb 2026 and has already closed. Grant cap of up to EUR 20,000 confirmed. Not confirmed via a same-day snapshot of the funder's own page. Not confirmed on the funder's own page. Reconfirmed 2026-11-07 (no same-day snapshot available; snapshot job is lagging, see data/snapshots/_index.json). Reconfirmed today (2026-11-08) via WebSearch against a 22-day-stale snapshot of the funder's own grants pages; scheme remains PAUSED, second 2026-27 call still set to open 1 Dec 2026 (deadline 2 Feb 2027, nine weeks from launch). Reconfirmed today via WebSearch: the first 2026-27 call closed with 12 teams funded from 117 applications (announced July 2026); the second call remains set to open 1 Dec 2026, closing 2 Feb 2027. IJ4EU's own June 2026 relaunch announcement (via IPI/EJC) puts combined 2026-27 funding across both schemes at roughly EUR 1.6 million (EUR 1.2m Investigation Support + EUR 400k Freelancer Support), consistent with the per-scheme figures already recorded. Not confirmed on the funder's own page."
@@ -8304,7 +8304,7 @@
         "europe-eu-candidate"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Supports cross-border investigative journalism teams (newsrooms and/or freelancers) based in at least two eligible European countries; managed by the International Press Institute (IPI). Confirmed via a 20-day-stale (fetched 2026-10-17) snapshot of the funder's own investigativejournalismforeu.net/grants/ pages: the scheme is 'PAUSED', with the second 2026-27 call opening 1 Dec 2026, providing EUR 1.2 million in grants for the 2026-27 cycle (this resolves prior ambiguity between EUR 1.2m/1.6m figures seen in earlier sweeps — the funder's own page states EUR 1.2 million), and grants of between EUR 5,000 and EUR 50,000 per project. Deadline is nine weeks from the call's launch, i.e. 2 Feb 2027 (matches the previously tracked date). Not confirmed via a same-day snapshot of the funder's own page. Not confirmed on the funder's own page. Reconfirmed 2026-11-07 (no same-day snapshot available; snapshot job is lagging, see data/snapshots/_index.json). Reconfirmed today (2026-11-08) via WebSearch against a 22-day-stale snapshot of the funder's own grants pages; scheme remains PAUSED, second 2026-27 call still set to open 1 Dec 2026 (deadline 2 Feb 2027, nine weeks from launch). Reconfirmed today via WebSearch: the second 2026-27 call remains set to open 1 Dec 2026, closing 2 Feb 2027; combined 2026-27 funding across both IJ4EU schemes is reported at roughly EUR 1.6 million (EUR 1.2m Investigation Support + EUR 400k Freelancer Support), consistent with the figures already recorded here. Not confirmed on the funder's own page."
@@ -8343,7 +8343,7 @@
         "europe"
       ],
       "sourceId": "ij4eu",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Small travel grants to help journalists attend the IJ4EU UNCOVERED conference, a networking and training event for investigative journalists in Europe. This was a one-off, event-specific call for the 2026 edition; its 20 Aug 2026 deadline has long passed and it remains absent from the funder's current grants listing. Archived as closed per the site's archive rule (not deleted, as a comparable travel grant likely recurs around the next UNCOVERED conference). Not confirmed on the funder's own page. Reconfirmed 2026-11-07 (no same-day snapshot available; snapshot job is lagging, see data/snapshots/_index.json). Reconfirmed today via WebSearch: the UNCOVERED 2026 conference was held 17-18 Sept 2026 in Budapest; its travel-grant call (deadline 20 Aug 2026) remains closed and no UNCOVERED 2027 travel-grant call has appeared yet. Not confirmed on the funder's own page."
@@ -8381,7 +8381,7 @@
         "BE"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Belgian Bridge supports collaborative investigative projects led by Dutch- and French-speaking Belgian journalists working together on local issues, piloted with the King Baudouin Foundation (EUR 100,000 total pilot pot, per aggregator reporting). The last confirmed deadline, 15 Oct 2026 13:00 CET (verified on a stale 2026-10-17 snapshot of journalismfund.eu/grants), has passed. Checked again today via WebSearch: Journalismfund's own Belgian Bridge page currently shows no new deadline (listed as not yet determined); aggregators give conflicting unconfirmed 2026 dates (26 Feb, 25 Jun) that don't resolve this. No 2027 round found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of journalismfund.eu exists; the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page. Today's WebSearch still finds no confirmed next-round deadline beyond the passed 15 Oct 2026 date; aggregators continue to give mutually inconsistent historical 2026 dates (26 Feb, 25 Jun, 15 Oct) for different rounds within the same pilot cycle, none of which resolve a future deadline."
@@ -8420,7 +8420,7 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Grants for cross-border teams investigating environmental issues; supported investigations must be published in at least two media outlets in different countries. EUR 400,000 available per call per aggregator reporting; individual grant amount not stated. The 2026 cycle's last deadline (6 Aug 2026) has passed. Checked again today via WebSearch: no 2027 deadline confirmed yet for this specific programme (a third-party directory cites Jan 7/Mar 11 2027 dates without saying which Journalismfund programme they belong to, so not used here). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of journalismfund.eu exists; the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -8459,7 +8459,7 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A stale (2026-10-17) snapshot of the funder's own journalismfund.eu/european-cross-border-grants page still reads 'Next application deadline (CET): 7 January 2027, 13:00 CET', unchanged. Individual grant amount not stated. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of journalismfund.eu exists; the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page. Today's WebSearch corroborates the 7 January 2027, 13:00 CET deadline and adds that the programme runs 4 calls in 2026 and 2 calls in 2027 per aggregator reporting; individual grant amount still not stated anywhere found."
@@ -8497,7 +8497,7 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Supports cross-border teams investigating farm animal welfare and related European interests, part of Journalismfund's Environmental Investigative Journalism Grant programme (backed by Coefficient Giving). The funder's own page (stale snapshot, fetched 2026-10-17) shows the second 2026 round's deadline as 29 October 2026, 13:00 CET, which has passed; status remains closed. WebSearch today surfaced a conflicting aggregator reference to a 'Round 4, 2026' deadline of 27 Aug 2026 and EUR 300,000 total — likely describing an earlier round in the same 2026 cycle rather than a different figure; no 2027 round announced yet. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of journalismfund.eu exists; the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -8535,7 +8535,7 @@
         "BE"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Four 2027 deadlines confirmed previously on the funder's own page: 21 Jan, 22 Apr, 5 Aug, 14 Oct 2027, ~EUR 270,000 total budget. Reconfirmed unchanged today. Not confirmed via a same-day snapshot of the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of journalismfund.eu exists; the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page. Today's WebSearch reconfirms all four 2027 round deadlines (21 Jan, 22 Apr, 5 Aug, 14 Oct 2027, 13:00 CET each) directly from grants.journalismfund.eu's own Pascal Decroos Fund page text as surfaced in search snippets, and the EUR ~270,000/4 rounds budget; one third-party aggregator (CASW) gives a conflicting '7 Jan and 11 Mar' figure that does not match the official page and is not used."
@@ -8574,7 +8574,7 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A capacity-building grant for organisations (not individuals) to deliver training, coaching or fellowship programmes building the skills of professional environmental investigative journalists in Europe. Around EUR 75,000 available per call. The funder's own page (stale snapshot, fetched 2026-10-17) shows no 'next application deadline' entry; the most recent known round closed 20 Aug 2026. No new round found via WebSearch today. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of journalismfund.eu exists; the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -8634,7 +8634,7 @@
         "TG"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) via WebSearch; gijn.org has no snapshot file available again today (recurring 403/unreachable). Deadline (4 Sep 2026) remains passed; no 2027 round found. Not confirmed on the funder's own page. Rechecked today (2026-10-30) via WebSearch only (no gijn-grants snapshot file exists, job broken ~4 days); no new programme beyond what's already recorded, and all previously-passed deadlines remain passed. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch (no gijn-grants snapshot file exists, fetch job still broken); no change found. Reconfirmed today (2026-11-05) via WebSearch (gijn.org itself remains unreachable for automated fetch; no gijn-grants snapshot file exists); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch (gijn.org still unreachable for automated fetch; no gijn-grants snapshot file exists); no 2027 round found, deadline remains passed. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -8671,7 +8671,7 @@
         "global"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) via WebSearch; no 2027 cohort announced yet on correctiv.org. Not confirmed on the funder's own page. Rechecked today (2026-10-30) via WebSearch only (no gijn-grants snapshot file exists, job broken ~4 days); no new programme beyond what's already recorded, and all previously-passed deadlines remain passed. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch (no gijn-grants snapshot file exists, fetch job still broken); no change found. Reconfirmed today (2026-11-05) via WebSearch (gijn.org itself remains unreachable for automated fetch; no gijn-grants snapshot file exists); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; no 2027 cohort announced yet on correctiv.org. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -8710,7 +8710,7 @@
         "US"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) via WebSearch; deadline (12 Oct 2026) remains passed; an unconfirmed Spring 2027 cycle (12 Apr 2027) mentioned by one aggregator still not corroborated on mcgrawcenter.org. Not confirmed on the funder's own page. Rechecked today (2026-10-30) via WebSearch only (no gijn-grants snapshot file exists, job broken ~4 days); no new programme beyond what's already recorded, and all previously-passed deadlines remain passed. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch (no gijn-grants snapshot file exists, fetch job still broken); no change found. Reconfirmed today (2026-11-05) via WebSearch (gijn.org itself remains unreachable for automated fetch; no gijn-grants snapshot file exists); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; deadline (12 Oct 2026) remains passed, no confirmed next cycle. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -8748,7 +8748,7 @@
         "asia-southeast"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) via WebSearch; no 2027 round found. Not confirmed on the funder's own page. Rechecked today (2026-10-30) via WebSearch only (no gijn-grants snapshot file exists, job broken ~4 days); no new programme beyond what's already recorded, and all previously-passed deadlines remain passed. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch (no gijn-grants snapshot file exists, fetch job still broken); no change found. Reconfirmed today (2026-11-05) via WebSearch (gijn.org itself remains unreachable for automated fetch; no gijn-grants snapshot file exists); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; no 2027 round found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -8787,7 +8787,7 @@
         "global"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) via WebSearch; majority of aggregators still give 8 Jan 2027 as the first-round deadline (one outlier source, european-funding-guide.eu, gives 18 Dec 2026 - unresolved). Not confirmed on rjionline.org directly. Rechecked today (2026-10-30) via WebSearch only (no gijn-grants snapshot file exists, job broken ~4 days); no new programme beyond what's already recorded, and all previously-passed deadlines remain passed. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch (no gijn-grants snapshot file exists, fetch job still broken); no change found. STATUS UPDATE today (2026-11-05): the cycle's stated opening date (2 Nov 2026, per third-party coverage) has now passed, so this is flipped from upcoming to open (deadline 8 Jan 2027 still future). gijn.org itself remains unreachable (no snapshot file exists; recurring fetch failure, not just today's broken pipeline). Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; third-party aggregators consistently give first-round deadline 8 Jan 2027 (applications opened 2 Nov 2026), with one site explicitly warning against a circulating but incorrect 19 Nov 2026 date. Still not directly confirmed on rjionline.org. Not confirmed on the funder's own page. Reconfirmed today; no WebSearch contradiction found to the already-recorded 8 Jan 2027 deadline (opened 2 Nov 2026). gijn.org remains unreachable for automated fetch (no snapshot file). Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -8826,7 +8826,7 @@
         "global"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) via WebSearch; deadline (31 Jan 2027) and conference dates/venue (19-23 Oct 2027, Rotterdam) unchanged. Not confirmed on the funder's own page. Rechecked today (2026-10-30) via WebSearch only (no gijn-grants snapshot file exists, job broken ~4 days); no new programme beyond what's already recorded, and all previously-passed deadlines remain passed. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch (no gijn-grants snapshot file exists, fetch job still broken); no change found. Reconfirmed today (2026-11-05) via WebSearch (gijn.org itself remains unreachable for automated fetch; no gijn-grants snapshot file exists); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; deadline (31 Jan 2027) and conference details unchanged. Not confirmed on the funder's own page. Reconfirmed today via WebSearch; deadline (31 Jan 2027) and conference details (Rotterdam, 19-23 Oct 2027) unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -8864,7 +8864,7 @@
         "GB"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Updated today (2026-10-31): WebSearch again finds a 20 Nov 2026 deadline figure for the 2027-28 cycle, but this is explicitly flagged by one secondary source as unconfirmed and possibly carried over from the prior (2025) cycle's date; no official nytco.com confirmation found. Kept open and unchanged pending direct confirmation closer to the date. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch (no gijn-grants snapshot file exists, fetch job still broken); no change found. Reconfirmed today (2026-11-05) via WebSearch (gijn.org itself remains unreachable for automated fetch; no gijn-grants snapshot file exists); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch; most aggregators still cite 20 Nov 2026 (5pm ET) for the 2027-28 cycle, but no official nytco.com confirmation found; one source suggests this may be confused with the 2025 cycle's 19 Nov date. Kept open pending direct confirmation. Not confirmed on the funder's own page. Reconfirmed today via WebSearch; most aggregators still cite 20 Nov 2026 (5pm ET) for the 2027-28 cycle, but no official nytco.com confirmation found; one source again suggests this may be confused with the 2025 cycle's 19 Nov date. Kept open pending direct confirmation. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch; most aggregators still cite 20 Nov 2026 (5pm ET) for the 2027-28 cycle, but no official nytco.com confirmation found; one source again suggests this may be confused with the 2025 cycle's 19 Nov date, and another says the figure is still an estimate pending an official announcement. Kept open pending direct confirmation. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline (20 Nov 2026) still 10 days out and unchanged, still not officially confirmed on nytco.com. Kept open. Not confirmed on the funder's own page."
@@ -8914,7 +8914,7 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) against the gfmd.info/fundings/feed/ snapshot (fetched 2026-10-17); not present in current ~12 headlines, consistent with closure. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -8951,7 +8951,7 @@
         "PL"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) against the gfmd.info/fundings/feed/ snapshot (fetched 2026-10-17); still closed, not present in current headlines. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -8988,7 +8988,7 @@
         "global"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24) against the gfmd.info/fundings/feed/ snapshot (fetched 2026-10-17); still absent, consistent with closure. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9027,7 +9027,7 @@
         "US"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24); still closed, not present in current feed headlines. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9065,7 +9065,7 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24); still closed. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9104,7 +9104,7 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24); still closed. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9147,7 +9147,7 @@
         "UA"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24); still closed. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9186,7 +9186,7 @@
         "US"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24); unchanged, closed. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9236,7 +9236,7 @@
         "ZM"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-10-24); still closed. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9278,7 +9278,7 @@
         "RS"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-11-07) against the gfmd.info/fundings/feed snapshot (fetched 2026-10-17, now three weeks stale; fetch-snapshot pipeline lagging again) cross-checked with WebSearch; no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9322,7 +9322,7 @@
         "MZ"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed today (2026-11-07) against the gfmd.info/fundings/feed snapshot (fetched 2026-10-17, three weeks stale); still present, unchanged, rolling. Apply by emailing daneel@viewfinder.org.za (no web form). Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9359,7 +9359,7 @@
         "MD"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Deadline passed, correctly kept as closed archive. Reconfirmed today (2026-11-07) against the stale (2026-10-17) gfmd-fundings snapshot; no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -9434,7 +9434,7 @@
         "africa"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9473,7 +9473,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9511,7 +9511,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reporting fellowships for current students at Pulitzer Center Campus Consortium partner universities, funding original global or local reporting projects; each fellow is mentored by Pulitzer Center staff and a professional journalist. Grant amounts ($2,000-$5,000 per WebSearch) vary by partner institution. Rechecked today via WebSearch; restricted to current students of partner schools, unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9550,7 +9550,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9588,7 +9588,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9627,7 +9627,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9666,7 +9666,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. (Distinct from the Center's separate, individually-staffed Ocean Reporting Network fellowship, added as a new entry today.) Not confirmed on the funder's own page."
@@ -9702,7 +9702,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A reporting fellowship for recent graduates of Pulitzer Center Campus Consortium partner schools, awarding a stipend (reported as USD 4,000) for a text and/or multimedia reporting project, plus mentorship and an invitation to the Center's Washington Weekend. Restricted to recent graduates of partner universities. Rechecked today via WebSearch; no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9741,7 +9741,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants (rainforest ecosystems, deforestation, related conservation issues), awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide; third-party listings describe budgets up to roughly $15,000. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. (Distinct from the Center's separate, individually-staffed Rainforest Investigations Network fellowship, added as a new entry today.) Not confirmed on the funder's own page."
@@ -9780,7 +9780,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. A one-off, now-closed 'Special Call for proposals for environmental reporting focusing on transparency and governance' (deadline 28 Feb 2026) was also found today but is not tracked as a separate entry, being a time-limited call within this same rolling topic area. Not confirmed on the funder's own page."
@@ -9818,7 +9818,7 @@
         "US"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Part of the Pulitzer Center's catalogue of topic-specific rolling Reporting Grants, awarded with no fixed deadline via the Center's general grant application; open to freelance and staff journalists worldwide. Rechecked today via WebSearch (no fresher same-day snapshot of the funder's own listings page available); no change to scope, amount or rolling status found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -9860,7 +9860,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "An annual fellowship (fifth cohort ran 2026-2027) supporting staff and freelance journalists worldwide reporting on how AI systems are used in policing, healthcare, hiring, social welfare and surveillance; fellows get funding (up to $25,000: up to $20,000 for reporting, up to $5,000 for audience engagement), mentorship, training and network access over a roughly 10-month programme (Sep 2026-Jul 2027), supporting 8-10 journalists. The fifth cohort's 12 Jul 2026 deadline has passed; rechecked today via WebSearch and found no announcement yet of a sixth cohort or its deadline. Reconfirmed today via WebSearch; the fifth cohort's 12 Jul 2026 deadline remains closed, no sixth cohort announced yet. Not confirmed on the funder's own page."
@@ -9898,7 +9898,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "An annual fellowship overseen by the Pulitzer Center with Internews, supporting a journalist based outside the U.S. and Western Europe to pursue an ambitious reporting project in their home country for placement in international outlets; fellow receives a grant (up to $5,000, paid in two instalments) plus mentorship from a Pulitzer Center editor. The 2026 round's 15 Mar 2026 deadline has passed; rechecked today via WebSearch, no next-cycle date found yet. Reconfirmed today via WebSearch; the 2026 round (deadline 15 Mar 2026) remains closed. One aggregator projects an 'October 2026' deadline for a next cycle, but it is explicitly marked as a projection, not a confirmed funder date, and conflicts with this programme's historical spring deadlines, so it is not used here. Not confirmed on the funder's own page."
@@ -9937,7 +9937,7 @@
         "US"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "An annual fellowship funded by the Clinton Family Fund, awarding one or two Midwest/Chicago-based print, broadcast or online journalists (staff or freelance) to report on global issues affecting Chicago and Midwestern audiences; $10,000-$20,000 awarded each year across one or two fellows. The 2026 round's 15 Mar 2026 deadline has passed; rechecked today via WebSearch, no next-cycle date found yet. Reconfirmed today via WebSearch; the 2026 round (deadline 15 Mar 2026, two Chicago-area fellows named 30 Mar 2026) remains closed. One aggregator projects a 'March 2027' deadline for a next cycle; this is marked as a projection, not a confirmed funder date, so it is not used here but is plausible given this programme's historical spring deadlines. Not confirmed on the funder's own page."
@@ -9974,7 +9974,7 @@
         "US"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed via WebSearch today (fij.org's own page not independently re-fetched today; last automated snapshot dated 2026-10-17). The 2027-cycle deadline (Oct 1, 2026) remains closed; no new cycle, successor fellowship, or 2028 dates announced yet. The Alicia Patterson Foundation's Dec 2025 merger into FIJ still holds. No change found. Reconfirmed today via WebSearch; the 2027-cycle deadline (1 Oct 2026) remains closed, no new cycle or successor dates found. Not confirmed on the funder's own page."
@@ -10012,7 +10012,7 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed via WebSearch today; this rolling track (open only to reporters/outlets who previously received an FIJ grant and published the resulting investigation) remains open with no change. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -10051,7 +10051,7 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed via WebSearch today; next (Winter) cycle deadline remains January 29, 2027 per multiple independent aggregators. A separate rolling track exists for previous Seed-funding recipients (fij-regular-grants-seed-alumni). No change found. Reconfirmed today via WebSearch: multiple sources (including FIJ's own July 2026 grantee announcement) confirm the next review cycle's deadline as January 29, 2027. One older (July 2026) FIJ announcement mentioned a 'next application deadline' of September 14, which appears to refer to an intermediate cycle already superseded by the January 29, 2027 date reconfirmed in the most recent (Oct 17) snapshot and again today; the September date is not used here. Not confirmed on the funder's own page."
@@ -10089,7 +10089,7 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed via WebSearch today; restricted to past FIJ Seed-funding recipients only. No change found. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -10127,7 +10127,7 @@
         "global"
       ],
       "sourceId": "fij",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed via WebSearch today; same cycle deadline (Jan 29, 2027) as Regular Grants. No change found. Reconfirmed today via WebSearch; same January 29, 2027 cycle deadline as Regular Grants, no change found. Not confirmed on the funder's own page."
@@ -10515,7 +10515,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403 (no snapshot possible today). Re-confirmed via WebSearch today; still shows as closed with the same 28 March 2026 deadline, no new round found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (earthjournalism.net still not independently fetchable; no fresher snapshot exists per today's empty _index.json). No new round found; unchanged. Not confirmed on the funder's own page."
@@ -10559,7 +10559,7 @@
         "MG"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. Re-confirmed via WebSearch today (still closed, same scope/avg. budget); no new round reopened it. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresher funder-side snapshot available). No new round found; unchanged. Not confirmed on the funder's own page."
@@ -10599,7 +10599,7 @@
         "IN"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. No new round found via WebSearch today; carried forward unchanged. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresher funder-side snapshot available). No new round found; unchanged. Not confirmed on the funder's own page."
@@ -10639,7 +10639,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. COP17 (19-30 Oct 2026) is concluding around today's date; next round not yet announced. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. COP17 (19-30 Oct 2026) has now concluded; no next round announced yet. Not confirmed on the funder's own page."
@@ -10679,7 +10679,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "DUPLICATE CHECK RESOLVED: today's gfmd-fellowships feed snapshot (fetched 2026-10-17) confirms this is the same programme cross-posted there as 'COP31 Climate Change Media Partnership Reporting Fellowship for Journalists' (Organisation: Earth Journalism Network, Status Closed, Deadline 17/06/2026) - identical deadline and funder, so it is kept as a single entry here and NOT duplicated under gfmd-fellowships. COP31 runs 9-20 November 2026; next round not yet announced. Not confirmed on the funder's own page for this update. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. COP31 (9-20 Nov 2026, Antalya) is underway right now; deadline (17 Jun 2026) remains passed and no new round has been announced. No change. Not confirmed on the funder's own page."
@@ -10723,7 +10723,7 @@
         "ID"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. No new round found via WebSearch today; carried forward unchanged. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. No new round found; amount still unreliable across secondary sources so left unrecorded. Not confirmed on the funder's own page."
@@ -10763,7 +10763,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. The GEF Assembly (31 May-6 Jun 2026) has already concluded; no new round found via WebSearch today. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. GEF Assembly already concluded (31 May-6 Jun 2026); no new round found. Not confirmed on the funder's own page."
@@ -10801,7 +10801,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. A WebSearch today surfaced a secondary listing for a similarly-titled '30x30 Target and Marine Protected Areas' call with a different closed deadline (30 April 2026); it is unclear whether this is the same call with inconsistent secondary reporting or a distinct, earlier 2026 round. Kept this entry's existing, more fully detailed deadline (10 Aug 2026) unchanged pending clearer corroboration. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. Still closed; the previously-noted possibly-duplicate '30x30 Target and Marine Protected Areas' listing (deadline 30 Apr 2026) remains a separate, unresolved secondary-source discrepancy -- kept this entry's existing 10 Aug 2026 deadline unchanged pending clearer corroboration. Not confirmed on the funder's own page."
@@ -10844,7 +10844,7 @@
         "ZA"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "MERGED today (2026-11-10): this entry and 'earth-journalism-mining-rights-workshop-grants-2026' were the same underlying EJN programme (Mining, Environment and Human Rights Reporting in Africa -- Ghana, Uganda, DRC, South Africa) recorded twice under slightly different titles/ids; consolidated into this single id and the duplicate recommended for deletion. Earlier sweeps recorded the story-grant deadline as 6 Sep 2026 and treated it as restricted to the 3-5 Nov 2026 workshop's participants (closed). Today's WebSearch found a DevelopmentAid listing (status: open) and one other aggregator giving a 1 December 2026 deadline for the same story grants, described as a general call (not limited to workshop attendees), with content due by July 2027 -- this is a meaningfully different picture from the earlier closed/restricted reading, so status is flipped to open and the deadline updated to 1 Dec 2026. Only one aggregator source was found for this specific Dec 1 date; flagged as a confidence concern in issues since it could not be corroborated on EJN's own page (earthjournalism.net remains unreachable for automated snapshot). Not confirmed on the funder's own page."
@@ -10881,7 +10881,7 @@
         "NP"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. No new round found via WebSearch today; kept as an archive entry. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. No new round found; kept as archive. Not confirmed on the funder's own page."
@@ -10921,7 +10921,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. Conference (16-18 Jun 2026) already took place; no new round found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. Conference already took place (16-18 Jun 2026); no new round found. Not confirmed on the funder's own page."
@@ -10961,7 +10961,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "earthjournalism.net again returned HTTP 403. No new round found via WebSearch today; unchanged. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) via WebSearch (earthjournalism.net continues to return HTTP 403 to automated fetches); unchanged. Not confirmed on the funder's own page. via WebSearch (earthjournalism.net produced no snapshot file at all today, not even an HTTP 403 capture); no new round or change found. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. No new round found; unchanged. Not confirmed on the funder's own page."
@@ -11000,7 +11000,7 @@
         "IN"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "UPDATED today: a WebSearch result quoting earthjournalism.net's own opportunity-page text (not independently fetched, earthjournalism.net still returns HTTP 403/no snapshot) gives an extended application deadline of May 3, 2026, with status 'Application closed' and a note that selections were announced mid-May 2026 with published content due by Oct 31, 2026 (no extensions). This replaces the previous null/unknown deadline with a confirmed-by-search-snippet date; deadlineType changed from 'unknown' to 'fixed'. A Terra Viva Grants listing claiming a Nov 15, 2026 deadline for this same programme conflicts with EJN's own page text and was treated as unreliable/discarded. Eligibility: India-based journalists/content creators (print, digital, broadcast); some rounds prioritise specific states. Not confirmed on the funder's own page directly. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05): a Terra Viva Grants listing again claims a November 15, 2026 deadline for this programme, but this is the same unreliable/stale claim already discarded in a prior sweep -- EJN's own page text (quoted via search) and most other aggregators (fundsforngos, opportunitydesk, ngobox) consistently show this round's real deadline as May 3, 2026 (extended from an earlier April 15 date), already closed, with content due by Oct 31, 2026. Kept closed; no credible new round found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. A November-15-2026 deadline for this programme surfaced again today in WebSearch synthesis, but when searched directly today the only sources quoting a precise date (ScholarshipBob: 15 Mar 2026; GrantsDatabase: 15 Apr 2026) disagree with each other and with Nov 15 -- this looks like the same previously-discarded unreliable claim, possibly an artifact of the search tool conflating this item with the unrelated German-Northern-European Journalists Fellowship (which genuinely closes 15 Nov 2026). Kept the funder-text-corroborated 3 May 2026 deadline unchanged. Not confirmed on the funder's own page."
@@ -11038,7 +11038,7 @@
         "mena"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "low",
       "provenance": "auto",
       "notes": "Reconfirmed via WebSearch today; deadline (Dec 1, 2026) and terms unchanged (jhr.ca / masseycollege.ca). Not confirmed on the funder's own page. CONFLICT found today (2026-11-10): Massey College's own applications page (via WebSearch snippet) appears to describe the 2026-2027 fellowship year's deadline as 31 March 2026 (already passed) for the paired William Southam Journalism Fellowships process, and separately references a 2027-2028 cycle window of 1 Dec 2027-28 Feb 2028 -- a full year later than this entry's existing 1 Oct-1 Dec 2026 window (sourced from GFMD/jhr.ca). It is unclear whether Massey's March-2026 deadline describes a different Southam-programme stream than the Gordon N. Fisher/JHR country-targeted fellowship specifically, or whether GFMD's Oct-Dec 2026 dates are stale/mismatched. Kept this entry's existing deadline unchanged pending direct confirmation, but downgraded confidence to low and flagged the conflict in issues rather than guessing. Not confirmed on the funder's own page."
@@ -11075,7 +11075,7 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Deadline (Nov 8, 2026) has now passed as of today. Multiple independent third-party listings (e.g. opportunitiesforafricans.com: 'Application Deadline: November 8, 2026') corroborate Nov 8 as the real closing date. Note: GFMD's own fellowships archive carries a second, separately-URLed post for what appears to be the identical programme ('the Equality Fund Global Journalism Fellowship 2026', https://gfmd.info/fundings/the-equality-fund-global-journalism-fellowship-2026/) which itself states the same Nov 8 deadline, while this entry's own GFMD detail page text confusingly states 'Deadline: 11/11/2026' -- an internal GFMD inconsistency resolved in favour of the better-corroborated Nov 8 date. Flipped status from open to closed accordingly. Eligibility: journalists in ODA-recipient countries, 3+ years' experience, English language; up to five journalists selected; AI tools barred from use in preparing the application. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline (8 Nov 2026) remains passed two days ago, status closed, unchanged. Not confirmed on the funder's own page."
@@ -11120,7 +11120,7 @@
         "LT"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed via WebSearch today; deadline (Nov 15, 2026) and EUR 3,800 payment unchanged, still open with about a week left. Applicants aged 18-45; German applicants must be freelancers, trainees, or editors at German outlets. Not confirmed on the funder's own page. Strongly reconfirmed today (2026-11-10) via WebSearch directly against IJP's own call PDF (ijp.org/wp-content/uploads/2026/05/IJP_Ausschreibung_NE27_de.pdf), which states the application deadline as 15 November 2026 for the 2027 cohort (up to 11 German and 11 Nordic/Baltic journalists, 8-week placement starting spring 2027, EUR 3,800 one-time payment, no on-site compensation). Still open with 5 days left as of today. Confidence stays 'medium' per today's rules (no fresh funder snapshot), even though the underlying document is the funder's own PDF rather than a third-party aggregator. Not confirmed on the funder's own page."
@@ -11159,7 +11159,7 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Reconfirmed verbatim via gfmd-fellowships feed/detail snapshot fetched 2026-10-17 (yesterday, not today). Deadline (23 Oct 2026) is 5 days away as of today; still open. Unchanged. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today): GFMD's own page still read 'Status: Open' as of that capture, but the stated deadline (23/10/2026) is now in the past as of today's run (2026-10-24), so status is moved to closed pending a next-round announcement. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline remains passed, kept as archive. No change. Not confirmed on the funder's own page."
@@ -11196,46 +11196,7 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
-      "confidence": "medium",
-      "provenance": "auto",
-      "notes": "Still listed, closed, in today's gfmd-fellowships feed/detail snapshot (fetched 2026-10-17); unchanged. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline remains passed, kept as archive. No change. Not confirmed on the funder's own page."
-    },
-    {
-      "id": "gfmd-fellowships-usc-annenberg-health-journalism-data-fellowship",
-      "funder": "USC Annenberg School for Communication and Journalism",
-      "programme": "USC Annenberg Center for Health Journalism Data Fellowship",
-      "summary": "USC Annenberg's five-month Data Fellowship trains U.S. journalists to acquire, clean and analyse data, then mentors them to produce a major investigative or explanatory health-reporting project across National and California tracks.",
-      "url": "https://gfmd.info/fundings/usc-annenberg-center-for-health-journalism-data-fellowship/",
-      "applyUrl": "https://gfmd.info/fundings/usc-annenberg-center-for-health-journalism-data-fellowship/",
-      "applicantTypes": [
-        "freelancer"
-      ],
-      "supportTypes": [
-        "fellowship",
-        "mentoring",
-        "training"
-      ],
-      "track": "media",
-      "topics": [
-        "health",
-        "data-journalism"
-      ],
-      "amount": {
-        "min": 2000,
-        "max": 4000,
-        "currency": "USD",
-        "note": null
-      },
-      "deadline": "2026-07-22",
-      "deadlineType": "fixed",
-      "opensAt": null,
-      "status": "closed",
-      "geoScope": [
-        "US"
-      ],
-      "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Still listed, closed, in today's gfmd-fellowships feed/detail snapshot (fetched 2026-10-17); unchanged. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline remains passed, kept as archive. No change. Not confirmed on the funder's own page."
@@ -11284,7 +11245,7 @@
         "SK"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Still listed today, closed; unchanged. Not present in today's (2026-10-15) gfmd-fellowships feed snapshot (only the most recent ~12 posts are captured); normal aggregator churn for an already-closed programme, kept unchanged per the merging rule. Not present in today's (2026-10-17) gfmd-fellowships feed snapshot (limited to the most recent ~12 posts); normal aggregator churn for an already-closed programme (deadline 2026-03-10 long passed). No contradicting evidence found. Left unchanged. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Strongly reconfirmed today (2026-11-10) via WebSearch directly against birn.eu.com's own 'Call for Applications: Fellowship for Journalistic Excellence 2026' page, which shows the 10 March 2026 deadline as closed. No 2027 call found yet; historically opens in Q1, so a 2027 round may appear early next year. Not confirmed on the funder's own page."
@@ -11321,7 +11282,7 @@
         "MM"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Still listed today, closed; unchanged. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline remains passed, kept as archive. No change. Not confirmed on the funder's own page."
@@ -11359,7 +11320,7 @@
         "GB"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Not present in today's gfmd-fellowships feed (consecutively rolled off; deadline 16 Jun 2026 already long passed), kept unchanged per the merging rule for a deadline-passed programme that vanished from the feed. Normal feed churn, not removal; not deleted (well under the 3-year archive-drop threshold). Not present in today's (2026-10-15) gfmd-fellowships feed snapshot (only the most recent ~12 posts are captured); normal aggregator churn for an already-closed programme, kept unchanged per the merging rule. Not present in today's (2026-10-17) gfmd-fellowships feed snapshot; normal aggregator churn for an already-closed programme (deadline 2026-06-16 long passed). No contradicting evidence found. Left unchanged. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline remains passed, kept as archive. No change. Not confirmed on the funder's own page."
@@ -11396,7 +11357,7 @@
         "americas-north"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Still listed today, closed; unchanged. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Strongly reconfirmed today (2026-11-10) via WebSearch against multiple independent sources (healthjournalism.org, Society of Environmental Journalists, Solutions Journalism Network) all giving the same 20 April 2026 deadline and USD 60,000 support figure for the 2026-2027 cycle (Sep 2026-Aug 2027 programme period). Matches this entry exactly; no change. No 2027-2028 cycle announced yet. Not confirmed on the funder's own page."
@@ -11433,7 +11394,7 @@
         "global"
       ],
       "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Still listed today, closed; unchanged. Applicants should have between two and five years of professional journalism experience. Reconfirmed again today (2026-10-22); no change found. Not confirmed on the funder's own page. Reconfirmed again today (2026-10-23) against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. against gfmd.info fellowships feed snapshot (fetched 2026-10-17, no fresher capture ran today); unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/type_fund/fellowship archive; unchanged. Rechecked today (2026-11-01) via WebSearch (snapshot fetch pipeline still broken; no fresher capture of the funder's own page exists today). No change found beyond what is noted above. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline remains passed, kept as archive. No change. Not confirmed on the funder's own page."
@@ -11707,7 +11668,7 @@
         "CH"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Not in today's ~12-item feed excerpt (rolling/evergreen listing ages out of the aggregator's most-recent view); kept open per precedent for rolling-deadline items. Not confirmed on the funder's own page. Reconfirmed today (2026-10-30) against current WebSearch results for the gfmd.info/fundings archive; still absent from/consistent with the current listing, no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -11745,7 +11706,7 @@
         "US"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Not in today's gfmd-fundings feed excerpt either (rolling/evergreen listing, not regularly re-posted); kept open per precedent. Not confirmed on the funder's own page today. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -12104,7 +12065,7 @@
         "global"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Found via WebSearch only (earthjournalism.net returns HTTP 403, no snapshot possible). Multiple secondary listings (ScholarshipBob, Opportunities Corners, Bright Scholarship) consistently give an Oct 27, 2026 deadline, already passed as of today; kept as closed archive. Eligibility: professional journalists from coastal countries with ocean/environment reporting experience, good English. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. Deadline (27 Oct 2026) remains passed; BBNJ COP1 itself runs 11-22 Jan 2027. No change. Not confirmed on the funder's own page."
@@ -12146,7 +12107,7 @@
         "PH"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Deadline (2 Nov 2026) has now passed; flipped from open to closed. earthjournalism.net/opportunities still not reachable (403/no snapshot); WebSearch today found no new EJN call posted for November 2026. Rechecked today (2026-11-05): EJN's own domain turned up listings for closely related but distinct 30x30/marine-protected-area programmes (story grants, media grants, and virtual workshops) with several conflicting deadlines across aggregators (10 Aug, 17 Aug, 30 Apr, 21 Apr, and a claimed Nov 16 extension that could not be corroborated beyond one ambiguous search summary). No reliable evidence of a live, open round was found today; kept closed. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch, which now also surfaces the follow-on workshops themselves as scheduled for Feb-Mar 2027 (English/Spanish, Ghana/Mexico/Philippines) with story-grant consideration afterward -- consistent with this entry's existing 2 Nov 2026 application deadline (closed). No change to recorded fields. Not confirmed on the funder's own page."
@@ -12185,7 +12146,7 @@
         "africa-sub-saharan"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Supports registered media and radio outlets in East, Southern and West Africa to co-design participatory radio programmes or podcasts based on Pulitzer Center-supported reporting on climate and labor, aimed at community dialogue with decision-makers; a flat $2,500 per selected partner outlet. Appears to recur annually (an earlier, narrower 2025 round covered Ghana, Zambia, Ethiopia and Burkina Faso; the 2026 round, closed 15 Apr 2026, selected six stations from 173 proposals). Rechecked today via WebSearch, no 2027 round found yet. Reconfirmed today via WebSearch; no 2027 round found yet. Not confirmed on the funder's own page."
@@ -12223,7 +12184,7 @@
         "europe-western-balkans"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Genuinely new programme not in existing entries. Sources disagree slightly on the exact deadline (19 Feb vs 22 Feb 2026); either way this cycle is already closed as of today. Published stories were due by 30 Aug 2026. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. No change found. Not confirmed on the funder's own page."
@@ -12264,7 +12225,7 @@
         "PH"
       ],
       "sourceId": "earth-journalism",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Genuinely new programme not in existing entries. Sources disagree on the exact deadline: most aggregators give 9 Jan 2026, while the EJN opportunities listing itself reportedly shows an extended deadline of 16 Jan 2026 — recorded the extended date but either way this cycle is already closed. 12 fellows were selected per a later EJN project update. Eligibility required applicants based in the Philippines with 2+ years of journalism experience. Reconfirmed again today (2026-11-01) via WebSearch (no fresher funder-side snapshot available for this source today); no change found. Rechecked today (2026-11-05) via WebSearch (earthjournalism.net continues to be unreachable for an automated snapshot; no fresher capture exists). No change found to this programme's status. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch. No change found. Not confirmed on the funder's own page."
@@ -12591,7 +12552,7 @@
         "global"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "New entry found today via WebSearch. Open to technologists, activists, civic technologists and AI researchers broadly, with journalists named as one eligible audience (AI tools protecting activists/journalists were cited as an example project type) -- not a journalism-specific fund, but media-adjacent enough to include as it funds actual journalism-protective tooling. Deadline (16 Mar 2026) long passed; no next round found. Not confirmed on the funder's own page (mozillafoundation.org). Reconfirmed today (2026-11-01) via WebSearch against the gfmd.info/fundings archive and related aggregator cross-checks; no change found (job still broken, latest snapshot remains 2026-10-17). Reconfirmed today (2026-11-05) via WebSearch (fetch-snapshot pipeline still broken; latest funder snapshot remains dated 2026-10-17); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-06) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; no fresh gfmd-fundings snapshot available); no change found beyond what is noted above. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -12631,7 +12592,7 @@
         "US"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A special call funding investigative and explanatory journalism on threats to U.S. democracy (e.g. voting access and changes in voting laws); open to journalists reporting on American democracy issues, including freelancers with a newsroom publication commitment. The round's 31 Aug 2026 deadline has passed; rechecked today via WebSearch, no successor round found. Reconfirmed today via WebSearch; no successor round found. Not confirmed on the funder's own page."
@@ -12669,7 +12630,7 @@
         "US"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A special-call reporting fellowship, supported by the IV Fund, for U.S.-focused stories promoting mental well-being and resilience before a crisis point rather than only covering mental-health crises; each selected fellow received a flat $4,000 grant to report in spring/summer 2026 (four fellows selected for the 2026 cohort). The round's 5 Jan 2026 deadline has long passed; a similar call reportedly ran in 2024 with a mid-November deadline, suggesting this recurs periodically rather than annually on a fixed date. Rechecked today via WebSearch, no new call found. Reconfirmed today via WebSearch; no new call found. Not confirmed on the funder's own page."
@@ -12708,7 +12669,7 @@
         "US"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "A special call funding U.S.-audience-facing journalism on the effects of cuts to U.S. health aid in the Global South (priority topics: children's/women's health, HIV control, malnutrition programs), open to text, visual, audio and multimedia formats; budgets of $5,000-$20,000 accepted, larger budgets requiring a case for extraordinary reach/impact. The round's 30 Mar 2026 deadline has passed; rechecked today via WebSearch, no successor round found, and this remains distinct from the Center's general Global Reporting Grants. Reconfirmed today via WebSearch; no successor round found. Not confirmed on the funder's own page."
@@ -12877,45 +12838,6 @@
       "notes": "New entry found today via WebSearch (euagenda.eu event listing and euacc.ai knowledge-base page), successor to the already-tracked closed 2026 Collaborations round (deadline was 4 February 2026). Shares its 4 February 2027 deadline and 20 October 2026 opening date with the Pluralism 2027 sibling topic already on file. Not confirmed on the funder's own page. Reconfirmed today via WebSearch; existing 4 Feb 2027 deadline unchanged, no 2028 round found yet. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of the EU Funding & Tenders Portal exists; the portal's own snapshot remains a bare topic-ID list with no usable text, and the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page. Today's WebSearch (euneighbourseast.eu, euagenda.eu, euacc.ai) corroborates the 4 February 2027, 17:00 Brussels time deadline. euneighbourseast.eu gives an opening date of 22 October 2026, one day later than the 20 October 2026 already on file from an earlier sweep; neither figure is confirmed on the funder's own page, so the existing 20 Oct 2026 opensAt is kept and this minor discrepancy is flagged in issues."
     },
     {
-      "id": "gfmd-fellowships-ai-accountability-fellowships",
-      "funder": "Pulitzer Center",
-      "programme": "AI Accountability Fellowships",
-      "summary": "A 10-month, remote fellowship supporting journalists and newsrooms producing in-depth, accountability-focused reporting on governments' and corporations' use of predictive, generative and surveillance AI technologies.",
-      "url": "https://gfmd.info/fundings/ai-accountability-fellowships/",
-      "applyUrl": "https://gfmd.info/fundings/ai-accountability-fellowships/",
-      "applicantTypes": [
-        "freelancer",
-        "organisation"
-      ],
-      "supportTypes": [
-        "fellowship"
-      ],
-      "topics": [
-        "technology",
-        "ai",
-        "accountability"
-      ],
-      "track": "media",
-      "amount": {
-        "min": null,
-        "max": 25000,
-        "currency": "USD",
-        "note": "Sources disagree on structure: one lists up to $25,000 total funding, another up to $20,000 for reporting support within a $25,000 total. Not confirmed on the funder's own page."
-      },
-      "deadline": "2026-07-12",
-      "deadlineType": "recurring",
-      "opensAt": null,
-      "status": "closed",
-      "geoScope": [
-        "global"
-      ],
-      "sourceId": "gfmd-fellowships",
-      "lastVerified": "2026-11-10",
-      "confidence": "medium",
-      "provenance": "auto",
-      "notes": "New archive entry: found today (2026-11-01) in the gfmd-fellowships feed snapshot (item dated 12 Jun 2026, deadline 12 Jul 2026 11:59pm EDT, now long passed; GFMD's own listing already marks it Status: Closed). This is a recurring Pulitzer Center programme (earlier cycles closed 10 Aug 2024 and 11 Aug 2025), kept as closed archive per the merging rules for a recurring programme rather than deleted. No 2027 cycle date found yet. Reconfirmed again today (2026-11-05) via WebSearch against gfmd.info's fundings/fellowship archive; no change found. Not confirmed on the funder's own page.  Reconfirmed again today (2026-11-06) via WebSearch (no fresher funder-side snapshot available for this source today; freshSnapshotSources was empty for this batch). No change found. Not confirmed on the funder's own page. Reconfirmed today; no change found (deadline remains passed, kept as archive). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline remains passed, kept as archive (recurring Pulitzer Center programme); no 2027 cycle date found yet. Not confirmed on the funder's own page."
-    },
-    {
       "id": "journalismfund-scholarships",
       "funder": "Journalismfund Europe",
       "programme": "Scholarships (conference/travel support for grantees)",
@@ -12948,7 +12870,7 @@
         "europe"
       ],
       "sourceId": "journalismfund",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Restricted to past grantees of the European Cross-Border Grant or Earth Investigations programmes; not a standalone reporting grant. Reconfirmed unchanged today against the stale (2026-10-15) funder snapshot. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch (no fresh same-day snapshot of journalismfund.eu exists; the daily capture job did not run today). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -13027,7 +12949,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Grants of USD 2,000-5,000 plus one to two coaching sessions to extend the reach/impact of journalism the Pulitzer Center has already supported (does NOT fund new reporting); open to current/former Pulitzer Center grantees whose supported project published on or after January 2021, with journalists from the Global South and underrepresented communities encouraged to apply. The round's 3 Nov 2026 deadline has now passed (status closed). Found via the funder's own call PDF plus aggregator coverage, not a same-day snapshot of the funder's listings page. Reconfirmed today via WebSearch: the 3 Nov 2026 deadline has passed; selection notices were scheduled 19-25 Nov 2026 with contracts due 1 Dec 2026; no third round announced yet. Not confirmed on the funder's own page."
@@ -13185,7 +13107,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Rolling grants supporting investigative, data-driven reporting on gender equality and the empowerment of women and girls, in partnership with PIMCO; open to freelance, staff and independent journalists/newsroom teams, including but not limited to U.S. residents. Rechecked today via WebSearch: most aggregators confirm rolling/no fixed deadline; one aggregator lists a 31 Dec 2026 cutoff that conflicts with the rolling-basis description elsewhere, so it is not used here. Grants average roughly USD 5,000. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Reconfirmed today via WebSearch: rolling, no change found; a 'Deadline: 31-Dec-2026' heading on one aggregator is unsupported by that page's own body text (which describes rolling review) and continues to be disregarded here. Not confirmed on the funder's own page."
@@ -13225,7 +13147,7 @@
         "KE"
       ],
       "sourceId": "gfmd-fundings",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "Open to registered independent media organisations in Kenya, not individual freelancers. Reconfirmed today (2026-11-07); no change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch (no fresh same-day snapshot available for this source; morning fetch job did not run before this sweep). No change found. Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch against the gfmd.info/fundings archive (fetch-snapshot pipeline still broken; morning capture job again produced no fresh snapshot for the second day running per data/snapshots/_index.json). No change found beyond what is noted above. Not confirmed on the funder's own page."
@@ -13501,7 +13423,7 @@
         "HK"
       ],
       "sourceId": "gijn-grants",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "New entry found today via WebSearch while researching gijn-grants (referenced from GIJN's resource/Africa pages). Primarily open to applicants eligible to work in the US, UK or Hong Kong. Not confirmed on the funder's own page. Reconfirmed today via WebSearch; deadline (22 Nov 2026) and programme details (12-month, training then newsroom placement Sep 2027-May 2028) unchanged. Not confirmed on the funder's own page. Reconfirmed today (2026-11-08) via WebSearch; deadline (22 Nov 2026) and programme details unchanged (applications opened 28 Sep 2026; work test Dec 2026-Jan 2027; training from Jun 2027; newsroom placement Sep 2027-May 2028). Not confirmed on the funder's own page. Reconfirmed today (2026-11-10) via WebSearch; deadline (22 Nov 2026) still 12 days out, unchanged. Not confirmed on the funder's own page."
@@ -13619,7 +13541,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "New entry found today: this programme's page appears in the stale (fetched 2026-10-17) pulitzer-center snapshot under the Center's Peace and Conflict focus area, and is part of the same catalogue of topic-specific rolling Reporting Grants already tracked for this source (Africa, AI, Climate-Labor, Global, Machine Learning, Ocean-Fisheries, Rainforest, Transparency-Governance, US Local). Confirmed via WebSearch as a distinct, currently live rolling grant (no fixed deadline); for high-risk/conflict-zone reporting a rigorous, ACOS-Alliance-conforming safety plan is required. Reconfirmed today via WebSearch; no change found. Not confirmed on the funder's own page."
@@ -13732,7 +13654,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "New entry found today via WebSearch, surfaced by the funder's own nav in the stale snapshot ('Rainforest Investigations Network') but not previously tracked as a distinct, individually-applied fellowship separate from the rolling Rainforest Reporting Grants. Now recruiting its sixth cohort; applications come from individuals (not groups or outlets); freelancers need a letter of support from a host newsroom committing to publish the work; staff reporters may also apply. Fellows commit a full year to the investigation and must publish their series during the fellowship year. One French-language listing gives an alternate deadline of 30 Apr 2026 instead of the 22 May 2026 date used here; both pre-date today, so status is closed either way. No seventh-cohort date found yet. Sourced from WebSearch/aggregators only, not a same-day snapshot of the funder's own page. Not confirmed on the funder's own page."
@@ -13771,7 +13693,7 @@
         "global"
       ],
       "sourceId": "pulitzer-center",
-      "lastVerified": "2026-11-10",
+      "lastVerified": "2026-11-11",
       "confidence": "medium",
       "provenance": "auto",
       "notes": "New entry found today via WebSearch, surfaced by the funder's own nav in the stale snapshot ('Ocean Reporting Network') but not previously tracked as a distinct, individually-applied fellowship separate from the rolling Ocean and Fisheries Reporting Grants. Fourth-cohort deadline reported as 13 Sep 2026 (already closed), with the cohort beginning January 2027; freelancers need a host newsroom willing to publish their work and a credible publication/engagement strategy. No fifth-cohort date found yet. Sourced from WebSearch/aggregators only, not a same-day snapshot of the funder's own page. Not confirmed on the funder's own page."

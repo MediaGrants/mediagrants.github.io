@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-10T04:19:09.366Z",
+  "generatedAt": "2026-11-11T04:09:47.721Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -459,8 +459,8 @@
         "ijnet-opportunities"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 29,
+      "lastSeen": "2026-11-11",
+      "timesSeen": 30,
       "status": "new"
     },
     {
@@ -2310,6 +2310,18 @@
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Farm Radio International / Wire",
+      "url": "https://wire.farmradio.fm/",
+      "why": "Runs small grants for underreported stories in sub-Saharan Africa, surfaced via a GFMD-adjacent search result; not currently tracked as a dedicated source.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
       "timesSeen": 1,
       "status": "new"
     }
