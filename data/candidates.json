@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-11T04:09:47.721Z",
+  "generatedAt": "2026-11-12T04:15:44.347Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -37,8 +37,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -87,8 +87,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 16,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 17,
       "status": "new"
     },
     {
@@ -123,8 +123,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 4,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -209,8 +209,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 9,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -224,8 +224,8 @@
         "osf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -248,8 +248,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -285,8 +285,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 6,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -297,8 +297,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-06",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -365,8 +365,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 9,
       "status": "new",
       "evidence": "Re-seen today via the GFMD funding feed (Gordon N. Fisher / JHR Fellowship listing)."
     },
@@ -380,8 +380,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-10-25",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -459,8 +459,8 @@
         "ijnet-opportunities"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
-      "timesSeen": 30,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 31,
       "status": "new"
     },
     {
@@ -630,8 +630,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-05",
-      "timesSeen": 5,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -791,8 +791,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 12,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 13,
       "status": "new"
     },
     {
@@ -1084,8 +1084,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -1193,8 +1193,8 @@
         "ijnet-opportunities"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1551,8 +1551,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -1578,8 +1578,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 25,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 26,
       "status": "new"
     },
     {
@@ -1675,11 +1675,12 @@
       "url": "https://every.org/tarbell",
       "why": "AI-journalism funder offering $1,000-$20,000 individual reporting grants plus a newly announced $10M institutional grantmaking fund (Oct 2026); surfaced via search results referencing an IJNet opportunity post. No entry in sources.json. Note: could not confirm Tarbell's own primary domain with certainty - the URL given is a verified donation/info page for the organisation, not necessarily its main site.",
       "seenAt": [
-        "ijnet-opportunities"
+        "ijnet-opportunities",
+        "gijn-grants"
       ],
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1908,8 +1909,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-12",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -2322,6 +2323,115 @@
       ],
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Journalists Programme (IJP e.V.)",
+      "url": "https://ijp.org/en/",
+      "why": "Runs two recurring individual journalist-exchange fellowships (German-Northern European Journalists Fellowship; George Weidenfeld Journalism Fellowship) already tracked only via GFMD, with no dedicated source of its own.",
+      "seenAt": [
+        "gfmd-fundings",
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Henry Nxumalo Foundation",
+      "url": "https://henrynxumalofoundation.co.za/",
+      "why": "South African foundation running the SA|AJP Investigative Journalism Grants already tracked under gfmd-fundings, for journalists across the SADC region.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Africa No Filter (with Comic Relief)",
+      "url": "https://africanofilter.org/",
+      "why": "Runs the Voices for Climate Justice Program funding African storytellers/journalists, already tracked under gfmd-fundings.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Media in Cooperation and Transition (MiCT) / Exile Hub",
+      "url": "https://mict-international.org/",
+      "why": "Jointly runs the Critical Voices Fellowship for exiled Myanmar media professionals, already tracked under gfmd-fellowships.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Durham University (with Reuters)",
+      "url": "https://www.durham.ac.uk/",
+      "why": "Runs the Sir Harry Evans Global Fellowship, a nine-month investigative placement inside a Reuters newsroom, already tracked under gfmd-fellowships.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The Fix Media Foundation",
+      "url": "https://www.ecpmf.eu/support/safe-project/",
+      "why": "Partner fund listed on ECPMF's own SAFE project page, running an equipment/technology-support grant scheme for journalists in frontline or high-risk areas.",
+      "seenAt": [
+        "ecpmf"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "CORRECTIV",
+      "url": "https://correctiv.org/en/exile/",
+      "why": "German non-profit newsroom running a 6-month Journalist-in-Residence programme in Berlin for journalists forced into exile.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytco.com/careers/newsroom/newsroom-fellowship/",
+      "why": "Runs a paid, year-long early-career journalism fellowship in its own newsroom (US/UK-eligible applicants).",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Coefficient Giving (formerly Open Philanthropy)",
+      "url": "https://coefficientgiving.org/",
+      "why": "Philanthropic funder backing Journalismfund Europe's Invisible Life Grant and Environmental Investigative Journalism programmes, and separately funding the Tarbell Center for AI Journalism with a dedicated AI-journalism grants pool reported at $50,000-$500,000 per award; may be worth tracking as its own funder for direct/other calls.",
+      "seenAt": [
+        "journalismfund"
+      ],
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
       "timesSeen": 1,
       "status": "new"
     }
