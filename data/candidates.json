@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-12T04:15:44.347Z",
+  "generatedAt": "2026-11-13T04:22:18.698Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -37,8 +37,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -197,8 +197,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -285,8 +285,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -297,8 +297,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 9,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -321,11 +321,12 @@
       "seenAt": [
         "weekly-discovery",
         "unesco-ipdc",
-        "norad"
+        "norad",
+        "irf-ukraine"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-04",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 8,
       "status": "new",
       "evidence": "ifpim.org and gfmd.info funding archive; IFJ (ifj.org) press release, 1 Aug 2026, on the IFPIM-funded $1m Palestine media fund it distributes through the Palestinian Journalists Syndicate. Also surfaced today (2026-11-04) via WebSearch while researching Norad's current calls. Read September 2026."
     },
@@ -365,8 +366,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 9,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 10,
       "status": "new",
       "evidence": "Re-seen today via the GFMD funding feed (Gordon N. Fisher / JHR Fellowship listing)."
     },
@@ -630,8 +631,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 6,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -791,8 +792,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 13,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 14,
       "status": "new"
     },
     {
@@ -828,8 +829,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1084,8 +1085,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 4,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 5,
       "status": "new"
     },
     {
@@ -1679,8 +1680,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -1909,8 +1910,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -2347,8 +2348,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2407,8 +2408,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-13",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2432,6 +2433,54 @@
       ],
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-12",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Journalists' Programmes (IJP e.V.)",
+      "url": "https://ijp.org/",
+      "why": "A German exchange-fellowship organisation running at least two recurring annual programmes (German-Northern European Fellowship, George Weidenfeld Program) surfaced via GFMD.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Nova Institute for Health (Nova Media)",
+      "url": "https://novahealth.org/",
+      "why": "Runs a well-funded ($60,000) annual Media Fellowship for health journalism, not yet tracked as its own source.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "International Fund for the Reconstruction of Ukrainian Media (IFRUM)",
+      "url": "https://lvivmediaforum.com/en/page/program-of-the-international-and-for-the-reconstruction-of-ukrainian-media-en",
+      "why": "EBRD/RSF-backed fund (run with IMI, Lviv Media Forum, Detector Media, DII-Ukraine) making sustainability grants to Ukrainian media outlets; surfaced via WebSearch while checking IRF. No single confirmed official domain found yet; this is the clearest programme page located. Not in sources.json.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "British Council Serbia — \"Media for Change\" (UK CSSF/ISF-funded)",
+      "url": "https://www.britishcouncil.rs/en/programmes/society/media-for-change",
+      "why": "A UK government (Conflict, Stability and Security Fund / now Integrated Security Fund)-funded grants programme delivered by British Council for independent media outlets and journalists in Serbia and the wider Western Balkans, aimed at disinformation resilience and fact-checked content. Surfaced repeatedly while researching uk-embassy-belgrade; confirmed not present in data/sources.json. This may be the more productive thing to track for UK media funding in Serbia, since the embassy's own gov.uk news page carries no dedicated grants listing.",
+      "seenAt": [
+        "uk-embassy-belgrade"
+      ],
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
       "timesSeen": 1,
       "status": "new"
     }
