@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:22:18.686Z",
+  "generatedAt": "2026-11-14T04:14:57.095Z",
   "grants": [
     {
       "id": "access-now-digital-security-helpline",
@@ -199,10 +199,10 @@
         "global"
       ],
       "sourceId": "bertha",
-      "lastVerified": "2026-10-31",
+      "lastVerified": "2026-11-14",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Re-fetched 2026-10-03: snapshot again confirms the programme exists ('Fellowships for Activists, Investigative Journalists, Filmmakers and Lawyers to spend a year working on one pressing social justice challenge') and states verbatim: BERTHA FOUNDATION DOES NOT ACCEPT UNSOLICITED PROPOSALS — applications are only taken during announced windows. No new 2026/2027 call was visible on today's snapshot; the most recent verified deadline (28 Jul 2025) remains the latest confirmed window. Amount figures remain from prior-cycle secondary reporting. Re-checked again (2026-10-17): berthafoundation.org's own snapshot still states 'BERTHA FOUNDATION DOES NOT ACCEPT UNSOLICITED PROPOSALS' with no 2026/2027 Bertha Challenge call visible yet; WebSearch likewise found no 2027 cycle announced. Re-checked again today (2026-10-31) via WebSearch only (no fresh snapshot available): third-party coverage (IJNet, ICIR Nigeria) describes a 2026 Bertha Challenge cycle themed around 'protecting democratic accountability' with the same 28 Jul 2025 deadline already on file, and still no 2027 cycle or reopened application window was found anywhere, including on berthafoundation.org itself. Not confirmed on the funder's own page."
+      "notes": "Re-fetched snapshot (2026-11-13) again confirms verbatim: BERTHA FOUNDATION DOES NOT ACCEPT UNSOLICITED PROPOSALS. The Foundation's own Bertha Challenge FAQ/homepage reference 'the 2026 application round' and '2026 Bertha Challenge Fellows', consistent with the 28 Jul 2025 deadline having been the window for the cohort that launched January 2026; no 2027 cycle or reopened application window found. Stays archived (closed, under 3 years old). Not confirmed on the funder's own page."
     },
     {
       "id": "carter-mental-health-fellowships-mental-health-journalism",
@@ -446,7 +446,7 @@
       "id": "craig-newmark-promoting-the-truth",
       "funder": "Craig Newmark Philanthropies",
       "programme": "Promoting the Truth — grant proposals (rolling)",
-      "summary": "Craig Newmark Philanthropies accepts funding proposals from registered nonprofits on a rolling basis across its focus areas, one of which is 'Promoting the Truth'; a separate portal exists only for veterans/military-family support. Applicants must supply proof of active 501(c)(3)/public-charity status with the IRS and Secretary of State, and CNP says it cannot review or fund every request. Multi-year commitments are released annually based on progress and the effectiveness of the grantee's communication and collaboration.",
+      "summary": "Craig Newmark Philanthropies accepts funding proposals from registered nonprofits on a rolling basis across its focus areas, one of which is 'Promoting the Truth'; a separate portal exists only for veterans/military-family support. Applicants must supply proof of active 501(c)(3)/public-charity status with the IRS and Secretary of State, and CNP says it cannot review or fund every request.",
       "url": "https://craignewmarkphilanthropies.org/apply",
       "applyUrl": "https://craignewmarkphilanthropies.org/apply",
       "applicantTypes": [
@@ -476,10 +476,10 @@
         "americas-north"
       ],
       "sourceId": "craig-newmark",
-      "lastVerified": "2026-10-31",
+      "lastVerified": "2026-11-14",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Today's (2026-10-17) snapshot of craignewmarkphilanthropies.org/apply reconfirmed this process verbatim: rolling review, 'Sometimes we'll invite informal proposals, but final proposals ... must be submitted below', IRS/Secretary-of-State proof-of-status requirements, and 'We apologize in advance that we can't review and fund every request.' Separate prior reporting (Nieman Lab, Jan 2026) quoted Craig Newmark describing a pullback from journalism funding toward cybersecurity/safety-of-journalists priorities, so real-world receptiveness to new 'Promoting the Truth' proposals may be narrower than the page implies — that caveat is from secondary reporting, not the funder's own page. Re-checked again today (2026-10-31) via WebSearch only (no fresh snapshot available): no new 2026 Craig Newmark Philanthropies journalism-grant announcement was found; the Nieman Lab pullback reporting remains the only relevant signal, and the rolling application process itself appears unchanged. Confidence set to medium this run because no same-day snapshot of the funder's own page was available. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed: rolling review process unchanged on snapshot (fetched 2026-11-13) and fresh WebSearch. Prior Nieman Lab reporting (Jan 2026) suggested a pullback toward cybersecurity/safety-of-journalists priorities over journalism funding generally — that caveat is from secondary reporting, not the funder's own page. No new amount, deadline or policy change found. Not confirmed on the funder's own page."
     },
     {
       "id": "daad-international-media-studies-scholarship",
@@ -1478,7 +1478,7 @@
         "min": null,
         "max": 1000000,
         "currency": "USD",
-        "note": "MDIF Ventures is reported to offer ongoing funding up to US$1,000,000 per investee; main MDIF financing is case-by-case with no published general range. MDIF's overall portfolio has been reported at roughly $118.7M across ~58-60 media businesses in 31-34 countries in prior reporting."
+        "note": "MDIF Ventures is reported to offer ongoing funding up to US$1,000,000 per investee; main MDIF financing is case-by-case with no published general range."
       },
       "deadline": null,
       "deadlineType": "rolling",
@@ -1488,10 +1488,10 @@
         "global"
       ],
       "sourceId": "mdif",
-      "lastVerified": "2026-10-31",
+      "lastVerified": "2026-11-14",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed via WebSearch: MDIF remains an investment fund (debt/equity), not a grantmaker — financing carries repayment or ownership terms. The funder's own (2-week-old) snapshot additionally shows an active 'MDIF Western Balkans Fund' news item. Re-checked again today (2026-10-31) via WebSearch only (no fresh snapshot available): no new MDIF financing-programme changes were found; the Western Balkans Fund remains the most recent regional window reported, and MDIF Ventures' last confirmed open call dates to 2023. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed: MDIF remains an investment fund (debt/equity), not a grantmaker. Day-old snapshot (fetched 2026-11-13) still shows the same rolling debt/equity model, eligibility criteria and application process verbatim; no new programme, amount or deadline information found via WebSearch. Not confirmed on the funder's own page."
     },
     {
       "id": "n-ost-pulse-thematic-networks-2026",
@@ -1754,7 +1754,7 @@
         "min": null,
         "max": null,
         "currency": null,
-        "note": "Not stated publicly; programme budgets are reported to be allocated roughly a year in advance and only a small number of unsolicited enquiries are funded each year. Oak generally does not fund under USD 25,000 except in special circumstances."
+        "note": "Not stated publicly; Oak generally does not fund under USD 25,000 except in special circumstances."
       },
       "deadline": null,
       "deadlineType": "rolling",
@@ -1764,10 +1764,10 @@
         "global"
       ],
       "sourceId": "oak-foundation",
-      "lastVerified": "2026-10-31",
-      "confidence": "low",
+      "lastVerified": "2026-11-14",
+      "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed via WebSearch (no fresh snapshot available): the submit-enquiry online form remains Oak's only unsolicited intake mechanism; Oak responds within about two months if more information is needed or a formal proposal is invited. This is a general unsolicited-Letter-of-Enquiry intake, not a journalism-specific open call, and the Foundation has previously stated it has no open call for proposals at this time. Geographic focus reported as EU, US, UK, Brazil and other 'global East' geographies, so global scope is uncertain. Re-checked again today (2026-10-31) via WebSearch (no fresh oakfnd.org snapshot available, and the local snapshot is ~2 weeks old): Oak's own grant-making page still describes entry via either an invitation from Oak or an unsolicited Letter of Enquiry submitted through the online form, followed by due diligence if invited to proceed formally; still no journalism-specific open call found. Unchanged. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed: the submit-enquiry online form remains Oak's only unsolicited intake mechanism; this is a general unsolicited-Letter-of-Enquiry intake, not a journalism-specific open call. Geographic focus reported as EU, US, UK, Brazil and other geographies, so global scope is uncertain. Still no journalism-specific open call found. Not confirmed on the funder's own page."
     },
     {
       "id": "occrp-hans-staiger-investigative-reporting-award",
@@ -2084,7 +2084,7 @@
       "id": "sembramedia-gni-lab-emerging-news-voices",
       "funder": "SembraMedia",
       "programme": "GNI Lab | Emerging News Voices",
-      "summary": "GNI Lab is a 12-week program combining virtual sessions, practical exercises and personalized mentoring that helps independent news creators and small digital media outlets strengthen their journalism using Google tools, audience-building practices, and revenue-diversification strategies. It is run by SembraMedia in partnership with the Google News Initiative for participants from Argentina, Chile, Colombia, Mexico, Peru and Uruguay. The 2026 cohort's application window closed on August 2, 2026, and no confirmed date for a next cycle was found.",
+      "summary": "GNI Lab is a 12-week program combining virtual sessions, practical exercises and personalized mentoring that helps independent news creators and small digital media outlets strengthen their journalism using Google tools, audience-building practices, and revenue-diversification strategies. Run by SembraMedia with the Google News Initiative for participants from Argentina, Chile, Colombia, Mexico, Peru and Uruguay. The 2026 cohort's application window closed on August 2, 2026, and no confirmed date for a next cycle was found.",
       "url": "https://sembramedia.org/en/our-initiatives/gni-lab-emerging-news-voices/",
       "applyUrl": "https://sembramedia.org/en/our-initiatives/gni-lab-emerging-news-voices/",
       "applicantTypes": [
@@ -2105,7 +2105,7 @@
         "min": null,
         "max": null,
         "currency": null,
-        "note": "Training and mentoring program; no cash grant amount was stated in search results."
+        "note": "Training and mentoring program; no cash grant amount stated."
       },
       "deadline": "2026-08-02",
       "deadlineType": "recurring",
@@ -2120,10 +2120,10 @@
         "UY"
       ],
       "sourceId": "sembramedia",
-      "lastVerified": "2026-10-31",
+      "lastVerified": "2026-11-14",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "Reconfirmed: the 2026 cohort's application window closed August 2, 2026. SembraMedia/Google News Initiative also run a related, possibly overlapping 'GNI Startups Lab Hispanoamérica' accelerator (up to 10 entrepreneurs + up to 10 media outlets, with financial support/training/consulting) and an older women-founders mentoring program called 'Metis' — none recorded as separate entries here because it is unclear whether they are the same recurring programme under a different name, a distinct one, or currently inactive, and no confirmed current-cycle dates were found for any of them. Re-checked again (2026-10-17): no 2027 cohort or new application window found via WebSearch; sembramedia.org's own homepage snapshot carried no new programme dates. Re-checked again today (2026-10-31) via WebSearch only (no fresh snapshot available): still no 2027 GNI Lab cohort or other new SembraMedia open programme found; Metis and GNI Startups Lab Hispanoamérica remain without confirmed current-cycle dates. Not confirmed on the funder's own page."
+      "notes": "Reconfirmed closed (2026 cohort closed 2 Aug 2026); no 2027 cohort found. Snapshot this run was thin (nav-only). A related SembraMedia-run 'Sembra Ads & Tech' program (with BBC Media Action, EU-backed) had an application deadline of 2026-02-11, already closed — not recorded separately as it is long past. Not confirmed on the funder's own page."
     },
     {
       "id": "stigler-center-journalists-in-residence",
@@ -2173,7 +2173,7 @@
       "id": "thomson-reuters-foundation-journalist-fellowship-programme",
       "funder": "Thomson Reuters Foundation",
       "programme": "Journalist Fellowship Programme (Thomson Reuters Foundation Fellowship, with Reuters Institute, University of Oxford)",
-      "summary": "A fully funded fellowship term at the Reuters Institute for the Study of Journalism, University of Oxford, open to mid-career journalists worldwide with a minimum of five years' experience; Thomson Reuters Foundation is named as a funder of specific fellowship places alongside other sponsors. Fellows attend seminars and networking events and work on a personal research project during their term; the programme runs several intakes per year (reported as October, January and April starts).",
+      "summary": "A fully funded fellowship term at the Reuters Institute for the Study of Journalism, University of Oxford, open to mid-career journalists worldwide with a minimum of five years' experience; Thomson Reuters Foundation is named as a funder of specific fellowship places alongside other sponsors. Fellows attend seminars and networking events and work on a personal research project; the programme runs several intakes per year.",
       "url": "https://www.trust.org/",
       "applyUrl": "https://reutersinstitute.politics.ox.ac.uk/fellowships/journalism-fellowship/how-apply",
       "applicantTypes": [
@@ -2191,7 +2191,7 @@
         "min": null,
         "max": null,
         "currency": "GBP",
-        "note": "Reuters Institute's own fellowship-funding page (not trust.org itself) states fellows receive a monthly living allowance of £2,000 plus covered programme fees and return travel to the UK; specific figures are not stated on the Thomson Reuters Foundation's own site."
+        "note": "Reuters Institute's own fellowship-funding page (not trust.org) states fellows receive a monthly living allowance of £2,000 plus covered programme fees and return travel to the UK; not stated on Thomson Reuters Foundation's own site."
       },
       "deadline": null,
       "deadlineType": "unknown",
@@ -2201,10 +2201,10 @@
         "global"
       ],
       "sourceId": "thomson-reuters-foundation",
-      "lastVerified": "2026-10-31",
+      "lastVerified": "2026-11-14",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "This programme is primarily administered by the Reuters Institute at Oxford, with Thomson Reuters Foundation as one of several named funders of specific places — no standing open grant call was found on trust.org itself. Search results indicate applications for the 2026-27 academic-year intake closed around 13 February 2026 and the next round is expected to open after that; the exact reopening date could not be corroborated on the funder's own page, so deadline is left null/unknown. New applicants should also verify whether a Thomson Reuters Foundation-funded place is available in a given round, since funded seats are limited and shared across sponsors. A third-party listing (heysuccess.com) previously cited a provisional 12 February 2027 deadline for the 2027/28 fellowship, but this remains uncorroborated. Re-checked again today (2026-10-31) via WebSearch only (no fresh snapshot available): search results continue to describe the Reuters Institute's 2026-27 Journalist Fellowship Programme (Thomson Reuters Foundation among its named funders) with an already-closed ~13 Feb 2026 deadline, and no other open Thomson Reuters Foundation-run journalism programme on trust.org was found. A 'Sir Harry Evans Global Fellowship' also surfaced in search but is run by Reuters (the news agency) and Durham University, not Thomson Reuters Foundation, so it is out of scope for this source. Not confirmed on the funder's own page."
+      "notes": "Primarily administered by the Reuters Institute at Oxford, with TRF as one of several named funders of specific places — no standing open call found on trust.org itself. The Reuters Institute's own 'how to apply' page (quoted via search) now states: 'Applications are now closed for Fellowships for the 2026-27 academic year. They will open again in January 2027.' No exact reopening date given, so deadline/opensAt left null/unknown rather than guessed. Worth re-checking in December/January when the Institute typically posts the exact date. Not confirmed on the funder's own page."
     },
     {
       "id": "usc-health-journalism-california-health-equity",
@@ -3403,10 +3403,10 @@
         "europe"
       ],
       "sourceId": "limelight",
-      "lastVerified": "2026-10-31",
+      "lastVerified": "2026-11-14",
       "confidence": "medium",
       "provenance": "auto",
-      "notes": "limelightfoundation.org fetch failed today ('fetch failed' per snapshots index); built from WebSearch evidence (a Media Defence partnership announcement describing Limelight's offer of support to journalists, citizen journalists and independent media organisations in need, and a Philea/directory profile of its focus and funding style). No specific application link, amount or deadline could be independently confirmed - the foundation's own site was unreachable. Re-checked today (2026-10-31): there is still no snapshot of limelightfoundation.org (none has ever been captured), and fresh WebSearch again found no live application or contact form on the foundation's own domain, only the same third-party Media Defence partnership evidence. Unchanged. Not confirmed on the funder's own page."
+      "notes": "No snapshot of limelightfoundation.org has ever been captured; built from WebSearch evidence (Media Defence partnership page, Philea member directory). No specific application link, amount or deadline independently confirmed. FLAG for maintainer: several third-party sources (Philea, a civictech directory) give the foundation's domain as 'limelight.foundation', not 'limelightfoundation.org' as recorded here and in sources.json — could not independently verify which is correct since this sandbox could not reach either host. URL left unchanged pending human verification. Not confirmed on the funder's own page."
     },
     {
       "id": "dw-akademie-international-journalism-traineeship-2028",
@@ -14052,6 +14052,83 @@
       "confidence": "medium",
       "provenance": "auto",
       "notes": "WebSearch today (WebFetch blocked for rsf.org) found continued RSF Iran coverage (e.g. new shortwave radio broadcasts with IranWire) but no dated update specific to this help desk's grant mechanics; distinct from RSF's general Assistance Desk (rsf-assistance) and the US PRESS Fund (rsf-press-fund-us). No distinct application form found; contact appears to route through RSF's general assistance channels. Not confirmed on the funder's own page beyond the original announcement article."
+    },
+    {
+      "id": "gijn-grants-nias-safe-haven-fellowship-2027-28",
+      "funder": "NIAS – Netherlands Institute for Advanced Study in the Humanities and Social Sciences (KNAW)",
+      "programme": "Safe Haven Fellowship — First Semester 2027–2028",
+      "summary": "A five-month residential fellowship in Amsterdam, with one place per semester reserved for an applicant conducting literary, artistic or journalistic research, intended for researchers, writers, artists and journalists whose work or safety is at risk.",
+      "url": "https://nias.knaw.nl/fellowships/safe-haven-fellowship/",
+      "applyUrl": "https://nias.knaw.nl/fellowships/safe-haven-fellowship/",
+      "applicantTypes": [
+        "freelancer"
+      ],
+      "supportTypes": [
+        "fellowship"
+      ],
+      "topics": [
+        "journalists-at-risk",
+        "relocation",
+        "residency"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "note": "Secondary aggregators report a roughly €3,500/month stipend, not confirmed directly on NIAS's own page in evidence gathered."
+      },
+      "deadline": "2026-12-14",
+      "deadlineType": "fixed",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "global"
+      ],
+      "sourceId": "gijn-grants",
+      "lastVerified": "2026-11-14",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Found via WebSearch (no gijn-grants snapshot exists). NIAS's own Safe Haven Fellowship page text, quoted in search results, states applications for the first semester of 2027–2028 close 14 December 2026 at noon CET, with one fellowship per semester reserved for literary/artistic/journalistic research. Not confirmed on the funder's own page."
+    },
+    {
+      "id": "gfmd-fundings-rcdij-africa-fund",
+      "funder": "Ripple Centre for Data and Investigative Journalism (RCDIJ)",
+      "programme": "RCDIJ Africa Fund",
+      "summary": "Rolling grants fund for African journalists producing data and investigative journalism, reviewed on a roughly two-month cycle, with a $10,000 ceiling per project; support can include editorial guidance and publication support.",
+      "url": "https://www.rcdij.org/the-rcdij-africa-fund/",
+      "applyUrl": "https://www.rcdij.org/the-rcdij-africa-fund/",
+      "applicantTypes": [
+        "freelancer",
+        "organisation"
+      ],
+      "supportTypes": [
+        "project"
+      ],
+      "topics": [
+        "investigative",
+        "data-journalism",
+        "africa"
+      ],
+      "track": "media",
+      "amount": {
+        "min": null,
+        "max": 10000,
+        "currency": "USD",
+        "note": "Ceiling of $10,000 per the funder's own page text quoted in search results; reported range runs from under $1,000 up to $10,000."
+      },
+      "deadline": null,
+      "deadlineType": "rolling",
+      "opensAt": null,
+      "status": "open",
+      "geoScope": [
+        "africa"
+      ],
+      "sourceId": "gfmd-fundings",
+      "lastVerified": "2026-11-14",
+      "confidence": "medium",
+      "provenance": "auto",
+      "notes": "Not present in yesterday's gfmd-fundings RSS snapshot (likely scrolled out of the feed's recent-items window), confirmed live via WebSearch quoting both GFMD's own fundings listing and RCDIJ's own page, describing it as open on a rolling basis. Apply by emailing info@rcdij.org, subject 'RCDIJ AFRICA FUND APPLICATION'. Not confirmed on the funder's own page."
     }
   ]
 }
