@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-14T04:14:57.095Z",
+  "generatedAt": "2026-11-15T00:00:00.000Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -2521,6 +2521,71 @@
       "lastSeen": "2026-11-14",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "David McClure Public Interest Journalism Fellowship (Oxford International Centre for Publishing & Journalism)",
+      "url": "https://www.oxfordpublish.org/research/funding_source/david_mcclure_public_interest_journalism_fellowship/",
+      "why": "New five-year (2026-2031) fellowship at Oxford Brookes University's publishing and journalism centre, funded by the David McClure Trust Fund, giving one writer £15,000 a year to produce long-form public-interest journalism.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "journalism.co.uk ('New £15k fellowship for long-form public interest journalism') and the centre's own funding-source page at oxfordpublish.org, both describing the 2026 launch and the 2026 application round (deadline 31 May 2026). Read November 2026."
+    },
+    {
+      "name": "Vince Geddes In-Depth Journalism Fund (The Spinoff)",
+      "url": "https://thespinoff.co.nz/media/16-12-2024/announcing-the-vince-geddes-in-depth-journalism-fund",
+      "why": "New Zealand fund, backed by the Auckland Radio Trust and run by The Spinoff newsroom, giving NZ$30,000 a year in NZ$5,000 grants to freelance journalists for long-form, in-depth reporting.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "The Spinoff's own announcement (Dec 2024 launch) and its May 2026 piece on the 2026 round shifting to rolling applications. Read November 2026."
+    },
+    {
+      "name": "Constructive Institute Asia Pacific Hub Fellowship (Monash University)",
+      "url": "https://www.monash.edu/constructive-institute-asia-pacific-hub/fellowship-2026-application",
+      "why": "New, fully-funded fellowship (flights and accommodation covered) for senior journalists from Australia, Asia and the Pacific, run by Monash University in partnership with the Constructive Institute in Denmark; inaugural cohort met in Melbourne in 2026.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "Monash University's own news release and fellowship application page, and radioinfo.asia coverage of the inaugural 2026 cohort (19 fellows from Australia, Asia and the Pacific). Read November 2026."
+    },
+    {
+      "name": "Trans Journalists Association — Reporting Fellowship",
+      "url": "https://www.transjournalists.org/reporting-fellowship/",
+      "why": "New fellowship from the Trans Journalists Association, funded by the Burton Finck Family Foundation, giving journalists reporting on trans issues a $5,000 stipend; inaugural 2026 cohort just announced.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "transjournalists.org's own reporting-fellowship page and its 'Meet the 2026 Trans Journalists Association Reporting Fellows' post. Read November 2026."
+    },
+    {
+      "name": "Human Rights and Religious Freedom Journalism Grant Program (Indian American Muslim Council)",
+      "url": "https://hrrfjawards.com/journalism-grant/",
+      "why": "Recurring grant run by the Indian American Muslim Council for early- and mid-career journalists reporting on human rights and religious-freedom issues affecting minorities in India and the Indian diaspora in the US; 2026 call currently open.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "hrrfjawards.com's own grant page and 'HRRFJ 2026 Now Open' post. Read November 2026."
     }
   ]
 }
