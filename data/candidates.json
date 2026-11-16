@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-15T00:00:00.000Z",
+  "generatedAt": "2026-11-16T04:16:36.627Z",
   "candidates": [
     {
       "name": "California Civic Media Program",
@@ -745,8 +745,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-11-01",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-16",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -1246,11 +1246,12 @@
       "url": "https://balkanfund.org/",
       "why": "Independent regional grantmaker covering the Western Balkans (including Serbia); its listings include small regional investigative-journalism grants (deadline already passed) and 'Opportunity & Innovation Grants' tagged for media & journalism with an aggregator-reported but unverified deadline of 2 November 2026 — worth checking directly on the funder's own site.",
       "seenAt": [
-        "eu-delegation-serbia"
+        "eu-delegation-serbia",
+        "balkan-trust"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-09",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-16",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -1840,8 +1841,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-16",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2586,6 +2587,18 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "hrrfjawards.com's own grant page and 'HRRFJ 2026 Now Open' post. Read November 2026."
+    },
+    {
+      "name": "FWPN — Journalism Fellowship (Free Word Poland Network)",
+      "url": "https://fwpn.org.pl/en/our-programmes/journalism-fellowship/",
+      "why": "Runs a journalism fellowship programme (Spring 2026 cycle surfaced via search); not yet verified in depth.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
