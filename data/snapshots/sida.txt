@@ -1,6 +1,6 @@
 SOURCE: Sida — Swedish development cooperation
 URL: https://www.sida.se/en
-FETCHED: 2026-11-03T11:12:27.804Z
+FETCHED: 2026-11-18T12:03:03.600Z
 TITLE: Start page | The Swedish International Development Cooperation Agency | Sida
 
 === MAIN PAGE ===

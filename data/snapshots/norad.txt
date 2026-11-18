@@ -1,6 +1,6 @@
 SOURCE: Norad
 URL: https://www.norad.no/en/
-FETCHED: 2026-11-03T11:12:27.646Z
+FETCHED: 2026-11-18T12:03:03.409Z
 TITLE: Norad | Norad.no
 
 === MAIN PAGE ===
@@ -71,18 +71,15 @@ For partners: All the information you need for working with Norad, applying for 
 Calls for proposals and allocations
 Grants handbook
 Norad s Grant Scheme Rules
-The new report from Norad presents the results from the civilian support administered by the agency in 2023–2025, totalling NOK 31.3 billion.
-Norwegian organisations working for nuclear disarmament will receive a total of NOK 9 million in grants. The funding will support capacity-building and knowledge development.
-Norway is stepping up its efforts to improve women’s health and is providing NOK 210 million to UNFPA Supplies. The funding will help ensure better access to contraception, family planning and life-saving health services for young women in developing countries.
-A disability can also be a strength and a driving force for innovation and job creation. A group of young entrepreneurs in Kenya demonstrate this clearly. With support from a Norwegian-funded incubator, they are developing solutions for transport, communication and participation.
+Targeted Russian attacks have severely damaged Ukraine s energy supply. In 2026, Norway is providing Ukraine with a total of NOK 4.8 billion in support for electricity and heating.
+Norad is the Norwegian Agency for Development Cooperation. We are responsible for managing large parts of Norway’s development assistance to other countries. We manage funding, provide expert advice and monitor results to help ensure that Norwegian development policy makes a real difference for people, the environment and the climate. Norad works on behalf of the Ministry of Foreign Affairs and the Ministry of Climate and Environment.
 Total Norwegian aid in 2025
 The number of projects supported by Norwegian development aid in 2025
 Norwegian development aid s share of the Gross National Income (GNI) in 2025
 The Nansen Programme for Ukraine is a Norwegian support programme for both civilian and military aid, with a total budget of NOK 275 billion for the period 2023–2030.
-«Why shouldn’t we have our own global network when the criminals have theirs?», said Eva Joly when she launched the international Corruption Hunter Network in 2005 – a network led and supported by Norad.
 The Grants Portal
 
-=== https://www.norad.no/en/insight2/tematiske-omrader/the-nansen-support-programme-for-ukraine/ ===
+=== https://www.norad.no/en/insight2/thematic-areas/the-nansen-support-programme-for-ukraine/ ===
 Skip to main content
 Search
 
@@ -156,6 +153,8 @@ Find current calls for proposals
 in civilian aid under the Nansen program from 2022 to 2025
 in civilian aid in 2025
 supported under the Nansen programme in 2025
+Published: 16.11.2026
+Published: 11.11.2026
 Published: 22.10.2026
 Published: 12.10.2026
 Published: 12.10.2026
@@ -164,8 +163,6 @@ Published: 26.09.2026
 Published: 26.08.2026
 Published: 17.08.2026
 Published: 03.07.2026
-Published: 02.07.2026
-Published: 11.06.2026
 The Grants Portal
 
 === https://www.norad.no/en/for-partners/guides-and-tools/calls-for-proposals2/ ===

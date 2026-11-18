@@ -1,6 +1,6 @@
 SOURCE: Hivos
 URL: https://hivos.org/
-FETCHED: 2026-11-03T11:12:27.184Z
+FETCHED: 2026-11-18T12:03:02.889Z
 TITLE: Hivos - People Unlimited
 
 === MAIN PAGE ===
@@ -28,25 +28,35 @@ Publications
 
 Donate
 
+Building movements for
+Just, inclusive and
+life-sustaining societies
+
+About us
+
 Meet the defenders
 
-Read Mateo s story
+Reset filters
 
-Who we are
+October 20, 2026
 
-Hivos is a human rights and social justice organization driven by humanist values. We were founded in 1968, at the height of the global wave of social and political mobilizations in the 1960s that laid the foundation for new progressive civil society movements worldwide.
+Mateo’s fight for gender recognition and equal marriage is saving lives
 
-About Hivos
+Growing up in La Paz, Mateo faced discrimination and a legal system that refused to recognize his identity.
 
-What we do
+Read more : Mateo’s fight for gender recognition and equal marriage is saving lives
 
-Hivos strengthens and resources organizations and movements with the potential to improve a broad range of human, civil, and political rights. In particular, if they are directly at risk of being targeted or if they have the potential to spark popular mobilization for a transformative progressive agenda.
+November 11, 2026
 
-About our work
+From being excluded to demanding a seat at the table
 
-How we work
+Growing up in Zimbabwe, Sukoluhle learned early on what it felt like to be treated differently. As a young woman with a disability, she faced discrimination both at school and in her community. Many people believed disability was a curse. Others assumed that people with disabilities could never be leaders, decision-makers or active members of…
 
-Our key partners are movements and civil society actors, including NGOs, informal groups, independent media, cultural actors and human rights defenders. We see them not as passive beneficiaries, but as co-creators of change, b
+Read more : From being excluded to demanding a seat at the table
+
+Support change-makers
+
+Hel
 
 --- relevant lines ---
 October 20, 2026
