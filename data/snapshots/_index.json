@@ -1,31 +1,13 @@
 {
-  "generatedAt": "2026-11-18T12:03:06.907Z",
+  "generatedAt": "2026-11-19T11:58:44.597Z",
   "captured": {
-    "czech-transition": {
-      "fetchedAt": "2026-11-18T12:03:06.907Z",
-      "words": 255,
-      "pages": 1
-    },
-    "hivos": {
-      "fetchedAt": "2026-11-18T12:03:06.907Z",
-      "words": 1142,
-      "pages": 4
-    },
-    "norad": {
-      "fetchedAt": "2026-11-18T12:03:06.907Z",
-      "words": 1686,
-      "pages": 5
-    },
-    "prince-claus": {
-      "fetchedAt": "2026-11-18T12:03:06.907Z",
-      "words": 2066,
-      "pages": 5
-    },
-    "sida": {
-      "fetchedAt": "2026-11-18T12:03:06.907Z",
-      "words": 2019,
-      "pages": 5
+    "google-news-initiative": {
+      "fetchedAt": "2026-11-19T11:58:44.597Z",
+      "words": 772,
+      "pages": 3
     }
   },
-  "failed": {}
+  "failed": {
+    "reporters-shield": "fetch failed"
+  }
 }
