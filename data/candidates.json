@@ -1,7 +1,17 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-18T04:19:44.635Z",
+  "generatedAt": "2026-11-19T04:27:18.260Z",
   "candidates": [
+    {
+      "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
+      "url": "https://safetyofjournalists.org/",
+      "why": "Multi-organisation journalist-safety consortium (physical, legal, psychosocial and digital protection) surfaced while verifying an IWMF nav item; not itself an applyable grant/fellowship but may warrant its own tracking as a protection resource.",
+      "seenAt": ["iwmf"],
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
     {
       "name": "California Civic Media Program",
       "url": "https://business.ca.gov/california-civic-media-program/",
@@ -87,8 +97,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 18,
+      "lastSeen": "2026-11-19",
+      "timesSeen": 19,
       "status": "new"
     },
     {
@@ -99,8 +109,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 14,
+      "lastSeen": "2026-11-19",
+      "timesSeen": 15,
       "status": "new"
     },
     {
@@ -111,8 +121,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 13,
+      "lastSeen": "2026-11-19",
+      "timesSeen": 14,
       "status": "new"
     },
     {
@@ -123,8 +133,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 6,
+      "lastSeen": "2026-11-19",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -367,8 +377,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 11,
+      "lastSeen": "2026-11-19",
+      "timesSeen": 12,
       "status": "new",
       "evidence": "Re-seen today via the GFMD funding feed (Gordon N. Fisher / JHR Fellowship listing)."
     },
@@ -461,8 +471,8 @@
         "ijnet-opportunities"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 32,
+      "lastSeen": "2026-11-19",
+      "timesSeen": 33,
       "status": "new"
     },
     {
@@ -2449,8 +2459,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-19",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -2659,6 +2669,78 @@
       ],
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "World Federation of Science Journalists (WCSJ)",
+      "url": "https://wfsj.org/",
+      "why": "Runs travel fellowships for science journalists to attend its biennial World Conference of Science Journalists; encountered via gfmd-fellowships and not in sources.json.",
+      "seenAt": [
+        "gfmd-fellowships"
+      ],
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "British Council Serbia (Spark Serbia / youth CSO grants)",
+      "url": "https://www.britishcouncil.rs",
+      "why": "Delivers small grants to youth-focused civil-society organisations in Serbia jointly with the British Embassy Belgrade; distinct implementing body not currently tracked as its own source.",
+      "seenAt": [
+        "uk-embassy-belgrade"
+      ],
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "ANEM / Coalition for Media Freedom — Local Media Support Program ('Tailored to Citizens')",
+      "url": "https://anem.org.rs",
+      "why": "Regrants an EU-funded 'Media Strategy Tailored to Citizens 2026-2031' project as small grants (reportedly EUR 4,000 each, EUR 80,000 total) directly to local Serbian media outlets; not currently tracked as its own source and its own call page carries no clear deadline.",
+      "seenAt": [
+        "eu-delegation-serbia"
+      ],
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU Ukraine2EU Programme (civil society / EU accession grants)",
+      "url": "https://www.eeas.europa.eu/delegations/ukraine",
+      "why": "EU Delegation to Ukraine-funded grant competitions for Ukrainian civil society organisations on EU accession advocacy (administered partly via IRF Ukraine); distinct EU instrument not currently tracked as its own source.",
+      "seenAt": [
+        "irf-ukraine"
+      ],
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Sweden Abroad — Swedish embassy local human-rights & media-freedom project grants",
+      "url": "https://www.swedenabroad.se/",
+      "why": "Swedish embassies (e.g. Istanbul) run their own small human-rights project-grant calls that explicitly name freedom of expression, media freedom and countering disinformation among their themes, separate from Sida's own development-cooperation grant mechanisms.",
+      "seenAt": [
+        "sida"
+      ],
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Norway (Norwegian Embassy) local grants for Belarusian civil society and independent media",
+      "url": "https://www.norway.no/en/lithuania/norway-lithuania/news-events/call-for-proposals-2026/",
+      "why": "A Norwegian embassy (serving Belarus via Vilnius) runs its own call explicitly covering independent-media/journalism support, structurally separate from Norad's centralised calls-for-proposals process.",
+      "seenAt": [
+        "norad"
+      ],
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
       "timesSeen": 1,
       "status": "new"
     }
