@@ -1,13 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:58:44.597Z",
-  "captured": {
-    "google-news-initiative": {
-      "fetchedAt": "2026-11-19T11:58:44.597Z",
-      "words": 772,
-      "pages": 3
-    }
-  },
-  "failed": {
-    "reporters-shield": "fetch failed"
-  }
+  "generatedAt": "2026-11-20T11:59:30.463Z",
+  "captured": {},
+  "failed": {}
 }
