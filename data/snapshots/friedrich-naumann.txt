@@ -1,6 +1,6 @@
 SOURCE: Friedrich Naumann Foundation
 URL: https://www.freiheit.org/topic/open-society
-FETCHED: 2026-11-06T11:18:42.476Z
+FETCHED: 2026-11-21T11:33:52.900Z
 TITLE: Open Society | Friedrich Naumann Foundation
 
 === MAIN PAGE ===
@@ -109,7 +109,7 @@ Freedom has been destroyed in Turkey - by Erdogan. People of the opposition are 
 01.07.2025
 DA delegation visited Brussels and Berlin (22–28 June 2025) hosted by FNF to boost liberal ties on energy and EU–Africa relations, meeting MEPs, EU officials, FDP leaders, and Deputy Minister Ashor Sarupen.
 01.07.2025
-26.10.2026
-29.10.2026
-27.10.2026
-27.10.2026
+19.11.2026
+16.11.2026
+09.11.2026
+09.11.2026

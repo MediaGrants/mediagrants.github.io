@@ -1,6 +1,6 @@
 SOURCE: Compagnia di San Paolo
 URL: https://www.compagniadisanpaolo.it/en/
-FETCHED: 2026-11-06T11:18:43.065Z
+FETCHED: 2026-11-21T11:33:54.352Z
 TITLE: Fondazione Compagnia di San Paolo
 
 === MAIN PAGE ===
@@ -37,23 +37,21 @@ Protecting the environment
 
 Finance Department A commitment to efficient investment, aimed at increasing the long-term value of FCSP's assets.
 
+Governance Department The Governance Department is the Foundation’s main point of contact for support and institutional relations.
+
 Learning Department A continuous process of integration of innovation, data and skills, at the service of the Foundation's missions.
 
 Operations Department Coordination of the administrative and organisational activities of the Foundation.
 
 What we do Method We pursue our goals by means of asset management and grant-making.
 
-Grants Every year, we support effective projects with a proven ability to generate value for people and local communities.
-
-Projects
-
-Menu istituziona
+Grants Every year,
 
 --- relevant lines ---
 Grants
-Philanthropy in international dialogue: Foundations Circle 2026
 The Foundation achieves UNI/PDR 125:2022 certification for its Gender Equality Management System
 We always have lots of new things coming: calls for proposals , events to invite you to, and projects we want to share with you.
+5 November 2026
 21 October 2026
 19 October 2026
 16 October 2026
@@ -64,7 +62,6 @@ The Foundation achieves UNI/PDR 125:2022 certification for its Gender Equality M
 11 September 2026
 Philanthropy in international dialogue: Foundations Circle 2026
 10 July 2026
-30 June 2026
 Get updates on our projects and calls for proposals
 Grants
 © 2026 All right reserved
@@ -103,17 +100,15 @@ Protecting the environment
 
 Finance Department A commitment to efficient investment, aimed at increasing the long-term value of FCSP's assets.
 
+Governance Department The Governance Department is the Foundation’s main point of contact for support and institutional relations.
+
 Learning Department A continuous process of integration of innovation, data and skills, at the service of the Foundation's missions.
 
 Operations Department Coordination of the administrative and organisational activities of the Foundation.
 
 What we do Method We pursue our goals by means of asset management and grant-making.
 
-Grants Every year, we support effective projects with a proven ability to generate value for people and local communities.
-
-Projects
-
-Menu istituziona
+Grants Every year,
 
 --- relevant lines ---
 Grants

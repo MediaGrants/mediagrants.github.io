@@ -1,6 +1,6 @@
 SOURCE: Allianz Foundation
 URL: https://allianzfoundation.org/
-FETCHED: 2026-11-06T11:18:41.608Z
+FETCHED: 2026-11-21T11:33:52.137Z
 TITLE: Home — Allianz Foundation
 
 === MAIN PAGE ===
@@ -37,7 +37,7 @@ From Europe s dirtiest city to an ecological success story
 A recollection by the Nafta ensemble
 What it takes to make theatre during blackouts, sirens, and the cold
 
-What will feed Europe in 2025?
+What will feed Europe in 2050?
 Polish farmers are already finding the answers
 
 Myth busted: Gen Z isn’t lazy
