@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-21T04:11:00.199Z",
+  "generatedAt": "2026-11-22T04:14:19.486Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -2748,6 +2748,18 @@
       "timesSeen": 11,
       "status": "new",
       "evidence": "ifpim.org and gfmd.info funding archive; IFJ (ifj.org) press release, 1 Aug 2026, on the IFPIM-funded $1m Palestine media fund it distributes through the Palestinian Journalists Syndicate. Also surfaced today (2026-11-04) via WebSearch while researching Norad's current calls. Read September 2026.  Surfaced again 2026-11-21 while researching osf's Independent Journalism and Innovation Grant; duplicate candidate entries merged today."
+    },
+    {
+      "name": "JaBiHEU Regional Small Grants Scheme (#CredibleMedia4StrongSocieties)",
+      "url": "https://www.developmentaid.org/grants/view/1734370/call-for-applications-regional-small-grants-scheme-western-balkans",
+      "why": "A regional small-grants scheme funding civil society and media organisations in six Western Balkan countries (Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, Serbia), surfaced while researching Open Information Partnership's disinformation/civic-space network for the region. Evidence found was thin (one aggregator listing, last updated 21 Oct 2026, no confirmed amount/deadline/eligibility, and no confirmed organisational link to OIP itself), so it needs direct verification at its own source before being added as a tracked funder.",
+      "seenAt": [
+        "open-information-partnership"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
