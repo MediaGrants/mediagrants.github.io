@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-22T04:14:19.486Z",
+  "generatedAt": "2026-11-22T12:00:00.000Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -2760,6 +2760,19 @@
       "lastSeen": "2026-11-22",
       "timesSeen": 1,
       "status": "new"
+    },
+    {
+      "name": "Fonds pour une Presse Libre (FPL)",
+      "url": "https://fondspresselibre.org/en/about",
+      "why": "French nonprofit, founded by Mediapart's team, that runs an annual grant call funding independent French print and digital media and co-runs the Ripostes legal-aid fund defending journalists facing lawsuits.",
+      "seenAt": [
+        "weekly-discovery"
+      ],
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "timesSeen": 1,
+      "status": "new",
+      "evidence": "FPL's own site (fondspresselibre.org/en/about, impact report) and Media Defence's announcement that FPL and Media Defence launched the Ripostes legal-aid fund, operational since October 2025 (mediadefence.org/news/fpl-and-media-defence-launch-ripostes-a-legal-aid-fund-for-independent-media-in-france), corroborated by cbnews.fr. Read November 2026."
     }
   ]
 }
