@@ -1,6 +1,6 @@
 SOURCE: Mama Cash
 URL: https://www.mamacash.org/en/apply-for-a-grant
-FETCHED: 2026-09-22T03:40:21.146Z
+FETCHED: 2026-11-22T11:47:57.370Z
 TITLE: Apply for a grant - Mama Cash
 
 === MAIN PAGE ===
@@ -42,13 +42,11 @@ Blogs
 
 Publications
 
+Press Releases
+
 Stories
 
 Podcasts
-
-Events
-
-Press Releases
 
 Annual Reports
 
@@ -113,10 +111,9 @@ August 20, 2026
 
 Applications close April 30, 2026
 
-Septembe
+September 20, 20
 
 --- relevant lines ---
-r 20, 2026
 Push for structural and fundamental change
 Women’s fund
 Apply for Grants
@@ -167,13 +164,11 @@ Blogs
 
 Publications
 
+Press Releases
+
 Stories
 
 Podcasts
-
-Events
-
-Press Releases
 
 Annual Reports
 
@@ -241,7 +236,7 @@ Spark Fund
 
 Find out more
 
-Mama Cash puts resources in the hands of activists building their own movements 
+Mama Cash puts resources in the hands of activists building their own movements for just
 
 --- relevant lines ---
 The self-led groups we support hold powerful radical wisdom. We honour their knowledge and assessment of their own situations, that is why they have the freedom to use our grants as they see fit.
@@ -289,13 +284,11 @@ Blogs
 
 Publications
 
+Press Releases
+
 Stories
 
 Podcasts
-
-Events
-
-Press Releases
 
 Annual Reports
 
@@ -342,7 +335,7 @@ Because feminist activism does not only happen in organisations, collectives or 
 
 Launched in August 2022, the Radical Love Fund is Mama Cash’s only participatory grantmaking fund designed to support the pioneering work of individual feminist activists. The fund supports individuals whose work is connected to feminist movements and contributes to feminist social change.
 
-Social change is secur
+Social change is secured throu
 
 --- relevant lines ---
 Most funders still provide support almost exclusively to groups and networks.
@@ -401,13 +394,11 @@ Blogs
 
 Publications
 
+Press Releases
+
 Stories
 
 Podcasts
-
-Events
-
-Press Releases
 
 Annual Reports
 
@@ -454,7 +445,7 @@ Value of grant
 
 Mama Cash will not be accepting new applications in 2026 to the Resilience Fund for groups that we are not already funding. This does not affect our current grantee-partners who will continue to receive their grants. You can find out more about this decision in our announcement .
 
-Because self-led feminist groups demand the freedom to act on their
+Because self-led feminist groups demand the freedom to act on their own vis
 
 --- relevant lines ---
 In every corner of the world, courageous feminist activists are working together to build collective power, claim justice, and create, sustain, and revive ways of living that are just and fair. The Resilience Fund – our largest grantmaking programme – aims to resource, support and connect the collective activism of women, girls, and trans and intersex people around the world.
@@ -509,13 +500,11 @@ Blogs
 
 Publications
 
+Press Releases
+
 Stories
 
 Podcasts
-
-Events
-
-Press Releases
 
 Annual Reports
 
@@ -564,7 +553,7 @@ Mama Cash aims to be responsive to movements by meeting them where they are. The
 
 Getting resources to feminist movements when they need them most!
 
-To
+To bring a
 
 --- relevant lines ---
 The Revolution Fund is designed to support one-off initiatives of feminist movements that:

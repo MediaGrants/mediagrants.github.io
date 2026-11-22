@@ -1,31 +1,94 @@
 {
-  "generatedAt": "2026-11-21T11:34:08.363Z",
+  "generatedAt": "2026-11-22T11:48:01.824Z",
   "captured": {
-    "allianz-foundation": {
-      "fetchedAt": "2026-11-21T11:34:08.363Z",
-      "words": 2521,
-      "pages": 6
-    },
-    "compagnia-di-san-paolo": {
-      "fetchedAt": "2026-11-21T11:34:08.363Z",
-      "words": 514,
-      "pages": 2
-    },
-    "friedrich-naumann": {
-      "fetchedAt": "2026-11-21T11:34:08.364Z",
-      "words": 356,
+    "astraea": {
+      "fetchedAt": "2026-11-22T11:48:01.824Z",
+      "words": 144,
       "pages": 1
     },
-    "macarthur": {
-      "fetchedAt": "2026-11-21T11:34:08.364Z",
-      "words": 2491,
-      "pages": 7
+    "ch-embassy-serbia": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 440,
+      "pages": 2
     },
-    "peacenexus": {
-      "fetchedAt": "2026-11-21T11:34:08.364Z",
-      "words": 2019,
-      "pages": 7
+    "climate-justice-resilience": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 1044,
+      "pages": 3
+    },
+    "de-embassy-belgrade": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 470,
+      "pages": 2
+    },
+    "digital-freedom-fund": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 2318,
+      "pages": 5
+    },
+    "erasmus-plus": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 1073,
+      "pages": 5
+    },
+    "eu-civil-society-facility": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 2688,
+      "pages": 9
+    },
+    "european-climate-foundation": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 1225,
+      "pages": 3
+    },
+    "frontline-defenders": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 1018,
+      "pages": 4
+    },
+    "global-fund-for-women": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 2091,
+      "pages": 5
+    },
+    "global-human-rights-fund": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 2120,
+      "pages": 5
+    },
+    "internews-ukraine": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 1316,
+      "pages": 5
+    },
+    "mama-cash": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 2250,
+      "pages": 5
+    },
+    "mott-foundation": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 877,
+      "pages": 3
+    },
+    "nl-matra": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 1764,
+      "pages": 5
+    },
+    "no-embassy-belgrade": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 803,
+      "pages": 2
+    },
+    "rockefeller-brothers": {
+      "fetchedAt": "2026-11-22T11:48:01.825Z",
+      "words": 2225,
+      "pages": 5
     }
   },
-  "failed": {}
+  "failed": {
+    "coe-youth-foundation": "HTTP 403",
+    "ilga-europe": "HTTP 404"
+  }
 }

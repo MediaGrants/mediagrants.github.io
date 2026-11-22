@@ -1,6 +1,6 @@
 SOURCE: Rockefeller Brothers Fund — Western Balkans
 URL: https://www.rbf.org/programs/western-balkans
-FETCHED: 2026-09-23T03:40:37.937Z
+FETCHED: 2026-11-22T11:47:57.760Z
 TITLE: Western Balkans | Rockefeller Brothers Fund
 
 === MAIN PAGE ===
@@ -506,8 +506,6 @@ Rockefeller Brothers Fund Names Ian H. Solomon President and CEO
 The appointment of Ian Solomon, currently the dean of the Frank Batten School of Leadership and Public Policy at the University of Virginia, follows an extensive search that began in the summer of 2025 when Stephen Heintz announced plans to retire after 25 years as RBF president and CEO.
 2025 Mission-Aligned Investing Impact Assessment
 The RBF’s latest impact assessment examines the nonfinancial outcomes of its mission-aligned investment portfolio and highlights key findings from 2025.
-Foundations Commit $25M to Strengthen Nonprofits’ Access to Insurance
-The Rockefeller Brothers Fund joins nine prominent foundations to provide $25 million in support of Nonprofits Insurance Alliance.
 News from the Rockefeller Brothers Fund
 © 2026 Rockefeller Brothers Fund. All rights reserved.
 
@@ -634,41 +632,39 @@ $165,866 average grant amount
 50 percent of grants were for more than one year
 42 percent of grants were for general support; additional grantmaking provided unrestricted funds for projects by fiscal agents and universities
 Search our grants by keyword, program, amount, or year awarded. Information about older grants is available in the Fund’s Form 990-PFs , at the Rockefeller Archive Center , or by contacting the Grants Management team.
-Showing 2037 results
-$260,000
-Awarded
-Jun 30, 2026
-Fundacion Periodica
-$345,000
-Awarded
-Jun 30, 2026
-$40,000
-Awarded
-Jun 30, 2026
-Staff Grantmaking Fund
-$60,000
-Awarded
-Jun 30, 2026
-$75,000
-Awarded
-Jun 29, 2026
-Trade Justice Education Fund
-$70,000
-Awarded
-Jun 29, 2026
 $400,000
 Awarded
-Jun 25, 2026
-$50,000
+Oct 30, 2026
+$76,000
 Awarded
-Jun 25, 2026
-$25,000
+Oct 27, 2026
+$150,000
 Awarded
-Jun 24, 2026
+Oct 27, 2026
+$60,000
+Awarded
+Oct 27, 2026
+Fundacion Derechos Economicos, Sociales y Culturales para America Latina
+$40,000
+Awarded
+Oct 27, 2026
+Fundacion Programa Regional de Investigacion sobre Desarrollo y Medio Ambiente PRISMA
+$250,000
+Awarded
+Oct 27, 2026
+$300,000
+Awarded
+Oct 27, 2026
+Fundacion Pro Defensa de la Naturaleza y Sus Derechos
+$112,000
+Awarded
+Oct 27, 2026
+$150,000
+Awarded
+Oct 21, 2026
 $100,000
 Awarded
-Jun 24, 2026
-For its Omega Resilience Awards scholarships program in Latin America
+Oct 21, 2026
 2016
 2021
 2022

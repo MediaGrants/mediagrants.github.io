@@ -1,6 +1,6 @@
 SOURCE: Climate & environmental justice funds
 URL: https://www.climateworks.org/
-FETCHED: 2026-10-10T03:44:27.291Z
+FETCHED: 2026-11-22T11:47:52.784Z
 TITLE: Home - ClimateWorks Foundation
 
 === MAIN PAGE ===
@@ -105,7 +105,7 @@ Advancing community-oriented approaches to carbon dioxide removal
 Together with funders, implementers, and other organizations, we develop and support high-impact solutions that reduce emissions, improve health, strengthen economies, and build resilience. We connect philanthropic capital with innovative, proven strategies led by local experts.
 Resources for funders, innovators, and implementers
 Meet the grantees from our global call for extreme heat solutions
-Giving to climate change mitigation has doubled since 2020 — but critical gaps persist
+Climate philanthropies move over $36 million to drive down cooling emissions amid record-breaking heatwaves
 How MacKenzie Scott channeled $4 billion via collaboratives
 
 === https://www.climateworks.org/blog/locally-led-climate-adaptation-and-resilience/ ===

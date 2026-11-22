@@ -1,6 +1,6 @@
 SOURCE: EU Neighbourhood & Enlargement — civil society funding
 URL: https://neighbourhood-enlargement.ec.europa.eu/funding-and-technical-assistance_en
-FETCHED: 2026-10-10T03:44:30.027Z
+FETCHED: 2026-11-22T11:47:54.496Z
 TITLE: Funding & Technical Assistance - Enlargement and Eastern Neighbourhood
 
 === MAIN PAGE ===
@@ -61,7 +61,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -153,7 +153,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -245,7 +245,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -337,7 +337,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -429,7 +429,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -521,7 +521,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -613,7 +613,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -705,7 +705,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining
@@ -797,7 +797,7 @@ Moldova
 Ukraine
 See all
 
-Enlargement 2025 EU Enlargement Package
+Enlargement 2026 EU Enlargement Package
 EU Enlargement Forum 2026
 Conditions for membership
 Steps towards joining

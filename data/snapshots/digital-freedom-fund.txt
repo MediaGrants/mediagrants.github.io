@@ -1,7 +1,7 @@
 SOURCE: Digital Freedom Fund
 URL: https://digitalfreedomfund.org/
-FETCHED: 2026-10-10T03:44:29.753Z
-TITLE: Digital Freedom Fund Advancing digital rights through strategic litigation
+FETCHED: 2026-11-22T11:47:54.261Z
+TITLE: Digital Freedom Fund Digital Rights are Human Rights
 
 === MAIN PAGE ===
 Skip to content
@@ -106,7 +106,7 @@ The Year in Digital Rights 2021
 
 Litigation Skills Building
 
-Advancing digital rights through strategic litigation
+Digital Rights are Human Rights
 
 What we do
 
@@ -116,7 +116,9 @@ DFF funds three types of activities: litigation, pre-litigation, and post-litiga
 
 how to apply
 
-Commun
+Community Building
+
+DFF faci
 
 --- relevant lines ---
 Our Grantmaking Case Studies
@@ -244,7 +246,7 @@ DFF is currently supported by Open Society Foundations, Luminate, Luminate Proje
 
 --- relevant lines ---
 undation and the Sigrid Rausing Trust, and project funding from the Citizens, Equality, Rights and Values (CERV) programme of the European Union and the Democracy and Media Foundation (Stichting Democratie en Media).
-Do you want to help protect human rights in online spaces by making a financial contribution to DFF? Your donation will support organisations to build legal strategies to tackle digital rights abuse. Digital Freedom Fund is a register ANBI charity in the Netherlands and all donations within the Netherlands are tax deductible.
+Digital Freedom Fund is a registered ANBI charity in the Netherlands and all donations within the Netherlands are tax deductible.
 Account Holder: Stichting Digital Freedom Fund
 Ethical funding policy
 DFF fundraises under the guidance of its Ethical Funding Policy, which outlines the type of funding DFF accepts and the types of activities donations and other funding are used for. DFF’s Ethical Funding Policy seeks to ensure that DFF can properly manage its priorities and projects with appropriate independence from its funders.
@@ -365,7 +367,7 @@ Since 2018, we have supported more than 100 groups and individuals, funded throu
 See information about our grantee partners and their work on our case studies page , where you can filter by different criteria, including grant type, issue area, country and organisation. See answers to our frequently asked questions here .
 How to apply for a grant
 We consider grant applications through regular open calls.
-The most recent call for applications closed in February 2026, with grants approved in June 2026. We expect the next call for applications to run from late November 2026 to mid-February 2027.
+We expect the next call for applications to open in February 2027.
 Make sure you scroll down to read more information to prepare your application, including the scope of our grants and the criteria by which your application will be assessed. Click here to see more detail about how to submit your application. On the same page you can also find the times for upcoming ask us anything calls.
 To help write your application in advance, check out the application guides here , see examples of the digital rights work we are supporting on our case studies page , and read this blog to see a summary of our last round of grant approvals.
 Types of grants​
@@ -376,7 +378,7 @@ Grant application criteria
 Defensive litigation: litigation brought against a grant applicant, including strategic lawsuits against public participation (SLAPPs) and criminal prosecutions;
 What kinds of cases does DFF fund?
 Ensuring the respect for human rights in the application of technology by law enforcement, such as in the context of predictive policing
-DFF accepts grant applications concerning litigation in any…
+DFF accepts grant applications concerning litigation in any Council of Europe Member States. Applicants based outside the Council of Europe can be considered as long as their litigatio…
 
 === https://digitalfreedomfund.org/application-process/ ===
 Skip to content
@@ -486,29 +488,27 @@ Application process
 Application process
 
 We consider grant applications through regular open calls.
-The most recent call for grant applications closed in February 2026, with decisions made in June 2026. We expect to run the next call for applications from late-November 2026 until mid-February 2
+We expect to run the next call for applications in February and March 2027. See our estimated schedule below.
+To help write your next application in advance, see if you proposal aligns with our m
 
 --- relevant lines ---
-To help write your next application in advance, check out the application guides here and see examples of the digital rights work we are supporting on our case studies page .
+andate and criteria here , check out the application guides here and see examples of the digital rights work we are supporting on our case studies page .
 If you have any questions or comments about the application process, sign up for one of our ask us anything calls (all times in CET/Berlin):
-Wed 18 Nov 12pm
-Mon 30 Nov 11am
-Thur 3 Dec 10am
-Wed 13 Jan 11am
-Thur 28 Jan 10am
-Write to grants(at)digitalfreedomfund.org to sign up.
-Monday 23 November 2026:
+Wed 10 Feb 11:00
+Thurs 18 Feb 10:00
+Mon 1 Mar 12:00
+Wed 24 Mar 11:00
+Write to Thomas at grants(at)digitalfreedomfund.org to sign up.
+Date (all 2027)
+Mon 15 February:
 Call for applications opens.
-Monday 8 February 2027:
+Tues 30 March:
 Application registration closes. Not possible to start an application after this date.
-Wednesday 17 February 2027:
+Mon 12 April:
 Deadline for final applications. Only applies for those who registered and had eligibility confirmed by 8 February.
-18-28 February 2027:
+12-26 April:
 DFF review of applications and mandate alignment check.
-March-April 2027:
 Community Peer Group review of all eligible applications.
-May 2027:
-June 2027
 The application process consists of the following steps:
 Registration and eligibility check
 The first step in applying for DFF support is to register and complete an eligibility check. DFF offers two kinds of grant support: litigation track and pre-litigation research. Register and submit your eligibility check on our online grant platform using the link at the bottom of this page.
@@ -516,7 +516,7 @@ An eligibility check can be submitted at any time while a call for applications 
 DFF carries out the eligibility check. This is not an assessment of project quality, only of high level mandate criteria, like whether the project focuses on digital rights litigation and fits DFF s geographic scope.
 Please submit your eligibility check in our online grant platform (link at bottom of page) before the given deadline in order to be considered. It will not be possible to start a new application request after the deadline.
 Full application
-If your request meets our eligibility criteria you will be given access to the full application form. Completed applications must be …
+If your request meets our eligibility criteria you will be given access to the full application form. Completed applications must be submitted through the DFF grant platform by the call for applications deadline. Any …
 
 === https://digitalfreedomfund.org/case-studies/ ===
 Skip to content
@@ -631,13 +631,14 @@ The case studies below illustrate the important digital rights work of our grant
 ver time as new grants are approved and projects progress.
 Highlighting Litigation Success in the Digital Rights Community : a report documenting some of the impact from the more than 100 grants we made between 2018 and 2024.
 Litigation Impact Stories : stories from grantee partners highlighting notable outcomes and successes from their litigation and pre-litigation research.
-In September 2025, Spain's Supreme Court ruled in Civio's favour after a seven-year legal battle, ordering the government to release the source code of BOSCO, an algorithm determining eligibility for
-In Sweden, the so-called new "Snitch Law", likely to enter into law in 2026, would force public employees to contact the Police Authority if they have reason to assume that
-In December 2021, the Norwegian Data Protection Authority (DPA) issued an administrative fine of NOK 65 million (around EUR 6.5 million) against dating app Grindr for disclosing personal information about
-Háttér Society are preparing for litigation challenging the blocking of access to online LGBTI content in Hungary. This relates to the adoption in 2021 of legislation that bans access of
-In 2024, PILP took litigation challenging automated decision making through the use of an algorithm by banks in the Netherlands, resulting in discrimination against people with "exotic" sounding names, whose
-With the support of the 5Rights Foundation, Good Law Project made a submission in May 2025 to the UK Competition and Markets Authority (CMA) against Apple and Google app stores
+UK Home Office visa application streaming algorithm
+In mid-2019, the media revealed that the UK Home Office had been using an algorithm/automated computer system for five years to process visa applications. Foxglove and JCWI argued that the
+In Serbia, the Law on Social Card was adopted in 2021, establishing an electronic register containing the data of beneficiaries of social protection schemes, and enabling automated processing of data
+According to Human Rights Monitoring Institute (HRMI), in Lithuania in 2019, telecommunications companies were legally required to collect and store users' personal communications data. This included information about who sent
+BSWC are carrying out research looking at how the deplatforming and digital exclusion of Sex Workers—especially those who are Black, migrant, trans, and disabled—constitutes a violation of fundamental rights under
 Liberty are challenging the UK government’s regime to issue a Technical Capability Notice (“TCN”) under the Investigatory Powers Act 2016.In February 2025, it was reported that the UK Secretary of
-In 2019, the Bulgaria National Revenue Agency servers were hacked, compromising personal data of approximately six million people. KDBM believes the hack was partly due to deficient security practices and
-In 2025, investigative journalists uncovered that during and following the Myanmar military coup starting in 2021, Telenor had shared data linked to specific phone numbers with the military upon request,
-Based on research carried out by Tracking Exposed (now rebranded into Reversing Works), privacy activists lodged a complaint before the data protection authority (DP…
+Constitutional complaint against the amendment of the telecommunication surveillance regulation (“G10” ), which for the first time grants all 19 German intelligence services the right to use malware to surveil
+noyb is taking litigation against the Luxembourg data protection authority (CNPD), challenging the inactivity of the CNPD in response to a complaint filed against Amazon back in 2019. noyb argues
+Open Rights Group, Migrants’ Rights Network and Migrants At Work sought to determine how a test claim could be brought to challenge the Home Office’s use of automated digital identity
+In Germany, undocumented migrants are at risk of privacy violations and deportation if they try to access healthcare services. This is because the social welfare office is obliged to share
+Háttér Society are preparing for litigation challenging the blo…

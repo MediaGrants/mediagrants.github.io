@@ -1,6 +1,6 @@
 SOURCE: Fund for Global Human Rights
 URL: https://globalhumanrights.org/grants/
-FETCHED: 2026-10-10T03:44:32.639Z
+FETCHED: 2026-11-22T11:47:56.177Z
 TITLE: What We Do | The Fund for Global Human Rights
 
 === MAIN PAGE ===
@@ -28,7 +28,7 @@ What we work on
 
 Building Civic Power
 Climate Justice
-Children’s and Youth Rights
+Youth Rights
 Labor Rights
 Legal Empowerment
 LGBTQ+ Rights
@@ -75,17 +75,22 @@ East Africa
 
 Latin America
 
-West Asia and 
+West Asia and North Africa
+
+S
 
 --- relevant lines ---
 Migrants’ Rights
 Our Strategic Outlook, 2025–2030
 Over the past decade, civic space for human rights activism has become contested or closed across much of the world. In this challenging context, our work resourcing frontline human rights movements is more critical than ever. Our 2025–2030 Strategic Outlook consolidates what we have learned over more than 20 years of work, and sets out our five-year strategic focus and priorities for the road ahead.
-September 18, 2026
-September 3, 2026
-September 2, 2026
+The Third Wave of Philanthropy Is Here. Are Human Rights Funders Ready?
+November 20, 2026
+November 2, 2026
+October 27, 2026
 By submitting this form, you accept that your data will be stored and processed in line with our Privacy Policy .
 © 2026 The Fund for Global Human Rights
+I am reaching out on behalf of: (Required) --Please select-- An individual donor A donor advised fund A family foundation An institutional foundation An individual s estate A corporation Other
+Submit
 
 === https://fundhumanrights.org/what-we-do/migrants-rights/ ===
 Skip to content
@@ -112,7 +117,7 @@ What we work on
 
 Building Civic Power
 Climate Justice
-Children’s and Youth Rights
+Youth Rights
 Labor Rights
 Legal Empowerment
 LGBTQ+ Rights
@@ -149,7 +154,7 @@ We believe in the right to move freely.
 
 But as global conflict and the climate crisis displace millions around the world, people on the move—including migrants, asylum-seekers, and refugees—face militarized borders, violent nationalism, and state-sanctioned persecution.
 
-The Fund for Global Human Rights invests in grassroots acti
+The Fund for Global Human Rights invests in grassroots activism that suppo
 
 --- relevant lines ---
 people worldwide are migrants.
@@ -168,6 +173,8 @@ May 7, 2024
 April 5, 2024
 By submitting this form, you accept that your data will be stored and processed in line with our Privacy Policy .
 © 2026 The Fund for Global Human Rights
+I am reaching out on behalf of: (Required) --Please select-- An individual donor A donor advised fund A family foundation An institutional foundation An individual s estate A corporation Other
+Submit
 
 === https://fundhumanrights.org/support-us/ ===
 Skip to content
@@ -194,7 +201,7 @@ What we work on
 
 Building Civic Power
 Climate Justice
-Children’s and Youth Rights
+Youth Rights
 Labor Rights
 Legal Empowerment
 LGBTQ+ Rights
@@ -235,7 +242,7 @@ Become an ally
 
 Be the support activists can count on with a monthly gift.
 
-As an ally, you’ll provide activists with the resources they need to drive change
+As an ally, you’ll provide activists with the resources they need to drive change, even in the t
 
 --- relevant lines ---
 Interested in donating by mail, bequest, IRA, or your donor-advised fund? Learn more about these powerful options for charitable giving.
@@ -243,6 +250,8 @@ Donor-Advised Fund
 The Fund for Global Human Rights is a 501(c)(3) tax-exempt organization (Federal Tax ID 75-3029336) and a UK registered charity (Charity Number 1151043 and Company Number 08357053).
 By submitting this form, you accept that your data will be stored and processed in line with our Privacy Policy .
 © 2026 The Fund for Global Human Rights
+I am reaching out on behalf of: (Required) --Please select-- An individual donor A donor advised fund A family foundation An institutional foundation An individual s estate A corporation Other
+Submit
 
 === https://fundhumanrights.org/support-us/global-activist-alliance/ ===
 Skip to content
@@ -269,7 +278,7 @@ What we work on
 
 Building Civic Power
 Climate Justice
-Children’s and Youth Rights
+Youth Rights
 Labor Rights
 Legal Empowerment
 LGBTQ+ Rights
@@ -306,7 +315,7 @@ The Global Activist Alliance comprises dedicated donors who provide vital suppor
 
 Our Giving Levels
 
-Membership offers special benefits, honoring your extraordinary commi
+Membership offers special benefits, honoring your extraordinary commitment to human 
 
 --- relevant lines ---
 Donate over $250
@@ -327,6 +336,8 @@ Interested in donating by mail, bequest, IRA, or your donor-advised fund? Learn 
 Donor-Advised Fund
 By submitting this form, you accept that your data will be stored and processed in line with our Privacy Policy .
 © 2026 The Fund for Global Human Rights
+I am reaching out on behalf of: (Required) --Please select-- An individual donor A donor advised fund A family foundation An institutional foundation An individual s estate A corporation Other
+Subm…
 
 === https://fundhumanrights.org/support-us/other-ways-to-give/ ===
 Skip to content
@@ -353,7 +364,7 @@ What we work on
 
 Building Civic Power
 Climate Justice
-Children’s and Youth Rights
+Youth Rights
 Labor Rights
 Legal Empowerment
 LGBTQ+ Rights
@@ -388,7 +399,7 @@ Other Ways to Give
 
 The best way to donate is the one that’s right for you. Support activists today to make it possible for them to bring equality and justice to communities around the world.
 
-The Fund for Global Human Rights is a 501(c)(3) tax-exempt organization (Federal Tax ID 75-3029336) and a UK registered charity (Charity Number 1151043 and 
+The Fund for Global Human Rights is a 501(c)(3) tax-exempt organization (Federal Tax ID 75-3029336) and a UK registered charity (Charity Number 1151043 and Company Number 
 
 --- relevant lines ---
 Donor-Advised Fund
@@ -408,3 +419,5 @@ If you are interested in establishing a DAG with the Fund for Global Human Right
 If you have questions about any of these or other ways to give, please contact Elyse Henrici, individual giving specialist, at elyse@fundhumanrights.org .
 By submitting this form, you accept that your data will be stored and processed in line with our Privacy Policy .
 © 2026 The Fund for Global Human Rights
+I am reaching out on behalf of: (Required) --Please select-- An individual donor A donor advised fund A family foundation An institutional foundation An individual s estate A corporation Other
+Submit

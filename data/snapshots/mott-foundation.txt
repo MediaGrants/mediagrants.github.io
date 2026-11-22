@@ -1,6 +1,6 @@
 SOURCE: Charles Stewart Mott Foundation — civil society
 URL: https://www.mott.org/how-to-apply/
-FETCHED: 2026-09-22T03:40:20.713Z
+FETCHED: 2026-11-22T11:47:57.638Z
 TITLE: What We Fund | Mott Foundation
 
 === MAIN PAGE ===
@@ -309,39 +309,40 @@ Child Poverty Soluti
 
 --- relevant lines ---
 Apply Filters
-$100,000
-Conservation Fund
+$250,000
 Grant Period
-August 1, 2026–July 31, 2027
-$300,000
+June 1, 2026–May 31, 2028
+$120,000
 Grant Period
-September 1, 2026–August 31, 2028
-$600,000
-Grant Period
-September 1, 2026–August 31, 2028
-$100,000
-Grant Period
-July 1, 2026–June 30, 2027
-$200,000
-Fund for Global Human Rights
-Grant Period
-July 1, 2026–June 30, 2028
-$200,000
-Grant Period
-January 1, 2027–December 31, 2028
+October 1, 2026–September 30, 2028
 $200,000
 Grant Period
 November 1, 2026–October 31, 2028
-Funders' Initiative for Civil Society
-Funders' Initiative for Civil Society
 $300,000
 Grant Period
-May 1, 2026–April 30, 2028
-$1,000,000
+October 1, 2026–September 30, 2027
+$225,000
 Grant Period
-July 1, 2026–June 30, 2027
-$250,000
+October 1, 2026–September 30, 2029
+$150,000
 Grant Period
-June 1, 2026–May 31, 2027
+October 1, 2026–September 30, 2028
+$200,000
+Genesee Area Focus Fund
+Grant Period
+October 1, 2026–August 31, 2027
+$170,000
+Grant Period
+October 1, 2026–September 30, 2027
+Mott Foundation Youth Choice Awards
+Mott Foundation Youth Choice Awards
+$1,926
+Grant Period
+January 1, 2026–December 31, 2026
+Mott Foundation Youth Choice Awards
+Mott Foundation Youth Choice Awards
+$1,926
+Grant Period
+January 1, 2026–December 31, 2026
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 2026 Mott Foundation

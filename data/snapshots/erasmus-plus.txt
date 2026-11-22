@@ -1,12 +1,12 @@
 SOURCE: Erasmus+ — civic education & youth participation
 URL: https://erasmus-plus.ec.europa.eu/opportunities
-FETCHED: 2026-10-10T03:44:29.003Z
+FETCHED: 2026-11-22T11:47:53.652Z
 TITLE: Opportunities under Erasmus+ - Erasmus+
 
 === MAIN PAGE ===
 Skip to main content
 
-Language: English Select your language
+English Select your language
 Close
 EU official languages
 bg български
@@ -98,7 +98,7 @@ Page does not display correctly
 
 Can't filter results
 
-
+Not mobile
 
 --- relevant lines ---
 Please reply to the questions above to submit the form
@@ -107,7 +107,7 @@ How to apply
 === https://erasmus-plus.ec.europa.eu/bg/opportunities ===
 Skip to main content
 
-Language: български Select your language
+български Select your language
 Затваряне
 EU official languages
 bg български
@@ -199,7 +199,7 @@ Page does not display correctly
 
 Can't filter results
 
-No
+Not mobile f
 
 --- relevant lines ---
 Please reply to the questions above to submit the form
@@ -207,7 +207,7 @@ Please reply to the questions above to submit the form
 === https://erasmus-plus.ec.europa.eu/es/opportunities ===
 Skip to main content
 
-Language: español Select your language
+español Select your language
 Cerrar
 EU official languages
 bg български
@@ -297,7 +297,9 @@ Problema de traducción
 
 Page does not display correctly
 
-Can't filter r
+Can't filter results
+
+No
 
 --- relevant lines ---
 Please reply to the questions above to submit the form
@@ -305,7 +307,7 @@ Please reply to the questions above to submit the form
 === https://erasmus-plus.ec.europa.eu/cs/opportunities ===
 Skip to main content
 
-Language: Czech Select your language
+Czech Select your language
 Zavřít
 EU official languages
 bg български
@@ -397,7 +399,7 @@ Page does not display correctly
 
 Can't filter results
 
-Not mob
+Not mobile friend
 
 --- relevant lines ---
 Please reply to the questions above to submit the form
@@ -405,7 +407,7 @@ Please reply to the questions above to submit the form
 === https://erasmus-plus.ec.europa.eu/da/opportunities ===
 Skip to main content
 
-Language: dansk Select your language
+dansk Select your language
 Luk
 EU official languages
 bg български
@@ -497,7 +499,9 @@ Page does not display correctly
 
 Can't filter results
 
-Not mobile frien
+Not mobile friendly
+
+Pleas
 
 --- relevant lines ---
 Please reply to the questions above to submit the form
