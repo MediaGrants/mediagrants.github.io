@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-22T12:00:00.000Z",
+  "generatedAt": "2026-11-23T04:13:35.577Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -661,11 +661,12 @@
       "url": "https://slovakaid.sk/en/",
       "why": "Bilateral-embassy-style small-grants programme (up to €10,000, civil society/governance themes) surfaced while researching UK Embassy Belgrade funding, similar in shape to the AU/US/UK embassy sources already tracked but not itself in the registry.",
       "seenAt": [
-        "uk-embassy-belgrade"
+        "uk-embassy-belgrade",
+        "ch-embassy-serbia"
       ],
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-27",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-23",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -1681,8 +1682,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-21",
-      "timesSeen": 5,
+      "lastSeen": "2026-11-23",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -1763,18 +1764,6 @@
       "why": "Runs recurring civil-society grant rounds (e.g. the Helen Darbishire Fund, Open Door Grants for Armenia/Georgia/Moldova/Ukraine) touching transparency and public-information work; surfaced while researching the Open Information Partnership and not present in sources.json.",
       "seenAt": [
         "open-information-partnership"
-      ],
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
-      "timesSeen": 1,
-      "status": "new"
-    },
-    {
-      "name": "SlovakAid (Slovak Agency for International Development Cooperation) — Embassy of the Slovak Republic in Belgrade, Small Grants",
-      "url": "https://www.mzv.sk/web/belehrad-en/slovakaid/small-grants",
-      "why": "A recurring small-grants line (EUR 10,000 ceiling per project, Serbia-wide) run by the Slovak Embassy in Belgrade for small-scale local development projects; turned up while searching for a current British Embassy Belgrade call, and no Slovak development-cooperation source exists in sources.json (only Swiss, German and Norwegian Belgrade missions are tracked).",
-      "seenAt": [
-        "uk-embassy-belgrade"
       ],
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-10-29",
@@ -2773,6 +2762,18 @@
       "timesSeen": 1,
       "status": "new",
       "evidence": "FPL's own site (fondspresselibre.org/en/about, impact report) and Media Defence's announcement that FPL and Media Defence launched the Ripostes legal-aid fund, operational since October 2025 (mediadefence.org/news/fpl-and-media-defence-launch-ripostes-a-legal-aid-fund-for-independent-media-in-france), corroborated by cbnews.fr. Read November 2026."
+    },
+    {
+      "name": "Human Rights Fund (HRF) — Netherlands Embassy Serbia",
+      "url": "https://www.netherlandsandyou.nl/web/serbia/themes/human-rights-fund",
+      "why": "A separate Dutch Embassy Serbia civil-society grant instrument distinct from MATRA (its own thematic page, no call details or deadline found yet), surfaced while re-verifying the nl-matra source; not itself in sources.json.",
+      "seenAt": [
+        "nl-matra"
+      ],
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "timesSeen": 1,
+      "status": "new"
     }
   ]
 }
