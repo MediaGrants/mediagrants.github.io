@@ -1,6 +1,6 @@
 SOURCE: Norwegian Embassy Belgrade — grants
 URL: https://www.norway.no/en/serbia/
-FETCHED: 2026-11-22T11:47:57.804Z
+FETCHED: 2026-11-23T04:03:35.130Z
 TITLE: Norway in Serbia
 
 === MAIN PAGE ===

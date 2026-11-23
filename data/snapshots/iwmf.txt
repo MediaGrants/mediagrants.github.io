@@ -1,9 +1,11 @@
 SOURCE: International Women's Media Foundation
 URL: https://www.iwmf.org/programs/
-FETCHED: 2026-10-17T03:57:25.455Z
+FETCHED: 2026-11-23T04:03:28.772Z
 TITLE: Programs - IWMF
 
 === MAIN PAGE ===
+Skip to main content
+
 About
 
 Leadership
@@ -41,6 +43,8 @@ Equity
 Opportunities
 
 Reporting Opportunities
+
+Alicia C. Shepard Legacy Fellowship
 
 Elizabeth Neuffer Fellowship
 
@@ -104,13 +108,12 @@ Community
 
 Awards
 
-Anja Niedringhaus Award
-
-Courage in Journalism Award
-
-Gwen Ifill Aw
+Anja Nie
 
 --- relevant lines ---
+dringhaus Award
+Courage in Journalism Award
+Gwen Ifill Award
 Annenberg Justice for Women Journalists Award
 Through our programs and grants we empower women and nonbinary journalists with the training, opportunities, and support to become leaders in the news industry. The IWMF offers journalists a wide range of opportunities to grow as media professionals, gain reporting experience, publish projects, and be recognized for remarkable work.
 Grantees
@@ -126,6 +129,8 @@ Resources: Tips to apply
 Copyright 2026 International Women's Media Foundation. All Rights Reserved.
 
 === https://www.iwmf.org/issues/opportunity/ ===
+Skip to main content
+
 About
 
 Leadership
@@ -163,6 +168,8 @@ Equity
 Opportunities
 
 Reporting Opportunities
+
+Alicia C. Shepard Legacy Fellowship
 
 Elizabeth Neuffer Fellowship
 
@@ -226,20 +233,21 @@ Community
 
 Awards
 
-Anja Niedringhaus Award
-
-Courage in Journalism Award
-
-Gwen Ifill Aw
+Anja Nie
 
 --- relevant lines ---
+dringhaus Award
+Courage in Journalism Award
+Gwen Ifill Award
 Annenberg Justice for Women Journalists Award
 Research commissioned by the Bill and Melinda Gates Foundation in 2021 found that women’s representation in the news has flatlined – if not reversed – in the 21st century. This holds true across all areas of the news media: women are underrepresented in newsroom leadership, gender equity stories are going untold, and men remain the vast majority of quoted experts and sources.
 The IWMF seeks to change the narrative by offering women and nonbinary journalists a broad range of reporting opportunities, awarding more than $630,000 in grants and fellowships in 2022. Among them are our Howard G. Buffett Fund for Women Journalists , which offers flexible grants for special projects; our Elizabeth Neuffer Fellowship , which funds one journalist annually to study at MIT and intern at the New York Times and Boston Globe; and, our ¡Exprésate! LGBTQI+ and Women’s Rights Reporting Initiative in Latin America. Learn about all of the IWMF’s programmatic offerings here .
 We are also committed to providing professional development opportunities for women and nonbinary journalists. Our Gwen Ifill Mentorship Program pairs journalists from underrepresented backgrounds including socioeconomic, educational and other diverse perspectives with media industry leaders to advance their careers. In 2021, we launched NextGen Safety Trainers , a program training a new generation of journalism safety trainers with historically marginalized identities. And, in the wake of the crisis in Afghanistan, we established Reclaiming Futures , a program designed to help Afghan women journalists re-establish their careers in the U.S.
 Copyright 2026 International Women's Media Foundation. All Rights Reserved.
 
-=== https://www.iwmf.org/programs/neuffer/ ===
+=== https://www.iwmf.org/programs/alicia-c-shepard-legacy-fellowship/ ===
+Skip to main content
+
 About
 
 Leadership
@@ -277,6 +285,8 @@ Equity
 Opportunities
 
 Reporting Opportunities
+
+Alicia C. Shepard Legacy Fellowship
 
 Elizabeth Neuffer Fellowship
 
@@ -340,13 +350,133 @@ Community
 
 Awards
 
-Anja Niedringhaus Award
-
-Courage in Journalism Award
-
-Gwen Ifill Aw
+Anja Nie
 
 --- relevant lines ---
+dringhaus Award
+Courage in Journalism Award
+Gwen Ifill Award
+Annenberg Justice for Women Journalists Award
+Apply by January 11, 2027!
+Alicia C. Shepard Legacy Fellowship
+The Alicia C. Shepard Legacy Fellowship, named after the late journalist and author, supports journalists pursuing ambitious storytelling that challenges conventional narratives, career-building professional development, and opportunities promoting diversity in journalism.
+Applications for the 2027 fellowship are open through January 11, 2027.
+Alicia “Lisa” Cobb Shepard believed in asking difficult questions, taking chances, and helping others find their voice. An award-winning journalist, author, educator, and mentor, she devoted her career to examining how journalism serves the public—and how it could do better.
+The Alicia C. Shepard Legacy Fellowship carries that commitment forward by supporting journalists who embody Lisa’s curiosity, courage, dignity, respect, passion, and a hefty dose of badassness to pursue meaningful work even when it is difficult or uncomfortable.
+Grants of up to $3,500 will be awarded to support reporting projects or professional development opportunities through a competitive application process. This opportunity is open to women and nonbinary journalists of all nationalities. We encourage applicants from underrepresented backgrounds, including socioeconomic, educational, and other diverse perspectives, to apply.
+Copyright 2026 International Women's Media Foundation. All Rights Reserved.
+
+=== https://www.iwmf.org/programs/neuffer/ ===
+Skip to main content
+
+About
+
+Leadership
+
+Staff
+
+Meet our Donors
+
+News
+
+Impact
+
+Resources
+
+On The Record: Documenting Misogyny
+
+Self Care & Trauma
+
+Research
+
+Contact Us
+
+Focus
+
+Safety
+
+Opportunity
+
+Reporting
+
+Recognition
+
+Equity
+
+Opportunities
+
+Reporting Opportunities
+
+Alicia C. Shepard Legacy Fellowship
+
+Elizabeth Neuffer Fellowship
+
+Fault Lines Reporting Fund
+
+Fund for Indigenous Journalists
+
+Kari Howard Fund for Narrative Journalism
+
+Kim Wall Memorial Fund
+
+Lauren Brown Fellowship
+
+Reproductive Health, Rights and Justice in the Americas
+
+Gwen Ifill Mentorship Program
+
+Past Programs
+
+Safety
+
+Emergency Assistance
+
+U.S. Journalism Emergency Fund
+
+Alex Duval Smith Memorial Fund
+
+Newsroom Safety Across America
+
+The Safety Collective
+
+Safety Ambassador Fellowship
+
+Online Abuse and Harassment
+
+Coalition Against Online Violence
+
+Hostile Environment Training
+
+Journalist Trauma Support Network
+
+Safeguarding Women's Voices
+
+Guides and Reports
+
+Report: Building Community Amid Expanding Threats
+
+Report: Threats to U.S. Journalists
+
+Report: Meeting the Mental Health Needs of Journalists
+
+Newsroom Policy Guide
+
+Mental Health Guide
+
+Online Violence Courses
+
+Reporting
+
+Community
+
+Awards
+
+Anja Nie
+
+--- relevant lines ---
+dringhaus Award
+Courage in Journalism Award
+Gwen Ifill Award
 Annenberg Justice for Women Journalists Award
 Elizabeth Neuffer Fellowship
 Applications for the 2027 Elizabeth Neuffer Fellowship are now closed. All applicants will receive an update on their application by end-July 2026.
@@ -372,11 +502,11 @@ Celebration of Elizabeth Neuffer s Life and Legacy June 15, 2023
 2009/2010
 2008/2009
 2007/2008
-2006/2007
-2005/2006
-Copyright 2026 International Women's Media Founda…
+2006/200…
 
 === https://www.iwmf.org/programs/fault-lines/ ===
+Skip to main content
+
 About
 
 Leadership
@@ -414,6 +544,8 @@ Equity
 Opportunities
 
 Reporting Opportunities
+
+Alicia C. Shepard Legacy Fellowship
 
 Elizabeth Neuffer Fellowship
 
@@ -477,13 +609,12 @@ Community
 
 Awards
 
-Anja Niedringhaus Award
-
-Courage in Journalism Award
-
-Gwen Ifill Aw
+Anja Nie
 
 --- relevant lines ---
+dringhaus Award
+Courage in Journalism Award
+Gwen Ifill Award
 Annenberg Justice for Women Journalists Award
 Apply Now!
 Fault Lines Reporting Fund
@@ -497,122 +628,3 @@ March 15, 2024
 December 4, 2023
 August 17, 2023
 Copyright 2026 International Women's Media Foundation. All Rights Reserved.
-
-=== https://www.iwmf.org/programs/fund-for-indigenous-journalists/ ===
-About
-
-Leadership
-
-Staff
-
-Meet our Donors
-
-News
-
-Impact
-
-Resources
-
-On The Record: Documenting Misogyny
-
-Self Care & Trauma
-
-Research
-
-Contact Us
-
-Focus
-
-Safety
-
-Opportunity
-
-Reporting
-
-Recognition
-
-Equity
-
-Opportunities
-
-Reporting Opportunities
-
-Elizabeth Neuffer Fellowship
-
-Fault Lines Reporting Fund
-
-Fund for Indigenous Journalists
-
-Kari Howard Fund for Narrative Journalism
-
-Kim Wall Memorial Fund
-
-Lauren Brown Fellowship
-
-Reproductive Health, Rights and Justice in the Americas
-
-Gwen Ifill Mentorship Program
-
-Past Programs
-
-Safety
-
-Emergency Assistance
-
-U.S. Journalism Emergency Fund
-
-Alex Duval Smith Memorial Fund
-
-Newsroom Safety Across America
-
-The Safety Collective
-
-Safety Ambassador Fellowship
-
-Online Abuse and Harassment
-
-Coalition Against Online Violence
-
-Hostile Environment Training
-
-Journalist Trauma Support Network
-
-Safeguarding Women's Voices
-
-Guides and Reports
-
-Report: Building Community Amid Expanding Threats
-
-Report: Threats to U.S. Journalists
-
-Report: Meeting the Mental Health Needs of Journalists
-
-Newsroom Policy Guide
-
-Mental Health Guide
-
-Online Violence Courses
-
-Reporting
-
-Community
-
-Awards
-
-Anja Niedringhaus Award
-
-Courage in Journalism Award
-
-Gwen Ifill Aw
-
---- relevant lines ---
-Annenberg Justice for Women Journalists Award
-Applications accepted on a rolling basis
-Fund for Indigenous Journalists
-Grantees FAQ Application Guide
-To bring awareness to the injustice of Missing and Murdered Indigenous People/Women, Girls, Two-Spirit and Transgender people (MMIP/WG2T), the International Women’s Media Foundation’s Fund for Indigenous Journalists supports U.S.-based reporting projects by journalists on the issue.
-The Fund s Indigenous Journalists & Allies: Reporting on Missing & Murdered People/Women, Girls, Two-Spirit, Transgender People (MMIP/WG2T) initiative directly supports Indigenous journalists and allies reporting on the violence that targets members of Indigenous nations, both on sovereign ground and in urban settings in the U.S. The dominant media narrative around Indigenous issues, including Missing & Murdered Indigenous People (MMIP), is often criticized by Indigenous journalists, advocates, and tribal nations as perpetuating stereotypes and lacking critical nuance – victimizing Indigenous people and ignoring their survivorship. This initiative recognizes that Indigenous people make up less than one percent of working journalists in the U.S. and seeks to empower their voice and authority by supporting proposals that place them in lead decision-making positions. This initiative also recognizes that the injustice of MMIP is an every-newsroom, every-day issue and encourages all journalists to participate in creating better media outcomes.
-Applications are being accepted and reviewed on a rolling basis. The IWMF is conducting ongoing, targeted outreach to eligible journalists and Indigenous and non-Indigenous journalism groups to solicit proposals. Indigenous and non-Indigenous journalists of all genders affiliated with media outlets, as well as freelancers, are invited to apply.
-In addition to monetary support, the IWMF is committed to providing editorial and pitching support to grantees.
-Please read our FAQ page about the program. Eligible journalists can apply here . For additional information, contact our team at [email protected] .
-In 2023, my reporting revealed that although Gov. Michelle Lujan Grisham’s administration publicly touted its work to address the crisis, it had pulled the plug on a state MMIWR task force to the surpri…

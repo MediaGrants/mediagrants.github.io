@@ -1,6 +1,6 @@
 SOURCE: Fund for Global Human Rights
 URL: https://globalhumanrights.org/grants/
-FETCHED: 2026-11-22T11:47:56.177Z
+FETCHED: 2026-11-23T04:03:33.950Z
 TITLE: What We Do | The Fund for Global Human Rights
 
 === MAIN PAGE ===

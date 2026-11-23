@@ -1,6 +1,6 @@
 SOURCE: Charles Stewart Mott Foundation — civil society
 URL: https://www.mott.org/how-to-apply/
-FETCHED: 2026-11-22T11:47:57.638Z
+FETCHED: 2026-11-23T04:03:34.007Z
 TITLE: What We Fund | Mott Foundation
 
 === MAIN PAGE ===
@@ -309,12 +309,6 @@ Child Poverty Soluti
 
 --- relevant lines ---
 Apply Filters
-$250,000
-Grant Period
-June 1, 2026–May 31, 2028
-$120,000
-Grant Period
-October 1, 2026–September 30, 2028
 $200,000
 Grant Period
 November 1, 2026–October 31, 2028
@@ -324,6 +318,12 @@ October 1, 2026–September 30, 2027
 $225,000
 Grant Period
 October 1, 2026–September 30, 2029
+$250,000
+Grant Period
+June 1, 2026–May 31, 2028
+$120,000
+Grant Period
+October 1, 2026–September 30, 2028
 $150,000
 Grant Period
 October 1, 2026–September 30, 2028

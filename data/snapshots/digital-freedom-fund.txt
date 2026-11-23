@@ -1,6 +1,6 @@
 SOURCE: Digital Freedom Fund
 URL: https://digitalfreedomfund.org/
-FETCHED: 2026-11-22T11:47:54.261Z
+FETCHED: 2026-11-23T04:03:31.250Z
 TITLE: Digital Freedom Fund Digital Rights are Human Rights
 
 === MAIN PAGE ===
@@ -631,14 +631,13 @@ The case studies below illustrate the important digital rights work of our grant
 ver time as new grants are approved and projects progress.
 Highlighting Litigation Success in the Digital Rights Community : a report documenting some of the impact from the more than 100 grants we made between 2018 and 2024.
 Litigation Impact Stories : stories from grantee partners highlighting notable outcomes and successes from their litigation and pre-litigation research.
-UK Home Office visa application streaming algorithm
-In mid-2019, the media revealed that the UK Home Office had been using an algorithm/automated computer system for five years to process visa applications. Foxglove and JCWI argued that the
 In Serbia, the Law on Social Card was adopted in 2021, establishing an electronic register containing the data of beneficiaries of social protection schemes, and enabling automated processing of data
-According to Human Rights Monitoring Institute (HRMI), in Lithuania in 2019, telecommunications companies were legally required to collect and store users' personal communications data. This included information about who sent
-BSWC are carrying out research looking at how the deplatforming and digital exclusion of Sex Workers—especially those who are Black, migrant, trans, and disabled—constitutes a violation of fundamental rights under
-Liberty are challenging the UK government’s regime to issue a Technical Capability Notice (“TCN”) under the Investigatory Powers Act 2016.In February 2025, it was reported that the UK Secretary of
-Constitutional complaint against the amendment of the telecommunication surveillance regulation (“G10” ), which for the first time grants all 19 German intelligence services the right to use malware to surveil
-noyb is taking litigation against the Luxembourg data protection authority (CNPD), challenging the inactivity of the CNPD in response to a complaint filed against Amazon back in 2019. noyb argues
-Open Rights Group, Migrants’ Rights Network and Migrants At Work sought to determine how a test claim could be brought to challenge the Home Office’s use of automated digital identity
+Based on research carried out by Tracking Exposed (now rebranded into Reversing Works), privacy activists lodged a complaint before the data protection authority (DPA) of Italy. In November 2024, after
 In Germany, undocumented migrants are at risk of privacy violations and deportation if they try to access healthcare services. This is because the social welfare office is obliged to share
-Háttér Society are preparing for litigation challenging the blo…
+The German Asylum Act grants the Federal Ministry for Migration and Refugees the power to access the mobile devices of migrants and asylum seekers, without a warrant, in order to
+Liberty are challenging the UK government’s regime to issue a Technical Capability Notice (“TCN”) under the Investigatory Powers Act 2016.In February 2025, it was reported that the UK Secretary of
+In 2019, the UK Police brought in new regulations on how police officers should gather data-based evidence to investigate certain criminal cases. Under the policy, police can request that the
+Open Rights Group, Migrants’ Rights Network and Migrants At Work sought to determine how a test claim could be brought to challenge the Home Office’s use of automated digital identity
+The Grant supports NOVACT and SUDs to research how Spanish companies can be held legally accountable for their role in the digital surveillance and repression of the Palestinian people, and
+The UK Investigatory Powers Act (IPA) grants the government power to collect and store information about everything people do and say online. This includes emails, texts, calls, location data and
+Based on research carried out by Tracking Exposed (now rebranded into AI Forensics) since 2019, privacy activists have lodged complaints before the data protection authorities of Italy and Cyp…

@@ -1,6 +1,6 @@
 SOURCE: European Journalism Centre — Funding
 URL: https://ejc.net/funding
-FETCHED: 2026-10-17T03:57:24.311Z
+FETCHED: 2026-11-23T04:03:27.483Z
 TITLE: Funding | EJC.net
 
 === MAIN PAGE ===
@@ -82,8 +82,7 @@ Applications closed
 Funding
 Applications open: ODA Germany Grants for reporting on maternal and child health
 Official Development Assistance (ODA) Germany Grants - Round 2
-Application deadline
-23 Oct 2026, 23:59 (CEST)
+Applications closed
 Funding
 IJ4EU Freelancer Support Scheme 2026
 IJ4EU’s Freelancer Support Scheme 2026 offers grants of up to €20,000 to cross-border investigative teams made up predominantly of freelance journalists.

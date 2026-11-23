@@ -1,6 +1,6 @@
 SOURCE: Front Line Defenders — protection grants
 URL: https://www.frontlinedefenders.org/en/programme/protection-grants
-FETCHED: 2026-11-22T11:47:54.293Z
+FETCHED: 2026-11-23T04:03:31.856Z
 TITLE: Protection Grants | Front Line Defenders
 
 === MAIN PAGE ===

@@ -1,6 +1,6 @@
 SOURCE: Fund for Investigative Journalism
 URL: https://fij.org/apply-for-a-grant/
-FETCHED: 2026-10-17T03:57:24.062Z
+FETCHED: 2026-11-23T04:03:27.212Z
 TITLE: Apply for a Grant - The Fund for Investigative Journalism
 
 === MAIN PAGE ===
@@ -51,6 +51,8 @@ Contact
 Email Sign-up
 
 Archives
+
+November 2026
 
 October 2026
 
@@ -184,12 +186,11 @@ December 2020
 
 November 2020
 
-October 2020
 
-S
 
 --- relevant lines ---
-eptember 2020
+October 2020
+September 2020
 August 2020
 July 2020
 June 2020
@@ -345,7 +346,7 @@ We review applications for seed funding (small grants for preliminary reporting)
 Grant Amounts
 The maximum grant is $10,000. Grants cover out-of-pocket expenses such as travel, document collection and equipment rental. Grants can also be used to cover reporting time.
 Reporters who have already published an investigation with a grant from the Fund can request up to $2,500 for timely follow-up coverage to the original story.
-Reporters who do not yet have a full investigative proposal, but need support to do initial reporting to develop a story, an apply for seed …
+Reporters who do not yet have a full investigative proposal, but need support to do initial reporting to develop a story, an a…
 
 === https://fij.org/index-of-grantees-stories/ ===
 0
@@ -395,6 +396,8 @@ Contact
 Email Sign-up
 
 Archives
+
+November 2026
 
 October 2026
 
@@ -528,12 +531,11 @@ December 2020
 
 November 2020
 
-October 2020
 
-S
 
 --- relevant lines ---
-eptember 2020
+October 2020
+September 2020
 August 2020
 July 2020
 June 2020
@@ -675,7 +677,7 @@ Amelia Schafer, South Dakota Searchlight (April 20, 2026)
 Martha Pskowski and Paul Ratje, Inside Climate News (April 19, 2026)
 Juliette Rihl and DaniRae Renno, PennLive (April 14, 2026)
 Max Blaisdell, Book Club Chicago (April 7, 2026)
-Christine Peterson, High Country…
+Christine Peterson…
 
 === https://fij.org/financial-supporters/ ===
 0
@@ -725,6 +727,8 @@ Contact
 Email Sign-up
 
 Archives
+
+November 2026
 
 October 2026
 
@@ -858,12 +862,11 @@ December 2020
 
 November 2020
 
-October 2020
 
-S
 
 --- relevant lines ---
-eptember 2020
+October 2020
+September 2020
 August 2020
 July 2020
 June 2020
@@ -996,8 +999,7 @@ Application Forms
 Grants FAQ
 How to Get a Grant
 In 2021, the groundbreaking nonprofit news organization FairWarning ceased operations and donated its remaining assets to the Fund for Investigative Journalism. These funds are used to support investigative reporting on the set of issues that FairWarning covered. The Fund provides grants on these issues through its regular grantmaking cycles and processes, and some of those grants are funded by FairWarning’s donation. Read more about the FairWarning donation here , and view an archive of FairWarning’s coverage here .
-Grantee report on youth justice facilities run by TN businessman triggers state investigation
-Sign up for email updates from T…
+Grantee reporting for NY Times and Texas outlets shows young kids swept into criminal justice system at school; …
 
 === https://fij.org/grantees-stories/ ===
 0
@@ -1047,6 +1049,8 @@ Contact
 Email Sign-up
 
 Archives
+
+November 2026
 
 October 2026
 
@@ -1180,12 +1184,11 @@ December 2020
 
 November 2020
 
-October 2020
 
-S
 
 --- relevant lines ---
-eptember 2020
+October 2020
+September 2020
 August 2020
 July 2020
 June 2020
@@ -1320,10 +1323,9 @@ How to Get a Grant
 Grantees' Stories
 We provide grants and other support directly to investigative journalists who commit their lives to uncovering, unraveling and documenting the stories that impact the world most. Many of the stories we support would not be told without the grants and assistance we provide. View an index of our grantees’ stories over the last 18 months and see highlights of recent stories below.
 Grantees Stories
-Grantee examines why mental-health courts in NY are reaching just a fraction of people who need them
-With the support of a seed grant from the Fund, ...
+Grantee reporting for NY Times and Texas outlets shows young kids swept into criminal justice system at school; key legislator vows reform
 Grantees Stories
-Second season of grantee investigation digs into housing crunch…
+Grantee uncovers lax oversight of oil companies in Oklahoma – i…
 
 === https://fij.org/grants-faq/ ===
 0
@@ -1373,6 +1375,8 @@ Contact
 Email Sign-up
 
 Archives
+
+November 2026
 
 October 2026
 
@@ -1506,12 +1510,11 @@ December 2020
 
 November 2020
 
-October 2020
 
-S
 
 --- relevant lines ---
-eptember 2020
+October 2020
+September 2020
 August 2020
 July 2020
 June 2020
@@ -1646,4 +1649,4 @@ How to Get a Grant
 Grants FAQ
 This FAQ provides information about grant eligibility, proposals, budgets and more. If you have a question that is not answered here, or if you need additional information, please email [email protected] .
 What makes a good proposal?
-A good story pitch written for an editor would be very similar to a good proposal written for a grant from the Fund for Investigative Journalism. What is the main question your investigation seeks to answer? What will you uncover that is new? What is your road map for tracking down information? Is the information obtainable through public records, interviews or your own observations? What has your pre…
+A good story pitch written for an editor would be very similar to a good proposal written for a grant from the Fund for Investigative Journalism. What is the main question your investigation seeks to answer? What will you uncover that is new? What is your road map for tracking down information? Is the information obtainable through public records, interviews or your own observations? Wha…
