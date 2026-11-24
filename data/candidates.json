@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-23T04:13:35.577Z",
+  "generatedAt": "2026-11-24T04:13:38.159Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -2772,6 +2772,18 @@
       ],
       "firstSeen": "2026-11-23",
       "lastSeen": "2026-11-23",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "DRL — Bureau of Democracy, Human Rights and Labor (U.S. State Department)",
+      "url": "https://www.state.gov/bureau-of-democracy-human-rights-and-labor/",
+      "why": "Runs a competitive grant programme, surfaced while researching OSF today (\"DRL Independent Journalism in Europe\", reported at USD 1,000,000 with a September 2026 deadline), distinct from Open Society Foundations funding and not currently tracked as its own source.",
+      "seenAt": [
+        "osf"
+      ],
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
       "timesSeen": 1,
       "status": "new"
     }
