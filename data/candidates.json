@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-24T04:13:38.159Z",
+  "generatedAt": "2026-11-25T04:30:00.000Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -49,8 +49,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 10,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -99,8 +99,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-19",
-      "timesSeen": 19,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 20,
       "status": "new"
     },
     {
@@ -123,8 +123,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-19",
-      "timesSeen": 14,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 15,
       "status": "new"
     },
     {
@@ -135,8 +135,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-19",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -209,8 +209,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 10,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -236,8 +236,8 @@
         "osf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 9,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -297,8 +297,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-13",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -309,8 +309,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-13",
-      "timesSeen": 10,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -362,8 +362,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-19",
-      "timesSeen": 12,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 13,
       "status": "new",
       "evidence": "Re-seen today via the GFMD funding feed (Gordon N. Fisher / JHR Fellowship listing)."
     },
@@ -456,8 +456,8 @@
         "ijnet-opportunities"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-19",
-      "timesSeen": 33,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 34,
       "status": "new"
     },
     {
@@ -542,8 +542,8 @@
         "terra-viva-grants"
       ],
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-29",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -554,8 +554,8 @@
         "uk-embassy-belgrade"
       ],
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-06",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -579,8 +579,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -628,8 +628,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-11-13",
-      "timesSeen": 7,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 8,
       "status": "new"
     },
     {
@@ -1085,8 +1085,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 6,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 7,
       "status": "new"
     },
     {
@@ -1553,8 +1553,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 5,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -1901,8 +1901,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 5,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -2387,8 +2387,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-13",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -2423,8 +2423,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-19",
-      "timesSeen": 3,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 4,
       "status": "new"
     },
     {
@@ -2620,8 +2620,8 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2644,8 +2644,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-25",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2784,6 +2784,78 @@
       ],
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Thomson Foundation",
+      "url": "https://www.thomsonfoundation.org/",
+      "why": "Part of the Media Innovation Europe consortium running the Business Innovation Synergizer grants for European media organisations, seen via the gfmd-fundings archive and not in sources.json (distinct from the already-tracked Thomson Reuters Foundation).",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "NIAS - Netherlands Institute for Advanced Study (KNAW)",
+      "url": "https://nias.knaw.nl/",
+      "why": "Offers a Safe Haven Fellowship reserving a place each semester for a journalist whose work or safety is at risk, seen via the gijn-grants resource page and not in sources.json.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "The New York Times (Newsroom Fellowship)",
+      "url": "https://www.nytco.com/careers/newsroom/newsroom-fellowship/",
+      "why": "Runs a paid, year-long early-career fellowship with newsroom placements, seen via the gijn-grants resource page and not in sources.json.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "DFRLab (Atlantic Council)",
+      "url": "https://dfrlab.org/",
+      "why": "Runs Digital Sherlocks, a free annual training programme on monitoring and protecting the information environment, seen via the ijnet-opportunities feed and not in sources.json.",
+      "seenAt": [
+        "ijnet-opportunities"
+      ],
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "Global Democracy Coalition",
+      "url": "https://globaldemocracycoalition.org/",
+      "why": "A 130+ member democracy-NGO network (convened by International IDEA) that posted a call for proposals on civic-freedom and civil-society resilience in Thailand and the Philippines, and offers partner sub-grants, during ICNL-adjacent research; not yet tracked and worth monitoring though its own direct grant mechanism is unconfirmed.",
+      "seenAt": [
+        "icnl"
+      ],
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "EU Peacebuilding Initiative (EUPI)",
+      "url": "https://www.eeas.europa.eu/eeas/eu-peacebuilding-initiative-eupi_en",
+      "why": "A distinct EU instrument (separate from the NDICI Human Rights & Democracy thematic programme already tracked under eidhr-ncidi) whose country calls list media and communication among eligible activity areas, e.g. a 2026-2027 Israel/Palestine round; not yet in the source registry.",
+      "seenAt": [
+        "eidhr-ncidi"
+      ],
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
       "timesSeen": 1,
       "status": "new"
     }
