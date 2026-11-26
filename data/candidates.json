@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-25T04:30:00.000Z",
+  "generatedAt": "2026-11-26T04:15:03.000Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -2856,6 +2856,18 @@
       ],
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-25",
+      "timesSeen": 1,
+      "status": "new"
+    },
+    {
+      "name": "MacArthur Foundation — Journalism & Media Program",
+      "url": "https://www.macfound.org/programs/enduring-commitments/journalism-media/grant-guidelines",
+      "why": "Funds nonpartisan, nonprofit newsrooms doing investigative, enterprising and explanatory reporting, but grantmaking is currently invitation-only with no public open call (its 'Together in Purpose' call seen in the gfmd-fundings feed is a general community-collaboration fund, not journalism-specific, so was excluded as a grant entry); worth tracking for future open calls, including via the Press Forward pooled fund.",
+      "seenAt": [
+        "gfmd-fundings"
+      ],
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
       "timesSeen": 1,
       "status": "new"
     }
