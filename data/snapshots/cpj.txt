@@ -1,6 +1,6 @@
 SOURCE: Committee to Protect Journalists — assistance
 URL: https://cpj.org/campaigns/assistance/
-FETCHED: 2026-10-16T03:59:28.232Z
+FETCHED: 2026-11-27T12:55:45.452Z
 TITLE: Journalist Safety and Emergencies - Committee to Protect Journalists
 
 === MAIN PAGE ===
@@ -36,17 +36,13 @@ Türkçe
 
 News
 
-Alerts
+Latest
 
-In Focus
-
-Features & Analysis
-
-Letters
-
-Special Reports
+Analysis
 
 Issues
+
+Special Reports
 
 Countries Regions
 
@@ -220,7 +216,13 @@ Australia
 
 Bangladesh
 
-Br
+Brunei
+
+Cambodia
+
+China
+
+East Ti
 
 --- relevant lines ---
 Killed in 2026
@@ -275,17 +277,13 @@ Türkçe
 
 News
 
-Alerts
+Latest
 
-In Focus
-
-Features & Analysis
-
-Letters
-
-Special Reports
+Analysis
 
 Issues
+
+Special Reports
 
 Countries Regions
 
@@ -459,7 +457,13 @@ Australia
 
 Bangladesh
 
-Br
+Brunei
+
+Cambodia
+
+China
+
+East Ti
 
 --- relevant lines ---
 Killed in 2026
@@ -468,8 +472,6 @@ Press Freedom Awards
 Killed in 2026
 Annual December 1 Snapshot
 Press Freedom Awards
-Men wearing protective face masks hold signs with messages that read in Spanish: Use of mask mandatory as an educational measure by the Bolivarian National Guard to people who don t follow the safety regulations amid the new coronavirus pandemic, outside the Coche food market in Caracas, Venezuela, Saturday, July 11, 2020.(AP Photo/Matias Delacroix)
-The copies of The New York Times newspaper are displayed for sale at a news stand in Hong Kong, Wednesday, July 15, 2020. The New York Times said Tuesday it will transfer some of its staff out of Hong Kong because of the uncertainties about practicing journalism in the Chinese territory under its newly imposed national security law. (AP Photo/Kin Cheung)
 CPJ s Awards
 Press Freedom Awards
 
@@ -506,17 +508,13 @@ Türkçe
 
 News
 
-Alerts
+Latest
 
-In Focus
-
-Features & Analysis
-
-Letters
-
-Special Reports
+Analysis
 
 Issues
+
+Special Reports
 
 Countries Regions
 
@@ -690,7 +688,13 @@ Australia
 
 Bangladesh
 
-Br
+Brunei
+
+Cambodia
+
+China
+
+East Ti
 
 --- relevant lines ---
 Killed in 2026
@@ -750,17 +754,13 @@ Türkçe
 
 News
 
-Alerts
+Latest
 
-In Focus
-
-Features & Analysis
-
-Letters
-
-Special Reports
+Analysis
 
 Issues
+
+Special Reports
 
 Countries Regions
 
@@ -934,7 +934,13 @@ Australia
 
 Bangladesh
 
-Br
+Brunei
+
+Cambodia
+
+China
+
+East Ti
 
 --- relevant lines ---
 Killed in 2026
@@ -943,4 +949,6 @@ Press Freedom Awards
 Killed in 2026
 Annual December 1 Snapshot
 Press Freedom Awards
+Application assistance
+CPJ is committed to providing reasonable accommodations to applicants and employees with disabilities. If you need assistance during the application process, please contact us at [email protected] .
 Press Freedom Awards

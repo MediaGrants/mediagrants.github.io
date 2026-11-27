@@ -1,5 +1,13 @@
 {
-  "generatedAt": "2026-11-26T12:58:56.853Z",
-  "captured": {},
-  "failed": {}
+  "generatedAt": "2026-11-27T12:55:45.628Z",
+  "captured": {
+    "cpj": {
+      "fetchedAt": "2026-11-27T12:55:45.628Z",
+      "words": 1278,
+      "pages": 4
+    }
+  },
+  "failed": {
+    "rsf": "HTTP 404"
+  }
 }
