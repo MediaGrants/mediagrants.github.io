@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-26T04:15:03.000Z",
+  "generatedAt": "2026-11-27T12:00:00.000Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -260,8 +260,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-18",
-      "timesSeen": 10,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 11,
       "status": "new"
     },
     {
@@ -273,8 +273,8 @@
         "thefix"
       ],
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 9,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -309,8 +309,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-25",
-      "timesSeen": 11,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 12,
       "status": "new"
     },
     {
@@ -377,8 +377,8 @@
         "weekly-discovery"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 9,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 10,
       "status": "new"
     },
     {
@@ -416,8 +416,8 @@
         "ijnet-opportunities"
       ],
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-22",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -625,11 +625,12 @@
       "why": "Environmental-journalism nonprofit that co-funds One World Media's Amazon Film Grant (up to $5,000 for documentaries on the Amazon rainforest ecosystem) and may run its own independent journalism-funding programmes.",
       "seenAt": [
         "one-world-media",
-        "gijn-grants"
+        "gijn-grants",
+        "ijnet-opportunities"
       ],
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-11-25",
-      "timesSeen": 8,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 9,
       "status": "new"
     },
     {
@@ -1261,8 +1262,8 @@
         "gijn-grants"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-06",
-      "timesSeen": 2,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 3,
       "status": "new"
     },
     {
@@ -1275,8 +1276,8 @@
         "gfmd-fellowships"
       ],
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-09",
-      "timesSeen": 5,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 6,
       "status": "new"
     },
     {
@@ -1478,11 +1479,12 @@
       "url": "https://www.reporter-ohne-grenzen.de/fellowship-programs",
       "why": "A Berlin-based digital-security/resilience fellowship for journalists from countries with restricted press freedom; the 2026 cycle is already closed and no 2027 call was found yet.",
       "seenAt": [
-        "gijn-grants"
+        "gijn-grants",
+        "gfmd-fundings"
       ],
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-19",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2375,8 +2377,8 @@
         "ecpmf"
       ],
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2733,8 +2735,8 @@
         "osf"
       ],
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-11-21",
-      "timesSeen": 11,
+      "lastSeen": "2026-11-27",
+      "timesSeen": 12,
       "status": "new",
       "evidence": "ifpim.org and gfmd.info funding archive; IFJ (ifj.org) press release, 1 Aug 2026, on the IFPIM-funded $1m Palestine media fund it distributes through the Palestinian Journalists Syndicate. Also surfaced today (2026-11-04) via WebSearch while researching Norad's current calls. Read September 2026.  Surfaced again 2026-11-21 while researching osf's Independent Journalism and Innovation Grant; duplicate candidate entries merged today."
     },
@@ -2867,7 +2869,19 @@
         "gfmd-fundings"
       ],
       "firstSeen": "2026-11-26",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
+      "timesSeen": 2,
+      "status": "new"
+    },
+    {
+      "name": "Reynolds Journalism Institute (RJI), University of Missouri",
+      "url": "https://www.rjionline.org/",
+      "why": "Runs the RJI Professional Innovation Fellowship (up to $100,000 for innovation projects at news organisations), surfaced via GIJN; not itself one of the tracked sources.",
+      "seenAt": [
+        "gijn-grants"
+      ],
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
       "timesSeen": 1,
       "status": "new"
     }
