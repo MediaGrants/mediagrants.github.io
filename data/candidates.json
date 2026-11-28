@@ -1,6 +1,6 @@
 {
   "_comment": "Funders spotted but not yet watched. Two ways in: the daily sweep meets a funder through an aggregator that is not in sources.json, and a weekly pass searches for newly launched funds. Nothing here reaches the site. A candidate becomes a source only when a person moves it into sources.json — an automated list that adds its own sources would eventually add a scam, and the only thing this site has is being trustworthy.",
-  "generatedAt": "2026-11-27T12:00:00.000Z",
+  "generatedAt": "2026-11-28T04:14:15.088Z",
   "candidates": [
     {
       "name": "Safety in Numbers (ACOS Alliance / IFEX / IWMF / Media Defence)",
@@ -2072,11 +2072,13 @@
       "url": "https://gmfus.org/media-fund-serbia",
       "why": "Administers Swiss- and Norwegian-funded investigative-journalism grants for Serbian media associations and media-focused civil society organisations under the 'Support to Improved Media Environment in Serbia' project (part of the Swiss Embassy Belgrade's cooperation programme), running recurring open calls; worth tracking as its own funder since the Swiss Embassy itself does not appear to run or publish the call directly.",
       "seenAt": [
-        "ch-embassy-serbia"
+        "ch-embassy-serbia",
+        "uk-embassy-belgrade",
+        "au-embassy-belgrade"
       ],
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-08",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-28",
+      "timesSeen": 2,
       "status": "new"
     },
     {
@@ -2169,11 +2171,12 @@
       "url": "https://anem.org.rs/en/strane/javni-poziv-za-program-podrske-lokalnim-medijima-u-srbiji",
       "why": "A Serbian local-media grant programme run by the NUNS-led Coalition for Media Freedom, found via general search while looking for eumogucnosti.rs media calls; could not confirm it is actually listed on eumogucnosti.rs itself, so left unrecorded as a grant, but it funds local newsroom reporting projects directly and could be its own source.",
       "seenAt": [
-        "eu-mogucnosti"
+        "eu-mogucnosti",
+        "eu-delegation-serbia"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
-      "timesSeen": 1,
+      "lastSeen": "2026-11-28",
+      "timesSeen": 2,
       "status": "new"
     },
     {
