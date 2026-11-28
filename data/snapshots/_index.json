@@ -1,13 +1,33 @@
 {
-  "generatedAt": "2026-11-27T12:55:45.628Z",
+  "generatedAt": "2026-11-28T12:08:03.201Z",
   "captured": {
-    "cpj": {
-      "fetchedAt": "2026-11-27T12:55:45.628Z",
-      "words": 1278,
-      "pages": 4
+    "mdif": {
+      "fetchedAt": "2026-11-28T12:08:03.201Z",
+      "words": 1713,
+      "pages": 5
+    },
+    "oak-foundation": {
+      "fetchedAt": "2026-11-28T12:08:03.201Z",
+      "words": 1057,
+      "pages": 3
+    },
+    "sembramedia": {
+      "fetchedAt": "2026-11-28T12:08:03.201Z",
+      "words": 290,
+      "pages": 1
+    },
+    "sigrid-rausing": {
+      "fetchedAt": "2026-11-28T12:08:03.201Z",
+      "words": 1619,
+      "pages": 5
+    },
+    "thomson-reuters-foundation": {
+      "fetchedAt": "2026-11-28T12:08:03.201Z",
+      "words": 970,
+      "pages": 3
     }
   },
   "failed": {
-    "rsf": "HTTP 404"
+    "luminate": "HTTP 500"
   }
 }

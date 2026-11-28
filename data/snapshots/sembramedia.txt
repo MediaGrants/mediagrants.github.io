@@ -1,6 +1,6 @@
 SOURCE: SembraMedia
 URL: https://www.sembramedia.org/
-FETCHED: 2026-10-17T03:57:28.204Z
+FETCHED: 2026-11-28T12:08:02.309Z
 TITLE: Impulsamos el éxito de emprendedores de medios digitales SembraMedia - SEMBRAMEDIA
 
 === MAIN PAGE ===
@@ -16,6 +16,8 @@ Mesa directiva
 
 Servicios
 
+Colaboraciones
+
 Aliados
 
 Donaciones
@@ -88,6 +90,8 @@ Mesa directiva
 
 Servicios
 
+Colaboraciones
+
 Aliados
 
 Donaciones
@@ -142,13 +146,10 @@ Reportes
 
 Directorios de medios
 
-Casos de estudio
-
-Blog
-
-English
 
 --- relevant lines ---
+Celebrando 11 años de trabajo junto a medios digitales independientes, compartimos los resultados, aprendizajes e impacto del período 2025-2026.
+Llamamos a periodistas y creadores de contenido a postular a este ciclo virtual sobre cómo producir y sostener proyectos periodísticos en Latinoamérica. Impulsado por SembraMedia y Fundación Avina. Postula antes del 9 de noviembre a las 23:59 (hora de Argentina).
 Encuentra desde nuestro primer reporte en 2016 sobre medios digitales en Latinoamérica hasta el último sobre tendencias globales en Project Oasis.
 Encuentra desde nuestro primer reporte en 2016 sobre medios digitales en Latinoamérica hasta el último sobre tendencias globales en Project Oasis.
 fundadora y directora de ConexiónMigrante

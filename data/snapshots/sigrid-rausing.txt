@@ -1,6 +1,6 @@
 SOURCE: Sigrid Rausing Trust
 URL: https://www.sigrid-rausing-trust.org/
-FETCHED: 2026-10-17T03:57:27.638Z
+FETCHED: 2026-11-28T12:08:00.542Z
 TITLE: The Sigrid Rausing Trust
 
 === MAIN PAGE ===
@@ -26,9 +26,8 @@ Trustees and staff
 i
 Dali Mountain Reservoir, Georgia © Tom Lee
 The Sigrid Rausing Trust is a grant-making foundation established in 1995.
-Our grant-making is organised into three main programmes: Human Rights and the Rule of Law , Open Societies , and the Environment . We also run strategic initiatives that bring together grantees from diverse fields to address specific problems or opportunities for change. SRT is active in a number of regions. It has a particular interest in Central and Eastern Europe and Eurasia.
-
-We are currently hiring for a Programme Manager for our Open Societies programme. Further details and the full job description can be found here.
+Our grant-making is organised into three main programmes: Human Rights and the Rule of Law , Open Societies , and the Environment . We also run strategic initiatives that bring together grantees from diverse fields to address specific problems or opportunities for change.
+SRT is active in a number of regions, with a focus on Central and Eastern Europe and Eurasia.
 
 Our programmes
 Human Rights and Rule of Law
@@ -44,15 +43,19 @@ Reparations for Victims of Russia’s Invasion of Ukraine
 
 Grantee stories
 
-SRT New
+SRT Newsletter – October 2026
 
---- relevant lines ---
-sletter – September 2026
+SRT Newsletter – September 2026
+
 SRT Newsletter – August 2026
+
 SRT Newsletter – July 2026
-SRT Newsletter – June 2026
+
 See more grantee stories
 Our grant-making
+The Tr
+
+--- relevant lines ---
 Children race go-karts in a South African township © Ashraf-Hendricks/ GroundUp Oct 2022
 The Trust's first grant was made in 1995
 £591m
@@ -150,12 +153,8 @@ Current grantee
 Current grantee
 Current grantee
 Current grantee
-Arab Fund for Arts and Culture (AFAC) Programme
 Current grantee
 Current grantee
-Trustees Small Grants
-Current grantee
-Trustees Small Grants
 Current grantee
 Current grantee
 Current grantee
@@ -165,6 +164,7 @@ Current grantee
 Current grantee
 Current grantee
 Bard College Anthony Lester Fellowships Programme
+Current grantee
 Current grantee
 Current grantee
 Current grantee
@@ -214,6 +214,9 @@ Trustees and staff
 
 News and updates
 
+19 November 2026 SRT Newsletter October 2026
+Grantee updates Háttér Society has helped secure a landmark victory for LGBTI rights in Hungary, where Parliament voted overwhelmingly to repeal the main provisions…
+
 16 October 2026 SRT Newsletter September 2026
 Grantee news: Georgian Young Lawyers’ Association (GYLA) has been named one of four recipients of the 2026 Right Livelihood Award, often referred to as…
 
@@ -223,14 +226,13 @@ Grantee News: Media Defence has welcomed a Zimbabwe High Court ruling quashing c
 10 August 2026 SRT Newsletter July 2026
 Grantee News: The Centre for Democracy and Rule of Law (CEDEM) has welcomed new legislation that has come into force simplifying residency procedures for…
 
-6 July 2026 SRT Newsletter June 2026
-Grantee News: The Hungarian Helsinki Committee, the Háttér Society, and the Hungarian Civil Liberties Union, along with Amnesty International Hungary, have secured a major…
-
 Search stories
-Programme / Strategic Init
+Programme / Strategic Ini
 
 --- relevant lines ---
-iative Select programme / strategic initiative: Open Societies Gifts Human Rights and Rule of Law Environment Trustees Small Grants Combatting Homophobic Laws Community Cohesion Reparations for Victims of Russia’s Invasion of Ukraine
+tiative Select programme / strategic initiative: Open Societies Gifts Human Rights and Rule of Law Environment Trustees Small Grants Combatting Homophobic Laws Community Cohesion Reparations for Victims of Russia’s Invasion of Ukraine
+19 November 2026 SRT Newsletter October 2026
+Grantee updates Háttér Society has helped secure a landmark victory for LGBTI rights in Hungary, where Parliament voted overwhelmingly to repeal the main provisions…
 16 October 2026 SRT Newsletter September 2026
 Grantee news: Georgian Young Lawyers’ Association (GYLA) has been named one of four recipients of the 2026 Right Livelihood Award, often referred to as…
 8 September 2026 SRT Newsletter August 2026
@@ -247,8 +249,6 @@ Grantee News Háttér Society has welcomed a landmark ruling in which the EU’s
 Grantee: Háttér Society (Hungary) 22 April 2026 Historic EU ruling delivers victory for LGBTQI rights in Hungary
 7 April 2026 SRT Newsletter March
 Grantee News Direkt36 journalist Szabolcs Panyi has been charged with espionage in Hungary following his reporting on alleged links between senior officials and Russia,…
-4 March 2026 SRT Newsletter – February
-Grantee News Bellingcat has published an investigation documenting how Russia’s war has devastated civilian life in Ukraine, verifying over 2,500 cases of civilian harm,…
 Please note that we do not accept unsolicited applications.
 © Copyright 2021 Charity No: 1194828
 
@@ -291,8 +291,8 @@ More stories on Gifts
 Grantees in this programme
 
 See all current grantees in this Programme
-Aibolands Museum
-Estonia
+Academy of St Martin in the Fields
+United Kingdom
 
 Bard College Anthony Lester Fellowships
 United States
@@ -306,10 +306,7 @@ United Kingdom
 Charleston Trust
 United Kingdom
 
-First Story
-United Kingdom
-
-Hi
+First
 
 --- relevant lines ---
 The Whitley Fund for Nature
